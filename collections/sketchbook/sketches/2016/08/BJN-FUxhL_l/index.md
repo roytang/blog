@@ -20,6 +20,7 @@ tags:
 - sketchdaily
 - chronotrigger
 - '2016'
+- instagram
 title: 'Magus from '
 ---
 

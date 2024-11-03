@@ -2,7 +2,6 @@
 albums:
 - 2021-fave-sketches
 date: 2021-11-01 12:03:38
-
 source: twitter
 syndicated:
 - type: twitter
@@ -12,6 +11,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2021'
+- 2021-fave-sketches
 ---
 
 #sketchdaily Giant Monster 305/365

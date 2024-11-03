@@ -16,7 +16,8 @@ tags:
 - inktober
 - inktober2019
 - '2019'
-title: 'Dizzy'
+- instagram
+title: Dizzy
 ---
 
 #inktober2019 day 24: dizzy #inktober #sketchdaily

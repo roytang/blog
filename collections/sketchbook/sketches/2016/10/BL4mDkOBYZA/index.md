@@ -21,6 +21,7 @@ tags:
 - inktober
 - mtg
 - '2016'
+- instagram
 title: 'Stuffy Doll '
 ---
 

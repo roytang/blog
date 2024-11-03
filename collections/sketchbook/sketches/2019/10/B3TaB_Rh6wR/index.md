@@ -16,7 +16,8 @@ tags:
 - inktober
 - inktober2019
 - '2019'
-title: 'Enchanted'
+- instagram
+title: Enchanted
 ---
 
 #inktober2019 day 7: enchanted #inktober #sketchdaily I retconned wizard dude to have glasses

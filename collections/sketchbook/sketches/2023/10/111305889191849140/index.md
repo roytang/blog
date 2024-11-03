@@ -23,7 +23,6 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/17i9pzx/october_28th_drawlloween_slashing_prices/k6sre26/
 tags:
-- sketchbook
 - inktober2023
 - inktober
 - '2023'

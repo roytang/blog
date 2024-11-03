@@ -11,7 +11,6 @@ syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111035343737635880
 tags:
-- sketchbook
 - procreate
 - '2023'
 ---

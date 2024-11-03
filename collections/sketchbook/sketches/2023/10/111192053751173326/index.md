@@ -11,7 +11,6 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/1721q47/october_7th_drip/k3yn528/
 tags:
-- sketchbook
 - inktober2023
 - inktober
 - '2023'

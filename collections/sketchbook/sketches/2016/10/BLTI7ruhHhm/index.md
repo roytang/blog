@@ -20,6 +20,7 @@ tags:
 - sketchdaily
 - inktober
 - '2016'
+- instagram
 title: 'Some link doodles (w bonus drawing from a 6yo) '
 ---
 

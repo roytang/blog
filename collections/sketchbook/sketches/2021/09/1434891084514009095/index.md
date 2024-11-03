@@ -2,7 +2,6 @@
 albums:
 - 2021-fave-sketches
 date: 2021-09-06 14:47:48
-
 source: twitter
 syndicated:
 - type: twitter
@@ -15,6 +14,7 @@ tags:
 - sketchdaily
 - '2021'
 - missingtimelapse
+- 2021-fave-sketches
 ---
 
 Red Lantern Kara Zor-el #sketchdaily 247/365 

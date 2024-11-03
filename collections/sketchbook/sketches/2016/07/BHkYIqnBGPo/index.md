@@ -20,6 +20,7 @@ tags:
 - sketchdaily
 - fallout
 - '2016'
+- instagram
 title: 'Welcome to the wasteland '
 ---
 

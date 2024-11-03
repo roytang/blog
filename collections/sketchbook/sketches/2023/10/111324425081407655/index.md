@@ -11,7 +11,6 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/17jp25e/october_30th_drawlloween_pumpkin_spice_spa_day/k75quy8/
 tags:
-- sketchbook
 - inktober2023
 - inktober
 - '2023'

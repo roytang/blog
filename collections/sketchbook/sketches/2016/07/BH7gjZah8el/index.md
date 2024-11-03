@@ -20,6 +20,7 @@ tags:
 - sketchdaily
 - birdweek
 - '2016'
+- instagram
 title: 'Quick and lazy flamingo '
 ---
 

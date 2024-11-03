@@ -21,6 +21,7 @@ tags:
 - paperbyfiftythree
 - mtg
 - '2017'
+- instagram
 title: 'Ye olde magic shoppe '
 ---
 

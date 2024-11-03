@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+- instagram
 title: '"Why dont you make like a tree... and get outta here!" '
 ---
 

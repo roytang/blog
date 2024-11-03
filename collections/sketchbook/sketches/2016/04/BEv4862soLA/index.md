@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+- instagram
 title: 'Lucina, Whose Head Looks A Bit Too Big '
 ---
 

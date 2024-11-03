@@ -16,7 +16,8 @@ tags:
 - inktober
 - inktober2019
 - '2019'
-title: 'Frail'
+- instagram
+title: Frail
 ---
 
 #inktober2019 day 8: frail #inktober #sketchdaily this one didnt turn out as well as i imagined it would

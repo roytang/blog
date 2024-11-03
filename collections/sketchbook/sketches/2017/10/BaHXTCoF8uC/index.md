@@ -20,7 +20,8 @@ tags:
 - sketchdaily
 - inktober
 - '2017'
-title: 'Screech'
+- instagram
+title: Screech
 ---
 
 #Inktober day 9: Screech #sketchdaily

@@ -18,6 +18,7 @@ tags:
 - sketchdaily
 - instacomments
 - '2017'
+- instagram
 title: 'Bored '
 ---
 

@@ -11,6 +11,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2021'
+- 2021-fave-sketches
 ---
 
 Doctor Octopus enjoys some takoyaki #sketchdaily 80/365

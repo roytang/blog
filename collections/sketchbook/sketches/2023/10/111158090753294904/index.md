@@ -11,7 +11,6 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/16ww63i/october_1st_folktale_week_free_draw_finale/k34agk1/
 tags:
-- sketchbook
 - inktober
 - inktober2023
 - '2023'

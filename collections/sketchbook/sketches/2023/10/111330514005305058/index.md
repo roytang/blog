@@ -15,7 +15,6 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/17kgmpu/october_31st_halloween/k793xta/
 tags:
-- sketchbook
 - inktober2023
 - inktober
 - '2023'

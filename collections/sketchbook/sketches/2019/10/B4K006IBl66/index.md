@@ -16,7 +16,8 @@ tags:
 - inktober
 - sketchdaily
 - '2019'
-title: 'Injured'
+- instagram
+title: Injured
 ---
 
 #inktober2019 day 29: injured #inktober #sketchdaily “These idiots got themselves injured and need healing.” “I’ll take you to town there’s a doctor there.” “Excuse me, these idiots didn’t get frozen by a trap.”

@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+- instagram
 title: 'I didnt have any ideas for this week''s free draw '
 ---
 

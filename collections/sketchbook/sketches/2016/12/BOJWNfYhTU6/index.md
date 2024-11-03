@@ -20,6 +20,7 @@ tags:
 - rogueone
 - sketchdaily
 - '2016'
+- instagram
 title: '"We''ll take the next chance, and the next, until we win or the chances are
   spent. You''re rebels aren''t you?" '
 ---

@@ -22,6 +22,7 @@ tags:
 - botw
 - zelda
 - '2017'
+- instagram
 title: 'Breath of the Wild - Guardian '
 ---
 

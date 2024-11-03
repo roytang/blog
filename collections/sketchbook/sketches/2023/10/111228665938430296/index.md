@@ -11,7 +11,6 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/177l9f2/october_14th_birdtober_scarlet_ibis/k4uvc3z/
 tags:
-- sketchbook
 - inktober2023
 - inktober
 - '2023'

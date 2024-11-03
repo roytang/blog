@@ -22,6 +22,7 @@ tags:
 - sketchdaily
 - inktober
 - '2016'
+- instagram
 title: 'Random character doodles '
 ---
 

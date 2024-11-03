@@ -16,7 +16,8 @@ tags:
 - inktober
 - inktober2019
 - '2019'
-title: 'Husky'
+- instagram
+title: Husky
 ---
 
 #inktober2019 day 6: husky #inktober #sketchdaily

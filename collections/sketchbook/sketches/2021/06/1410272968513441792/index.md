@@ -12,6 +12,7 @@ tags:
 - sketchdaily
 - mtg
 - '2021'
+- 2021-fave-sketches
 ---
 
 Icy Manipulator #sketchdaily 181/365

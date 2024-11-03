@@ -20,6 +20,7 @@ tags:
 - sketchdaily
 - dccomics
 - '2016'
+- instagram
 title: 'Thaal Sinestro, Yellow Lantern '
 ---
 

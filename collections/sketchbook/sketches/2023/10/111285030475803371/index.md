@@ -19,7 +19,6 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/17f8cmw/october_24th_drawlloween_clown_town/k6cy7q2/
 tags:
-- sketchbook
 - inktober2023
 - inktober
 - '2023'

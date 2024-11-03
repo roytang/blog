@@ -11,7 +11,6 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/174ghoe/october_10th_birdtober_strawberry_finch/k4ch13o/
 tags:
-- sketchbook
 - inktober2023
 - inktober
 - '2023'

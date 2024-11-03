@@ -11,7 +11,6 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/16xrnf5/october_2nd_inktober_spiders/k34aj90/
 tags:
-- sketchbook
 - inktober2023
 - inktober
 - '2023'

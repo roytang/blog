@@ -13,6 +13,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2021'
+- 2021-fave-sketches
 ---
 
 Bellowing elk #sketchdaily 74/365

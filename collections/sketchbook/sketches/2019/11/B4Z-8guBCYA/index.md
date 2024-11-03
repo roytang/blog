@@ -15,7 +15,8 @@ tags:
 - sketchdaily
 - mtg
 - '2019'
-title: 'Album Cover'
+- instagram
+title: Album Cover
 ---
 
 #sketchdaily nov 2 prompt: album covers. This is a fictional album cover for my Rock Band 2 band “Deathspore Thallid GO” #mtg

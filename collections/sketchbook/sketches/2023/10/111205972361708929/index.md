@@ -11,7 +11,6 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/173n5vd/october_9th_birdtober_peregrine_falcon/k48xqan/
 tags:
-- sketchbook
 - inktober2023
 - inktober
 - '2023'

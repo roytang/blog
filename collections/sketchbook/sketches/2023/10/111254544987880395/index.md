@@ -11,7 +11,6 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/17am4kr/october_18th_drawtober_moonlit_conservatory/k5ev0zj/
 tags:
-- sketchbook
 - inktober2023
 - inktober
 - '2023'

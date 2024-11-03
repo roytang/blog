@@ -21,6 +21,7 @@ tags:
 - sketchdaily
 - pokemon
 - '2016'
+- instagram
 title: 'Doctor Pikachu "allons-y-chu!" '
 ---
 

@@ -11,6 +11,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2021'
+- 2021-fave-sketches
 ---
 
 Old Man McDonald #sketchdaily 212/365

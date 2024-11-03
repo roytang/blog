@@ -22,6 +22,7 @@ tags:
 - sketchdaily
 - mtg
 - '2016'
+- instagram
 title: 'Hypnotic Specter '
 ---
 

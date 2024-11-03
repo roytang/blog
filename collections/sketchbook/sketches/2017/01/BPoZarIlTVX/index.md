@@ -17,6 +17,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2017'
+- instagram
 title: '"I thought *I* was the last Martian!" '
 ---
 

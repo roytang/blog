@@ -11,6 +11,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2021'
+- 2021-fave-sketches
 ---
 
 Samurai pizza cat #sketchdaily 73/365

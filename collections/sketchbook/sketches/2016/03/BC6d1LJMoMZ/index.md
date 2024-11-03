@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+- instagram
 title: 'Capturing real life people is hard. The eyes are tough '
 ---
 

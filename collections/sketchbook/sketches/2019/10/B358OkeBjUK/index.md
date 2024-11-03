@@ -16,7 +16,8 @@ tags:
 - inktober
 - inktober2019
 - '2019'
-title: 'Treasure'
+- instagram
+title: Treasure
 ---
 
 #inktober2019 day 21: treasure #inktober  #sketchdaily

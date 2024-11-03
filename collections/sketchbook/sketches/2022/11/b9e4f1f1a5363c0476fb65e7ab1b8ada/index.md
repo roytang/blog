@@ -12,7 +12,6 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/1596961325011214338/
 tags:
-- sketchbook
 - '2022'
 title: ''
 ---

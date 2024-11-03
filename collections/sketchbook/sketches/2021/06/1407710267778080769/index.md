@@ -13,6 +13,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2021'
+- 2021-fave-sketches
 ---
 
 The Human Torch #sketchdaily 174/365

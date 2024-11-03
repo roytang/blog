@@ -21,7 +21,8 @@ tags:
 - sketchdaily
 - inktober
 - '2017'
-title: 'Gigantic'
+- instagram
+title: Gigantic
 ---
 
 #Inktober day 10: Gigantic #sketchdaily #transformers

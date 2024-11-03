@@ -16,6 +16,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156462469878912:0
 tags:
 - '2018'
+- instagram
 title: pencil sketch
 ---
 

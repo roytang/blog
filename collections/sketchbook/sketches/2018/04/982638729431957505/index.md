@@ -11,7 +11,7 @@ syndicated:
 tags:
 - MTG
 - '2018'
-title: 'Old MTG pencil sketches'
+title: Old MTG pencil sketches
 ---
 
 While cleaning up some stuff I found some old #MTG related pencil sketches. Can you identify the cards?

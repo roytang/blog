@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2017'
+- instagram
 title: '2017 goal: WORLD DOMINATION! '
 ---
 

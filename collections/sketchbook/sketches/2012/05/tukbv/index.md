@@ -13,7 +13,7 @@ syndicated:
 tags:
 - pics
 - '2012'
-title: 'Left half of my desk'
+title: Left half of my desk
 ---
 
 #### Posted on r/pics: [Reddit, let's draw anything currently in your line of sight! Here's the left half of my desk at the moment](https://reddit.com/r/pics/comments/tukbv/reddit_lets_draw_anything_currently_in_your_line/)

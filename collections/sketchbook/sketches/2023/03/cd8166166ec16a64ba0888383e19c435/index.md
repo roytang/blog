@@ -10,7 +10,6 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/1640972057273069569/
 tags:
-- sketchbook
 - sg2023
 - '2023'
 title: Airport Sketches

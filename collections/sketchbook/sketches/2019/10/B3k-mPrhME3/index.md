@@ -16,7 +16,8 @@ tags:
 - inktober
 - inktober2019
 - '2019'
-title: 'Ash'
+- instagram
+title: Ash
 ---
 
 #inktober2019 day 13: ash #inktober #sketchdaily I briefly considered just having the dragon burn all three so that the series is finished but instead here they are falling into a ravine lol

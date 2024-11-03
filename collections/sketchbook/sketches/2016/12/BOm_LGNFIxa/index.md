@@ -17,6 +17,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+- instagram
 title: 'I hope that in episode 8, Luke teaches Leia how to become a force ghost '
 ---
 

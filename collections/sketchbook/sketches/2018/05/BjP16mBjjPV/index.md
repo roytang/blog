@@ -16,6 +16,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156662658908912:0
 tags:
 - '2018'
+- instagram
 title: Cable
 ---
 

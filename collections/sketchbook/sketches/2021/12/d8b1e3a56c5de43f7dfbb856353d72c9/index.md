@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2021'
+- 2021-fave-sketches
 title: Sketchdaily catchup Dec 7
 ---
 

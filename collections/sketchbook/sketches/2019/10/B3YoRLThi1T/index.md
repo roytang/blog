@@ -16,7 +16,8 @@ tags:
 - inktober
 - inktober2019
 - '2019'
-title: 'Swing'
+- instagram
+title: Swing
 ---
 
 #inktober2019 day 9: swing #inktober #sketchdaily so many panels! and so tiny!

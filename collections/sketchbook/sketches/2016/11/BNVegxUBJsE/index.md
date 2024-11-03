@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+- instagram
 title: '"Hey Elroy check out the antique!" '
 ---
 

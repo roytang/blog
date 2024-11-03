@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+- instagram
 title: 'Not much time today so here''s a poorly drawn Captain Marvel '
 ---
 

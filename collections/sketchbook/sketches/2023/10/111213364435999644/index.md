@@ -11,7 +11,6 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/1759ipm/october_11th_birdtober_magnificent_frigate_bird/k4fmiul/
 tags:
-- sketchbook
 - inktober2023
 - inktober
 - '2023'

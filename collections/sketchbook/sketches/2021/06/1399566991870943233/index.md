@@ -13,6 +13,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2021'
+- 2021-fave-sketches
 ---
 
 The Orb #sketchdaily for May 29 (I am so behind) 148/365 (Correction: 149/365)

@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+- instagram
 title: '"Scott did you give an ant a Christmas sweater?" "He was cold!" '
 ---
 

@@ -15,6 +15,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2021'
+- 2021-fave-sketches
 ---
 
 Bike delivery #sketchdaily 170/365

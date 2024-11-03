@@ -15,6 +15,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2021'
+- 2021-fave-sketches
 ---
 
 Iguana #sketchdaily 122/365 (Correction: 123/365)

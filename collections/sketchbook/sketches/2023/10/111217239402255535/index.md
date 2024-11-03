@@ -11,7 +11,6 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/1762dx9/october_12th_birdtober_azure_tit/k4ktary/
 tags:
-- sketchbook
 - inktober2023
 - inktober
 - '2023'

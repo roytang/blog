@@ -24,6 +24,7 @@ tags:
 - reddit_submission
 - instacomments
 - '2016'
+- instagram
 title: 'Senator Boxer '
 ---
 

@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2017'
+- instagram
 title: 'Batgirl '
 ---
 

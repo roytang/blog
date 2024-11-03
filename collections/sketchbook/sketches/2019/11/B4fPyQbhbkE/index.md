@@ -15,6 +15,7 @@ tags:
 - sketchdaily
 - mtg
 - '2019'
+- instagram
 title: 'Charging monstrosaur from ixalan rough sketch '
 ---
 

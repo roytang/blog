@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+- instagram
 title: 'I tried out the iPad Pro''s multitask feature for today''s '
 ---
 

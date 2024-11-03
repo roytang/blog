@@ -20,6 +20,7 @@ tags:
 - sketchdaily
 - paperbyfiftythree
 - '2017'
+- instagram
 title: 'Alien tourists were encouraged to prank the locals '
 ---
 

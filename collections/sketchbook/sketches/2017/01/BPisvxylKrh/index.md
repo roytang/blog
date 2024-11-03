@@ -20,6 +20,7 @@ tags:
 - sketchdaily
 - mtg
 - '2017'
+- instagram
 title: '"I swing for five!" '
 ---
 

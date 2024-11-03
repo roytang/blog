@@ -14,6 +14,7 @@ syndicated:
 tags:
 - timeline-photos
 - '2011'
+- timeline
 title: Colorful train
 ---
 

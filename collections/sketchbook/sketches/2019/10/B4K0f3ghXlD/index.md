@@ -16,7 +16,8 @@ tags:
 - inktober
 - inktober2019
 - '2019'
-title: 'Ride'
+- instagram
+title: Ride
 ---
 
 #inktober2019 day 28: ride #inktober #sketchdaily

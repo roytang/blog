@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+- instagram
 title: 'Magneto gets grumpy if he hasnt had coffee yet '
 ---
 

@@ -11,7 +11,6 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/170d2tr/october_5th_inktober_map/k3lhbf3/
 tags:
-- sketchbook
 - inktober2023
 - inktober
 - '2023'

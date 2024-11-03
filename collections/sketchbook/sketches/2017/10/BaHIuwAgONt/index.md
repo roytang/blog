@@ -18,7 +18,8 @@ tags:
 - sketchdaily
 - inktober
 - '2017'
-title: 'Shy'
+- instagram
+title: Shy
 ---
 
 #Inktober day 7: shy. I regret going for those realistic style hands, the proportions are terrible #sketchdaily

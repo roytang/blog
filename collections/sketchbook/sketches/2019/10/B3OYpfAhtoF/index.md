@@ -16,7 +16,8 @@ tags:
 - inktober
 - inktober2019
 - '2019'
-title: 'Build'
+- instagram
+title: Build
 ---
 
 #inktober2019 day 5: build #inktober #sketchdaily 😴

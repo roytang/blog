@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2017'
+- instagram
 title: 'There''s a new kind of criminal in Gotham '
 ---
 

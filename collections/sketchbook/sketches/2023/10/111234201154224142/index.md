@@ -11,7 +11,6 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/178bcs9/october_15th_drawtober_overgrown_cemetery/k4zwnsg/
 tags:
-- sketchbook
 - inktober2023
 - inktober
 - '2023'

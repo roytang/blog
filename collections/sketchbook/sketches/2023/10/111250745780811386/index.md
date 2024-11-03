@@ -11,7 +11,6 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/179typ8/october_17th_drawtober_devious_dining/k59msil/
 tags:
-- sketchbook
 - inktober2023
 - inktober
 - '2023'

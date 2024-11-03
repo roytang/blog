@@ -11,7 +11,6 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/17iywed/october_29th_drawlloween_war_of_the_warlocks/k6xsgte/
 tags:
-- sketchbook
 - inktober2023
 - inktober
 - '2023'

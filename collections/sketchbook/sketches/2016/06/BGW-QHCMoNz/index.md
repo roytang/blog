@@ -24,6 +24,7 @@ tags:
 - metalgear
 - chronotrigger
 - '2016'
+- instagram
 title: 'Snake, Frog, Toad '
 ---
 

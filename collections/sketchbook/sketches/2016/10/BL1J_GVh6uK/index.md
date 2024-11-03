@@ -20,6 +20,7 @@ tags:
 - sketchdaily
 - inktober
 - '2016'
+- instagram
 title: 'Philippines and Japan decide to hold joint naval military exercises '
 ---
 

@@ -11,7 +11,6 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/16ymqcc/october_3rd_inktober_path/k39v00h/
 tags:
-- sketchbook
 - inktober2023
 - inktober
 - '2023'

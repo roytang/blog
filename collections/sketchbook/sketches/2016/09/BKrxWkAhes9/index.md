@@ -23,6 +23,7 @@ tags:
 - philippines
 - reddit_submission
 - '2016'
+- instagram
 title: 'Presidential spokesperson '
 ---
 

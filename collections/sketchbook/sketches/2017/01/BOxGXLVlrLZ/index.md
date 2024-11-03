@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2017'
+- instagram
 title: 'Professor Layton and the Curious Reflection '
 ---
 

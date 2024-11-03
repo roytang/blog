@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+- instagram
 title: '"Are you sure this isnt your first rodeo?" '
 ---
 

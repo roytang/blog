@@ -2,7 +2,6 @@
 albums:
 - 2021-fave-sketches
 date: 2021-09-13 12:52:35
-
 source: twitter
 syndicated:
 - type: twitter
@@ -12,6 +11,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2021'
+- 2021-fave-sketches
 ---
 
 Todoroki #sketchdaily 255/365 

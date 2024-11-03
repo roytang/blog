@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2017'
+- instagram
 title: 'Spider-Gwen and Batgirl '
 ---
 

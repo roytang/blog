@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2017'
+- instagram
 title: 'Random doodles from last night, trying to get back that '
 ---
 

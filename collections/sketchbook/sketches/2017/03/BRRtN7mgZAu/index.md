@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2017'
+- instagram
 title: 'A bunch of quick sketches to catch up with my '
 ---
 

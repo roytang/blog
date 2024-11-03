@@ -18,6 +18,7 @@ tags:
 - sketchdaily
 - onepunchman
 - '2016'
+- instagram
 title: 'Superman vs Caped Baldy '
 ---
 

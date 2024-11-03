@@ -18,6 +18,7 @@ tags:
 - sketchdaily
 - instacomments
 - '2016'
+- instagram
 title: 'After a successful hunt, the vikings prepared to feast '
 ---
 

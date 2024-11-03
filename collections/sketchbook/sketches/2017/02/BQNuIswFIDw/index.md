@@ -17,6 +17,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2017'
+- instagram
 title: 'Poodle in a bottle '
 ---
 

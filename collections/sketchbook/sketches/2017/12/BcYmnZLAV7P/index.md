@@ -15,6 +15,7 @@ syndicated:
 tags:
 - instacomments
 - '2017'
+- instagram
 title: New superhero team
 ---
 

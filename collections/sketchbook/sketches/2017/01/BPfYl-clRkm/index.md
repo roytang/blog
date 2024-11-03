@@ -20,6 +20,7 @@ tags:
 - sketchdaily
 - funnykomiks
 - '2017'
+- instagram
 title: 'Superdog vs Inkredibuldog '
 ---
 

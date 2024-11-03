@@ -15,6 +15,7 @@ tags:
 - mtg
 - mtgwar
 - '2019'
+- instagram
 title: 'Havent done much sketching lately, but have been enjoying '
 ---
 

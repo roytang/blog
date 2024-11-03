@@ -16,7 +16,8 @@ tags:
 - inktober
 - inktober2019
 - '2019'
-title: 'Tasty'
+- instagram
+title: Tasty
 ---
 
 #inktober2019 day 25: tasty #inktober #sketchdaily

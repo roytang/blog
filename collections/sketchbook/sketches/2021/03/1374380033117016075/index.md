@@ -11,6 +11,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2021'
+- 2021-fave-sketches
 ---
 
 Petra (from Fire Emblem Three Houses) #sketchdaily 82/365

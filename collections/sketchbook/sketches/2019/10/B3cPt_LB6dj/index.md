@@ -16,7 +16,8 @@ tags:
 - inktober
 - inktober2019
 - '2019'
-title: 'Pattern'
+- instagram
+title: Pattern
 ---
 
 #inktober2019 day 10 pattern (a bit of a stretch) #inktober #sketchdaily also i probably overdid the blood

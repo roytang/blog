@@ -24,6 +24,7 @@ tags:
 - sketchdaily
 - philippines
 - '2016'
+- instagram
 title: 'Current events '
 ---
 

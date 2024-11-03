@@ -16,7 +16,8 @@ tags:
 - inktober
 - inktober2019
 - '2019'
-title: 'Wild'
+- instagram
+title: Wild
 ---
 
 #inktober2019 day 16: wild #inktober #sketchdaily

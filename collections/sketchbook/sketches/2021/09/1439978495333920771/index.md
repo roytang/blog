@@ -2,7 +2,6 @@
 albums:
 - 2021-fave-sketches
 date: 2021-09-20 15:43:21
-
 source: twitter
 syndicated:
 - type: twitter
@@ -13,6 +12,7 @@ tags:
 - sketchdaily
 - mtg
 - '2021'
+- 2021-fave-sketches
 ---
 
 Black Lotus #sketchdaily #mtg 262/365 

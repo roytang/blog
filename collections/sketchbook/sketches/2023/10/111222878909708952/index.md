@@ -11,7 +11,6 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/176udgr/october_13th_free_draw_friday/k4q5fjr/
 tags:
-- sketchbook
 - inktober2023
 - inktober
 - '2023'

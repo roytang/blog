@@ -13,6 +13,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2021'
+- 2021-fave-sketches
 ---
 
 Noodles #sketchdaily 127/365 (Correction: 128/365)

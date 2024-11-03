@@ -14,6 +14,7 @@ syndicated:
 tags:
 - procreate
 - '2019'
+- instagram
 title: 'Trying out some features of '
 ---
 

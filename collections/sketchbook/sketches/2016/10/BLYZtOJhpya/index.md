@@ -20,6 +20,7 @@ tags:
 - sketchdaily
 - inktober
 - '2016'
+- instagram
 title: 'Jump '
 ---
 

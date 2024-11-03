@@ -16,7 +16,8 @@ tags:
 - inktober
 - inktober2019
 - '2019'
-title: 'Ghost'
+- instagram
+title: Ghost
 ---
 
 #inktober2019 day 22: ghost #inktober #sketchdaily

@@ -16,7 +16,8 @@ tags:
 - inktober
 - inktober2019
 - '2019'
-title: 'Tread'
+- instagram
+title: Tread
 ---
 
 #inktober2019 day 20: tread (lightly) #inktober #sketchdaily Amazingly fighter dude found another dungeony place in the middle of the overgrown jungle. It’s also amazing that I’m only one day behind with this whole thing

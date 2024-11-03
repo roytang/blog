@@ -22,6 +22,7 @@ tags:
 - sketchdaily
 - sketchbookpro
 - '2016'
+- instagram
 title: 'Sushi Go! '
 ---
 

@@ -11,7 +11,6 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/17cyas3/october_21st_drawlloween_the_vampire_player/k646rf2/
 tags:
-- sketchbook
 - inktober2023
 - inktober
 - '2023'

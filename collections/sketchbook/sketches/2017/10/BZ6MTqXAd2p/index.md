@@ -20,7 +20,8 @@ tags:
 - sketchdaily
 - inktober
 - '2017'
-title: 'Sword'
+- instagram
+title: Sword
 ---
 
 #Inktober day 6: sword #sketchdaily

@@ -13,7 +13,8 @@ syndicated:
 tags:
 - sketchdaily
 - '2017'
-title: 'Orc bartender'
+- instagram
+title: Orc bartender
 ---
 
 Eric was surprised at the towering orc behind the bar. "I'm not as violent as my brethren who work as bouncers," he explained. "I am content to listen to the woes of those they throw out." #sketchdaily

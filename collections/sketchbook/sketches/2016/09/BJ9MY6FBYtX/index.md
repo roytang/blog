@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+- instagram
 title: 'TIL about the term "surrender cobra" (google it!) '
 ---
 

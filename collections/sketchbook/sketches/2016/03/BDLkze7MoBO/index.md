@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+- instagram
 title: 'Marching band (well I ran out of space for more members lol) '
 ---
 

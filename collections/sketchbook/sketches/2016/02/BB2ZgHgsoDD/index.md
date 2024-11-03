@@ -19,6 +19,7 @@ tags:
 - gaming
 - streetfightervx
 - '2016'
+- instagram
 title: Laura from SFV
 ---
 

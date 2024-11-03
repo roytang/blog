@@ -16,7 +16,8 @@ tags:
 - inktober
 - inktober2019
 - '2019'
-title: 'Coat'
+- instagram
+title: Coat
 ---
 
 #inktober2019 day 27: coat #inktober #sketchdaily It was a magical wizard coat of healing all along! Also I somehow managed to catch up!

@@ -14,6 +14,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2021'
+- 2021-fave-sketches
 ---
 
 Amazing Friend number 1 #sketchdaily 7/365

@@ -13,6 +13,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2021'
+- 2021-fave-sketches
 ---
 
 Fighting against sauces #sketchdaily 111/365 (by request)

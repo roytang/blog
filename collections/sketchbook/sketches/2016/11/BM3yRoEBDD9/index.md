@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+- instagram
 title: 'Ant archaeologists find the remnants of an ancient civilization '
 ---
 

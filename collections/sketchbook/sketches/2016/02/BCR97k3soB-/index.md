@@ -19,6 +19,7 @@ tags:
 - instacomments
 - '2016'
 - comics
+- instagram
 title: Amazing Fantasy 15
 ---
 

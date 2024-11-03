@@ -17,7 +17,8 @@ tags:
 - inktober2019
 - instacomments
 - '2019'
-title: 'Sling'
+- instagram
+title: Sling
 ---
 
 #inktober2019 day 19: sling #inktober #sketchdaily

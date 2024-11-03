@@ -16,7 +16,8 @@ tags:
 - inktober
 - inktober2019
 - '2019'
-title: 'Ancient'
+- instagram
+title: Ancient
 ---
 
 #inktober2019 day 23: ancient #inktober #sketchdaily a few days behind now, trying to claw my way to the finish

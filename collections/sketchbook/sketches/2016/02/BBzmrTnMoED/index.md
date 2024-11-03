@@ -18,6 +18,7 @@ tags:
 - sketchdaily
 - sfv
 - '2016'
+- instagram
 title: Rise Up!
 ---
 

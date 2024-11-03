@@ -20,6 +20,7 @@ tags:
 - sketchdaily
 - justiceleague
 - '2016'
+- instagram
 title: 'I know Bruce wouldve been sure, but still... '
 ---
 

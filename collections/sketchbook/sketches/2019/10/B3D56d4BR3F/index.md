@@ -16,7 +16,8 @@ tags:
 - inktober
 - inktober2019
 - '2019'
-title: 'Ring'
+- instagram
+title: Ring
 ---
 
 #inktober #inktober2019 day 1: ring #sketchdaily

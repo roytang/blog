@@ -20,6 +20,7 @@ tags:
 - sketchdaily
 - inktober
 - '2016'
+- instagram
 title: '"Those? Those are emblems of fallen empires that did not stand the test of
   time" '
 ---

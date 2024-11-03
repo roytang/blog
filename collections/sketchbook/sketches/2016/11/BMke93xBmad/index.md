@@ -21,7 +21,8 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
-title: 'Mountain tops'
+- instagram
+title: Mountain tops
 ---
 
 At home

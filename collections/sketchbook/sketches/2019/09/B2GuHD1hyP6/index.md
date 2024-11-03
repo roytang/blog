@@ -14,6 +14,7 @@ tags:
 - marvel
 - comics
 - '2019'
+- instagram
 title: 'Quick doodle. Sam and Bucky. '
 ---
 

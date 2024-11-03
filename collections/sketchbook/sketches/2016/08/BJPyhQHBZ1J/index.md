@@ -22,6 +22,7 @@ tags:
 - sketchdaily
 - instacomments
 - '2016'
+- instagram
 title: Some kind of dog
 ---
 

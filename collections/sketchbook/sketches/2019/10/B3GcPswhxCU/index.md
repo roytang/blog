@@ -16,7 +16,8 @@ tags:
 - inktober
 - inktober2019
 - '2019'
-title: 'Mindless'
+- instagram
+title: Mindless
 ---
 
 #inktober #inktober2019 day 2 mindless #sketchdaily

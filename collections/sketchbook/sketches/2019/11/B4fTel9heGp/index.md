@@ -14,7 +14,8 @@ syndicated:
 tags:
 - sketchdaily
 - '2019'
-title: 'Dumplings'
+- instagram
+title: Dumplings
 ---
 
 #sketchdaily dumplings. another quick one for catchup purposes

@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+- instagram
 title: 'The F15 Eagle, a perfectly normal earth jet '
 ---
 

@@ -16,7 +16,8 @@ tags:
 - inktober
 - inktober2019
 - '2019'
-title: 'Misfit'
+- instagram
+title: Misfit
 ---
 
 #inktober2019 day 18: misfit #inktober #sketchdaily I’m currently taking suggestions for how to handle the day 20 prompt lol

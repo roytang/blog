@@ -46,4 +46,3 @@ Second set:
 While I was doing the Sakuragi one, I made a boo-boo where I put the rough sketch on the same layer as the Buffy one and messed it up and later I couldn't recover it. I didn't want to redo the thing, so what I did was ran the timelapse, got a screenshot of Buffy from there and pasted it back into the image lol. It's not cheating, I mean, I really did do the drawing! You can see these shenanigans and more in the timelapses below!
 
 Two additional sketches were added in response to comments.
-

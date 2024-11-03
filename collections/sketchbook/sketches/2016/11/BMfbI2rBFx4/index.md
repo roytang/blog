@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+- instagram
 title: 'I have a bunch of other stuff to do today so I''ll just '
 ---
 

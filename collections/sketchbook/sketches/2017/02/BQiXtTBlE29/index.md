@@ -19,6 +19,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2017'
+- instagram
 title: '"What, no I wasnt pretending the salt shaker was a mic!" '
 ---
 

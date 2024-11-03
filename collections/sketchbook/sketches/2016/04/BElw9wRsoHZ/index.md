@@ -21,6 +21,7 @@ syndicated:
 tags:
 - sketchdaily
 - '2016'
+- instagram
 title: 'Feeling a bit crabby today so just a quick Disney character '
 ---
 

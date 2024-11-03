@@ -11,7 +11,6 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/17bep8r/october_19th_drawtober_dolls_in_the_attic/k5j9drc/
 tags:
-- sketchbook
 - inktober2023
 - inktober
 - '2023'

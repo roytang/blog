@@ -15,7 +15,8 @@ syndicated:
 tags:
 - inktober
 - '2017'
-title: 'Inktober Days 1-5'
+- instagram
+title: Inktober Days 1-5
 ---
 
 I thought I’d try to catch up to this #inktober thing. Just some quick doodles. Days 1-5: 1. swift 2. divided 3. poison 4. underwater 5. long

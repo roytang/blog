@@ -21,6 +21,7 @@ tags:
 - dayofthetentacle
 - instacomments
 - '2017'
+- instagram
 title: '"I feel like I could TAKE OVER THE WORLD!" '
 ---
 

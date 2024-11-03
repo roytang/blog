@@ -11,7 +11,6 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/1791l4y/october_16th_drawtober_moth_bitten_library/k59cxru/
 tags:
-- sketchbook
 - inktober2023
 - inktober
 - '2023'

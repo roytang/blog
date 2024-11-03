@@ -20,6 +20,7 @@ tags:
 - sketchdaily
 - instacomments
 - '2017'
+- instagram
 title: 'Draw a dinosaur day '
 ---
 

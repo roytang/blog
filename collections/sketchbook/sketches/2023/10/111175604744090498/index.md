@@ -11,7 +11,6 @@ syndicated:
 - type: reddit
   url: https://www.reddit.com/r/SketchDaily/comments/16zi59d/october_4th_inktober_dodge/k3j9pfv/
 tags:
-- sketchbook
 - inktober2023
 - inktober
 - '2023'

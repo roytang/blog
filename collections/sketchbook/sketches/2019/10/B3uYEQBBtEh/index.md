@@ -16,7 +16,8 @@ tags:
 - inktober
 - inktober2019
 - '2019'
-title: 'Ornament'
+- instagram
+title: Ornament
 ---
 
 #inktober2019 day 17: ornament #inktober #sketchdaily

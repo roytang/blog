@@ -16,7 +16,8 @@ tags:
 - inktober
 - inktober2019
 - '2019'
-title: 'Freeze'
+- instagram
+title: Freeze
 ---
 
 #inktober2019 day 4: freeze #inktober #sketchdaily this one is coming in late because i was busy. in case my drawing was too terrible, that is supposed to be a person encased in ice (presumably because of stepping on a freezing trap)

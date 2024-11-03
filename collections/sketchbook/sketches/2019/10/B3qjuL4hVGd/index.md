@@ -16,7 +16,8 @@ tags:
 - inktober
 - inktober2019
 - '2019'
-title: 'Legend'
+- instagram
+title: Legend
 ---
 
 #inktober2019 day 15: legend #inktober #sketchdaily maybe phoning it in a bit here lol. some of the green bled through from the last one

@@ -23,6 +23,7 @@ tags:
 - zelda
 - instacomments
 - '2016'
+- instagram
 title: 'A Link to the Past '
 ---
 
