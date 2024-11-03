@@ -17,10 +17,6 @@
             "URL": "/photos/"
         },
         {
-            "Name": "Sketchbook",
-            "URL": "/albums/sketchbook/"
-        },
-        {
             "Name": "Media Diet",
             "URL": "/lists/media/books/all/"
         },

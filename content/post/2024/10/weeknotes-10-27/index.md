@@ -17,7 +17,7 @@ toc: true
 
 Very light week errand-wise, so I had the opportunity to work on some side projects and also updates for this website that I hope to deploy and make public before the year is out. (My pace is very slow.)
 
-Typhoone Kristine tore through the island of Luzon during the second half of the week. We weren't as badly hit as other areas even though there was a lot of rain and wind and at some point I worried about what looked a leak that might appear in my ceiling but it was a false alarm. (Probably?)
+Typhoon Kristine tore through the island of Luzon during the second half of the week. We weren't as badly hit as other areas even though there was a lot of rain and wind and at some point I worried about what looked a leak that might appear in my ceiling but it was a false alarm. (Probably?)
 
 We were planning to attend a quiz night Wednesday, but it got postponed to the next week for non-storm related reasons. We considered another quiz night on Thursday, but ultimately decided not to go, this time for storm-related reasons.
 
