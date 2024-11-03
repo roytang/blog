@@ -1,8 +1,5 @@
 ---
 date: 2021-11-28 10:31:16
-featuredResource:
-  filename: 3_20211125_205120.jpg
-  photo: /2021/11/fbcf6be3318da8ea9c6b9f2242fdace8/
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/107355369599194556
@@ -44,7 +41,7 @@ Visit the [Links page](/links/) for more links of interest.
 - Had a bunch of errands eating up my time this week, and now it feels like I'm behind on so many things.
 - One of the things I'm still behind on is the [daily sketching](/albums/sketchbook/). The [covid hospital stay](/2021/10/covid-experience/) really did a number on the "daily" part of that habit. Anyway, here's some spaghetti I drew:
 
-{{< photo "2021/11/fbcf6be3318da8ea9c6b9f2242fdace8/" "3_20211125_205120.jpg" >}}
+    {{< collections-embed sketchbook fbcf6be3318da8ea9c6b9f2242fdace8 3_20211125_205120 >}}
 
 - **Gaming**:
     - Powered through the final chapter of [The Great Ace Attorney Chronicles](/2021/11/great-ace-attorney/) this week. With achievement completion even!

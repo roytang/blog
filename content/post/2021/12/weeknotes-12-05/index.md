@@ -27,7 +27,7 @@ Been a bit busy (see below), so no links or commentary on world news today. Full
 - IDK if it's because I got so much sleep the last few days, but my sleep has gone back to being quite broken. [This is not an unusual state](/2019/08/out-of-sync-with-the-world/), but today seems to be on the worse end I couldn't sleep at all last night until after breakfast time and even then my sleep was spotty because I kept getting woken up to attend to some family things. I have less than four hours sleep so far since yesterday.
 - And yes despite my best efforts I'm still behind on my [daily sketching](/albums/sketchbook/). Here's a sketch of 2B from *Nier Automata*, a game I have never played:
 
-{{< photo "2021/12/542943a3fe4f47fe8835e574496f3d63/" "1_20211201_004839.jpg" >}}
+    {{< collections-embed sketchbook 542943a3fe4f47fe8835e574496f3d63 1_20211201_004839 >}}
 
 - **Gaming**:
     - **Tales of Symphonia** is at that point in a JRPG right before the final boss but then you have to chance to go back and do optional stuff. I'm taking my time to grind a bit to beat some optional bosses; since I may never bother with additional completion runs for this game, I want to do beat them now. So this may take another week or so to finish I guess.

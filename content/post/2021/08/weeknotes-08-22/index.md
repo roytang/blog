@@ -55,7 +55,7 @@ Visit the [Links page](/links/) for more links of interest.
 
 - Still [sketching daily](/albums/sketchbook/); Surprisingly I am not behind today. Here's one I did yesterday of Spider-Woman; it's a bit messy and I got too lazy to do any touchups or backgrounds or whatever, but I kind of like how it turned out:
 
-{{< photo "2021/08/1429133078245429248/" >}}
+    {{< collections-embed sketchbook 1429133078245429248 >}}
 
 - **Watching:**
     - Movies: Only watched **Jumanji: The Next Level** during this week's Saturday gaming session. Will include this in the next set of reviews.

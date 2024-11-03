@@ -1,8 +1,5 @@
 ---
 date: 2021-12-12 08:30:00
-featuredResource:
-  filename: 1_20211207_074211.jpg
-  photo: /2021/12/aa75c87d2b982d3101529f68249f0afb/
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/107433025676202268
@@ -63,7 +60,7 @@ Visit the [Links page](/links/) for more links of interest.
 - Surprisingly, have been sleeping at better hours than the past weeks. Still no continuous 7/8 hour sleeps for me, but at least I can predict now when I'll be asleep or awake. Hope it lasts. Or improves even!
 - I caught up with the [daily sketching](/albums/sketchbook/), then promptly fell behind again by a day. Here's a sketch of a little kid that I drew from a real-life photo:
 
-{{< photo "2021/12/aa75c87d2b982d3101529f68249f0afb/" "1_20211207_074211.jpg" >}}
+    {{< collections-embed sketchbook aa75c87d2b982d3101529f68249f0afb 1_20211207_074211 >}}
 
 - **Gaming**:
     - **Tales of Symphonia:** Already beaten the game once, still grinding out some extra achievements before putting it to rest.

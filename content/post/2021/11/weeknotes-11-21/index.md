@@ -40,7 +40,7 @@ Visit the [Links page](/links/) for more links of interest.
 - Wrote some words about [this site's custom blogging system](/2021/11/cypress/). It's my own worry stone!
 - Still [sketching daily](/albums/sketchbook/), although recently I've been doing them every 2-3 days instead of daily. Here's a sketch of a person I did from reference, but no one can guess who he's supposed to be, so I still have a ways to go in capturing likenesses of real people:
 
-{{< photo "2021/11/3e145a5fedbc4f5ebd13ec25ec9a9521/" "3_20211120_013328.jpg" >}}
+    {{< collections-embed sketchbook 3e145a5fedbc4f5ebd13ec25ec9a9521 3_20211120_013328 >}}
 
 - **Gaming**:
     - Still trying to power through **Tales of Symphonia** and **Great Ace Attorney**, the former more than the latter. Still hoping to finish both games before the end of the year!

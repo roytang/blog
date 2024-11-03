@@ -46,7 +46,7 @@ Visit the [Links page](/links/) for more links of interest.
 - We had the traditional [noche buena](/2021/12/1474388413281607683/) the day before Christmas.
 - Still a bit behind on the [daily sketching](/albums/sketchbook/), though I did do some Christmas-themed doodles last night to catch up. Here's one of a fireplace:
 
-{{< photo "2021/12/977d7f97340da5496490c258d4d105c8/" "3_20211226_012636.jpg" >}}
+{{< collections-embed sketchbook 977d7f97340da5496490c258d4d105c8 3_20211226_012636.jpg >}}
 
 - **Gaming**:
     - I finished [Blasphemous](https://store.steampowered.com/app/774361/Blasphemous/) yesterday! Still probably going to play it a bit this week to maybe get some achievements, but I am more or less done with the game I think. I expect to write a review this week.

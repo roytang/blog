@@ -54,7 +54,7 @@ Visit the [Links page](/links/) for more links of interest.
 - I wrote about [mobile and tablet browsing annoyances](/2021/09/mobile-tablet-annoyances/).
 - Still [sketching daily](/albums/sketchbook/); and again behind by a few days. I swear, this streak is perpetually on the edge of being broken. Nothing I'm too happy with this week, but here's Todoroki:
 
-{{< photo "2021/09/1437398804966244354/" >}}
+    {{< collections-embed sketchbook 1437398804966244354 >}}
 
 - **Watching:**
     - Movies: No movies watched this week!

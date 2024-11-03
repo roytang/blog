@@ -43,7 +43,7 @@ Visit the [Links page](/links/) for more links of interest.
 
 - Still [sketching daily](/albums/sketchbook/); I am again behind by a few days; here's a comic-style thing I did to celebrate the transition into PH Christmas season:
 
-{{< photo "2021/09/1433044241735770115/" >}}
+    {{< collections-embed sketchbook 1433044241735770115 >}}
 
 - **Watching:**
     - Movies: Only one I watched this week is [Spectre (2015)](/2021/09/spectre/), last of the James Bond run.

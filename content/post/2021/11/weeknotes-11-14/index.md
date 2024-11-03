@@ -39,7 +39,7 @@ Not much today. Visit the [Links page](/links/) for more links of interest.
 - My week was full of errands, which means I went out quite a few times this week, despite the pandemic. Mostly hospitals and clinics and pharmacies, you know how it is. Kind of falling behind on a bunch of my regular things as a result.
 - Still [sketching daily](/albums/sketchbook/), and I have surprisingly not fallen behind this weekend yet. Here's a dog I drew:
 
-{{< photo "2021/11/fe86639de24301382b9d592909c43315/" >}}
+    {{< collections-embed sketchbook fe86639de24301382b9d592909c43315 >}}
 
 - **Gaming**:
     - Been playing a lot more **Tales of Symphonia** lately. I'm enjoying it so much that I've started queueing up more Tales games to play: I bought a used copy of **Tales of Xillia 2** for PS3 on Lazada last week. For some reason I never got around to it even though I really enjoyed the first game. I tried out the copy and it was working fine, and just trying out the combat system made me excited to get into it, so hopefully I can finish Symphonia soon.

@@ -45,7 +45,7 @@ Visit the [Links page](/links/) for more links of interest.
 - The week feels like it went by quickly; I did some work on a project with some friends, and also did a bit of work on some of my personal projects.
 - Still [sketching daily](/albums/sketchbook/); I am a bit behind today. I don't think I any of this week's sketches were particularly great. Here's one of The Grandmaster from Marvel Comics:
 
-{{< photo "2021/08/1430236159586619395/" >}}
+    {{< collections-embed sketchbook 1430236159586619395 >}}
 
 - **Watching:**
     - Movies: Only one I watched this week is [Rurouni Kenshin: The Beginning](/2021/08/rktb-jtnl-sl/).

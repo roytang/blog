@@ -1,8 +1,5 @@
 ---
 date: 2021-12-19 10:00:00
-featuredResource:
-  filename: 3_20211218_230632.jpg
-  photo: /2021/12/aef913509e16a8bc785278d63c772b5d/
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/107473878835433616
@@ -45,7 +42,7 @@ Visit the [Links page](/links/) for more links of interest.
 - Happy to report that everyone in the household has now gotten a booster shot; two of us had an AstraZeneca booster, and the elders had Moderna. 
 - I am once again very behind on the [daily sketching](/albums/sketchbook/), I did some doodles last night to catch up. Here's one of a tree:
 
-{{< photo "2021/12/aef913509e16a8bc785278d63c772b5d/" "3_20211218_230632.jpg" >}}
+{{< collections-embed sketchbook aef913509e16a8bc785278d63c772b5d 3_20211218_230632.jpg >}}
 
 - **Gaming**:
     - I finished [Tales of Symphonia](/2021/12/symphonia/)!

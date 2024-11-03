@@ -42,7 +42,7 @@ Visit the [Links page](/links/) for more links of interest.
 - As I've mentioned, I was in the hospital for around 3 weeks starting the last weekend of September; I will probably write more about it this week.
 - I fell behind on the [sketching daily](/albums/sketchbook/) during the first couple of weeks in the hospital, but I managed to catch up once I had more time and energy. Here's Bucky the Cat from Get Fuzzy:
 
-{{< photo "2021/10/1451194166688444420/" >}}
+    {{< collections-embed sketchbook 1451194166688444420 >}}
 
 - **Watching:**
     - Movies: While we did have a TV during the hospital stay, I left control of it up to my dad, and we saw repeated runs of James Bond films. The only new movie I've seen during the past month or so was [Kate](https://roytang.net/2021/10/f3cb16d7f21123133bc0506e9ddfc641/) on Netflix.

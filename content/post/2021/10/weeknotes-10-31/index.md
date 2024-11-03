@@ -41,7 +41,7 @@ Visit the [Links page](/links/) for more links of interest.
 - I wrote [quite a few words about our Covid hospital stay](/2021/10/covid-experience/). And then [a little bit more](/2021/10/little-things-add-up/). Hopefully I can move on now.
 - Still [sketching daily](/albums/sketchbook/), and in fact I managed to maintain the streak all week! I should finish the [Inktober 2021](/tags/inktober2021/) set by today as well. Here's the All-Spark:
 
-{{< photo "2021/10/1453293791276830733/" >}}
+    {{< collections-embed sketchbook 1453293791276830733 >}}
 
 - **Watching:**
     - Actually haven't watched much of anything this week. I'm halfway through **Dune (2021)**, will probably try to get through the rest of it this week. Started watching the new season of **The Simpsons**, something I still keep up out of habit. Actually also started watching **Saturday Night Live** eps as background watching.

@@ -49,7 +49,7 @@ I'm a bit behind; I have a bunch of other links and pages I need to visit before
 - I remembered [this rubber-band powered bottle car we made in high school](/2021/09/rubber-band-bottle-car/).
 - Still [sketching daily](/albums/sketchbook/); As is typical for the weekend, I am again behind by a few days, and I feel like I kinda phoned in most of this week's sketches. I really like this one of Red Lantern Kara Zor-El though:
 
-{{< photo "2021/09/1434891084514009095/" >}}
+    {{< collections-embed sketchbook 1434891084514009095 >}}
 
 - **Watching:**
     - Movies: No movies watched this week!

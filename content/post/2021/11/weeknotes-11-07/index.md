@@ -38,7 +38,7 @@ Visit the [Links page](/links/) for more links of interest.
 - I injured myself (just a small scratch on the knee) getting out of a tricycle last Thursday; I had to get off on an inclined surface, but the tricycle body was so low I misjudged where to put my foot as I stepped out and fell off-balance, rolling down the incline and landing partially on the bike lane on the road. My immediate concern as I fell was that I might get hit by a passing motorcycle I saw coming from, but luckily there was enough space for him to pass by me harmlessly. The tricycle driver helped me up, and I ended up buying some band-aids from the nearby drugstore to patch up my knee before doing my errands (one of which was at the drugstore). Wound still hasn't healed yet so it's just there annoying me.
 - Still [sketching daily](/albums/sketchbook/), and I have actually managed to get back into my routine of falling behind during weekends. The usual cause is that Friday's prompt on the subreddit is "Free Draw Friday" and I don't have the energy or inspiration to think of something to draw and the Friday block cascades to the rest of the weekend and I end up catching up on Mondays. That's probably what's gonna happen this weekend too. Anyway, since [inktober2021](/tags/inktober2021) is over, I'm back to digital sketching using Procreate. It took me a while and it's not the best, but I think my rendition of American Gothic was pretty neat:
 
-{{< photo "2021/11/1455907869543387142/" >}}
+    {{< collections-embed sketchbook 1455907869543387142 >}}
 
 - **Watching:**
     - Instead of catching up to my TV backlogs, I've started watching **Seinfeld* in the background since it got added back to PH Netflix.
