@@ -1,7 +1,5 @@
 ---
 date: 2022-01-02 07:27:17
-featuredResource:
-  photo: /2022/01/ca0cadc5d9ba79d5fde2d5916918acd9/
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/107552363430085969
@@ -58,7 +56,7 @@ Visit the [Links page](/links/) for more links of interest.
 - We had the traditional [noche buena](/2021/12/1476925903674707970/) before midnight on New Year's Eve. I was really sleepy right after, 30 minutes before midnight and almost went to sleep early, breaking a lifetime tradition of staying up past midnight on NYE. I managed t get up just as it turned 2022, and went back outside to greet my folks and take in a bit of the neighborhood fireworks.
 - We are caught up on [daily sketching](/albums/sketchbook/), and completed the entire year's run for 2021! I kind of defaulted into continuing the practice in 2022, so here's the first one of the New Year:
 
-{{< photo "2022/01/ca0cadc5d9ba79d5fde2d5916918acd9/" >}}
+    {{< collections-embed sketchbook ca0cadc5d9ba79d5fde2d5916918acd9 >}}
 
 - **Gaming**:
     - Not much gaming in the last week of the year. I managed [to hit Mythic in Arena](/2021/12/1476138083816980485/) and [got my last token for the Decathlon finals](/2021/12/1472933987718815750/) so that's something. Hopefully can start some new games this coming week!

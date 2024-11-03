@@ -1,7 +1,5 @@
 ---
 date: 2022-01-09 15:30:32
-featuredResource:
-  photo: /2022/01/5546ef13eb53619e7ef6cfbbeee5fb21/
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/107593493381061174
@@ -41,7 +39,7 @@ Visit the [Links page](/links/) for more links of interest.
 - For some reason this week seemed quite busy, though there was nothing unusual other than the hospital errand in the middle of the week (which thankfully resulted in some good news). I think it's because I want to do/watch/read/play so many things and yet I don't have enough time to do everything I want!
 - Have yet to fall behind on the [daily sketching](/albums/sketchbook/), although they are coming later and later in the day (I have yet to do the one for today). Anyway, here's one of Aloy from [Horizon Zero Dawn](/2021/08/horizon-zero-dawn/):
 
-{{< photo "2022/01/5546ef13eb53619e7ef6cfbbeee5fb21/" >}}
+    {{< collections-embed sketchbook 5546ef13eb53619e7ef6cfbbeee5fb21 >}}
 
 - **Gaming**:
     - This week I started playing **Tales of Vesperia**, one of the longer games I hope to finish this year.

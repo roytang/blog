@@ -1,8 +1,5 @@
 ---
 date: 2022-01-23 05:45:51
-featuredResource:
-  filename: 4_sketch_rachelsummers.jpg
-  photo: /2022/01/4ef02b672ba6b420c58881aaeb4ed4dd/
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/107671022530187389
@@ -46,7 +43,7 @@ Visit the [Links page](/links/) for more links of interest.
 - Worked on the site a bit this past week; some bug fixes here and there, a few minor CSS tweaks, some new features. Maybe I could whip up a blog post about the changes, some kind of changelog?
 - Am behind a few days on the [daily sketching](/albums/sketchbook/); typical for a weekend. I did open up this new sketchbook and pencil and eraser I got over Christmas and did a few sketches with them. Here's one of Rachel Summers:
 
-{{< photo "2022/01/4ef02b672ba6b420c58881aaeb4ed4dd/" "4_sketch_rachelsummers" >}}
+    {{< collections-embed sketchbook 4ef02b672ba6b420c58881aaeb4ed4dd 4_sketch_rachelsummers >}}
 
 - **Gaming**:
     - Ongoing: **Tales of Vesperia** (Steam), still occasionally playing too much.

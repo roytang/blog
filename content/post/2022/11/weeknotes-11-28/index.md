@@ -1,9 +1,6 @@
 ---
 date: 2022-11-28 07:35:22
 dontinlinephotos: true
-featuredResource:
-  filename: 1_November.jpg
-  photo: /2022/11/b9e4f1f1a5363c0476fb65e7ab1b8ada/
 reviews:
 - description: More of snarky social commentary than ha-ha funny.
   hashtag: trevornoah
@@ -44,7 +41,7 @@ Yesterday was the first Sunday of Advent. A bit more than one month to go in a y
 
 - Something I've been doodling lately:
 
-    {{% photo "2022/11/b9e4f1f1a5363c0476fb65e7ab1b8ada/" %}}
+    {{< collections-embed sketchbook b9e4f1f1a5363c0476fb65e7ab1b8ada >}}
 
 - **Gaming**: 
     - Still playing some card games on the regular: 

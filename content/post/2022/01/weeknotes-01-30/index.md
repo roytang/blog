@@ -1,7 +1,5 @@
 ---
 date: 2022-01-30 04:35:04
-featuredResource:
-  photo: /2022/01/383c2c156e8aae0b5e7d96c606c33971/
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/107710556251504920
@@ -30,7 +28,7 @@ Last weekend of January. The days and nights are starting to get warmer, indicat
 > 
 > 6. “Even if it’s a yucky day, you can get a hug.”
 > 
-> - [sage advice from a 5-year old](https://twitter.com/EPrecipice/status/1485973203805683717)
+> -- [sage advice from a 5-year old](https://twitter.com/EPrecipice/status/1485973203805683717)
 
 ### The World
 
@@ -54,7 +52,7 @@ Visit the [Links page](/links/) for more links of interest.
 - I had a chill week, though I did get a bit stressed out over US stocks crashing. I lost money!
 - Still doing the [daily sketching](/albums/sketchbook/) but am behind for the weekend, as usual. Here's a digital sketch I did of Sol Badguy (from **Guilty Gear Strive**), where I forgot to remove the sketch lines:
 
-{{< photo "2022/01/383c2c156e8aae0b5e7d96c606c33971/" >}}
+    {{< collections-embed sketchbook 383c2c156e8aae0b5e7d96c606c33971 >}}
 
 - **Gaming**:
     - Ongoing: **Tales of Vesperia** (Steam). I think I am close to the end game, but it may take another week or so since I want to do a bunch of optional stuff.

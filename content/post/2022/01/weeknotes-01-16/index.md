@@ -1,7 +1,5 @@
 ---
 date: 2022-01-16 11:11:58
-featuredResource:
-  photo: /2022/01/ef41bf8426ccb9a9d597a429480d1efc/
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/107632931514404564
@@ -44,7 +42,7 @@ Visit the [Links page](/links/) for more links of interest.
 - In yet another sign that more and more people are staying at home and ordering everything online: we were unable to get any same-day grocery delivery slots this week; the next available slot was always a day or two away. Also my friendly local drugstore apologized for not being able to respond to my delivery request immediately, saying they were swamped. This was what it was like back in March 2020, in the early days of the pandemic.
 - Am starting to fall behind on the [daily sketching](/albums/sketchbook/); currently behind by one day. Here's a doodle of someone out on a quiet walk:
 
-{{< photo "2022/01/ef41bf8426ccb9a9d597a429480d1efc/" >}}
+    {{< collections-embed sketchbook ef41bf8426ccb9a9d597a429480d1efc >}}
 
 - **Gaming**:
     - Ongoing: **Tales of Vesperia** (Steam). Actually really enjoying this one and might be playing more than I should.

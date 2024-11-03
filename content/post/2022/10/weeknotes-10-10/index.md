@@ -35,7 +35,9 @@ These weeknotes are coming in late because as I told some friends yesterday "my 
   
 - On the blog: [The Ludum Dare 51 blog post](/2022/10/ludum-dare-51-pizza/). I reviewed and gave feedback on a bunch of submissions this week and have already hit the needed number of submissions, so now it's wait and see mode until the ratings period is over (in around 12 days). I got some good feedback this time, so I'm cautiously optimistic that we do well.
 
-- I finally [started the Inktober thing](/2022/10/inktober2022_1_2_3_4/). Hoping to catch up maybe in a few days. I know the Inktober guy is a bit shady, but eh, too lazy to find a good alternative, and some people I know are doing this one too.
+- I finally started the Inktober thing. Hoping to catch up maybe in a few days. I know the Inktober guy is a bit shady, but eh, too lazy to find a good alternative, and some people I know are doing this one too.
+
+    {{< collections-embed sketchbook inktober2022_1_2_3_4 >}}
 
 - **Gaming**: 
     - Just the normal grinding in [Eternal](/tags/EternalCardGame) and [Magic Arena](/tags/magicarena), not even doing particularly well. Alchemy: Dominaria United dropped last week, so might try to draft and stream again either tomorrow or Thursday (why not both?)
