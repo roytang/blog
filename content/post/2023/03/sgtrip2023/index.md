@@ -41,6 +41,10 @@ I kept a running note of various observations in Google Keep:
 - I got sat in an exit row for the first time on the way back, and wow, so much legroom! I actually got some sleep!
 - People keep asking me if I ran into any troubles at NAIA because of the recent problems. No issues either coming or going. Actually, it feels like in general the processes are more streamlined now than I remember from before, so kudos to the airport people I supppose.
 
+### Airport Sketches
+
+{{< collections-embed sketchbook cd8166166ec16a64ba0888383e19c435 >}}
+
 ### Locations and Other Photos
 
 {{% map tag="sg2023" %}}

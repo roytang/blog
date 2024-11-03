@@ -15,6 +15,7 @@ title: 2023 Week 36
 ### The World
 
 Eh, what? There's a world outside?
+
 ### My Week
 
 As mentioned last week, I spent most of this week in the hospital to take care of a loved one who was to undergo surgery. 
@@ -23,13 +24,13 @@ As mentioned last week, I spent most of this week in the hospital to take care o
 
 Happily, we were discharged yesterday, a few days less than the estimated stay. 
 
-{{% note "/2023/09/111035343737635880/" %}}
+{{< collections-embed sketchbook 111035343737635880 >}}
 
 I am not inclined to write in detail about the hospital stay. Maybe some short notes:
 
 - The patient had meals included with the room, but I had to subsist mostly on microwave-able 7-11 meals and a nearby stall of *Kambal Pandesal*
 - I still have trouble staying in an airconditioned room all day; my skin starts to get flaky. Though it was much worse during our 2021 covid stay.
-- The operation itself took the better part of a day. I am told it ran for 9 hours, then the patient had to stay in the recover room for like 4 more hours before they could be returned to our room. As you can imagine, I was anxious throughout most of it. I ate many snacks that day.
+- The operation itself took the better part of a day. I am told it ran for 9 hours, then the patient had to stay in the recovery room for like 4 more hours before they could be returned to our room. As you can imagine, I was anxious throughout most of it. I ate many snacks that day.
 - The surgery team was very good (and expensive). The patient did well and recovered easily, hence the early discharge. We were actually cleared for discharge a day earlier, but the patient wanted to stay an extra day just in case.
 - It is quite expensive to get sick and have such operations in this country. It's not as expensive as the US, but then again we also don't earn as much money here. Our family is lucky that we can afford these things (just barely), poorer families would have had much more difficult times.
 
