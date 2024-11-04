@@ -3,17 +3,17 @@ date: 2024-11-04 06:02:15
 dontinlinephotos: true
 resources:
 - src: bestpresident.jpg
-  title: 'Best President Ever!'
+  title: Best President Ever!
 - src: books_collection.jpg
-  title: 'Our surviving collection of PB books'
+  title: Our surviving collection of PB books
 - src: brosiait.jpg
-  title: 'IT'
+  title: IT
 - src: kasya.png
-  title: 'Kasya!'
+  title: Kasya!
 - src: pilosopo.png
   title: 'Violation: Pilosopo'
 - src: politics.jpg
-  title: 'On discussing politics'
+  title: On discussing politics
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152269375298912
@@ -29,6 +29,8 @@ syndicated:
   url: https://indieweb.social/users/roytang/statuses/109423922092997181
 - type: twitter
   url: https://twitter.com/roytang/status/1597365327360557058/
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/113423321066052677
 tags:
 - comicstrips
 - pugadbaboy
