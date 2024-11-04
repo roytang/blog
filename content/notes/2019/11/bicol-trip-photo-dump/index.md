@@ -62,6 +62,8 @@ resources:
   title: St. John church
 - src: 20191102_201935.jpg
   title: DLTB terminal
+tags:
+- photodumps
 title: Bicol Undas trip photodump
 ---
 
