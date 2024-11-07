@@ -34,12 +34,12 @@ Anyway, I'll leave you with some pictures!
 
 Seattle photo dump:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/Q6yBFyk"><a href="//imgur.com/a/Q6yBFyk">Seattle</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+{{% collections-embed albums seattle %}}
 
 MoPOP photo dump (part 1):
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/45uzuCk"><a href="//imgur.com/a/45uzuCk"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+{{% collections-embed albums mopop1 %}}
 
 MoPOP photo dump (part 2) - scfi and fantasy
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/KgOUcEX"><a href="//imgur.com/a/KgOUcEX">MoPOP part 2</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+{{% collections-embed albums mopop2 %}}
