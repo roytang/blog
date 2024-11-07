@@ -1,5 +1,5 @@
 ---
-date: 2016-11-05 00:55:00+08:00
+date: 2016-11-04 16:55:00
 dontinlinephotos: true
 source: facebook
 syndicated:
@@ -7,6 +7,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155061600593912
 tags:
 - fbreposts05
+- webcomics
+- shencomix
 ---
 
 Good night world! (Or not??)

@@ -5,6 +5,14 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/108298961997922907
 - type: twitter
   url: https://twitter.com/roytang/status/1525367879729721344/
+- type: twitter
+  url: https://twitter.com/roytang/status/1523736107577274368/
+- type: twitter
+  url: https://twitter.com/roytang/status/1523737631107911680/
+- type: twitter
+  url: https://twitter.com/roytang/status/1523856968359694337/
+- type: twitter
+  url: https://twitter.com/roytang/status/1523857086890749952/
 tags:
 - philippines
 - current-events
@@ -35,7 +43,7 @@ Given there was cheating, was it likely that it changed the outcome of the Natio
 
 ### Disinformation and Fighting Fire with Fire
 
-A lot of it is of course due to disinformation, something which sadly we still have trouble dealing with in the modern internet age. Disinformation spreads more quickly and easily than any corrective effort. Some studies even show that [attempting to correct disinformation, even politely, can cause worse outcomes](https://twitter.com/roytang/status/1524532530942124032). Unfortunately for our country, the traditional politicians have become very adept at wielding disinformation to their benefit. How to fight disinformation effectively is something we will have to figure out soon.
+A lot of it is of course due to disinformation, something which sadly we still have trouble dealing with in the modern internet age. Disinformation spreads more quickly and easily than any corrective effort. Some studies even show that [attempting to correct disinformation, even politely, can cause worse outcomes](https://roytang.net/files/twitter/roytang/status/1524532530942124032/). Unfortunately for our country, the traditional politicians have become very adept at wielding disinformation to their benefit. How to fight disinformation effectively is something we will have to figure out soon.
 
 I know some people who decided to dive into the pro-BBM side of social media and as they tell it, it really is a completely upside-down world in there. One where BBM has many detailed plans and VP Leni has done nothing of significance. One person said he did "research" about VP Leni's achievements and found nothing; when asked how he did research, he just replied "documentaries", which we assume to be YouTube nonsense. The divergence in reality and a widespread distrust in mainstream media will continue to be challenges.
 
@@ -79,7 +87,22 @@ Personally, IDK if I still have it in me to be so invested in our country's futu
 
 ### Quotes
 
-I shared [a bunch of these the day after](/2022/05/1523736107577274368/), for some reason or other, they helped me cope with how lost I was.
+I shared [a bunch of these the day after](/files/twitter/roytang/status/1523736107577274368/), for some reason or other, they helped me cope with how lost I was.
+
+{{< photos 1523736107577274368 >}}
+
+<time id="1523737631107911680">[02:52]</time> Lol my mood is all over the place. Sigh, such a waste. 
+
+{{< photos 1523737631107911680 >}}
+
+<time id="1523856968359694337">[10:46]</time> My coping mechanism is quotes apparently
+
+{{% collections-embed quotes 190865723445358592 %}}
+
+<time id="1523857086890749952">[10:46]</time> 
+
+{{% note "2018/01/952921296823664640/" %}}
+
 
 ---
 
@@ -96,14 +119,6 @@ I shared [a bunch of these the day after](/2022/05/1523736107577274368/), for so
 ---
 
 > "It is possible to commit no mistakes and still lose. That is not a weakness, that is life." - Jean-Luc Picard 
-
----
-
-> "Success is not final, failure is not fatal: it is the courage to continue that counts" - W. Churchill
-
----
-
-> "Time flows like a river, and history repeats" - Secret of Mana
 
 ---
 

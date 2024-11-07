@@ -8,6 +8,7 @@ syndicated:
 tags:
 - fbreposts05
 - shencomix
+- webcomics
 ---
 
 Relax!
