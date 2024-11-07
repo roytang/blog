@@ -6,6 +6,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/994829027/
 tags:
 - sinfest
+- webcomics
 ---
 
 Charlie Brown is sad http://tinyurl.com/64ngg2
