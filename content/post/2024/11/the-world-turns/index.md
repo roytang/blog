@@ -1,10 +1,13 @@
 ---
-title: "The World Turns"
-date: 2024-11-07T16:22:01+08:00
+date: 2024-11-07 08:22:01
+dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/113441350765552547
 tags:
 - politics
 - uspol
-dontinlinephotos: true
+title: The World Turns
 ---
 
 Donald Trump has once again been elected president of the United States of America. The Onion hits the nail on the head:
