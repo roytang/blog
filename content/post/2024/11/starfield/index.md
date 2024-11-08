@@ -1,18 +1,21 @@
 ---
 date: 2024-11-08 04:45:43
+dontinlinephotos: true
 resources:
 - src: Screenshot 2024-11-08 124557.png
-  title: 'Game pass stats'
+  title: Game pass stats
 reviews:
 - description: Enjoyable enough, but not Bethesda's best effort.
   media: games
   rating: 3.5
   title: Starfield (PC Game Pass)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/113446607688144985
 tags:
 - gaming
 - games
 title: Starfield
-dontinlinephotos: true
 ---
 
 *Starfield* isn't a bad game per se; but there are a lot of missed opportunities, mostly because Bethesda was far too ambitious with what they wanted to accomplish with this game. I did play it for 80 hours and even enjoyed most of them but there are just many parts of the game that are unquestioningly bland and could have gone better.
