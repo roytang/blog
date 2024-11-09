@@ -14,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/994238624655921152/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156626598518912
+tags:
+- webcomics
 ---
 
 <p><a href="http://vampiricyoshi.tumblr.com/post/173722099773/neilnevins-neilnevins-bugs-bunny-could" class="tumblr_blog">vampiricyoshi</a>:</p>

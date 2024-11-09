@@ -1,5 +1,5 @@
 ---
-date: 2016-11-10 20:58:00+08:00
+date: 2016-11-10 12:58:00
 dontinlinephotos: true
 repost_source:
   name: Sean Astin
@@ -11,6 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155078569028912
 tags:
 - fbreposts10
+- quotes
 ---
 
 FRODO: I can’t do this, Sam. 
