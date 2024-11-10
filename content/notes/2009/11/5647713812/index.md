@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/5647713812/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/188519176472
+tags:
+- coffee
 ---
 
 I'm sleepy all the time. Should I start drinking coffee?
