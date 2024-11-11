@@ -1,6 +1,7 @@
 ---
 categories: []
 date: 2018-11-18 02:00:21
+dontinlinephotos: true
 draft: false
 featuredImage: https://i.imgur.com/KcHOHTc.png
 publishdate: 2018-11-18 02:00:21
@@ -24,6 +25,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1062673531891318786/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1062673698111467520/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1061379753591025664/
 tags:
 - ps4
 - comics
@@ -32,7 +35,6 @@ tags:
 - games
 - spidermanps4
 title: 'Game Review: Marvel''s Spider-Man for PS4'
-dontinlinephotos: true
 ---
 
 Finally had the time to play *Marvel's Spider-Man for PS4*. Took just a little under two weeks from start to Platinum. Maybe mild, unmarked spoilers somewhere in this review, be warned!
@@ -50,11 +52,7 @@ Finally had the time to play *Marvel's Spider-Man for PS4*. Took just a little u
 - Story: In this universe, J. Jonah Jameson is retired from his days at the Daily Bugle and instead hosts an internet radio show where as can be expected, he's always castigating Spider-Man. His broadcasts come in as you're swinging around the city, and Jonah will often comment on things you've recently done or missions recently accomplished. I especially like it when one of the missions had you doing something ridiculous like intentionally swinging through smog and Jonah makes wild speculations about what the hell you were smoking.
 - Mechanics: The suit selection in the game is fairly good, there's a lot of suits available and you unlock more as you level up (you need to purchase them with tokens). You can change costumes at any time, and most cutscenes will show Spider-Man wearing whatever suit you have on at the time, which can be sometimes hilarious. I'm severaly disappointed at the lack of the [Fantastic Four Amazing Bag-Man costume](https://vignette.wikia.nocookie.net/spiderman/images/6/69/F0ab528486904cef1297397514b73ef9.jpg/revision/latest?cb=20120721011355) though. My favorite costume from this game is the classic comic book costume (screenshots below), I really like how well it's animated so smoothly and gives such a cartoony vibe. I would totally play an entire game rendered in this fashion. It's also hilarious when this costume is used in cutscenes!
 
-![My favorite costume!](https://i.imgur.com/KcHOHTc.png)
-
-![Why won't you take me seriously MJ?!?](https://i.imgur.com/4KOBWj0.jpg)
-
-![Those guns won't work on me, I'm a cartoon!](https://imgur.com/XyiqRIW.jpg)
+{{% collections-embed albums spiderman costume %}}
 
 - Mystery: I'm not sure why, but the distance scaling in this game is super-off. In-game measurements tell me Manhattan island is about 4 km from top to bottom, which feels really small. The [Wikipedia entry](https://en.wikipedia.org/wiki/Manhattan) says Manhattan is almost 60 sq km, but in-game it can't be more than 10 sq km. I'm not sure why it would be like this.
 - Story/Mechanics: You don't get to play as Peter Parker/Spider-Man all the time, there's also a few missions you have to play out as one of two side characters. One of them is the lovable spunky red-headed Mary Jane Watson, who in this universe is not a supermodel actress, but rather has a more Lois-Lane like role as an investigative reported for the Daily Bugle. That means she gets herself into all sorts of troublesome situations where she has to sneak around enemies in order to escape. She's no damsel in distress here, I'm not even sure if Peter ever rescues her directly. I like this MJ iteration, she has a lot more spunk. The other side character you get to play at is young Miles Morales, who enter's Peter's life somewhere in the 2nd act of the story. Miles parts consist of sneaking around as well, although he has a different toolset than MJ, mainly consisting of a hacking app that lets him create distractions to bypass guards.
@@ -65,5 +63,8 @@ Finally had the time to play *Marvel's Spider-Man for PS4*. Took just a little u
 - In the comics, MJ is a famous model while she and Peter were dating. In the game, MJ is a scrappy, down-to-earth reporter. I like the game one more.
  
 As is tradition, here's a screendump, awash with in-game spoilers! (Mainly because I chose to include the automatic screenshots that came with each Trophy unlock). You can see during the later parts I was using the comic costume almost exclusively!
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/GXG9Qb5"><a href="//imgur.com/GXG9Qb5"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+{{% collections-embed albums spiderman %}}
+
+<time id="1061379753591025664">[2018-11-11 06:07] </time> Peter Parker's relationship with Otto Octavius in the PS4 game reminds me a lot of their relationship in the 2nd Tobey movie, which is great. In the comics, Peter only knows Ock as a criminal who tried to marry his aunt once (and also managed to take over his body) #SpiderMan
 

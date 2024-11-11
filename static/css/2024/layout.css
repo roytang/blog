@@ -311,6 +311,10 @@ a {
     text-underline-offset: 0.3ex;
 }
 
+.e-content img {
+    max-width: 100%;
+}
+
 .about-author img.u-photo {
     height: 4rem;
     margin: 0.5rem;
