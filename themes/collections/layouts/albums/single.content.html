@@ -1,13 +1,6 @@
 <div class="e-content">
 {{ .Content }}
 
-{{ $mainRoot := .Site.Params.mainRoot }}
-<ul class="related_posts">
-{{ range .Params.related_posts }}
-    <li><a href="{{ $mainRoot }}{{ .url }}">{{ .text }}</a></li>
-{{ end }}
-</ul>
-
 <div class="pxgallery">
     {{ $mainPermalink := .RelPermalink }}
     {{ $postDate := .Date.Format .Site.Data.Formats.datetime }}

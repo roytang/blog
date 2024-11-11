@@ -1,7 +1,7 @@
 ---
 tags:
 - marvel
-- x-factor
+- xfactor
 - quesada
 date: 2019-01-11 02:00:53
 syndicated:

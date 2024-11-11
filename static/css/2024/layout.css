@@ -416,6 +416,10 @@ article, .comment_body, .title {
     word-break: break-word;
 }
 
+td {
+    word-break: normal;
+}
+
 #shareopenly img {
     border: 1px solid var(--second-color);
     border-radius: 2px;

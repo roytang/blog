@@ -2,7 +2,7 @@
 date: 2024-11-11
 resources:
 - src: xfactor70.PNG
-  title: 'X-Factor #70 where the government team disbands'
+  title: 'X-Factor #70 where the original team disbands'
 - src: xfactor72_collecting.PNG
   title: 'X-Factor #72 "It beats collecting comics"'
 - src: xfactor78_tacky.PNG
@@ -18,4 +18,7 @@ tags:
 - xmen
 - xfactor
 title: X-Factor v1
+related_posts:
+- text: Comics Review
+  url: /2024/11/cmr-xfactor-v1/
 ---

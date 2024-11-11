@@ -129,6 +129,8 @@ The first hundred or so issues after the jump involve Banner/Hulk on the run, wa
 
 Starting from #245 (1980), writer Bill Mantlo started a five-year run which started a deeper exploration of Banner's psyche and background, revealing he had suffered child abuse from an abusive father.
 
+#### Peter David
+
 In 1987, Peter David took over the writing duties and would go on to write the book for more than 10 years; I believe he holds the record for most number of Hulk issues written. He further expanded on Banner's background and introduced the idea of Dissociative Identity Disorder affecting Banner. Early in his run, Peter David created a new third persona: the so-called "Mr Fixit" with the original gray color who shows up in Las Vegas as a mob enforcer following the supposed death of Banner/Hulk. Later, Doc Samson managed to combine all three personas into a single unified persona: a "Smart Hulk" (similar to the current MCU incarnation). This change would last until the Onslaught event in 1996, when Banner became separated from the Hulk. David's run (and v2 itself) only lasted a couple more years after that.
 
 #### Supporting Cast

@@ -6,6 +6,14 @@
 
 <article class="single_post {{ .Type }} h-entry">
 {{ .Render "single.hat" }}
+
+{{ $mainRoot := .Site.Params.mainRoot }}
+<ul class="related_posts">
+{{ range .Params.related_posts }}
+    <li><a href="{{ $mainRoot }}{{ .url }}">{{ .text }}</a></li>
+{{ end }}
+</ul>
+
 {{ .Render "single.content" }}
 {{ .Render "single.boot" }}
 </article>
