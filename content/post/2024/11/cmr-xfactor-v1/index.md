@@ -1,5 +1,5 @@
 ---
-date: 2024-11-11T15:04:32+08:00
+date: 2024-11-11 07:04:32
 dontinlinephotos: true
 reviews:
 - description: ''
@@ -8,6 +8,9 @@ reviews:
   media: comics
   title: X-Factor v1
   year: 1986
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/113463329389259151
 tags:
 - comics
 - complete-marvel-run
