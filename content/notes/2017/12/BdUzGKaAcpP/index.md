@@ -22,6 +22,7 @@ reviews:
   media: games
   rating: 0.0
   title: 'The Legend of Zelda: Breath of the Wild (WiiU)'
+title: 'The Legend of Zelda: Breath of the Wild'
 ---
 
 Managed to beat the game before the new year came in. 109/120 shrines. #zelda #botw
