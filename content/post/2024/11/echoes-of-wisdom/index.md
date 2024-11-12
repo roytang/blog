@@ -1,18 +1,21 @@
 ---
-title: "The Legend of Zelda: Echoes of Wisdom"
-date: 2024-11-12T18:38:46+08:00
+date: 2024-11-12 10:38:46
 reviews:
 - description: ''
   media: games
-  rating: 4.0
-  title: "The Legend of Zelda: Echoes of Wisdom (Switch)"
   platforms:
   - switch
+  rating: 4.0
+  title: 'The Legend of Zelda: Echoes of Wisdom (Switch)'
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/113469643210839139
 tags:
 - NintendoSwitch
 - games
 - zelda
 - gaming
+title: 'The Legend of Zelda: Echoes of Wisdom'
 ---
 
 I finished **The Legend of Zelda: Echoes of Wisdom** last night. 
