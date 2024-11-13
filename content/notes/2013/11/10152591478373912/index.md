@@ -1,5 +1,5 @@
 ---
-date: 2013-11-12 21:02:00+08:00
+date: 2013-11-12 13:02:00
 dontinlinephotos: true
 repost_source:
   name: Maoi Arroyo
@@ -11,9 +11,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10152591478373912
 tags:
 - fbreposts07
+- yolanda
 ---
-
-
 
 <div class="bm" data-ft='{"tn":"*s"}' style="">
  <p>

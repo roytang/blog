@@ -1,5 +1,5 @@
 ---
-date: 2013-11-12 21:51:00+08:00
+date: 2013-11-12 13:51:00
 dontinlinephotos: true
 repost_source:
   name: Carlo Pagulayan
@@ -11,6 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10152591546648912
 tags:
 - fbreposts07
+- yolanda
 ---
 
 Please spread the word.

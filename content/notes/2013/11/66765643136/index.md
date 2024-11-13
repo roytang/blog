@@ -14,6 +14,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10152591508318912
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152591243458912
+tags:
+- yolanda
 ---
 
 <p><a href="http://jl8comic.tumblr.com/post/66726000058/edit-on-the-original-image-i-mistyped-haiyan-as" class="tumblr_blog">jl8comic</a>:</p>

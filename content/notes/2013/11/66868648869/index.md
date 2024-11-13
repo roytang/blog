@@ -16,6 +16,10 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1062037904724316160/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152593233913912
+tags:
+- panels
+- comicbooks
+- comics
 ---
 
 <p><a class="tumblr_blog" href="https://eyesofamaranthine.tumblr.com/post/65640059170">eyesofamaranthine</a>:</p>
