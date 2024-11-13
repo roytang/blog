@@ -1,5 +1,5 @@
 ---
-date: 2017-11-12 03:08:18+00:00
+date: 2017-11-12 03:08:18
 repost_source:
   name: HoldenShearer
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/929546367545962497/
+tags:
+- threads
 title: ''
 ---
 

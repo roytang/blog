@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1062061946776752133/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10157049680288912
+tags:
+- rip
 ---
 
 Excelsior, and RIP
