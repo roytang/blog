@@ -14,6 +14,10 @@ I know, I know this page layout could use a lot of work.
 
 #### 2024
 
+##### [Modern Horizons 3](/2024/11/duskmourn/)
+
+##### [Bloomburrow](/2024/10/bloomburrow/)
+
 ##### [Modern Horizons 3](/2024/07/mtgmh3-set-recap/)
 
 ##### [Outlaws of Thunder Junction](/2024/07/mtgotj-set-recap/)

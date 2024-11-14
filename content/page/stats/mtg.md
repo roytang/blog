@@ -78,7 +78,8 @@ In March 2022, I made a "limited recap" post for Kamigawa Neon Dynasty, collatin
 
 | Set | Recap Date | Events | Win | Loss | Total | Winrate |
 | --- | --- | --- | --- | --- | --- |  --- | 
-| ALL | Jul 2024  | 401 | 1324 | 1106 | 2430 | 0.5449 |
+| ALL | Nov 2024  | 419 | 1383 | 1157 | 2540 | 0.5445 |
+| [Duskmourn](/2024/11/duskmourn/) | Nov 2024 | 18 | 59 | 51 | 110 | 0.5364 |
 | [Bloomburrow](/2024/10/bloomburrow/) | Oct 2024 | 12 | 42 | 35 | 77 | 0.5455 |
 | [Modern Horizons 3](/2024/07/mtgmh3-set-recap/) | Jul 2024 | 13 | 42 | 36 | 78 | 0.5385 |
 | [Outlaws of Thunder Junction](/2024/07/mtgotj-set-recap/) | Jul 2024 | 20 | 62 | 57 | 119 | 0.521 |
