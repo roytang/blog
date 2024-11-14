@@ -1,5 +1,5 @@
 ---
-date: 2017-11-14 15:54:15+00:00
+date: 2017-11-14 15:54:15
 source: twitter
 syndicated:
 - type: twitter
@@ -7,6 +7,7 @@ syndicated:
 tags:
 - MTGUN3
 - mtgun3
+- mtg
 title: ''
 ---
 
