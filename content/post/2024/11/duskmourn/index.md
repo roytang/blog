@@ -1,5 +1,5 @@
 ---
-date: 2024-11-14T12:39:56+08:00
+date: 2024-11-14 04:39:56
 dontinlinephotos: true
 resources:
 - src: blb-7-carrot-cake.jpg
@@ -10,13 +10,16 @@ resources:
   title: Bloomburrow Arena Stats Email
 - src: blbtrophy.jpg
   title: My one Bloomburrow draft trophy (BG)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/113479677745448942
 tags:
 - mtg
 - limited
 - magicarena
 - limitedrecap
 - mtgsetrecap
-title: "Duskmourn: House of Horror"
+title: 'Duskmourn: House of Horror'
 toc: true
 ---
 
