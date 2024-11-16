@@ -47,7 +47,7 @@ Friends and I still regularly do the NYT Spelling Bee (though I've stopped playi
 
 ### Walking and Health
 
-From Oct 28 (Sunday) to Nov 02 (Saturday), Google Fit says I only walked 60,101 steps. No rains to blame this time, I was mostly just a bit busy/lazy on Friday and Saturday.
+From Nov 03 (Sunday) to Nov 09 (Saturday), Google Fit says I only walked 60,101 steps. No rains to blame this time, I was mostly just a bit busy/lazy on Friday and Saturday.
 
 ### Some Links of Interest
 
