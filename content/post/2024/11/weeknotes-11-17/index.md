@@ -1,5 +1,5 @@
 ---
-date: 2024-11-17T12:53:15+08:00
+date: 2024-11-17T08:53:15+08:00
 dontinlinephotos: true
 tags:
 - weeknotes
@@ -27,13 +27,13 @@ On the blog: I wrote [a new comics post about X-Factor v1](/2024/11/cmr-xfactor-
     - Single player: Finished playing **Legend of Zelda: Echoes of Wisdom** this week! Also been playing some single-player **Eternal Card Game**, mostly just achievement hunting.
     - Online: Still doing regular grinding in **Magic Arena** and **Marvel Snap**, a bit of **Street Fighter VI**. 
   
-- **Reading**: Still a lot of comics!
+- **Reading**: Still a lot of comics! (At least I finished X-Factor v1 already!)
 
 - **Watching**: Still just a lot of TV to keep up with: **Abbott Elementary**, **Star Trek: Lower Decks**, **Dandadan**, **Dragonball Daima**, **Ranma 1/2**, **Superman & Lois**, lots of **Boston Legal**. 
 
 ### Walking and Health
 
-From Nov 10 (Sunday) to Nov 16 (Saturday), Google Fit says I only walked 60,101 steps. A bit better than last week!
+From Nov 10 (Sunday) to Nov 16 (Saturday), Google Fit says I walked 70,487 steps. Nice, managed to hit the target right before my trip! I am hoping I can get a whole bunch of steps in and even exceed the target during the trip!
 
 ### Some Links of Interest
 
