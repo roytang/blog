@@ -1,5 +1,5 @@
 ---
-date: 2021-11-15 21:45:06+00:00
+date: 2021-11-15 21:45:06
 dontinlinephotos: true
 repost_source:
   name: patchdj
@@ -11,6 +11,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1460363252236386305/
 tags:
 - patchdj
+- threads
 ---
 
 So, not to pick on John, but this take is actually wrong and OP is right. Because something catastrophic *did* happen to Gen X and the Xennial's music: the Telecommunication Act of 1996. 
