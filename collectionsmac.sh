@@ -1,0 +1,9 @@
+hugo --contentDir collections_root --config collections.toml --destination public/ 
+hugo --contentDir collections/lyrics --config collections.toml,collections/lyrics/lyrics.toml --destination public/lyrics
+hugo --contentDir collections/quotes --config collections.toml,collections/quotes/quoes.toml --destination public/quotes
+hugo --contentDir collections/comics --config collections.toml,collections/comics/comics.toml --destination public/comics
+hugo --contentDir collections/albums --config collections.toml,collections/albums/albums.toml --destination public/albums
+hugo --contentDir collections/stackexchange --config collections.toml,collections/stackexchange/stackexchange.toml --destination public/stackexchange
+hugo --contentDir collections/webcomics --config collections.toml,collections/webcomics/webcomics.toml --destination public/webcomics
+hugo --contentDir collections/quora --config collections.toml,collections/quora/quora.toml --destination public/quora
+hugo --contentDir collections/sketchbook --config collections.toml,collections/sketchbook/sketchbook.toml --destination public/sketchbook
