@@ -8,7 +8,7 @@ title: Weeknotes 2024-11-23
 toc: true
 ---
 
-When this post is published, I should have been traveling with friends in Japan for just under a week. Hanging out with friends is always awesome, but the whole traveling and packing all your things and managing inventory is not. 
+When this post is published, I should have been traveling with friends in Japan for just under a week. Hanging out with friends is always awesome, but the whole traveling and waiting around at airports and packing all your things and lugging bags around and managing inventory is not. 
 
 It is also exhausting. I don't have my weekly step total yet (as I am writing this before my week ends), but it's going to be a 90,000+ step week, with Saturday possibly being my record for day with the most step counts this year, with at least 21k steps! 
 
