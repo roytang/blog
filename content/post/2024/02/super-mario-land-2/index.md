@@ -17,6 +17,7 @@ syndicated:
 tags:
 - gaming
 - games
+- mario
 title: 'Retro Game Review: Super Mario Land 2 (Game Boy)'
 ---
 

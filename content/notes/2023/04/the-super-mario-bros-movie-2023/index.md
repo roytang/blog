@@ -1,5 +1,5 @@
 ---
-date: 2023-04-22 06:33:14+00:00
+date: 2023-04-22 06:33:14
 dontinlinephotos: true
 reviews:
 - date: '2023-04-22'
@@ -14,6 +14,7 @@ syndicated:
   url: https://letterboxd.com/hungryroy/film/the-super-mario-bros-movie/
 tags:
 - movies
+- mario
 title: 'Movies: The Super Mario Bros. Movie (2023)'
 ---
 

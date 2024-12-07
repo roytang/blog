@@ -5,12 +5,22 @@
     "attachments": [{{ $scratch := newScratch }}{{ $fileDir := .File.Dir }}{{ with .Resources.ByType "image" }}{{ range . }}{{ $scratch.Set "thumbnail" (.Resize "300x") }}{{ $thumb := $scratch.Get "thumbnail" }}
         {
             "main": {{ .RelPermalink | jsonify }},
+            "type": "image",
             "thumbnail": {{ $thumb.RelPermalink | jsonify }},
             "caption": {{ .Title | default .Name | jsonify}},
             "title": {{ .Title | jsonify }},
             "name": {{ .Name | jsonify }},
             "sourcepath": {{ $fileDir | jsonify }}
-        },{{ end }}{{ end }}    
+        },{{ end }}{{ end }}{{ with .Resources.ByType "video" }}{{ range . }}
+        {
+            "main": {{ .RelPermalink | jsonify }},
+            "type": "video",
+            "thumbnail": "",
+            "caption": {{ .Title | default .Name | jsonify}},
+            "title": {{ .Title | jsonify }},
+            "name": {{ .Name | jsonify }},
+            "sourcepath": {{ $fileDir | jsonify }}
+        },{{ end }}{{ end }}
         "End of file"
     ]
 }
