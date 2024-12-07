@@ -130,6 +130,10 @@ Overall the park was a fun experience, but also reminded me there are still a lo
 
 Although we would have two full days in Nagoya, we only planned for one day, with the second day being "free time" for us to do whatever wandering and last minute shopping for souveniers and such before going home. I went out early and wandered through some malls buying snacks and small toys to bring home to the *pamangkins*, nothing too fancy. Later in the evening we all met up again at Denny's for one final dinner together.
 
+### Chubu
+
+We flew home from Chubu airport in Nagoya, a name whose mere mention makes us giggle. Annoyingly, our terminal did not have any gacha machines, where I was planning to spend all the coins I had accumulated. Two of us were in terminal 2 for Cebu Pacific while the others were in terminal 1 and apparently their side had much better accomodations AND had gacha machines!! We thus dubbed terminal 2 the "poor person terminal".
+
 ### Final Thoughts
 
 The things I will miss most about Japan:
