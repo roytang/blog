@@ -1,5 +1,8 @@
 ---
 date: 2024-12-06 12:22:38
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/113609772749667117
 tags:
 - travels
 - japan2024
