@@ -1,6 +1,5 @@
 ---
 date: 2024-12-06 12:22:38
-draft: true
 tags:
 - travels
 - japan2024
