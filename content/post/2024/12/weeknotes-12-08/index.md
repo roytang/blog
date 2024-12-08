@@ -36,6 +36,10 @@ On the blog: I managed to write 3,000+ words about [my recent Japan trip](/2024/
 
 - Playing: Took some Steam Sale damage as soon as I got back. During the trip one of my friends was playing **Hearthstone** anytime I was playing **Marvel Snap**, and that enticed me to load up my old account and try a few games and get some free stuff. That game remains very confusing to play and IDK if I'd keep playing. Speaking of Snap, I finally managed to get Etri from Deadpool Diner, as much of a slog as it was the first time. The Snap community is kind of in uproar over the poor economy and I'm a bit worried that it's not gonna last much longer. Also managed to sneak in some Foundations drafts in **Magic Arena**; though given the past couple of weeks I'm way behind on dailies and such and suspect I'm not gonna be able to complete this season's mastery pass. Managed to sneak in some **Eternal Card Game** here and there as well. Also started playing **Final Fantasy X-2** on Steam for some reason. Lots of different games, mostly because I needed the stress release!
 
+### Walking and Health
+
+From Oct 28 (Sunday) to Nov 02 (Saturday), Google Fit says I walked 48,069 steps. This is a far cry from the almost 180k steps I did in the last 2 weeks of November, but I did plan to take it easy after the exhausting trip. Besides, if I keep up this same pace for 2 out of the remaining 3 weeks of the year, that's already enough to beat last year's step count total, so I think I will be on a similar pace until next year.
+
 ### Some Links of Interest
 
 - [The unconscious machine | A Working Library](https://aworkinglibrary.com/writing/unconscious-machine)
@@ -62,6 +66,8 @@ On the blog: I managed to write 3,000+ words about [my recent Japan trip](/2024/
     >
 
 Check out the [linkblog](/links/) for past links!
+
+My feed reader backlog has gotten insane over the past couple of weeks, breaking 1000 items a couple of days ago.
 
 ### This Coming Week (and Beyond!)
 
