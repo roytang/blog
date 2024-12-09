@@ -1,9 +1,11 @@
 ---
-date: 2017-11-18 11:21:58+00:00
+date: 2017-11-18 11:21:58
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/931844927415132160/
+tags:
+- threads
 title: ''
 ---
 
