@@ -3,9 +3,11 @@
   "name": "Brian Jefferson Tan",
   "url": "https://www.facebook.com/barayantan",
   "text": "this is why i have a complain jar",
-  "date": "2013-02-24 00:00:01",
+  "date": "2013-02-24 15:38:41 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/349170515199198#349190018530581",
+  "source": "72b92082",
+  "spam": false,
   "source_obj": {
     "id": "349190018530581",
     "poster": "Brian Jefferson Tan",
@@ -13,5 +15,6 @@
     "text": "this is why i have a complain jar",
     "attachments": [],
     "date": "Feb 24, 2013"
-  }
+  },
+  "reply_to": "https://twitter.com/roytang/statuses/305582498547630081/"
 }

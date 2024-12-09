@@ -3,9 +3,11 @@
   "name": "Renz Marvin Eullo",
   "url": "https://www.facebook.com/Altealice",
   "text": "*whistles*",
-  "date": "2013-02-24 00:00:00",
+  "date": "2013-02-24 15:38:40 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/349170515199198#349172488532334",
+  "source": "e766c0fa",
+  "spam": false,
   "source_obj": {
     "id": "349172488532334",
     "poster": "Renz Marvin Eullo",
@@ -13,5 +15,6 @@
     "text": "*whistles*",
     "attachments": [],
     "date": "Feb 24, 2013"
-  }
+  },
+  "reply_to": "https://twitter.com/roytang/statuses/305582498547630081/"
 }

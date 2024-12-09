@@ -2,7 +2,6 @@
     {{ $mainPermalink := .RelPermalink }}
     {{ $rootPath := .Site.Params.rootPath }}
     {{ $collectionName := .Site.Params.collection_name }}
-    {{ $postDate := .Date.Format .Site.Data.Formats.datetime }}
     {{ $caption := .Title | default .Summary }}
     <div>
         {{ with .Resources.ByType "image" }}
@@ -20,4 +19,4 @@
     {{ end }}
     </div>
     <noscript><a href="/{{ $rootPath }}{{ $collectionName }}{{ $mainPermalink }}" class="postlink" title="{{ $caption }}">View post</a></noscript>
-    </div>
+</div>

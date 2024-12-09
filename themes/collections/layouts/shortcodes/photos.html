@@ -1,1 +1,15 @@
-<!--PHOTOS PLACEHOLDER-->
+<div class="pxgallery">
+{{ $thumbnailsize := .Site.Params.thumbnailsize }}
+{{ with .Page.Resources.Match (printf "*%s*" (string (.Get 0))) }}
+{{ range . }}
+{{ $scratch := newScratch }}
+{{ $scratch.Set "thumbnail" (.Resize $thumbnailsize) }}
+{{ $thumb := $scratch.Get "thumbnail" }}
+
+<a href="{{ .RelPermalink }}">
+    <img src="{{ $thumb.RelPermalink }}"
+        title="{{ .Title | default .Name }}">
+</a>
+{{ end }}
+{{ end }}
+</div>

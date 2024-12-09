@@ -2,4 +2,5 @@
     collection_name = "webcomics"
     collection_title = "Webcomics"
     collections_root = false
+    thumbnailsize = "600x"
 

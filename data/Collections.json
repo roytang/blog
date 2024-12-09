@@ -24,6 +24,12 @@
         "feeds": false
     },
     {
+        "path": "webcomics/",
+        "label": "Webcomics",
+        "descrip": "Web-based comic strips I have shared on social media",
+        "feeds": false
+    },
+    {
         "path": "quora/",
         "label": "Quora",
         "descrip": "Posts I have made to Quora",
