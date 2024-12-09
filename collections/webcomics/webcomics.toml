@@ -3,4 +3,5 @@
     collection_title = "Webcomics"
     collections_root = false
     thumbnailsize = "600x"
+    autoinlinephotos = false
 
