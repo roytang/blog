@@ -23,7 +23,7 @@ title: Dilbert
 dontinlinephotos: true
 ---
 
-Note: I understand that Dilbert creator Scott Adams has revealed himself to be an unhinged MAGA idiot over the past decade or so, but that doesn't change the fact that I used to enjoy his strip; a lot of the strips about working in a software company resonated with me. 
+Note: I understand that Dilbert creator Scott Adams has revealed himself to be a problematic MAGA idiot over the past decade or so, but that doesn't change the fact that I used to enjoy his strip; a lot of the strips about working in a software company resonated with me. 
 
 ---
 

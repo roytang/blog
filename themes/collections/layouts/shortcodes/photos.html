@@ -2,6 +2,7 @@
 {{ $thumbnailsize := .Site.Params.thumbnailsize }}
 {{ with .Page.Resources.Match (printf "*%s*" (string (.Get 0))) }}
 {{ range . }}
+{{ if strings.Contains .MediaType "image" }}
 {{ $scratch := newScratch }}
 {{ $scratch.Set "thumbnail" (.Resize $thumbnailsize) }}
 {{ $thumb := $scratch.Get "thumbnail" }}
@@ -10,6 +11,8 @@
     <img src="{{ $thumb.RelPermalink }}"
         title="{{ .Title | default .Name }}">
 </a>
+
+{{ end }}
 {{ end }}
 {{ end }}
 </div>
