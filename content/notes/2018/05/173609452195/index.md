@@ -14,6 +14,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156617685098912
 tags:
 - webcomics
+- spid
+- spider-man
 ---
 
 <p><a href="http://hannahblumenreich.tumblr.com/post/151846601763/high-school-sucks-but-sometimes-you-get-to-be" class="tumblr_blog">hannahblumenreich</a>:</p><blockquote><p>high school sucks but sometimes you get to be spider-man, and that’s okay. </p></blockquote>

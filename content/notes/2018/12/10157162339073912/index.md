@@ -12,6 +12,7 @@ syndicated:
 tags:
 - fbreposts09
 - webcomics
+- phcomics
 ---
 
 Final strip ni JessLoveknots by Beth ChiongloTuldok by Maria CollAgents of Ambush by Andrew Villar

@@ -6,6 +6,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10153075764283912
 tags:
 - webcomics
+- shenaniganshen
 title: ''
 ---
 

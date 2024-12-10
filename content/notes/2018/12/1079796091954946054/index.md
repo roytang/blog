@@ -10,5 +10,6 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1079796091954946054/
 tags:
 - webcomics
+- shenaniganshen
 title: ''
 ---
