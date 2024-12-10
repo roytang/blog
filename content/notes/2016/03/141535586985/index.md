@@ -11,6 +11,7 @@ syndicated:
 tags:
 - dragonballsuper
 - dragonball
+- webcomics
 ---
 
 <p>Poor Piccolo lol</p>

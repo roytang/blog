@@ -1,5 +1,5 @@
 ---
-date: 2016-11-30 10:56:00+08:00
+date: 2016-11-30 02:56:00
 dontinlinephotos: true
 repost_source:
   name: Tumbke
@@ -11,24 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155132270598912
 tags:
 - fbreposts10
+- webcomics
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 {{% photos 10155132270598912%}}

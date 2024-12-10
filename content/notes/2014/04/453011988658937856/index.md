@@ -1,5 +1,5 @@
 ---
-date: 2014-04-07 03:30:49+00:00
+date: 2014-04-07 03:30:49
 repost_source:
   name: siavash
   type: twitter
@@ -13,6 +13,7 @@ syndicated:
 tags:
 - 'True'
 - Programming
+- webcomics
 title: ''
 ---
 

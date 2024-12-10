@@ -8,6 +8,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://roytang.tumblr.com/post/161245584860/theverynearfuture-stream-of-consciousness
+tags:
+- webcomics
 ---
 
 <p><a href="http://theverynearfuture.com/post/161240076009/stream-of-consciousness" class="tumblr_blog">theverynearfuture</a>:</p>

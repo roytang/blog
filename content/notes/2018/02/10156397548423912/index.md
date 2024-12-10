@@ -1,5 +1,5 @@
 ---
-date: 2018-02-06 20:35:00+08:00
+date: 2018-02-06 12:35:00
 dontinlinephotos: true
 repost_source:
   name: The Nib
@@ -11,6 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156397548423912
 tags:
 - fbreposts09
+- webcomics
 ---
 
 Connect the dots! It's all in the memo!!!!     From John McNamee  ✒   http://thenib.com/daily

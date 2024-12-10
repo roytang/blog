@@ -12,6 +12,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/710513177264582656/
 tags:
 - onepiece
+- manga
+- panels
 ---
 
 <p>Zoro and Nami are hilarious LOL</p>
