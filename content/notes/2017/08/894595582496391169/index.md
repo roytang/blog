@@ -11,6 +11,7 @@ syndicated:
 tags:
 - webcomics
 - heartandbrain
+- theawkwardyeti
 title: ''
 ---
 

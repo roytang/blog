@@ -19,11 +19,11 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156422208493912
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156928694788912
-title: Dilbert
+title: Dilbert by Scott Adams
 dontinlinephotos: true
 ---
 
-Note: I understand that Dilbert creator Scott Adams has revealed himself to be a problematic MAGA idiot over the past decade or so, but that doesn't change the fact that I used to enjoy his strip; a lot of the strips about working in a software company resonated with me. 
+I understand that Dilbert creator Scott Adams has revealed himself to be a problematic MAGA idiot over the past decade or so, but that doesn't change the fact that I used to enjoy his strip; a lot of the strips about working in a software company resonated with me. 
 
 ---
 

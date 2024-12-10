@@ -13,6 +13,7 @@ tags:
 - fbreposts08
 - webcomics
 - tarantadongkalbo
+- phcomics
 ---
 
 H/T  Marissa Manaloto  for finding this gem  ;)     # politics

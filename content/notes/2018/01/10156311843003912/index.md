@@ -12,6 +12,7 @@ syndicated:
 tags:
 - fbreposts09
 - webcomics
+- phcomics
 ---
 
 Pati mga bata ginagamit, mga ka-Crazy!  :P

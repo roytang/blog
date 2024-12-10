@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/277153775635152
 tags:
 - invisible-bread
+- webcomics
 ---
 
 Software Engineering: http://invisiblebread.com/2011/08/software-engineering/

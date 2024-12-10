@@ -43,6 +43,7 @@ canonifyURLs = true
     "comics" = "/:filename/"
     "albums" = "/:filename/"
     "sketches" = "/:filename/"
+    "cards" = "/:filename/"
 
 #
 # All parameters below here are optional and can be mixed and matched.

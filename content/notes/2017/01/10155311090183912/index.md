@@ -11,6 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155311090183912
 tags:
 - webcomics
+- phcomics
 ---
 
 Janjan Comics

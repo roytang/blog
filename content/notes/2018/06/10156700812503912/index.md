@@ -1,5 +1,5 @@
 ---
-date: 2018-06-13 01:39:00+08:00
+date: 2018-06-12 17:39:00
 dontinlinephotos: true
 repost_source:
   name: Invisible Bread
@@ -11,6 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156700812503912
 tags:
 - fbreposts09
+- webcomics
 ---
 
 Sometimes, you gotta be patient.    Comic URL:  http://invisiblebread.com/2018/06/patience/

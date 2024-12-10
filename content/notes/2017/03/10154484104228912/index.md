@@ -14,6 +14,7 @@ tags:
 - reposts
 - webcomics
 - heartandbrain
+- theawkwardyeti
 ---
 
 An important reminder to all hardcore supporters of presidential and vice-presidential candidates: if your objective is to convince others of your opinion, learn to express it rationally. Wag puro puso ang pairalin, marami nang nasaktan sa ganyan. 😉
