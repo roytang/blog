@@ -4,11 +4,12 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155106943493912
-tags: []
+tags: 
+- politics
+- philippines
+title: Isang Alamat
 ---
 
-Isang alamat:
----
 Isa kang pamilyado at may hinire kang kasambahay. Tapos sa simula, parang ok sya, maayos ang trabaho, nagagawa lahat at minsan sobra-sobra pa.
 
 Tapos later nalaman mo na kinukupit pala nya yung iba nyong gamit sa bahay at sinasangla. Tapos sinasaktan nya ung mga anak mo pag umangal at nagsabing magsusumbong.

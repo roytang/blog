@@ -6,6 +6,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155104186063912
 tags:
 - xkcd
+- webcomics
 ---
 
 Peace and goodwill to all my FB friends annoyed with my preachiness~

@@ -6,7 +6,11 @@ source: foursquare
 syndicated:
 - type: foursquare
   url: https://www.swarmapp.com/roytang/checkin/4eca421877c8be4925d60386
+- type: twitter
+  url: https://twitter.com/roytang/statuses/138592666752524288/
 tags: []
 ---
 
 (@Jollibee Tandang Sora Ave)
+
+I just unlocked the "Explorer" badge on @foursquare! http://4sq.com/sJspQw

@@ -1,5 +1,5 @@
 ---
-date: 2016-11-20 17:05:33+00:00
+date: 2016-11-20 17:05:33
 dontinlinephotos: true
 source: twitter
 syndicated:
@@ -7,6 +7,8 @@ syndicated:
   url: https://twitter.com/roytang/status/800384599557709824/
 tags:
 - marveltldr
+- comicbooks
+- comics
 ---
 
 This was great 
