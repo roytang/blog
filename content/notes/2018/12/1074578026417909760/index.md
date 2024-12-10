@@ -1,9 +1,12 @@
 ---
-date: 2018-12-17 08:12:20+00:00
+date: 2018-12-17 08:12:20
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1074578026417909760/
+tags:
+- webcomics
+- nancy
 title: ''
 ---
 

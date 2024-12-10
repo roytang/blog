@@ -9,6 +9,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://roytang.tumblr.com/post/6554599258/the-new-robin
+tags:
+- panels
 ---
 
 <p>the new robin?</p>

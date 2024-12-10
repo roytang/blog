@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10150415988893912
 tags:
 - onepiece
+- panels
 ---
 
 Zoro is hilarious #onepiece

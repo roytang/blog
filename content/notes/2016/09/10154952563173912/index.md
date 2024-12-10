@@ -1,5 +1,5 @@
 ---
-date: 2016-09-30 16:48:00+08:00
+date: 2016-09-30 08:48:00
 dontinlinephotos: true
 repost_source:
   name: Libreng Komiks
@@ -11,9 +11,9 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154952563173912
 tags:
 - fbreposts10
+- webcomics
+- phcomics
 ---
-
-
 
 PSA for  # PaydayFriday .
 

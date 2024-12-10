@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10153521113878912
 tags:
 - mobile-uploads
+- webcomics
 ---
 
 Have a good friday!

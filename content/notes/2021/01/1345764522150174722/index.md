@@ -6,6 +6,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1345764522150174722/
 tags:
 - onepiece
+- panels
 ---
 
 One Piece has hit chapter 1000!
