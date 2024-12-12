@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1205183435569946624/
+tags:
+- lifeprotips
 ---
 
 New rule: No going south of Ortigas in December

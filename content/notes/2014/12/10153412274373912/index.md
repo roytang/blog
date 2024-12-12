@@ -1,5 +1,5 @@
 ---
-date: 2014-12-13 15:48:00+08:00
+date: 2014-12-13 07:48:00
 source: facebook
 syndicated:
 - type: facebook
@@ -8,6 +8,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/543673719306981377/
 tags:
 - puns
+- phpuns
 ---
 
 I should make a mobile app about wars in the Western Visayas region. I'll call it Clash of Aklan

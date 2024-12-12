@@ -1,5 +1,5 @@
 ---
-date: 2016-12-13 09:53:00+08:00
+date: 2016-12-13 01:53:00
 dontinlinephotos: true
 source: facebook
 syndicated:
@@ -7,6 +7,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155177072423912
 tags:
 - fbreposts05
+- webcomics
+- sarahscribbles
 ---
 
 Pretty much!
