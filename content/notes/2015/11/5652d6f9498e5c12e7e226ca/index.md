@@ -8,7 +8,8 @@ syndicated:
   url: https://www.swarmapp.com/roytang/checkin/5652d6f9498e5c12e7e226ca
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154209586448912
-tags: []
+tags:
+- japan2015
 ---
 
 (@Tokyo Metropolitan Government Building (東京都庁) 西新宿2-8-1)

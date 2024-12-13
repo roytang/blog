@@ -1,5 +1,5 @@
 ---
-date: 2016-11-23 15:11:00+08:00
+date: 2016-11-23 07:11:00
 dontinlinephotos: true
 source: facebook
 syndicated:
@@ -7,6 +7,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155114485048912
 tags:
 - fbreposts05
+- threads
 ---
 
 It's a long read, but pretty interesting.
