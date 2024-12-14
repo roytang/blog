@@ -12,6 +12,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/801771491914346496/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155117301863912
+tags:
+- webcomics
 ---
 
 <p><a href="http://joshua-wright.tumblr.com/post/153587074864/i-have-no-idea-where-this-is-going" class="tumblr_blog">joshua-wright</a>:</p><blockquote>

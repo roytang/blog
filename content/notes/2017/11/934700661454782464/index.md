@@ -1,5 +1,5 @@
 ---
-date: 2017-11-26 08:29:38+00:00
+date: 2017-11-26 08:29:38
 repost_source:
   name: bnharrison
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/934700661454782464/
+tags:
+- threads
 title: ''
 ---
 

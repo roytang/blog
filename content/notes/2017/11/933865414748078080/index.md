@@ -1,5 +1,5 @@
 ---
-date: 2017-11-24 01:10:39+00:00
+date: 2017-11-24 01:10:39
 repost_source:
   name: patio11
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/933865414748078080/
+tags:
+- threads
 title: ''
 ---
 
