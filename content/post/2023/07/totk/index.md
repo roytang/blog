@@ -54,3 +54,5 @@ Those are just the things the game gives me numbers for. There isn't even a way 
 I managed to stream this game a few times, including the actual shrine completion and the ending! [Here's a Youtube playlist](https://www.youtube.com/watch?v=HmZEoaks5DI&list=PLmU0vkKslGXj64cHD0ZHcozyX4vMPyry-).
 
 A bunch of screenshots below, there might be spoilers!
+
+{{< collections-embed albums zeldatotk >}}

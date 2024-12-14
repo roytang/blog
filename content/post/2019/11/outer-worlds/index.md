@@ -12,6 +12,7 @@ reviews:
   platforms:
   - ps4
 slug: outer-worlds
+dontinlinephotos: true
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1199147871741906949/
@@ -65,3 +66,4 @@ I usually want to go for 100% achievement completion, but this game had one that
 
 Screenshots follow!
 
+{{< collections-embed albums outerworlds >}}
