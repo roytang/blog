@@ -10,6 +10,7 @@ syndicated:
   url: https://roytang.tumblr.com/post/173485740290/mrkltpzyxm-wackd-hannahblumenreich-aunt
 tags:
 - spider-man
+- webcomics
 ---
 
 <p><a href="http://mrkltpzyxm.tumblr.com/post/173447843690/wackd-hannahblumenreich-aunt-may-does-right" class="tumblr_blog">mrkltpzyxm</a>:</p>

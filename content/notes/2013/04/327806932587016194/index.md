@@ -9,6 +9,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/327806932587016194/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152209203958912
+tags:
+- webcomics
+- jimbenton
 ---
 
 Your science can't explain everything! http://i.imgur.com/LW662wA.jpg
