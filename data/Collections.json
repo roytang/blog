@@ -30,6 +30,12 @@
         "feeds": false
     },
     {
+        "path": "threads/",
+        "label": "Threads",
+        "descrip": "Threads/long posts by other people saved from other places (mostly Twitter).",
+        "feeds": false
+    },
+    {
         "path": "quora/",
         "label": "Quora",
         "descrip": "Posts I have made to Quora",

@@ -1,0 +1,6 @@
+[params]
+    collection_name = "threads"
+    collection_title = "Threads"
+    collections_root = false
+    autoinlinephotos = false
+

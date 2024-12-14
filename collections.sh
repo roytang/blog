@@ -7,3 +7,4 @@ hugo --contentDir collections/stackexchange --config collections.toml,collection
 hugo --contentDir collections/webcomics --config collections.toml,collections/webcomics/webcomics.toml --destination /var/www/collections/webcomics
 hugo --contentDir collections/quora --config collections.toml,collections/quora/quora.toml --destination /var/www/collections/quora
 hugo --contentDir collections/sketchbook --config collections.toml,collections/sketchbook/sketchbook.toml --destination /var/www/collections/sketchbook
+hugo --contentDir collections/threads --config collections.toml,collections/threads/threads.toml --destination /var/www/collections/threads
