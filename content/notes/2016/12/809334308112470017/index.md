@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/809334308112470017/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155186684548912
+tags:
+- traffic
 ---
 
 Yung tipong umuurong lang yung pila ng taxi kasi sumusuko na unga mga nasa harap mo

@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/8434701052157953/
 - type: plurk
   url: https://plurk.com/p/96xuaz
+tags:
+- lifeprotips
 ---
 
 Age is no reason to grow up
