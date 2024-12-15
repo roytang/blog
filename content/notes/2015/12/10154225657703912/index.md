@@ -1,5 +1,5 @@
 ---
-date: 2015-12-02 22:44:00+08:00
+date: 2015-12-02 14:44:00
 dontinlinephotos: true
 source: facebook
 syndicated:
@@ -7,6 +7,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154225657703912
 tags:
 - fbreposts04
+- webcomics
 ---
 
 Kristine Casas Pam Lu pag may dog things kayo naiisip ko lol

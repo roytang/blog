@@ -1,7 +1,7 @@
 ---
 albums:
 - timeline
-date: 2016-11-30 14:19:00+08:00
+date: 2016-11-30 06:19:00
 source: facebook
 syndicated:
 - type: facebook
@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/803845989492789252/
 tags:
 - timeline-photos
+- arrowverse
 ---
 
 Natuwa ako, pero ang silly na yung Legends part is just an L haha

@@ -12,6 +12,7 @@ syndicated:
 tags:
 - fbreposts09
 - puns
+- phpuns
 ---
 
 at dahil disyembre na  :3    magegets nyo rin yan, sana  :) )

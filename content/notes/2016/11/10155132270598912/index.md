@@ -12,6 +12,7 @@ syndicated:
 tags:
 - fbreposts10
 - webcomics
+- phcomics
 ---
 
 {{% photos 10155132270598912%}}
