@@ -8,7 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1216112533871845376/
-title: Train Conductor Investigates a Sandwich by Ignacio Lopez
+title: 'Ignacio Lopez: Train Conductor Investigates a Sandwich'
 ---
 
 Witnessed the most amazing thing on the train to Edinburgh yesterday. A guy boarded in Wigan &amp; sat opposite me. He went to sleep for an hour.

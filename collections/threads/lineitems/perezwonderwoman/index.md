@@ -10,7 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1268095861042475009/
 tags:
 - comicbooks
-title: 'Gail Simone on George Perez and Wonder Woman'
+title: 'Gail Simone: On George Perez and Wonder Woman'
 ---
 
 Okay. This is going to take a bit of explanation and I will probably mess it up. Let me get all this out and hopefully it will make some sense. 

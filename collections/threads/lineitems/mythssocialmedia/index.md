@@ -11,7 +11,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1483692076558860290/
 tags:
 - socialmedia
-title: The Myths About Social Media by Michael Bang Petersen
+title: 'Michael Bang Petersen: The Myths About Social Media'
 ---
 
 Today, I stood before the Danish parliament on a public hearing on social media &amp; democracy

@@ -10,7 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1284556159211368448/
 tags:
 - lifeprotips
-title: Becoming a Creator and Breaking Rules by Kevin Lee
+title: 'Kevin Lee: Becoming a Creator and Breaking Rules'
 ---
 
 1/ There's a fascinating story of a normal guy named Allen Hemberger who became obsessed with the Alinea cookbook. He spent 5 years re-creating all 107 recipes. 
