@@ -1,5 +1,5 @@
 ---
-date: 2018-05-24 21:46:00+08:00
+date: 2018-05-24 13:46:00
 dontinlinephotos: true
 repost_source:
   name: Little Things PH
@@ -11,6 +11,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156658003143912
 tags:
 - fbreposts09
+- webcomics
+- phcomics
 ---
 
 gigadeth sana, para 1000 times better sa megadeth kaso existing na ehe ehe ehe

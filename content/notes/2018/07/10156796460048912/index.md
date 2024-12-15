@@ -1,5 +1,5 @@
 ---
-date: 2018-07-24 20:16:00+08:00
+date: 2018-07-24 12:16:00
 dontinlinephotos: true
 repost_source:
   name: Jerald Uy
@@ -11,6 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156796460048912
 tags:
 - fbreposts09
+- panels
 ---
 
 Never forget.     # SecretInvasion  (Marvel Comics)  # SONA2018
