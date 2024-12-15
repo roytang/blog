@@ -15,7 +15,7 @@ toc: true
 Kind of an eventful week:
 
 - China has once again been bullying PH ships in our own sovereign waters, triggering even more diplomatic protests.
-- In South Korean, president Yoon Suk Yeol made a late night declaration of martial law, something that hasn't happened there since 1979. Parliament members snuck past military personel and climbed walls in order to vote the rescind the martial law declaration not six hours after it happened. President Yoon then managed to survive an impeachment vote and there are still persistent calls for his resignation.
+- In South Korea, president Yoon Suk Yeol made a late night declaration of martial law, something that hasn't happened there since 1979. Parliament members snuck past military personel and climbed walls in order to vote the rescind the martial law declaration not six hours after it happened. President Yoon then managed to survive an impeachment vote and there are still persistent calls for his resignation.
 - In France, prime minister Barnier was ousted in a vote of no confidence, the first time since 1962. Barnier now holds the distinction of being the shortest-serving PM in French history.
 - The Notre Dame cathedral has reopened following the fire in 2019.
 - Just hours ago, Syrian rebels forced out dictator Assad from Damascus, from where he has ruled for 24 years.
@@ -38,7 +38,7 @@ On the blog: I managed to write 3,000+ words about [my recent Japan trip](/2024/
 
 ### Walking and Health
 
-From Oct 28 (Sunday) to Nov 02 (Saturday), Google Fit says I walked 48,069 steps. This is a far cry from the almost 180k steps I did in the last 2 weeks of November, but I did plan to take it easy after the exhausting trip. Besides, if I keep up this same pace for 2 out of the remaining 3 weeks of the year, that's already enough to beat last year's step count total, so I think I will be on a similar pace until next year.
+From Dec 01 (Sunday) to Dec 07 (Saturday), Google Fit says I walked 48,069 steps. This is a far cry from the almost 180k steps I did in the last 2 weeks of November, but I did plan to take it easy after the exhausting trip. Besides, if I keep up this same pace for 2 out of the remaining 3 weeks of the year, that's already enough to beat last year's step count total, so I think I will be on a similar pace until next year.
 
 ### Some Links of Interest
 
