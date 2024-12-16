@@ -1,5 +1,5 @@
 ---
-date: 2018-10-02 21:22:00+08:00
+date: 2018-10-02 13:22:00
 dontinlinephotos: true
 repost_source:
   name: The Geek Strikes Back
@@ -11,6 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156957221938912
 tags:
 - fbreposts09
+- puns
 ---
 
 The Geek Strikes Back

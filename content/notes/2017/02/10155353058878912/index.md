@@ -1,5 +1,5 @@
 ---
-date: 2017-02-10 07:26:00+08:00
+date: 2017-02-09 23:26:00
 dontinlinephotos: true
 repost_source:
   name: Beerkada Comics
@@ -11,6 +11,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155353058878912
 tags:
 - fbreposts09
+- webcomics
+- phcomics
 ---
 
 Feb 10, 2017, 620am: First comics to address this national crisis.

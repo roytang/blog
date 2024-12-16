@@ -1,5 +1,5 @@
 ---
-date: 2017-06-22 23:59:00+08:00
+date: 2017-06-22 15:59:00
 dontinlinephotos: true
 repost_source:
   name: Loading Artist
@@ -11,6 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155781415043912
 tags:
 - fbreposts09
+- webcomics
 ---
 
 Once upon your time   https://loadingartist.com/comic/once-upon-your-time/

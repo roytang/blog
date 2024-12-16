@@ -1,5 +1,5 @@
 ---
-date: 2017-02-02 15:33:00+08:00
+date: 2017-02-02 07:33:00
 dontinlinephotos: true
 repost_source:
   name: Incidental Comics
@@ -11,6 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155332232958912
 tags:
 - fbreposts09
+- webcomics
 ---
 
 New comic! Philosophers in the Rain   http://www.incidentalcomics.com/2017/02/philosophers-in-rain.html    I have a book out in May! Details here:   http://amzn.to/2jDxQsB
