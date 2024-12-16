@@ -5,7 +5,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155148636173912
-tags: []
+tags:
+- duterte
 ---
 
 Ang useless ng replies nung PCO =/ 

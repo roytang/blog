@@ -1,5 +1,5 @@
 ---
-date: 2017-12-05 23:43:00+08:00
+date: 2017-12-05 15:43:00
 dontinlinephotos: true
 source: facebook
 syndicated:
@@ -7,6 +7,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156238269433912
 tags:
 - fbreposts06
+- puns
 ---
 
 Only 90's kids will get this

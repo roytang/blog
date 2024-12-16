@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1202913824812064768/
+tags:
+- lifeprotips
 ---
 
 Protip: you dont have to scroll through all the memes

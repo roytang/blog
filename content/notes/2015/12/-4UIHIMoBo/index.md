@@ -11,7 +11,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154229635233912:0
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154229635243912
-tags: []
+tags:
+- bingo
 ---
 
 0 out of 36 :(

@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/11278244762361856/
 - type: plurk
   url: https://plurk.com/p/9d08gb
+tags:
+- rockband
 ---
 
 I named my Rock Band 3 band "Deathspore Thallid Go"
