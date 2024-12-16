@@ -1,4 +1,4 @@
-var articleSelector = "article";
+var articleSelector = 'article[data-testid="tweet"]';
 var usernameSelector = 'div[data-testid="User-Name"] a';
 var textSelector = 'div[data-testid="tweetText"]';
 
