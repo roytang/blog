@@ -1,5 +1,5 @@
 ---
-date: 2016-12-18 03:54:17+00:00
+date: 2016-12-18 03:54:17
 source: instagram
 syndicated:
 - type: instagram
@@ -13,6 +13,7 @@ syndicated:
 tags:
 - gaming
 - instagram
+- collections
 title: ''
 ---
 

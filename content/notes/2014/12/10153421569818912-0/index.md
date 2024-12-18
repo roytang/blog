@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10153421569768912
 tags:
 - mobile-uploads
+- pickups
 ---
 
 Not really a starbucks person, but somehow I now have two tumblers. Thanks [Lizbeth Jane Garcia](https://www.facebook.com/100000039030121)!

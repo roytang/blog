@@ -11,6 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10150437492848912
 tags:
 - nedroid
+- webcomics
 ---
 
 <p>Pizza again?</p>

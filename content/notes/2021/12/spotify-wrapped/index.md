@@ -8,6 +8,7 @@ syndicated:
 tags:
 - music
 - SpotifyWrapped
+- spotify
 title: Spotify Wrapped 2021
 ---
 

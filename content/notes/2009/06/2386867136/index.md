@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/114488835792
 tags:
 - nedroid
+- webcomics
 ---
 
 RT [@mariocarreon](https://twitter.com/mariocarreon/): shares http://nedroid.com/2006/11/beartato-56/ (The perfect bacon does not exist in this reality) http://plurk.com/p/14wch8
