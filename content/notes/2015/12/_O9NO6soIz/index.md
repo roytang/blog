@@ -11,7 +11,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154245417228912:0
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154245417243912
-tags: []
+tags:
+- starwars
 ---
 
 In a few days, this will no longer be complete

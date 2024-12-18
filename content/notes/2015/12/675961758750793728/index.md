@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/675961758750793728/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154245111953912
+tags:
+- starwars
 ---
 
 Star Wars marathon complete! Ready for TFA!
