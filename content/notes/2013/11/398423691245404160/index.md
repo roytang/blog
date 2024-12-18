@@ -13,3 +13,5 @@ tags:
 ---
 
 I'm at Amici (Mandaluyong City, Metro Manila) http://4sq.com/1iORvP0
+
+*(Foursquare location originally mistagged as Amici Megamall)*

@@ -14,6 +14,7 @@ syndicated:
   url: https://twitter.com/roytang/status/273444983267291136/
 tags:
 - games
+- beathazard
 ---
 
 Beat Hazard is fun, but good god my eyes, my eyes!

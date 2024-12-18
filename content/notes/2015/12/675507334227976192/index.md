@@ -1,5 +1,5 @@
 ---
-date: 2015-12-12 02:47:53+00:00
+date: 2015-12-12 02:47:53
 source: twitter
 syndicated:
 - type: twitter
@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154242911508912
 tags:
 - starwarsmarathon
+- starwars
 title: ''
 ---
 
