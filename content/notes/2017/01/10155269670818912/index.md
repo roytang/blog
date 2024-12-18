@@ -1,5 +1,5 @@
 ---
-date: 2017-01-12 15:55:00+08:00
+date: 2017-01-12 07:55:00
 dontinlinephotos: true
 repost_source:
   name: Skeptical Spectacles
@@ -11,6 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155269670818912
 tags:
 - fbreposts09
+- webcomics
 ---
 
 Beatrice the Biologist

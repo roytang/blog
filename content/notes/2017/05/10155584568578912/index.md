@@ -1,5 +1,5 @@
 ---
-date: 2017-05-01 03:21:00+08:00
+date: 2017-04-30 19:21:00
 dontinlinephotos: true
 repost_source:
   name: Nerds with Vaginas
@@ -11,6 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155584568578912
 tags:
 - fbreposts09
+- puns
 ---
 
 Nerds with Vaginas
