@@ -3,9 +3,11 @@
   "name": "Arnel Cayabyab",
   "url": "https://www.facebook.com/arnel919",
   "text": "Only one way to find out. Try it ala Mythbusters.. hehehe.",
-  "date": "2014-12-21 00:00:00",
+  "date": "2014-12-21 14:16:01 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153429241603912#10153429340868912",
+  "source": "05815ade",
+  "spam": false,
   "source_obj": {
     "id": "10153429340868912",
     "poster": "Arnel Cayabyab",
@@ -13,5 +15,6 @@
     "text": "Only one way to find out. Try it ala Mythbusters.. hehehe.",
     "attachments": [],
     "date": "Dec 21, 2014"
-  }
+  },
+  "reply_to": "https://www.facebook.com/stephen.roy.tang/posts/10153429241603912"
 }

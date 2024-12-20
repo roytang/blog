@@ -5,7 +5,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155203638138912
-tags: []
+tags:
+- duterte
 ---
 
 Naku, pwede ba yan? Kumukontra kay pangulo? Di bale, ang ambassador naman hindi talaga umaattend ng cabinet meeting. 

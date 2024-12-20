@@ -1,5 +1,5 @@
 ---
-date: 2016-12-21 02:42:52+00:00
+date: 2016-12-21 02:42:52
 repost_source:
   name: willripleyCNN
   type: twitter
@@ -11,6 +11,7 @@ syndicated:
 tags:
 - Manila
 - Christmas
+- duterte
 title: ''
 ---
 

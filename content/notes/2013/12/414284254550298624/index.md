@@ -12,6 +12,7 @@ syndicated:
 tags:
 - Jimparedes
 - puns
+- phpuns
 ---
 
 Tandaan. 

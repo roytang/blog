@@ -92,6 +92,12 @@ reviews:
   media: movies
   rating: 0.0
   title: The Social Network (2010)
+- date: '2010-08-31'
+  description: ''
+  hashtag: the-karate-kid-2010
+  media: movies
+  rating: 0.0
+  title: The Karate Kid (2010)
 - date: '2010-05-14'
   description: ''
   hashtag: legend-of-the-seeker-season-2
@@ -179,6 +185,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/123927447652035
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/137076182972821
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153429241603912
 tags:
 - movies
 - tv
@@ -256,7 +264,17 @@ Notes from my journal:
 Notes from my journal: 
 
 > The Expendables was okay, action-packed movie but with some lame lines/jokes that we believe were written by Stallone as he co-wrote the screenplay. We were imagining him going "oh, this is going to be so cool, the audience is going to love it", etc.
-> 
+
+---
+
+#### The Karate Kid (2010)
+
+(Watched this on Aug 31)
+
+<time id="10153429241603912">[2014-12-21 14:16] </time> In the Karate Kid (2010), is it really possible to do that backwards overhead kick he did to finish the tournament? (Jumping from only one leg even)
+
+[Comments](#comment-6e7820b2-40a8-4789-a072-e0abbc36ae21)
+
 
 ---
 
