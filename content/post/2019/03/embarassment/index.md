@@ -20,9 +20,7 @@ I do remember being an insecure and self-conscious teenager growing up, so maybe
 
 As an example, the first possibly "embarassing" moment I could think was the first office Christmas party I went to as a working person. Now, if you're from the Philippines, you know they have this thing where they expect new hires to give a "performance" during the office Christmas party, as portrayed in this comic:
 
-{{% img src="opismeyts.jpg" %}}
-
-Image credit: [Opismeyts](https://www.facebook.com/opismeyts)
+{{< collections-embed webcomics phcomics opismeyts >}}
 
 Now back then I was fresh out of college and not a very social animal. And they wanted us to do this ridiculous looking dance that was popularized by local noontime shows of the era. Performing in public was not something I wanted to do, and I had a lot of anxiety leading up to it, as I recall I even considered skipping the event completely. But of course I went through it anyway, and though I cringed at myself the whole time, I think I did learn to laugh at myself a little bit. I credit this event for helping me "lighten up" as it were, be more willing to plow straight through my anxieties, and be more open to doing ridiculous things in public. (I would still be averse to say, volunteering for such a thing, but there should now be a decent possibility of convincing me...)
 

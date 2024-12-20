@@ -12,6 +12,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156642546073912
 tags:
 - webcomics
+- nancy
 title: ''
 ---
 

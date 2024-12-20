@@ -12,6 +12,8 @@ tags:
 - dragonballsuper
 - dragonball
 - webcomics
+- panels
+- manga
 ---
 
 <p>Poor Piccolo lol</p>

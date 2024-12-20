@@ -10,5 +10,6 @@ syndicated:
   url: https://twitter.com/roytang/statuses/947128514033209345/
 tags:
 - webcomics
+- sarahscribbles
 title: ''
 ---

@@ -1,5 +1,5 @@
 {
-    "content": {{ .Content | jsonify }},
+    "content": {{ .Params.content_embed | default .Content | jsonify }},
     "title": {{ .Title | jsonify }},
     "permalink": {{ .RelPermalink | jsonify }},
     "attachments": [{{ $scratch := newScratch }}{{ $fileDir := .File.Dir }}{{ with .Resources.ByType "image" }}{{ range . }}{{ $scratch.Set "thumbnail" (.Resize "300x") }}{{ $thumb := $scratch.Get "thumbnail" }}

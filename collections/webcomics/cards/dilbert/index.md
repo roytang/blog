@@ -19,6 +19,10 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156422208493912
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156928694788912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1128704211510648834/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10157451451078912
 title: Dilbert by Scott Adams
 dontinlinephotos: true
 ---
@@ -66,3 +70,7 @@ I understand that Dilbert creator Scott Adams has revealed himself to be a probl
 [Comments](#comment-5a875b69-25fa-4310-9dc6-9ff5a8793f0e)
 
 ---
+
+<time id="1128704211510648834">[2019-05-16, 00:50]</time> Debating with people online be like
+
+{{< photos 1128704211510648834 >}}
