@@ -11,6 +11,7 @@ syndicated:
   url: https://roytang.tumblr.com/post/51641003814/paomagno-the-nature-of-ambition
 tags:
 - webcomics
+- incidental-comics
 ---
 
 <p><a class="tumblr_blog" href="http://paomagno.tumblr.com/post/40653123712/the-nature-of-ambition">paomagno</a>:</p>

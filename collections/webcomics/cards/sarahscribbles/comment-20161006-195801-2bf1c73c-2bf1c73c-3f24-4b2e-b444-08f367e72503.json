@@ -3,9 +3,11 @@
   "name": "Lorenz Ponce",
   "url": "https://www.facebook.com/lponce",
   "text": "So true.",
-  "date": "2016-10-06 00:00:00",
+  "date": "2016-10-06 19:58:01 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154969493663912#10154969507988912",
+  "source": "2bf1c73c",
+  "spam": false,
   "source_obj": {
     "id": "10154969507988912",
     "poster": "Lorenz Ponce",
@@ -13,5 +15,6 @@
     "text": "So true.",
     "attachments": [],
     "date": "Oct 6, 2016"
-  }
+  },
+  "reply_to": "https://www.facebook.com/stephen.roy.tang/posts/10154969493663912"
 }

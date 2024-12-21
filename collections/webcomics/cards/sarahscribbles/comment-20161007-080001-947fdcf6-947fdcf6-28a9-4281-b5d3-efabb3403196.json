@@ -3,9 +3,11 @@
   "name": "Mylee Ejercito",
   "url": "https://www.facebook.com/romancoat",
   "text": "I must share.",
-  "date": "2016-10-07 00:00:01",
+  "date": "2016-10-07 08:00:01 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154969493663912#10154973062248912",
+  "source": "947fdcf6",
+  "spam": false,
   "source_obj": {
     "id": "10154973062248912",
     "poster": "Mylee Ejercito",
@@ -13,5 +15,6 @@
     "text": "I must share.",
     "attachments": [],
     "date": "Oct 7, 2016"
-  }
+  },
+  "reply_to": "https://www.facebook.com/stephen.roy.tang/posts/10154969493663912"
 }
