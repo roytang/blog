@@ -24,7 +24,7 @@ body.collections_comics .entry_list img, body.collections_sketchbook .entry_list
     width: 90px;
 }
 
-body.collections_albums .pxgallery img {
+body.collections_albums .pxgallery img, body.collections_webcomics .pxgallery:has(:nth-child(2)) img {
     width: 120px;
 }
 

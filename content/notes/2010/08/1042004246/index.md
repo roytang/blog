@@ -11,6 +11,7 @@ syndicated:
   url: https://plurk.com/p/7a263c
 tags:
 - sinfest
+- webcomics
 ---
 
 <p>One of the better Sinfest strips. Click for full-size.</p>

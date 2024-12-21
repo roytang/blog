@@ -17,4 +17,8 @@ tags:
 - xkcd
 ---
 
-I just finished Borderlands today. Borderlands ONE. Relevant xkcd: https://xkcd.com/606/
+I just finished Borderlands today. Borderlands ONE.
+
+Relevant XKCD:
+
+{{< collections-embed webcomics xkcd cutting >}}
