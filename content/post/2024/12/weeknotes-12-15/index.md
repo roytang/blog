@@ -38,7 +38,7 @@ Still spent a lot of time catching up on things.
 
 - Playing: 
     - Happy to find out that **Indiana Jones and the Great Circle** is available on Game Pass AND that my PC can handle it! I'm only a couple of hours into the game though. 
-    - I've also been plaing some **Final Fantasy X-2** for whatever reason lol. 
+    - I've also been playing some **Final Fantasy X-2** for whatever reason lol. 
     - And I started trying out **Marvel Rivals**, though I am not yet very good at it. Also sporadically playing: Marvel Snap, Magic Arena, Street Fighter VI, King of Fighters XIV, etc.
     - Over on Mastodon, https://bitbang.social/@jibsaramnim was giving out copies of the Commandoes games of yore on Steam, and I happily availed the first two Commandoes games. I played through the first one back in the day, but the second is completely new to me. Hopefully I have some time to give them a try soon!
 
