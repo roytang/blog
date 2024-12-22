@@ -1,10 +1,12 @@
 ---
-date: 2022-12-18 22:45:30+00:00
+date: 2022-12-18 22:45:30
 dontinlinephotos: true
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/1604608825742331904/
+tags:
+- twitter
 ---
 
 It's amazing how much this epitomizes what's happening to Elon's twitter 

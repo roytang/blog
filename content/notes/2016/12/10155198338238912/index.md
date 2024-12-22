@@ -5,7 +5,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155198338238912
-tags: []
+tags:
+- duterte
 ---
 
 We shouldn't worry, "safe" naman daw tayo!

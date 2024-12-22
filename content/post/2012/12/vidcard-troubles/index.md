@@ -1,14 +1,6 @@
 ---
-title: "Video Card Troubles"
 date: 2012-12-17
-tags:
-- graphics-card
-- display-driver
-- visual-artifacts
-- questions
-- superuser
-- tech life
-- backpost
+dontinlinephotos: true
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/278819231125106688/
@@ -28,7 +20,23 @@ syndicated:
   url: https://twitter.com/roytang/statuses/280536161326362624/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10151974204013912
-dontinlinephotos: true
+- type: twitter
+  url: https://twitter.com/roytang/statuses/282479315965321218/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10151981675093912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/280643777062903808/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10151974533388912
+tags:
+- graphics-card
+- display-driver
+- visual-artifacts
+- questions
+- superuser
+- tech life
+- backpost
+title: Video Card Troubles
 ---
 
 ### Social Media Archive
@@ -76,5 +84,16 @@ I prefer Nvidia, but aside from preference, not many Radeon cards are being sold
 
 ---
 
+<time id="280643777062903808">[20:01]</time> Testing of the new video card: Skyrim, XCOM, Starcraft 2 all performed well.
+
+---
+
+<time id="282479315965321218">[2012-12-22 21:34] </time> I'm sure I was satisfied with my PC's performance before the vid card replacement, but now I kinda want an SSD and more RAM.
+
+[Comments](#comment-72141f01-270f-468f-ba57-dc8c939d840d)
+
+---
+
   [1]: http://www.youtube.com/watch?v=KP4tIKvtZ_Q&feature=g-crec-u
   [2]: https://i.stack.imgur.com/yWYGp.png
+

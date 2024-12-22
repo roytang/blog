@@ -10,6 +10,7 @@ tags:
 - mtg
 - mtgo
 - cube
+- holidaycube
 ---
 
 Free holiday cube? Why not, even if I have no idea what I'm doing lol. I always first pick power right?

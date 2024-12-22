@@ -13,6 +13,10 @@ syndicated:
   url: https://twitter.com/roytang/statuses/6779222709/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/208779742934
+- type: twitter
+  url: https://twitter.com/roytang/statuses/6800080768/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/207552761009
 title: When Your Wallet Gets Stolen
 type: post
 url: /2009/12/when-your-wallet-gets-stolen/
@@ -62,3 +66,9 @@ Hopefully the above story, information and tips help someone avoid any other suc
 ---
 
  [1]: /2008/12/my-phone-was-stolen/
+
+<time id="6800080768">[2009-12-19 00:03] </time> still took the bus home. Can't let the bad guys win!
+
+[Comments](#comment-7ec97acf-f461-4e8d-b812-d483a0357c73)
+
+---

@@ -1,10 +1,12 @@
 ---
-date: 2021-12-20 08:19:55+00:00
+date: 2021-12-20 08:19:55
 dontinlinephotos: true
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/1472844199091642369/
+tags:
+- threads
 ---
 
 Thread about NFTs and property 

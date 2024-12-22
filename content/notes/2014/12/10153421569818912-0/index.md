@@ -9,6 +9,7 @@ syndicated:
 tags:
 - mobile-uploads
 - pickups
+- collections
 ---
 
 Not really a starbucks person, but somehow I now have two tumblers. Thanks [Lizbeth Jane Garcia](https://www.facebook.com/100000039030121)!

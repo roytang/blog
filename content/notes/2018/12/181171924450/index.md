@@ -12,6 +12,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1074350552513941504/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1074362336142639105/
+tags:
+- threads
 ---
 
 <p><a href="http://mrkltpzyxm.tumblr.com/post/181161242785/breelandwalker-cuddleswithhiddles" class="tumblr_blog">mrkltpzyxm</a>:</p>
