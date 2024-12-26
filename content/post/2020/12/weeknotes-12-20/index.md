@@ -25,7 +25,7 @@ Speaking of the pandemic and the holiday, cases continue to rise locally. This t
 
 - I guess they were working with some sort of backlog due to the holiday sales, but my local gaming store took an entire week to ship me my copy of Fire Emblem Fates. It finally arrived last Friday so yay! I haven't started playing yet, beyond opening the package and checking that the cartridge works.
 - Instead this week, I've been doing a bit of achievement hunting in Civilization VI, since a new patch with balance updates dropped last week. I also tried resuming my Wasteland 2 game. It took me a while to get my bearings, but the game just seems so fiddly, I have a hard time getting into it.
-- MTG: Kaldheim previews started this week! We don't get any more until January though. The metal-themed previews reminded me of [something from 10 years ago](/2020/12/1339627168947601408/).
+- MTG: Kaldheim previews started this week! We don't get any more until January though. The metal-themed previews reminded me of [something from 10 years ago](/2010/09/25600138123/).
 
 **Watching Lately:** 
 

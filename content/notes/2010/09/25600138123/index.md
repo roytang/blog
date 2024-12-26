@@ -11,6 +11,7 @@ syndicated:
   url: https://plurk.com/p/7tyxok
 tags:
 - mtg
+- webcomics
 ---
 
 This is now my favorite Lotus Cobra is Evil comic. RT [@mtgcolorpie](https://twitter.com/mtgcolorpie/): New Lotus Cobra is Evil Comic - Rock On https://mtgcolorpie.com/2010/09/26/lotus-cobra-is-evil-rock-on/
