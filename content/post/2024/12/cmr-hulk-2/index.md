@@ -18,6 +18,9 @@ reviews:
   media: comics
   title: World War Hulk
   year: 2008
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/113719684516299628
 tags:
 - comics
 - complete-marvel-run
