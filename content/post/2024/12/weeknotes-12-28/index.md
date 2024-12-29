@@ -1,6 +1,9 @@
 ---
-date: 2024-12-29T10:25:33+08:00
+date: 2024-12-29 02:25:33
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/113733879542409506
 tags:
 - weeknotes
 title: Weeknotes 2024-12-28 Tempus Fugit
