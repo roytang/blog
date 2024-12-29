@@ -7,7 +7,21 @@ repost_source:
   url: https://mastodon.social/users/khobochka/statuses/113724300122190730
 resources:
 - src: 113725581401800630_1_5bbc43157b2356a5.png
-  title: '... Summing up the top UA groups, it looks like my server is doing 70% of
+  title: ''
+source: mastodon
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/113725581401800630/activity
+tags:
+- khobochka
+- reposts
+---
+
+
+
+{{< photos 113725581401800630 >}}
+
+> '... Summing up the top UA groups, it looks like my server is doing 70% of
     all its work for these fucking LLM training bots that don’t to anything except
     for crawling the fucking internet over and over again.
 
@@ -26,15 +40,3 @@ resources:
     If you try to rate-limit them, they’ll just switch to other IPs all the time.
     If you try to block them by User Agent string, they’ll just switch to a non-bot
     UA string (no, really). This is literally a DDoS on the entire internet.'
-source: mastodon
-syndicated:
-- type: mastodon
-  url: https://indieweb.social/users/roytang/statuses/113725581401800630/activity
-tags:
-- khobochka
-- reposts
----
-
-
-
-{{< photos 113725581401800630 >}}
