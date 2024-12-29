@@ -20,7 +20,7 @@ reviews:
   title: Agatha All Along
   year: '2024'
 - date: '2024-11-03'
-  description: 'Sazz'
+  description: Sazz
   hashtag: only-murders-in-the-building-s4
   media: tv
   rating: 3.5
@@ -32,14 +32,14 @@ reviews:
   media: tv
   rating: 5.0
   title: Boston Legal
-  year: '2004-2008'
+  year: 2004-2008
 - date: '2024-12-02'
   description: 'S3: Bruno Manheim, Doomsday. S4: Doomsday, Lex Luthor'
   hashtag: superman-and-lois
   media: tv
   rating: 4.0
   title: Superman and Lois S3 and S4
-  year: '2023-2024'
+  year: 2023-2024
 - date: '2024-12-19'
   description: ''
   hashtag: star-trek-lower-decks
@@ -52,26 +52,28 @@ reviews:
   hashtag: the-diplomat
   media: tv
   rating: 4.5
-  title: 'The Diplomat'
+  title: The Diplomat
   year: '2024'
 - date: '2024-12-27'
   description: ''
   hashtag: dandadan
   media: tv
   rating: 5.0
-  title: 'Dandadan S1'
+  title: Dandadan S1
   year: '2024'
 - date: '2024-12-27'
   description: ''
   hashtag: ranma-1-2
   media: tv
   rating: 5.0
-  title: 'Ranma 1/2 S1'
+  title: Ranma 1/2 S1
   year: '2024'
 source: letterboxd
 syndicated:
 - type: letterboxd
   url: https://letterboxd.com/hungryroy/film/the-ministry-of-ungentlemanly-warfare/
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/113735221099619621
 tags:
 - movies
 - tv
