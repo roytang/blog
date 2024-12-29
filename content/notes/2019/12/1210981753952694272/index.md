@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1210981753952694272/
+tags:
+- threads
 ---
 
 i've wrapped my first semester as a professor! i'm so impressed with my students and all the work they've made

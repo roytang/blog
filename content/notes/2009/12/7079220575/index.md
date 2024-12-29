@@ -1,7 +1,6 @@
 ---
 date: 2009-12-27 03:37:01
 source: twitter
-title: Superhero movie marathon on HBO
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/7079220575/
@@ -19,6 +18,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/7091226406/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/249954670878
+tags:
+- movies
+title: Superhero movie marathon on HBO
 ---
 
 watching Superman on HBO. Classic movie!

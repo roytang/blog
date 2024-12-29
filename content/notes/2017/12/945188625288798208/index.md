@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/945188625288798208/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156288365998912
+tags:
+- tv
 ---
 
 SHIELD is just knocking it out of the park this season

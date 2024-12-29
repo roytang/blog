@@ -8,6 +8,7 @@ syndicated:
 tags:
 - Self Improvement
 - Tech Life
+- duolingo
 title: Duolingo
 type: post
 ---

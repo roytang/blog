@@ -6,7 +6,10 @@ syndicated:
   url: https://twitter.com/roytang/statuses/945612143151292416/
 - type: twitter
   url: https://twitter.com/roytang/statuses/945687280798203904/
+tags:
+- lifeprotips
 ---
 
 Decision making tip: always add an option to “be paralyzed by indecision”. Example: go out for a walk, stay home and get some more work done, or be paralyzed by indecision?
-Spoiler: I chose to be paralyzed by indecision and take a nap. (I did the additional work after the nap)
+
+Spoiler: I chose to be paralyzed by indecision and take a nap. (I did the additional work after the nap)
