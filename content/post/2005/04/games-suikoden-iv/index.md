@@ -11,6 +11,7 @@ syndicated:
 tags:
 - Gaming
 - games
+- suikoden
 title: 'Games: Suikoden IV'
 type: post
 url: /2005/04/games-suikoden-iv/

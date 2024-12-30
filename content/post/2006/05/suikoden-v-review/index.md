@@ -7,6 +7,7 @@ reviews:
 tags:
 - Gaming
 - games
+- suikoden
 title: Suikoden V -- Review
 type: post
 url: /2006/05/suikoden-v-review/

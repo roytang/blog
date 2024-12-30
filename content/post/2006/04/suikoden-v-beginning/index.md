@@ -3,6 +3,7 @@ categories: []
 date: 2006-04-09 06:51:09
 tags:
 - Gaming
+- suikoden
 title: Suikoden V -- Beginning
 type: post
 url: /2006/04/suikoden-v-beginning/
