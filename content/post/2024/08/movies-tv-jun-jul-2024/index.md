@@ -111,7 +111,7 @@ reviews:
 - date: '2024-07-21'
   description: Victoria Neuman / Sage season. Still a good watch, but hews a bit too
     close to real-world events
-  hashtag: the-boys-season-4
+  hashtag: the-boys-s4
   media: tv
   rating: 3.5
   title: The Boys season 4

@@ -51,7 +51,7 @@ reviews:
   description: ''
   hashtag: the-diplomat
   media: tv
-  rating: 4.5
+  rating: 4.0
   title: The Diplomat
   year: '2024'
 - date: '2024-12-27'
@@ -109,13 +109,19 @@ Instead I used the last 3 months of the year to catch up on my TV viewing it see
 
 #### Agatha All Along
 
+★★★★
+
 I had low expectations for this one; honestly it was one of those instances where I was like 'Why the heck did they choose to make a series around this character?!?' But I was pretty satisfied with how it played out, and the Witches' Road song was pretty good and the whole ending bit was pretty clever. No real surprise as to the eventually revealed identity of "Teen", but it was executed well.
 
 #### Only Murders in the Building S4
 
+★★★½
+
 I've watched like 3 seasons of this show since [September](/2024/10/movies-tv-aug-sep-2024/#only-murders-in-the-building-s2-3), so they're all kinda blurring together for me so I have to remind myself that this is the season where they were solving Sazz' murder. I think the show manages to retain the same qualities more or less, though the connections being formed are getting zanier and zanier and less plausible, and they had to introduce a whole new wing of the Arconia so they can have more supporting characters/suspects that aren't just tired retreads of the previous residents. I can't believe they're still going for a season 5; one would think people would just stop living in the Arconia by now!
 
 #### Boston Legal
+
+★★★★★
 
 DENNY CRANE!! 
 
@@ -127,15 +133,21 @@ I don't know if a show like this could be made today, where the two protagonists
 
 #### Superman and Lois
 
+★★★★
+
 I watched S3 and S4 (final season) recently. It's wild coming back to this show after S2 and seeing the new Jonathan Kent actor and having to do a double-take. That being said, these last 2 seasons are great, giving us a pretty solid adaptation of popular Superman characters (despite all the whiny teenager bits), especially given all the constraints they had to work with. The Doomsday fights were absolutely brutal and Michael Cudlitz's rage-filled Lex Luthor was terrifying. Despite the shortened final season schedule they managed to end on a high note with a fantastic "rest of your life" sequence to give as much closure as the could give.
 
 It was ultimately a good decision to have this show happen in a separate universe than the rest of the Arrowverse, as it allowed for better stories to be told. For one thing, Jon Cryer's Lex Luthor would have not worked at all with this show's tone! That being said, this show ending is an ending to the Arrowverse as a while again, an end to a long era of live-action DC superhero shows. I should write an Arrowverse retrospective at some point.
 
 #### Star Trek: Lower Decks
 
+★★★★★
+
 Lower Decks' final season continues to be excellent; the seemingly disparate early adventures came together in a two-part finale that was both cameo-filled and showed the best of the Lower Decks crew. The series title isn't really appropriate anymore since the main characters have since been promoted and are spending more time on the bridge, so it was a good place to end. That being said, there is still a lot of space left to explore with the crew of the Cerritos; I suspect they are likely to come back in some form sooner or later.
 
 #### The Diplomat
+
+★★★★
 
 {{< photos Diplomat >}}
 
@@ -143,9 +155,13 @@ I mostly watched this because the second season just dropped and my Dad kept rav
 
 #### Dandadan
 
+★★★★★
+
 I binge-read the manga for this earlier this year (I am due to write some more manga reviews at some point) and enjoyed it a lot so I was happy that the anime was coming out. The animation in the show is good and super trippy and the other day I ended up watching [an effusive animation breakdown for episode 7](https://www.youtube.com/watch?v=Y-MgRJiVZ-Q) so it's not just me. The [opening theme by Creepy Nuts](https://www.youtube.com/watch?v=a4na2opArGY) is a bop! Season 1 ends with only 12 episodes and cuts right in the middle of one of my favorite story arcs so that was kinda annoying, but the show is already renewed for another season in 2025 so I am looking forward to that.
 
 #### Ranma 1/2
+
+★★★★★
 
 {{< photos Ranma >}}
 
