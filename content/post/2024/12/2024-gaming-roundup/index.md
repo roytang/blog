@@ -1,5 +1,6 @@
 ---
 date: 2024-12-30 01:43:07
+dontinlinephotos: true
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/113676179245262999
@@ -9,11 +10,12 @@ syndicated:
   url: https://indieweb.social/users/roytang/statuses/113677141893137941
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/113687708384791424
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/113739375801150162
 tags:
 - gaming
 title: My 2024 Gaming Roundup
 toc: true
-dontinlinephotos: true
 ---
 
 This is my personal 2024 gaming roundup! I usually include this sort of thing with my [yearnotes](/tags/yearnotes/), but I'm gonna start having them separate to spread the word count a bit. 
