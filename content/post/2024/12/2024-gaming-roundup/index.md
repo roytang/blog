@@ -114,6 +114,11 @@ PC Game Pass continues to be an excellent deal, despite a 2024 price bump.
         - [Duskmourne House of Horror](/2024/11/duskmourn/)
 - [Marvel Snap](/tags/marvel-snap)
     - Somehow I am still playing this game a lot and am still free-to-play, despite the terrible acquisition model. I even got all 4 of us brothers playing now, mostly so we could be in an alliance!
+    - Adding some Snap season recaps below:
+
+      {{< photos snap >}}
+
+    
 - [Eternal](/tags/eternalcardgame)
     - Not really playing this game a lot, but somehow it's still chugging along. Occasionally play it in bursts, and I sometimes try to go achievement hunting and completing single-player content. It feels like the game is close to shutting down, so if I want to complete achievements and the remaining SP content I really should do it in 2025.
 
