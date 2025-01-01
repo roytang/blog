@@ -93,11 +93,13 @@ Some entries carried over from 2024.
 | Mar04 | Daredevil: Born Again | Disney+ |
 | Apr22 | Andor S2 | Disney+ |
 | Jun24 | Ironheart | Disney+ |
+| Aug | Peacemaker S2 | Max |
 | Aug06 | Eyes of Wakanda | Disney+ |
 | Oct03 | Marvel Zombies | Disney+ |
 | Dec | Wonder Man | Disney+ |
 | TBA | Ranma 1/2 S2 | Netflix |
 | TBA | Dandadan S2 | Netflix |
+| TBA | Star Trek: Strange New Worlds S3 | |
 
 Shows I already started and hope to finish:
 
@@ -114,6 +116,7 @@ I won't be watching all of these in the cinema (ticket prices are high yo!) and 
 
 | <!-- -->    | <!-- -->    | <!-- --> |
 |-------------|-------------|----------|
+| Jan24 | Star Trek: Section 31 | |
 | Feb14 | Captain America: Brave New World | |
 | Mar07 | Mickey 17 | by Bong Joon-ho |
 | May02 | Thunderbolts* | |

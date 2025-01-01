@@ -75,7 +75,7 @@ Older releases I want to play:
 | Tales of Xillia 2 | PS3 | RPG | carried over from 2022! |
 | The Witcher 3: GOTY | Steam | RPG | carried over from 2023 |
 | Wasteland 3 | Steam | RPG | carried over from 2023 |
-| Persona 5 Tactica | PC Game Pass | RPG | |
+| [Persona 5 Tactica](/2024/02/persona-5-tactica/) | PC Game Pass | RPG | |
 
 Huh, not bad. Might have more "free" gaming time I can allot to whatever.
 
@@ -83,15 +83,15 @@ Huh, not bad. Might have more "free" gaming time I can allot to whatever.
 
 | <!-- -->    | <!-- -->    | <!-- -->    |
 |-------------|-------------|-------------|
-| Jan10 | Echo | Disney+ |
+| Jan10 | [Echo](/2024/01/movies-tv-jan-2024/#echo) | Disney+ |
 | Feb22 | Live-Action Avatar TLA | Netflix |
-| Feb27 | Shogun | Disney+ |
-| Apr12 | Fallout | Prime Video |
-| Apr?? | Star Trek Discovery S5 | ??? |
-| TBA | X-Men 97 | Disney+ |
-| TBA | The Acolyte | Disney+ |
+| Feb27 | [Shogun](/2024/04/shoguntv/) | Disney+ |
+| Apr12 | [Fallout](/2024/05/fallout-tv-show/) | Prime Video |
+| Apr?? | [Star Trek Discovery S5](/2024/05/star-trek-discovery/) | ??? |
+| TBA | [X-Men 97](/2024/05/xmen97/) | Disney+ |
+| TBA | [The Acolyte](/2024/08/movies-tv-jun-jul-2024/#the-acolyte) | Disney+ |
 | TBA | Star Wars Skeleton Crew | Disney+ |
-| TBA | Agatha | Disney+ |
+| TBA | [Agatha](/2024/12/movies-tv-oct-dec-2024/#agatha-all-along) | Disney+ |
 | TBA | What If S3 | Disney+ |
 | TBA | Penguin | HBO |
 
@@ -101,14 +101,14 @@ I am listing movies that look like they might be of interest, but I suspect I wo
 
 | <!-- -->    | <!-- -->    | <!-- --> |
 |-------------|-------------|----------|
-| Feb02 | Argyle | |
-| Feb14 | Madame Web | |
-| Mar01 | Dune: Part 2 | |
-| Mar08 | Kung Fu Panda 4 | |
-| Mar29 | Ghostbusters: Frozen Empire | |
-| May24 | Furiosa | |
+| Feb02 | [Argyle](/2024/10/movies-tv-aug-sep-2024/#argylle-2024) | |
+| Feb14 | [Madame Web](/2024/10/movies-tv-aug-sep-2024/#madame-web-2024) | |
+| Mar01 | [Dune: Part 2](/2024/04/movies-tv-feb-mar-2024/#dune-part-two-2024) | |
+| Mar08 | [Kung Fu Panda 4](/2024/06/movies-apr-may-2024/#kung-fu-panda-4-2024) | |
+| Mar29 | [Ghostbusters: Frozen Empire](/2024/10/movies-tv-aug-sep-2024/#ghostbusters-frozen-empire-2024) | |
+| May24 | [Furiosa](/2024/10/movies-tv-aug-sep-2024/#furiosa-a-mad-max-saga-2024) | |
 | Jun07 | Ballerina | |
-| Jul26 | Deadpool 3 | |
+| Jul26 | [Deadpool 3](/2024/08/movies-tv-jun-jul-2024/#deadpool-wolverine-2024) | |
 | Aug09 | Borderlands | |
 | Aug24 | Kraven the Hunter | |
 | Oct04 | Joker 2 | |

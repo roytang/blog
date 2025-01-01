@@ -6,7 +6,8 @@ syndicated:
   url: https://plurk.com/p/9wk9ys
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/182021511825789
-tags: []
+tags:
+- mtg
 ---
 
 Goblin Spirit Bomb!
