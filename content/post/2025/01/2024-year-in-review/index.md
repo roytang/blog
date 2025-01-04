@@ -1,6 +1,6 @@
 ---
 title: "2024 Year in Review"
-date: 2025-01-02T12:44:55+08:00
+date: 2025-01-10T12:44:55+08:00
 draft: true
 dontinlinephotos: true
 tags:
