@@ -15,6 +15,8 @@ That's right, I have spent 100% of 2025 so far at the hospital. My year is not o
 
 As such, this first weeknotes of the year will be brief and without any real format. Hopefully by next week I am in a better position to write more.
 
+I wrote last week that my usual New Year's Posts may be delayed; well, it looks like they will be delayed even more than I expected!
+
 I did manage a bit more than 30k+ steps this week in spite of all the problems. Also waiting at the hospital a lot meant I was able to complete this week's High Voltage event in **Marvel Snap**. Not much else in terms of reading, writing or playing though.
 
 Cheers, and I hope you are having a better 2025 so far than I am.
