@@ -1,6 +1,9 @@
 ---
-date: 2025-01-05T09:38:19+08:00
+date: 2025-01-05 01:38:19
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/113773258121079932
 tags:
 - weeknotes
 title: Weeknotes 2025-01-05 Not Off To A Great Start
@@ -48,6 +51,3 @@ Oh alright, maybe a few links from [the link blog](/links/), as a treat:
 - [2024 Movie Trailer Mashup](https://www.youtube.com/watch?v=CGkZIzE39q8)
 
     The latest in Sleepy Skunk's yearly trailer mashups
-
-
-
