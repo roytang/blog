@@ -1,9 +1,12 @@
 ---
-title: "My 2024 Year in Review"
-date: 2025-01-08T12:44:55+08:00
+date: 2025-01-08 04:44:55
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/113792845007380473
 tags:
 - yearnotes
+title: My 2024 Year in Review
 toc: true
 ---
 
