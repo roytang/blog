@@ -1,7 +1,6 @@
 ---
-title: "2024 Year in Review"
-date: 2025-01-10T12:44:55+08:00
-draft: true
+title: "My 2024 Year in Review"
+date: 2025-01-08T12:44:55+08:00
 dontinlinephotos: true
 tags:
 - yearnotes
@@ -10,37 +9,67 @@ toc: true
 
 This is a personal year in review. You can check the [yearnotes tag](/tags/yearnotes) for previous years-in-review. Last year's review is [here](/2024/01/2023-year-in-review/).
 
-### Essay-writing section
+### Other People's 2024
 
-Last year I said that "2022 felt like an extension of 2021" and actually, 2023 ended up being more of the same I think.
+The World: Continues to be horrible. I think the fact that Donald Trump was convicted of 34 felonies and yet still managed to get elected once again as President of the US after an electoral season with multiple surprise twists says it all about 2024. Democracies around the world faced numerous crises, from South Korea's failed martial law declaration to France's PM getting ousted in a no-confidence vote. OTOH, long-time Syrian tyrant Assad has been ousted from Damascus. Russia's war with Ukraine continues, as does Israel's ongoing genocide in Gaza. Once more, record high temperatures.
 
-For the world, it was another challenging year. The Israel and Hamas conflict added yet another geopolitical hotspot on top of Russia's still ongoing war with Ukraine. Elon Musk presided over the demise of Twitter. Record-breaking writer and actor strikes shut down Hollywood for a few months. Lots of layoffs in the tech world. Another year of record-high temperatures. Trump's legal troubles escalate. Elon and Zuck promised us a cage match and never pushed through. PinoyExchange suddenly shut down! "AI" / LLMs became the new big tech bubble / scam.
+The Philippines: The UniTeam alliance that dominated the last elections has fallen apart, as VP Duterte is now openly antagonistic against the president. Controversial Bambang mayor Alice Guo accused of being a Chinese spy. Duterte's favorite pastor Quiboloy becomes subject of US extradition and becomes a fugitive. Marcos bans POGOs. Lots of people glued to their screens watching Senate/Congressional hearings. China continues to harass us in our own territory. Our summer was punishingly hot.
 
-There were practically no more Covid restrictions in the country this year, though I still mask whenever I go to any crowded indoor place. I still stayed at home a lot though. Despite my being careful, I had [my second bout of Covid in October](/2023/10/2023-week-40/). No idea where I got it from, but at least no one else in the house got it too
+In Tech: Wordpress founder Matt Mullenwegg went publicly batshit crazy late in the year over a feud with WPEngine. So much "AI"-related hype and BS. Tiktok about to be banned from the US (unless saved by Trump or the Supreme Court). BlueSky is a big winner among post-Twitter competitors, soaking up most of the migrations from Elon's Nazi Bar. Cohost and Post have shut down. A Crowdstrike outage took out multiple systems worldwide, including many airlnes.
 
-In July, [my phone was stolen](/2023/07/stolen-phone/).
+In Culture: Akira Toriyama passed away at 68.
 
-In September, there was a big fire in our subdivision in the early morning, apparently someone was running an illegal garments shop. It made the news cycle for a couple of weeks, and the barangay outpost guarding the "crime scene" was only dismantled in the last week of 2023.
+### My 2024
 
-Also in September, I spent a week in the hospital taking care of my mom who underwent surgery.
+#### Medical Errands
 
-In November and December, I had to deal with a bunch of government bureaucracy hoping to get some financial assistance for upcoming family medical expenses, failing miserably.
+This year for me was mostly about medical errands. At the start of the year I was mostly managing one patient (Patient#1) with some support for a second one (Patient#2). Patient#1's medical concerns were expected to ease up as we head into 2025, but in December the universe decided we didn't have enough troubles and somehow our household managed to earn a third patient (Patient#3). There are only 4 people in the household! Sigh, I thought I would get to take it easy in 2025...
 
-Late in the year, my brother gifted us a new ref! The previous one was still working fine but was more than 20 years old - we had brought it over from the old house when we moved here in 2001. The new one promises to be more energy efficient, and sure enough, our electricity bill for December was lower by a nontrivial amount! 
+Patient#1 needed the most attention this year, with immunotherapy cycles every 21 days. Aside from the actual sessions, there were often labs and consultations to attend. I also spent a good amount of time trying to navigate the byzantine and constantly-changing pathways of trying to get financial/medical assistance from our government. 
 
-Financially, my savings dipped a bit, as could be expected, but the overall situation remains stable. This year's expenses were a bit higher than last year, mostly because I chipped in a bit to help with family medical expenses. Other than family stuff, my only major expenses of the year were replacing the stolen phone and also [buying new glasses](/2023/02/progressives/) early in the year. (I did also take a trip to Singapore early this year, but the flight expenses were booked late 2022.)
+In September, we had two scares which resulted in short hospital stays during back-to-back weeks. 
 
-Professionally, this was another hiatus year for me (see work stats below), same as last year. Repeating from last year: privilege, tired of capitalism, [wandering through life finding interesting things](/2021/06/life-philosophy/), etc. In last year's post I mentioned that "I have been thinking of already looking for new part-time or full-time work this coming year"; that did not come to pass. I also mentioned that "I do worry that maybe taking a third hiatus year in a row would be like crossing a rubicon that I can never come back from," which I guess I'm going to find out if that was true. I have still been thinking about looking for work again, but I can't make any promises.
+All-in-all, I guesstimate that for at least maybe roughly 90 days out of 365, I had to go to a hospital/clinic. That is around a quarter of the year!! I thought about parsing my Google Timeline export to see how accurate that guess is (I suspect the number to be higher), but I haven't gotten around to it yet and maybe will update this post when I do.
 
-Some projects I can talk about publicly: I [started scanning old family photographs](/2023/04/old-photographs/) and [I moved the Triviastorm trivia bot to Mastodon](/2023/02/triviastorm-mastodon/) after Twitter started to break down.
+#### Some Events
 
-I still felt like 2023 was a bad year overall for me, mostly due to the family medical issues that cropped up. (Not keen on sharing too many details but I do talk about this a bit in [Being Mortal](/2023/12/being-mortal/).) It's possible that I just let that sort of thing weigh too heavily on me though; there were also a lot of good things that happened to me this year; a lot of it was getting to see old friends and relatives more often.
+In February, we ditched SkyCable for Cignal. In March we had some renovations done in the house that had me booted from my room for a few days. In October I finally had enough and deactivated my Twitter accounts. 
+
+The highlight of my year was [my two-week vacation to Japan with friends in November](/2024/12/japan2024/). (Honestly I am already tempted to go back to Japan.) That and whenever my *pamangkins* come visit of course.
+
+At the end of 2024, one of my brothers and his family migrated to another country. This is a first for our family and it was a very emotional and bittersweet farewell during Christmas.
+
+#### Other Things
+
+Financially, 2024 took a larger chunk out of my savings than 2023 did. My bigger expenses for the year were the above-mentioned vacation and contributions to family medical expenses. Despite that, I am still in a pretty good spot savings-wise.
+
+Professionally, this was another hiatus year for me (see work stats below), same as last year. That is the fourth one in a row! Once again, I am glad to be blessed with the privilege to live a bit separate from the capitalist grind like this, but my anxiety about how I might find it difficult to actually get work again is still increasing. The constant need to suddenly need to be available to assist one of my patients makes the prospect of looking for full-time work again very challenging, though the increased expenses are making me more likely to consider it.
+
+When I'm not doing medical errands, I spent a lot of time on movies, tv shows, books and comics (see below). And also [website gardening](/2024/10/website-gardening/); I have some content reorganization I have been working on and was hoping to release in December, but alas life got in the way.
+
+At the end of the year, [botsin.space decided to shut down](https://muffinlabs.com/posts/2024/10/29/10-29-rip-botsin-space/), so [the Mastodon triviabot is no longer available](https://triviastorm.net/blog/post/farewell-botsinspace/). I plan to migrate it to a different server when I have the time.
+
+### 2024 Goals
+
+In [last year's checklist post](/2024/01/2024-checklist/), I set some goals for myself for 2024, let's see how I did:
+
+- Site changes:
+    - General redesign. DONE. I actually forgot already, but I [posted about it back in April](/2024/04/2024-site-update/).
+    - Notes cleanup: ONGOING. The website gardening post talks about this a bit.
+    - Collections: ONGOING. This is part of the content re-org I've been meaning to release.
+- General room cleaning: NOPROGRESS.
+- Archival work
+    - Continue/finish [scanning old photographs](/2023/04/old-photographs/): ONGOING. Kinda stalled.
+- Cash out at an Arena open: FAILED.
+- Gamedev: NOPROGRESS.
+    - Do a yearlong gamedev project: FAILED.
+- Travel to Japan (Nov): DONE!
 
 ### 2024 In Numbers
 
 Once again, the main reason this post took a while to come out is that I took some time to put these stats together.
 
-#### Work, Travel, Learning and Self Improvement
+#### Work, Travel, Learning
 
 - Hours worked: 0, same as last year.
     - This was my fourth hiatus year in a row! I am privileged that I can live this way, but I'm starting to worry about how this will be a problem if I ever decide to go working again.
@@ -112,20 +141,26 @@ Also, here's a wordcloud for 2024:
 - **Books** read: 8, same as last year
     - [The list](/lists/media/books/2024/), with 6 fiction and 2 nonfiction. (Same breakdown as last year!)
     - I picked up Brandon Sanderson's **Wind and Truth** late in the year, but have not made much progress into it.
+    - I wish I had the time/energy/inclination to read more books.
 - **TV/Streaming**
     - [Here's the list](/lists/media/tv/2024/) of all the TV shows I've written about this year.
-        - I wrote about 25 shows this year, down from 28 last year. A lot of them were very good!
+        - I wrote about 25 shows this year, down from 28 last year. A lot of them were very good! Some favorites for 2024: [Shogun](/2024/04/shoguntv/), [Gravity Falls](/2024/08/movies-tv-jun-jul-2024/#gravity-falls), [Boston Legal](/2024/12/movies-tv-oct-dec-2024/#boston-legal), [Star Trek: Lower Decks](/2024/12/movies-tv-oct-dec-2024/#star-trek-lower-decks), [Ranma 1/2](/2024/12/movies-tv-oct-dec-2024/#ranma-1-2), [Dandadan](/2024/12/movies-tv-oct-dec-2024/#dandadan).
 - **Comics**
     - I wrote about some comics this year: [the 2024 list](/lists/media/comics/2024/).
     - [The Complete Marvel Run](/tags/complete-marvel-run): Currently up to 14.54%, from 10.24% last year. Progress is slow.
     - Still true: I actually read a lot more comics than the above links imply, since I read more than I have time to write about. For Marvel, we will catch up eventually, Still need to write more about DC.
     - For non-Marvel/DC comics, my favorites this year were both by Daniel Warren Johnson: [Do A Powerbomb](/2024/03/powerbomb/) from 2023 and the current Image/Skybound **Transformers** ongoing, which I have yet to write about.
 - **Music**
-    - ##: TODO
-    - Music tracks played (Spotify/LastFM): 2029. (884 last year). See [listening stats here](/page/stats/listening/). 
-    - [Here's my 2023 Spotify Wrapped](/2023/12/111509729930849977/).
-    - This year's listening stats are a bit of an anomaly because for a good part of the year I had my Spotify account hooked up to the Amazon Echo in the living room which my mom basically uses as a radio, so it includes her track selections.
-    - I also still listened to a lot of music via YT, which I have no way of tracking.
+    - 2024 was a weird year for music. It seems like I listened to much less music than I used to.
+    - My Spotify Wrapped tells me I only listened to 789 minutes of music in 2024, way down from 4561 minutes in 2023:
+        {{< photos spotify >}}
+    - This year I found out that last.fm has a recap of the last year of listening. Mine is [here](https://www.last.fm/user/roytang/listening-report/year). It has a bunch of charts and everything, I love that sort of thing! Unfortunately, the data source for last.fm is my Spotify account, so I don't have a lot of data to work with. I'd have loved to have these charts when I was listening to music more often!
+        {{< photos lastfm >}}
+    - Music tracks played (Spotify/LastFM): 391 (2,029 last year). 
+    - This year I was also able to generate a year-end summary from Youtube Music, since I also often listen to music on Youtube:
+        {{< photos youtubemusic >}}
+    - Youtube only logged 1454 minutes of music in 2024. Even combined with the spotify total, that's still way down from 2023!
+    - I have a [listening stats page](/page/stats/listening/), but uh... I have to figure out how I want to merge the Spotify/Youtube stats first before updating for 2024.
 
 #### Gaming
 
@@ -157,12 +192,7 @@ I did my gaming writeup separately and ahead of time this year: [my 2024 gaming 
 #### Others
 
 - Steps/Activity:
-    - ##: TODO
-    - Fitbit: 2,158,167 steps, 1,683.32km, up almost 12% from last year, which is amazing considering [I stopped using my Fitbit in August](/2023/09/moving-on-fitbit/)!
-    - Google Fit: 1,023,998 steps since mid-August. I switched to this app to track my steps after giving up on Fitbit.
-    - Year total: 3,182,165 steps, or an average of 8.7k steps daily
-        - Again an amazing total, considering last year's Fitbit total was already my record for most number of steps logged in a year. I started the year averaging 7.5k steps per day in January and was averaging 10k steps per day by May. I mostly held that up for the rest of the year except for a few weeks of unavoidable interruptions. (Hospital stay, covid bout, holiday rest.) 
-        - Happily, I also saw my weight drop a bit this year, although I don't check it regularly, and I suspect I regained some of it again over the holidays.
+    - Year total: 3,222,672 steps, up from 3,182,165 steps in 2023. That's an average of 8,829 steps per day. Only a slight bump, but that's good enough for now. The trip to Japan helped, but I kind of slacked off in December.
 - Baptisms attended: 0, from 0 last year
 - Weddings attended: 0, from 0 last year
 - Wakes attended: 1; this was a friend's mom.
@@ -172,10 +202,10 @@ I did my gaming writeup separately and ahead of time this year: [my 2024 gaming 
     - Food delivery: 4, up from 1 last year. This was mostly because I got free discount codes from Globe rewards I think.
     - Express delivery: 3, from 1 last year. Again, this was just to send out stuff to some family members.
 - Bears defeated in single combat: 0
-- Tips received via [my profile on Ko-fi](https://ko-fi.com/roytang): None this year. 
+- Tips received via [my profile on Ko-fi](https://ko-fi.com/roytang): None this year. I'll still accept donations happily!
 
 ### The future
 
-One last statistic: this year's yearnotes is about 30% longer than last year's. 
+One last statistic: this year's yearnotes is about 33% shorter than last year's, probably because I decided to separate the gaming stats this year!
 
-For me, the year in review post is about the past year. My next post will be my 2024 checklist, where I talk about the future and things I'm looking forward to in the coming year.
+For me, the year in review post is about the past year. My next post will be my 2025 checklist, where I talk about the future and things I'm looking forward to in the coming year.

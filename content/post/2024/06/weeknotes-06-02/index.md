@@ -14,7 +14,7 @@ Another month, another chance for us to prove we deserve to exist under capitali
 
 ### The World
 
-Donald Trump has been foound guilty of 34 felonies for falsifying business records with the intent to influence elections. Or something like that. Predictably, many prominent Republicans have gone over the rails to support him in spite of this.
+Donald Trump has been found guilty of 34 felonies for falsifying business records with the intent to influence elections. Or something like that. Predictably, many prominent Republicans have gone over the rails to support him in spite of this.
 
 PAGASA has declared the onset of rainy season last week. Although after last weekend's typhoon dissipated we were back to scorching hot days.
 

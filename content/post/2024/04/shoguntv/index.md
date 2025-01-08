@@ -13,7 +13,7 @@ resources:
 reviews:
 - description: A fine adaptation with fantastic performances
   media: tv
-  rating: 4.5
+  rating: 5.0
   title: Shogun
 syndicated:
 - type: mastodon

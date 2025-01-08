@@ -34,7 +34,7 @@ Monday: At the hospital all day for immunotherapy. While I was there, I got a ca
 
 Tuesday: My dad asked me to help with some printing, and that was how I found out we were out of printer ink.
 
-Wednesday: Trudged over to the baranggay hall to get some papers.
+Wednesday: Trudged over to the barangay hall to get some papers.
 
 Thursday: Groceries, buying new printer ink, and in the evening I managed to sneak off and do [a quiz night](/2024/06/popquiz-rainbow/).
 
