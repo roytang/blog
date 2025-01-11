@@ -1,8 +1,11 @@
 ---
-date: 2025-01-11T18:48:48+08:00
+date: 2025-01-11 10:48:48
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/113809708445141878
 tags:
 - new-years-checklist
-title: "My 2025 Checklist"
+title: My 2025 Checklist
 toc: true
 ---
 
