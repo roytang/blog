@@ -1,13 +1,14 @@
 ---
-date: 2025-01-09T22:48:48+08:00
-draft: true
+date: 2025-01-11T18:48:48+08:00
 tags:
 - new-years-checklist
-title: "2025 Checklist: Things I'm Looking Forward To"
+title: "My 2025 Checklist"
 toc: true
 ---
 
 Something I've gotten used to as the New Year rolls in: make a checklist of things to do and things I'm looking forward to for the new year.  This is my personal list, but maybe you'll enjoy going through it too. Check out the [new-years-checklist tag](/tags/new-years-checklist/) for previous years.
+
+This entry is coming in quite late this year. Honestly given recent family events I am not yet feeling the "new year" spirit, but here we go...
 
 ### New year reminders
 
@@ -26,6 +27,7 @@ These are general reminders that I think anyone would find useful. (I generally 
     - Delete all files downloaded 2022 or earlier
     - Clean up the photos on your phone, tablet and computer
     - Backup/archive all important content
+    - Check your backups
     - Export your data from platforms like Google, FB, Instagram and Twitter
 - Make sure to see a doctor every so often
 - Follow up on the people who owe you money or things
@@ -42,19 +44,34 @@ These are general reminders that I think anyone would find useful. (I generally 
 
 ### My specific goals
 
-- SURVIVE!!
-- Everything else is secondary. Actually many of these things are carried over from last year.
-    - Site changes:
-        - Notes cleanup (will elaborate on this in a future blog post)
-        - Collections (this too!)
-    - General room cleaning. Specifics:
-        - Go through the boxes behind the bed, toss out what isn't needed
-        - Go through the drawers
-        - Toss out at least 6 booster boxes worth of MTG draft chaff
-        - Figure out what to do with the SmartThings things
-    - Archival work
-        - Continue/finish [scanning old photographs](/2023/04/old-photographs/)
-        - Continue my secret scanning projects
+This section is a thing I started in [2023](/2023/01/2023-checklist/) and I used [the 2024 yearnotes](/2025/01/2024-year-in-review/) to evaluate how well I did with last year's goals. These are more specific yes/no measurable goals than the ones above. I'll be a bit more ambitious this year and put some long-simmering ideas on here.
+
+First priority: Survive.
+
+Everything else is secondary:
+
+- Buy and ride a bike. This is something I've wanted to do for a while.
+- Take a solo foreign trip. This may just be me wanting to destress after my recent troubles, but I've been thinking about going to Japan again soon, by myself.
+- Start sketching again.
+- Listen to more music and more of it should be new to me. (If you look at [my listening stats](/page/stats/listening/), this would obviously be a big change.)
+- Submit a crossword to the NYT.
+- Start using OpenStreetMap instead of Google Maps where possible.
+- Release a podcast.
+- Gamedev: 1 Gamedev project
+- Site changes:
+    - Notes cleanup (will elaborate on this in a future blog post)
+    - Collections (this too!)
+- General room cleaning. Specifics:
+    - Go through the boxes behind the bed, toss out what isn't needed
+    - Go through the drawers
+    - Toss out at least 6 booster boxes worth of MTG draft chaff
+    - Figure out what to do with the SmartThings things
+- Archival work
+    - Continue/finish [scanning old photographs](/2023/04/old-photographs/)
+    - Continue my secret scanning projects
+- SECRET GOAL #1
+- SECRET GOAL #2
+
 
 ### Entertainment
 
@@ -77,7 +94,7 @@ Older releases I want to play:
 | Cyberpunk 2077 | Steam | RPG |  |
 | Final Fantasy XVI | Steam | RPG |  |
 
-Lol so much stuff carried over. I'll just add a couple of random hopefuls! Honestly there were also a number of good RPGs released in 2024 that I haven't had a chance to try, not sure if I'll have time!
+Lol so much stuff carried over. I'll just add a couple of random hopefuls! Honestly there were also a number of good RPGs released in 2024 that I haven't had a chance to try, not sure how to find the time!
 
 #### TV
 
