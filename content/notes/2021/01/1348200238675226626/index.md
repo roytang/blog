@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1348200832194420736/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1348201233622814720/
+tags:
+- duolingo
 ---
 
 I just noticed that [@duolingo](https://twitter.com/duolingo/) web has great keyboard support, even in this "click to select words" mode. You can type to select words from the list, and enter/backspace work as you expect

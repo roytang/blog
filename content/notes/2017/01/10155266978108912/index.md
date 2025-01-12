@@ -1,5 +1,8 @@
 ---
-date: 2017-01-11 14:31:00+00:00
+date: 2017-01-11 14:31:00
+resources:
+- src: 33_ways_to_stay_creative.jpg
+  title: Image recovered from wayback machine
 source: facebook
 syndicated:
 - type: facebook
