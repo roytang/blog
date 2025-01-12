@@ -1,9 +1,12 @@
 ---
-date: 2025-01-12T14:10:29+08:00
+date: 2025-01-12 06:10:29
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/113813954416128916
 tags:
 - weeknotes
-title: Weeknotes 2025-01-12 
+title: Weeknotes 2025-01-12
 toc: true
 ---
 
@@ -18,4 +21,3 @@ Not much going on in terms of reading (some comics here and there, a bit of **Wi
 No links to share this week, though honestly I have logged so many things into my holding area (see ["How I Process Links"](/2024/06/processing-links/)) as I am keeping my unread counts low. I am looking forward to writing/sharing more things soon.
 
 We are hoping some clarity comes to our current situation within the next couple of days, enough that I can return to some sort of normalcy. Again, one day at a time.
-
