@@ -1,0 +1,33 @@
+{
+  "id": "9932d590-c34d-4698-9ce4-998181ebd776",
+  "name": "Jamie Tanna",
+  "url": "https://www.jvt.me",
+  "text": "[Jamie Tanna](https://www.jvt.me) [liked this](https://www.jvt.me/mf2/2025/01/cswov/)",
+  "date": "2025-01-12 17:48:00 +0800",
+  "photo": "https://webmention.io/avatar/www.jvt.me/582e6a8900c20ade6b097bfa1d87e8b808f61dd5a83e457e371d5b1ead35cb17.png",
+  "source_url": "https://www.jvt.me/mf2/2025/01/cswov/",
+  "source": "webmention",
+  "spam": false,
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Jamie Tanna",
+      "photo": "https://webmention.io/avatar/www.jvt.me/582e6a8900c20ade6b097bfa1d87e8b808f61dd5a83e457e371d5b1ead35cb17.png",
+      "url": "https://www.jvt.me"
+    },
+    "url": "https://www.jvt.me/mf2/2025/01/cswov/",
+    "published": "2025-01-12T09:48:00+00:00",
+    "wm-received": "2025-01-12T10:01:22Z",
+    "wm-id": 1874483,
+    "wm-source": "https://www.jvt.me/mf2/2025/01/cswov/",
+    "wm-target": "https://roytang.net/2025/01/2024-year-in-review/",
+    "wm-protocol": "webmention",
+    "like-of": "https://roytang.net/2025/01/2024-year-in-review/",
+    "wm-property": "like-of",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://www.jvt.me/mf2/2025/01/cswov/"
+    }
+  }
+}
