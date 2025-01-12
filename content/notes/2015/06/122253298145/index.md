@@ -8,6 +8,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://roytang.tumblr.com/post/122253298145/pdlcomics-pretend-humans
+tags:
+- webcomics
 ---
 
 <p><a href="http://pdlcomics.tumblr.com/post/122185716235/pretend" class="tumblr_blog">pdlcomics</a>:</p>
