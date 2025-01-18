@@ -13,5 +13,3 @@ tags:
 ---
 
 Sept 1 #sketchdaily 244/365 
-
-{{< photos 1433044241735770115 >}}

@@ -22,7 +22,7 @@ tags:
 - Self-improvement
   - [Learning from failure](/2019/04/learning-from-failure/)
   - [Studying a large project codebase](/2019/03/studying-a-large-project-codebase/)
-  - [Finding Time to Learn new Things](/2019/01/finding-time-to-learn-new-things/)
+  - [Finding Time to Learn new Things](/2019/01/find-time-to-learn/)
   - [I still Google the most basic things](/2019/01/i-still-google-the-most-basic-things/)
   - [168 hours vs 10000 hours](/2018/11/168-hours-vs-10000-hours/)
   - [Learning a New Programming Language](/2016/12/learning-a-new-programming-language/)
@@ -37,9 +37,9 @@ tags:
 - Software career perils
   - [Burnout](/2020/02/burnout/)
   - [Learning from failure](/2019/04/learning-from-failure/)
-  - [Don&#39;t stay in the same place too long](/2019/03/dont-stay-in-the-same-place-too-long/)
+  - [Don&#39;t stay in the same place too long](/2019/03/dont-stay-too-long/)
 - Web Development
-  - [Browsers and HTTP](/2020/03/browsers-and-http/) 
+  - [Browsers and HTTP](/2020/03/browsers-http/) 
   - [Web Application Security](/2020/04/web-application-security/)
   - [Web Frameworks -- Open Source or Roll Your Own?](/2017/06/web-frameworks-open-source-or-roll-your-own/)
   - [Handling unexpected errors in web applications](/2017/02/handling-unexpected-errors-in-web-applications/)
@@ -48,7 +48,7 @@ tags:
   - [Version Issues](/2018/11/version-issues/)
   - [Integrating Open Source Libraries](/2017/02/integrating-open-source-libraries/)
 - Project management
-  - [Bespoke vs Product Development](/2020/04/bespoke-vs-product-development/)
+  - [Bespoke vs Product Development](/2020/04/bespoke-vs-product/)
   - [What to do in a production crisis](/2019/11/prod-crisis/)
   - [The Perils of Handover Documentation](/2019/11/handover-documentation/)
   - [Adding Developers to a Late Project](/2018/12/adding-developers-to-a-late-project/)
@@ -58,7 +58,7 @@ tags:
   - [Generalists and Specialists in Dev Teams](/2016/12/generalists-and-specialists-in-dev-teams/)
   - [Power Distance in Software Development](/2016/12/power-distance-in-software-development/)
 - Things I dislike 
-  - [Lies and marketing](/2019/03/lies-and-marketing/)
+  - [Lies and marketing](/2019/03/lies-marketing/)
 - Tools
   - Source control
     - [Git vs CVS](/2019/01/git-vs-cvs/)
@@ -79,7 +79,7 @@ tags:
     - [Running Python 2.x and 3.x on Windows](/2017/03/running-python-2-x-and-3-x-on-windows/)
   - SQL
     - [Is SQL a dying art?](/2019/11/sql-dying-art/)
-    - [Devnotes: PostgreSQL on the command line](/2019/08/devnotes-postgresql-on-the-command-line/)
+    - [Devnotes: PostgreSQL on the command line](/2019/08/devnotes-psql/)
   - React Native
     - [Upgrading a React Native Project](/2019/07/upgrading-a-react-native-project/)
   - C++
@@ -89,12 +89,12 @@ tags:
   - Others
     - [MarkLogic NoSQL](/2017/04/marklogic-nosql/)
 - Mini-Projects
-  - [Scraping Facebook](/2020/06/scraping-facebook/)
-  - [Python: Markov Chains](/2019/08/python-markov-chains/)
-  - [Devnotes: TT Miniproject (Django Rest Framework, Unit Testing, VueJS, Geocoding, Nightwatch e2e Testing)](/2019/08/devnotes-tt-miniproject/)
+  - [Scraping Facebook](/2020/06/scraping-fb/)
+  - [Python: Markov Chains](/2019/08/markov-chain/)
+  - [Devnotes: TT Miniproject (Django Rest Framework, Unit Testing, VueJS, Geocoding, Nightwatch e2e Testing)](/2019/08/devnotes-miniproject-tt/)
   - [A Quick Twitter App I Wrote](/2019/03/a-quick-twitter-app-i-wrote/)
   - [Hacktoberfest](/2019/02/hacktoberfest/)
-  - [TriviaStorm: Text and Answer parsing](/2019/02/triviastorm-text-and-answer-parsing/)
+  - [TriviaStorm: Text and Answer parsing](/2019/02/triviastorm-checking-answers/)
   - [Weekend Project: Twitter Trivia Bot](/2017/02/weekend-project-twitter-trivia-bot/)
   - [Django Blog Application](/2018/10/django-blog-application/)
   - [Weekend Project: Stack Bragger](/2010/07/weekend-project-stack-bragger/)

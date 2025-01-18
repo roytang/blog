@@ -13,5 +13,3 @@ tags:
 ---
 
 Kuribo’s shoe 252/365 #sketchdaily 
-
-{{< photos 1435976263475236872 >}}

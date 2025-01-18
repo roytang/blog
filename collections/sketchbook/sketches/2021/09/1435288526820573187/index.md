@@ -13,5 +13,3 @@ tags:
 ---
 
 Super Mario Sunshine #sketchdaily 250/365 
-
-{{< photos 1435288526820573187 >}}

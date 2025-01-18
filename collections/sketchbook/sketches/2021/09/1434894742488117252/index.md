@@ -13,5 +13,3 @@ tags:
 ---
 
 Bean #sketchdaily 248/365 
-
-{{< photos 1434894742488117252 >}}

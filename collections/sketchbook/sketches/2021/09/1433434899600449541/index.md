@@ -13,5 +13,3 @@ tags:
 ---
 
 Banana Peel #sketchdaily 245/365 
-
-{{< photos 1433434899600449541 >}}

@@ -19,8 +19,8 @@ tags:
 
 Red Lantern Kara Zor-el #sketchdaily 247/365 
 
-{{< photos 1434891084514009095 >}}
-
+<!-- 
 [22:50] I like how this turned out, so here’s the timelapse 
 
 {{< video width="320" height="320" src="https://video.twimg.com/ext_tw_video/1434891568155037698/pu/vid/720x720/V-VfK-RyA-43z36u.mp4?tag=12" >}}
+-->

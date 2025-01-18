@@ -15,5 +15,3 @@ tags:
 ---
 
 Todoroki #sketchdaily 255/365 
-
-{{< photos 1437398804966244354 >}}

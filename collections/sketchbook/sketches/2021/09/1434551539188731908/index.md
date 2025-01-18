@@ -13,5 +13,3 @@ tags:
 ---
 
 Strange. #sketchdaily 246/365 
-
-{{< photos 1434551539188731908 >}}

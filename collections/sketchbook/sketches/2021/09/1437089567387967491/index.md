@@ -13,5 +13,3 @@ tags:
 ---
 
 A croissant? #sketchdaily 253/365 
-
-{{< photos 1437089567387967491 >}}

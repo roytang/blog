@@ -13,5 +13,3 @@ tags:
 ---
 
 To infinity and beyond! #sketchdaily 254/365 
-
-{{< photos 1437126341149683713 >}}

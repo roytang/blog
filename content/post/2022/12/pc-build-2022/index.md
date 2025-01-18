@@ -10,7 +10,7 @@ tags:
 title: PC Build 2022
 ---
 
-As I mentioned in [the most recent weeknotes](/2022/11/weeknotes-11-28/), my desktop PC has been having crashing issues during the past couple of weeks, with increasing frequency. Since [most of this PC was put together 7 years ago](/2015/11/10154182594373912/), I was already planning on putting together a new one early next year, but the recent problems forwarded the timetable a bit, so I ended up going to my nearby computer store already last weekend.
+As I mentioned in [the most recent weeknotes](/2022/11/weeknotes-11-28/), my desktop PC has been having crashing issues during the past couple of weeks, with increasing frequency. Since [most of this PC was put together 7 years ago](/2015/11/2015-pc-build/), I was already planning on putting together a new one early next year, but the recent problems forwarded the timetable a bit, so I ended up going to my nearby computer store already last weekend.
 
 When I say "putting together", I don't mean buying the parts and assembling the PC myself, the time when I was into that is long past, these days I just canvas the parts I want, go to the shop and ask them to put it together for me. Unfortunately, not putting things together myself and being at a rush means I am at the mercy of whatever components are in stock at the computer store. When I got there most of the parts I listed were unavailable and I had to spend some time swapping out some components and even downgraded the video card a bit. I watched the guy put everything together and honestly felt happy about my decision not to try assembling the PC myself as there were so many microdecisions that I he did so quickly and I would have taken forever to figure out. 
 

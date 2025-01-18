@@ -13,5 +13,3 @@ tags:
 ---
 
 Spidey Claus #sketchdaily 251/365 
-
-{{< photos 1435951981600772099 >}}

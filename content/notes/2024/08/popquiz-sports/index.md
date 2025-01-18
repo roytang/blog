@@ -25,4 +25,3 @@ Rounds were:
 It turns out the rest of the teams had low expectations as well and we somehow still won despite no Hail Mary, no Ace, and using the joker power-up on our lowest-scoring round!
 
 [Event Page](https://www.facebook.com/events/912694420584628)
-

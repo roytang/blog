@@ -18,7 +18,7 @@ We hadn't attended PopQuiz in a couple of months, but the categories for this on
 2. Magic the Gathering - 9pts (x2 for joker. Hard carry!)
 3. Lord of the Rings - 8pts (x2 for successful ace)
 4. Game of Thrones - 6pts
-5. Discworld - 6pts (went surprisingly well considering [I had only read 1/4 of the books](/topics/discworld/!)
+5. Discworld - 6pts (went surprisingly well considering [I had only read 1/4 of the books](/topics/discworld/)!
 6. Dungeons and Dragons - 6pts
 
 I was worried after round 1 because both of the opposing teams used their jokers and did well while it was the worst round for us, but we turned it around pretty quickly and it ended quite close!

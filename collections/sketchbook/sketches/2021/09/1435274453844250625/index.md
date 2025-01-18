@@ -13,5 +13,3 @@ tags:
 ---
 
 Jiminy #sketchdaily 249/365 
-
-{{< photos 1435274453844250625 >}}
