@@ -165,7 +165,7 @@ Also, here's a wordcloud for 2023:
     - [My Steam Year in Review 2023](/2023/12/111605796533635333/)
     - Steam playtime this year: 499.18 hours (way down from 850.62 last year!)
     - Most played Steam games for the year:
-        - [Marvel SNAP](/2022/12/marvelsnap/) - 129.03h
+        - [Marvel SNAP](/2022/12/marvel-snap/) - 129.03h
         - [Gloomhaven](/2022/12/gloomhaven/) - 94.22h
         - [Baldur's Gate 3](/2023/12/bg3/) - 90.68h
         - The Witcher 3: Wild Hunt - 78.82h: Was originally planning to play through the DLCs since I had never played them before, but ended up only having time for the main game before the deluge of excellent 2023 releases came in

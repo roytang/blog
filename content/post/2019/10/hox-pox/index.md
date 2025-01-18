@@ -49,4 +49,4 @@ Actually, there are a lot of other details and questions arising out of the maxi
 
 PS I'm still angry about this (from House of X #1):
 
-{{< photo "2019/08/1159134490913988608/" >}}
+{{% collections-embed comics 1159134490913988608 %}}

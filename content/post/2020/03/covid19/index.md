@@ -285,7 +285,7 @@ Metro Manila hospitals are at or close to capacity; The Medical City advised tha
 
 In a sign of how severely out of touch they are, the Speaker of the House and the Executive Secretary posted a picture of themselves with other congressmen at the house (for deliberations on the emergency powers bill), while holding a manila paper banner between them with a message along the lines of "Like our doctors and frontliners, we came to work for you, so please stay at home." The internet responded... appropriately. "ANG KAKAPAL" trended on PH twitter for a while, and since they conveniently provided an image with a space for text, the [memes started rolling](https://twitter.com/scoutmagph/status/1241981421175975937).
 
-I was so frustrated at the government today, I ended up writing a tweetstorm rant that evolved into [this blog post](/2020/03/this-is-not-the-time-for-mediocrity/). I even broke my Facebook isolation to post it there as well. It helped my sanity a little to write it out (and to get positive dopamine hits from the likes and shares.)
+I was so frustrated at the government today, I ended up writing a tweetstorm rant that evolved into [this blog post](/2020/03/govt-action-covid19/). I even broke my Facebook isolation to post it there as well. It helped my sanity a little to write it out (and to get positive dopamine hits from the likes and shares.)
 
 As of tonight we have 462 confirmed cases (+82) and 33 deaths (+8). 
 

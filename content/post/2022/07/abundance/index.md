@@ -39,4 +39,4 @@ I suppose it helps to be comfortable with yourself, to be confident enough to pi
 
 ---
 
-Previously: [Time > Money (2007)](/2007/01/time-ampgt-money/), [Free Time (2010)](/2010/06/free-time/), [How Can I Become Less Bored With Life (2016)](/2016/02/how-can-i-become-less-bor), [I Feel Bored All The Time, What Should I Do? (2016)](/2016/03/i-feel-bored-all-the-time-i-h/)
+Previously: [Time > Money (2007)](/2007/01/time-ampgt-money/), [Free Time (2010)](/2010/06/free-time/), [How Can I Become Less Bored With Life (2016)](/collections/quora/how-can-i-become-less-bored-wi/), [I Feel Bored All The Time, What Should I Do? (2016)](/collections/quora/i-feel-bored-all-the-time-i-h/)

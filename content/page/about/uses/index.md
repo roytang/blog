@@ -29,15 +29,15 @@ This is a [uses page](https://uses.tech/).
 | NASH::Controller | 8Bitdo Ultimate Wireless | [2023](/2023/09/2023-week-38/#some-recent-purchases) |
 | NASH::OS | Windows 11 | [2022](/2022/12/pc-build-2022/) |
 | **The old desktop, GUILE** |
-| GUILE::Case | Silverstone Precision 10SST-PS10B | [2015](/2015/11/10154182594373912/) |
-| GUILE::Fan | 120mm internal aux fan | [2015](/2015/11/10154182594373912/) |
-| GUILE::PSU | Cooler Master B600 V2 600W | [2015](/2015/11/10154182594373912/) |
-| GUILE::CPU | Intel Core i5-4460 | [2015](/2015/11/10154182594373912/) |
-| GUILE::MB | ASUS H97ME | [2015](/2015/11/10154182594373912/) |
-| GUILE::RAM | 2x DDR3 Kingston HyperX Fury 8gb 1600 | [2015](/2015/11/10154182594373912/) |
+| GUILE::Case | Silverstone Precision 10SST-PS10B | [2015](/2015/11/2015-pc-build/) |
+| GUILE::Fan | 120mm internal aux fan | [2015](/2015/11/2015-pc-build/) |
+| GUILE::PSU | Cooler Master B600 V2 600W | [2015](/2015/11/2015-pc-build/) |
+| GUILE::CPU | Intel Core i5-4460 | [2015](/2015/11/2015-pc-build/) |
+| GUILE::MB | ASUS H97ME | [2015](/2015/11/2015-pc-build/) |
+| GUILE::RAM | 2x DDR3 Kingston HyperX Fury 8gb 1600 | [2015](/2015/11/2015-pc-build/) |
 | GUILE::Video card | Gigabyte AMD Radeon RX570 Gaming 4GB Ddr5 | [2019](/2019/11/new-video-card/) |
-| GUILE::SSD | Samsung 850Evo 250gb | [2015](/2015/11/10154182594373912/) |
-| GUILE::OS | Windows 10 | [2015](/2015/11/10154182594373912/) |
+| GUILE::SSD | Samsung 850Evo 250gb | [2015](/2015/11/2015-pc-build/) |
+| GUILE::OS | Windows 10 | [2015](/2015/11/2015-pc-build/) |
 | GUILE::Monitor | LG 19" 19EN43 | 2014ish |
 | **Other stuff** |
 | Laptop | Macbook Air 2017, 256gb SSD | 2018 |
@@ -50,3 +50,4 @@ This is a [uses page](https://uses.tech/).
 | Handheld | New 3DSXL | 2015 |
 
 Previously: [The Setup](/2010/06/the-setup/) | [The Setup 2018](/2018/03/the-setup-2018-edition/)
+

@@ -1,5 +1,5 @@
 ---
-date: 2022-11-30 16:01:00
+date: 2022-12-01 08:01:00
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/109433622709618629
