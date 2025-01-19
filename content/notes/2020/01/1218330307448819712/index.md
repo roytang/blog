@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1218330307448819712/
+tags:
+- broken-links
 ---
 
 I wrote about how as a kid I hid behind McDonald's instead of embracing my Filipino heritage for [@GENmag](https://twitter.com/GENmag/).

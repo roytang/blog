@@ -8,6 +8,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://roytang.tumblr.com/post/156035304330/incidentalcomics-day-planner-pre-order-my-book
+tags:
+- webcomics
 ---
 
 <p><a href="http://incidentalcomics.tumblr.com/post/155993853743/day-planner-pre-order-my-book-poster-shop" class="tumblr_blog">incidentalcomics</a>:</p>
