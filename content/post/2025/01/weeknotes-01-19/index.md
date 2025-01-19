@@ -12,6 +12,8 @@ toc: true
 
 Late last Friday, Patient#3 was finally discharged from the hospital, after being there since Jan 1. Yesterday was the first day of 2025 where I didn't have to go to the hospital! The ordeal isn't entirely over yet, as home care has its own challenges, as the patient requires oxygen support and is still more-or-less bedridden. (We have learned a lot about the local medical oxygen market over the past 48 hours!) But at least we are at home and more people can share the burden and presumably the food is better. We are hoping her condition improves over the next few days. We are taking it one day at a time.
 
+My load was light enough that I was able to sneak off for a bit of personal time and have dinner with some balikbayan friends in Ortigas in the middle of the week.
+
 I walked around 40k steps this week, a bit less than the previous week. Honestly I do not yet aim to get back to my 70k a week quota, though maybe I should try ramping it up.
 
 Reading: **Wind and Truth** moving along slowly. In terms of comics, I've been going through v1 of **Spectacular Spider-Man** from the 70s/80s, I'll probably write about that when the run is done.

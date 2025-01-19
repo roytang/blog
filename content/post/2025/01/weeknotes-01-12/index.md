@@ -12,6 +12,8 @@ toc: true
 
 This week managed to be a bit better than the last one, though I am still going to the hospital on a daily basis (still 100% attendance so far for 2025). The situation has stabilized for a bit, and I even have someone taking turns with me spending the night, so I don't have to sleep there all the time. It's not ideal, and we're still not sure how long this situation will continue, but we persist. Just taking it a day at a time.
 
+Some good news though: Patient#1's final immunotherapy session pushed through this past week. They had a little ceremony where she got to ring a bell and say some words and all that. From here it's just regular monitoring and no more big surprises down the line hopefully.
+
 I did manage to finally write and publish both [my 2024 yearnotes](/2025/01/2024-year-in-review/) and [my 2025 checklist](/2025/01/2025-checklist/) this week. And once again I have come to realize how much blogging calms and centers me and helps me deal with all the stressors. It's like even when there is a crisis going on I should try to squeeze in some blogging time because it's good for my mental health.
 
 I walked around 44k steps this week, most of it in-between the hospital buildings (or perhaps pacing the corridors). A far cry from my usual weekly target, but still an improvement over last week.

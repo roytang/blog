@@ -99,7 +99,7 @@ Visit the [Links page](/links/) for more links of interest.
 
     - This is [Discworld](/topics/discworld) book 6. This one took me a couple of weeks to get through, mostly because it was a physical book and I always have trouble finding a nice spot to read physical books with decent lighting especially at night. The story feels familiar, it's possible I have read this a long time ago before and already forgot, especially since my copy of the book isn't in the best condition. Nevertheless, it's still an entertaining read, one where Pratchett pokes fun at a bunch of fairy tale and hero's journey tropes.
 
-{{% photos wyrd %}}
+    {{% photos wyrd %}}
 
 (The rest of the books I read this week were digital.)
 
@@ -109,7 +109,7 @@ Visit the [Links page](/links/) for more links of interest.
 
 - #### Eric by Terry Pratchett
 
-    - This one is [Discworld](/topics/discworld) book 9. Read it on Kindle this time, and it's the shortest of the books I read the past week. Looks like Pratchett took the opportunity to describe the Discworld's version of demons and hell and at the same time find an excuse for getting Rincewind out of the Dark Dimensions he was trapped in at the end of Sourcery. Aside from parodying demons granting wishes, it also provides the Discworld's version of the apocalyptic prophesies, the Trojan war, and the beginning and end of the universe. The book doesn't tell us where Rincewind ends up afterwards, but I'm pretty sure he survived since I already [read one of the later Rincewind books earlier this year](/2022/12/last-continent/). A quick read, again finished in a day.
+    - This one is [Discworld](/topics/discworld) book 9. Read it on Kindle this time, and it's the shortest of the books I read the past week. Looks like Pratchett took the opportunity to describe the Discworld's version of demons and hell and at the same time find an excuse for getting Rincewind out of the Dark Dimensions he was trapped in at the end of Sourcery. Aside from parodying demons granting wishes, it also provides the Discworld's version of the apocalyptic prophesies, the Trojan war, and the beginning and end of the universe. The book doesn't tell us where Rincewind ends up afterwards, but I'm pretty sure he survived since I already [read one of the later Rincewind books earlier this year](/2022/03/last-continent/). A quick read, again finished in a day.
 
 - #### The Murder of Roger Ackroyd by Agatha Christie
 

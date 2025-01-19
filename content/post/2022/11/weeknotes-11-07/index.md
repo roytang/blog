@@ -57,3 +57,4 @@ Some stuff I liked from Twitter:
 
 - Wakanda Forever comes out this week! We'll probably watch it next Sunday.
 - I believe US midterms elections are also this week. While I'm not an American, US politics usually weighs heavily on the rest of us, so we pay attention.
+

@@ -84,3 +84,4 @@ I've written 20+ years worth of blog posts, I thought I'd try to resurface some 
 Nothing specific queued up this week. It's a free week! Will try to work on some of my side projects.
 
 Oh, **Phyrexia All Will Be One** drops on Magic Arena this week, so there's that. Will probably stream some drafts starting on Thursday.
+
