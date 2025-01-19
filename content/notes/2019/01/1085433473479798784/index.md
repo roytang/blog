@@ -1,11 +1,13 @@
 ---
-date: 2019-01-16 07:08:01+08:00
+date: 2019-01-15 23:08:01
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1085433473479798784/
 tags:
 - devdiscuss
+- dev
+- software-development
 ---
 
 Debugging via print stmts is a core skill that translates well across languages, frameworks, environments and toolsets. 
