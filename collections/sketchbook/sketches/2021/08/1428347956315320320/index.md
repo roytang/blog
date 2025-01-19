@@ -13,5 +13,3 @@ tags:
 ---
 
 “This doesnt seem like the best business model” #sketchdaily 231/365 
-
-{{< photos 1428347956315320320 >}}

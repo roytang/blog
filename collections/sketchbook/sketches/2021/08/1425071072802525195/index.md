@@ -13,5 +13,3 @@ tags:
 ---
 
 Old school gaming #sketchdaily 222/365 
-
-{{< photos 1425071072802525195 >}}

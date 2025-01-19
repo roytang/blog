@@ -13,5 +13,3 @@ tags:
 ---
 
 Bojack #sketchdaily 238/365 
-
-{{< photos 1430905427185704960 >}}

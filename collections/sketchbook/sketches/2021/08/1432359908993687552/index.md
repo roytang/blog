@@ -13,5 +13,3 @@ tags:
 ---
 
 Tennis dive #sketchdaily 241/365 
-
-{{< photos 1432359908993687552 >}}

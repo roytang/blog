@@ -13,5 +13,3 @@ tags:
 ---
 
 Civil War #sketchdaily 221/365 
-
-{{< photos 1424710746819203074 >}}

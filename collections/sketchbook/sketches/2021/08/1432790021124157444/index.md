@@ -13,5 +13,3 @@ tags:
 ---
 
 On the train #sketchdaily 243/365 
-
-{{< photos 1432790021124157444 >}}

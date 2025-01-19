@@ -13,5 +13,3 @@ tags:
 ---
 
 Stranded on a deserted island 240/365 #sketchdaily 
-
-{{< photos 1431963906583371776 >}}

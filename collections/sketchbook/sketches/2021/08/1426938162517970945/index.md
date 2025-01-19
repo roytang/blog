@@ -13,5 +13,3 @@ tags:
 ---
 
 Jump off #sketchdaily 226/365 
-
-{{< photos 1426938162517970945 >}}

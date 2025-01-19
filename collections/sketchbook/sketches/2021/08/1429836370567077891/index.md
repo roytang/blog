@@ -13,5 +13,3 @@ tags:
 ---
 
 Starface #sketchdaily 235/365 
-
-{{< photos 1429836370567077891 >}}

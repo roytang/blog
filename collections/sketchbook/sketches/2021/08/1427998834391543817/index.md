@@ -13,5 +13,3 @@ tags:
 ---
 
 Thinking #sketchdaily 229/365 
-
-{{< photos 1427998834391543817 >}}

@@ -13,5 +13,3 @@ tags:
 ---
 
 Bespin Cloud City #sketchdaily 219/365 
-
-{{< photos 1424412880116453377 >}}

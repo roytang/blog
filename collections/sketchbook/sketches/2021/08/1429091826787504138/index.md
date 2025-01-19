@@ -13,5 +13,3 @@ tags:
 ---
 
 The most dangerous beaver #sketchdaily 232/365 
-
-{{< photos 1429091826787504138 >}}

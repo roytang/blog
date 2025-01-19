@@ -13,5 +13,3 @@ tags:
 ---
 
 “You are quite articulate for a duck.” “That sir, is very close-minded.” #sketchdaily 230/365 
-
-{{< photos 1428004523549728770 >}}

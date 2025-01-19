@@ -47,9 +47,11 @@ Visit the [Links page](/links/) for more links of interest.
   
 ### My stuff:
 
-- Still [sketching](/albums/sketchbook/); My favorite sketch this week was this update + redraw of [a pencil sketch from 2016](/2016/08/BJCenKDhNW9/):
+- Still [sketching](/albums/sketchbook/); My favorite sketch this week was this update + redraw of a pencil sketch from 2016:
 
-{{< photo "2021/08/1423273687017394177/" >}}
+  {{< collections-embed sketchbook BJCenKDhNW9 >}}
+
+  {{< collections-embed sketchbook 1423273687017394177 >}}
 
 - **Watching:**
     - Movies: 

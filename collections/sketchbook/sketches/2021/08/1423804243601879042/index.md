@@ -14,5 +14,3 @@ tags:
 ---
 
 Nanaue #sketchdaily 218/365 #TheSuicideSquad 
-
-{{< photos 1423804243601879042 >}}

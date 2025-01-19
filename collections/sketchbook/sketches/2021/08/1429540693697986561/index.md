@@ -13,5 +13,3 @@ tags:
 ---
 
 En Dwi Gast (The Grandmaster) #sketchdaily 234/365 
-
-{{< photos 1429540693697986561 >}}

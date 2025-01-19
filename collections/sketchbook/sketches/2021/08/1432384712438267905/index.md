@@ -13,5 +13,3 @@ tags:
 ---
 
 Taco #sketchdaily 242/365 
-
-{{< photos 1432384712438267905 >}}

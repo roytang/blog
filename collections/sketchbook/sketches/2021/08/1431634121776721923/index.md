@@ -14,5 +14,3 @@ tags:
 ---
 
 Commander Owl #sketchdaily 239/365 #root 
-
-{{< photos 1431634121776721923 >}}

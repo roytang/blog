@@ -13,5 +13,3 @@ tags:
 ---
 
 Shark attack! #sketchdaily 236/365 
-
-{{< photos 1430236159586619395 >}}

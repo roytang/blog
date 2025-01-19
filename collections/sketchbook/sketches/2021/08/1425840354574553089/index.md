@@ -13,5 +13,3 @@ tags:
 ---
 
 Brewmaster #sketchdaily 224/365 
-
-{{< photos 1425840354574553089 >}}

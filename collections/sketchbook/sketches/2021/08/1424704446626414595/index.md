@@ -13,5 +13,3 @@ tags:
 ---
 
 Old man #sketchdaily 220/365 
-
-{{< photos 1424704446626414595 >}}

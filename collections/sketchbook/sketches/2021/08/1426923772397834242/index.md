@@ -13,5 +13,3 @@ tags:
 ---
 
 “Not sure you brought enough guys.” #sketchdaily 225/365 
-
-{{< photos 1426923772397834242 >}}

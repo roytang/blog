@@ -26,7 +26,8 @@ title: Weeknotes 2021-08-22
 
 - We hit [record-breaking case numbers](https://twitter.com/EdsonCGuido/status/1428628534327717889) and death rates towards the end of the 15-day ECQ period. In spite of this, the IATF in their wisdom has decided to loosen our quarantine level to ["MECQ"](https://twitter.com/cnnphilippines/status/1428594948010479617). People note that the described restrictions in this flavor of MECQ are mostly the same as with the just-ended ECQ, except the supposedly lesser quarantine level is an excuse to no longer hand out any ayuda.
 - In spite of the current covid surge, our erstwhile president chose to spend his precious time [affirming his bromance with the embattled DOH secretary](https://www.philstar.com/headlines/2021/08/21/2121650/even-if-i-stand-alone-duterte-says-hell-stand-duque-amid-coa-findings).
-- Philippine boxing legend and part-time senator Manny Pacquiao lost his match against Yordenis Ugas earlier today. He should take it as a hint and retire from the sport, like [he promised when he ran for the senate](/2016/09/BKrxCn5hQ3T/). Then maybe consider retiring from politics too.
+- Philippine boxing legend and part-time senator Manny Pacquiao lost his match against Yordenis Ugas earlier today. He should take it as a hint and retire from the sport, like he promised when he ran for the senate (See below). Then maybe consider retiring from politics too.
+    {{< collections-embed sketchbook BKrxCn5hQ3T >}}
 - Dominating the international news this week: The [botched US withdrawal from Afghanistan](https://edition.cnn.com/2021/08/16/politics/biden-afghanistan-speech/index.html), the Taliban promising to respect women's rights and the rights of those evacuating the country and almost immediately breaking those promises.
 
 ### Links of interest:

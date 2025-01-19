@@ -13,5 +13,3 @@ tags:
 ---
 
 Fidel 237/365 #sketchdaily 
-
-{{< photos 1430612081183580161 >}}

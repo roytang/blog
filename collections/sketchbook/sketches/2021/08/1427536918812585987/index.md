@@ -13,5 +13,3 @@ tags:
 ---
 
 Roman soldier #sketchdaily 228/365 
-
-{{< photos 1427536918812585987 >}}

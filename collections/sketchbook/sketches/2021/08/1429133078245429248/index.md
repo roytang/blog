@@ -13,5 +13,3 @@ tags:
 ---
 
 Spider-woman #sketchdaily 233/365 
-
-{{< photos 1429133078245429248 >}}

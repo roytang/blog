@@ -13,5 +13,3 @@ tags:
 ---
 
 Owls #sketchdaily 227/365 
-
-{{< photos 1427290672290095112 >}}

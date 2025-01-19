@@ -58,7 +58,7 @@ Sunshine provides some improvements over SM64:
 - Unsurprisingly, the most challenging parts of the game are the "secret" platforming stages where Mario is denied the use of FLUDD. These secrets usually have to be accessed at a certain point in the composite worlds. Although these secret stages are difficult, the blow is kind of softened by two things: if you die, you are returned to the start of the secret stage (instead of kicked out to the containing/hub world); and most of the stages will have one or more 1-ups available, with one easily available near the start of the stage. You're still going to need to grind a lot to finish these secret stages, but at least you're not likely to run out of lives doing so.
 - Also most of the game's worlds and settings are a lot more fun in terms of ambience.
 
-As mentioned, I did manage [to beat Super Mario Sunshine a couple of weeks ago](/2020/10/1314224120490389504/):
+As mentioned, I did manage to beat Super Mario Sunshine a couple of weeks ago:
 
 On Thu, Oct. 8, 2020, 11:20 p.m. [I wrote](https://twitter.com/roytang/statuses/1314224120490389504/): 
 

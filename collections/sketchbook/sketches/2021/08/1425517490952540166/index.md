@@ -13,5 +13,3 @@ tags:
 ---
 
 Soldier fly #sketchdaily 223/365 
-
-{{< photos 1425517490952540166 >}}
