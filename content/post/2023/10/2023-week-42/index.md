@@ -27,7 +27,7 @@ I think I am a day or two behind on [Inktober 2023](/tags/inktober2023/), need t
 
 - **Gaming**: 
     - Single player: 
-        - [Super Mario Bros Wonder has arrived](/2023/10/mario-wonder/#purchase)! (My preorder came with a tote bag.) I played a fair bit of it the past couple of days and am already in world 3, so I think that means I am 1/3rd of the way through the game already?
+        - [Super Mario Bros Wonder has arrived](/2023/11/mario-wonder/#purchase)! (My preorder came with a tote bag.) I played a fair bit of it the past couple of days and am already in world 3, so I think that means I am 1/3rd of the way through the game already?
         - Also spent some time catching up on **Baldur's Gate 3** and **Sea of Stars**. Advancing the main quests!
     - Online: Mostly just regular grinding in **Magic Arena** and **Marvel Snap**. **Eternal** has a new set out, which I want to try drafting, I just need to find the time for it.
 

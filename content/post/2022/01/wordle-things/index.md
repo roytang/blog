@@ -5,6 +5,8 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/107640718375236968
 - type: twitter
   url: https://twitter.com/roytang/status/1483240287762026500/
+- type: twitter
+  url: https://twitter.com/roytang/status/1480944129861648384/
 tags:
 - games
 - tech-life
@@ -51,4 +53,4 @@ If you enjoyed Wordle, here are some other variants / spoofs / spin-offs I've tr
 - [Absurdle](https://qntm.org/files/wordle/index.html): [an adversarial version of Wordle](https://qntm.org/wordle)
 - [Saltong](https://saltong.vercel.app/): the inevitable Filipino clone. I assume other languages have similar versions already too!
 - [Sweardle](https://www.sweardle.com/): only 4 letter swear words. Lol that's not gonna last
-- [Letterle](https://edjefferson.com/letterle/): lol just a ridiculous spoof. I [tried it once](/2022/01/1480944129861648384/)!
+- [Letterle](https://edjefferson.com/letterle/): lol just a ridiculous spoof. I tried it once and somehow got it in the first try. So idk if this is rigged or I was just ridiculously lucky or what

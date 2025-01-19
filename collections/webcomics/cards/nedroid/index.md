@@ -17,6 +17,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/425818797486163
 - type: twitter
   url: https://twitter.com/roytang/statuses/281371350633947136/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/140016479489234
 title: Nedroid / Beartato
 ---
 
@@ -47,3 +49,9 @@ title: Nedroid / Beartato
 [Comments](#comment-28a379f9-a942-4a9e-871c-fa2e7cfc7ed9)
 
 ---
+
+<time id="281427831068717057">[2013-01-01 12:44] </time> This happened today
+
+{{< photos newyear >}}
+
+[Nedroid Picture Diary](http://nedroid.com/2010/01/everything-changes/)
