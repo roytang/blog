@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/7791661015/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/252263437893
+tags:
+- lifeprotips
 ---
 
 "it's better to be safe than sorry" is such crap. You know what's better than being safe? Being AWESOME.

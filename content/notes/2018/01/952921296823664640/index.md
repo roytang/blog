@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/952921296823664640/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156340158573912
+tags:
+- quotes
 ---
 
 Time flows like a river, and history repeats

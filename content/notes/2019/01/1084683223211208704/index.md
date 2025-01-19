@@ -1,9 +1,11 @@
 ---
-date: 2019-01-14 05:26:47+08:00
+date: 2019-01-13 21:26:47
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1084683223211208704/
+tags:
+- threads
 ---
 
 Thread. Even Aragorn suffers Dunning Kruger 
