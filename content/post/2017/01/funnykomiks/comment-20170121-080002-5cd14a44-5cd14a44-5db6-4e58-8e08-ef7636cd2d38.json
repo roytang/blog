@@ -3,9 +3,11 @@
   "name": "Liza Budlong",
   "url": "https://www.facebook.com/liza.budlong.5",
   "text": "ay ok yan. meron din si Acee nyan e. naitago ko din",
-  "date": "2017-01-21 00:00:02",
+  "date": "2017-01-21 08:00:02 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155293024503912#10155294232618912",
+  "source": "5cd14a44",
+  "spam": false,
   "source_obj": {
     "id": "10155294232618912",
     "poster": "Liza Budlong",
@@ -13,5 +15,6 @@
     "text": "ay ok yan. meron din si Acee nyan e. naitago ko din",
     "attachments": [],
     "date": "Jan 21, 2017"
-  }
+  },
+  "reply_to": "https://www.facebook.com/stephen.roy.tang/posts/10155293024503912"
 }

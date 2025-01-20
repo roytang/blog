@@ -3,9 +3,11 @@
   "name": "Roy Tang",
   "url": "https://www.facebook.com/stephen.roy.tang",
   "text": "I did not like the series featured on this cover (Mantsa Hari ng Dagat)",
-  "date": "2017-01-20 00:00:00",
+  "date": "2017-01-20 23:21:01 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155293024503912#10155293029168912",
+  "source": "24c85453",
+  "spam": false,
   "source_obj": {
     "id": "10155293029168912",
     "poster": "Roy Tang",
@@ -13,5 +15,6 @@
     "text": "I did not like the series featured on this cover (Mantsa Hari ng Dagat)",
     "attachments": [],
     "date": "Jan 20, 2017"
-  }
+  },
+  "reply_to": "https://www.facebook.com/stephen.roy.tang/posts/10155293024503912"
 }

@@ -5,6 +5,8 @@ date: 2019-01-20 05:56:56
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1086867132988690433/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1085123142467506176/
 tags:
 - chess
 - bucket list
@@ -14,7 +16,10 @@ type: post
 
 Last week I was able to tick an item off my bucket list: I played chess in the park with strangers! (Yes, my bucket list items are that level lol)
 
-{{< note "2019/01/1085123142467506176/" >}}
+On [Jan. 15, 2019, 6:34 p.m.](https://twitter.com/roytang/statuses/1085123142467506176/) I wrote:
+
+> Achievement unlocked: play chess in the park with strangers (and lose badly)
+
 
 When watching TV/movies, I was always fascinated by those scenes where people are in the park playing chess and I wanted to play chess in the park with strangers too. In hindsight, it makes more sense that people would actually be playing with people they knew, but the idea of playing chess with strangers seemed fun to me for some reason.
 
