@@ -13,6 +13,9 @@ reviews:
   platform: gamepass
   rating: 5.0
   title: Indiana Jones and the Great Circle
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/113858793927433733
 tags:
 - gaming
 - games
