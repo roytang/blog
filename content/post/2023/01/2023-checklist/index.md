@@ -103,12 +103,12 @@ From last year's list of 20 items, I watched 11, have not yet seen 4, 4 got post
 | Mar 24 | John Wick Chapter 4 | [[DONE]](/2023/03/john-wick-chapter-4-2023/) |
 | Mar 31 | Dungeons & Dragons: Honor Among Thieves | [[DONE]](/2023/04/dungeons-dragons-honor-among-thieves-2023/) |
 | Apr 07 | The Super Mario Bros. Movie | [[DONE]](/2023/04/the-super-mario-bros-movie-2023/) |
-| May 05 | Guardians of the Galaxy vol 3 | [[DONE]](/2023/05/guardians-of-the-galaxy-vol-3-2023/) |
-| Jun 02 | Spider-Man: Across the Spider-Verse | [[DONE]](/2023/06/spider-man-across-the-spider-verse-2023/) |
+| May 05 | Guardians of the Galaxy vol 3 | [[DONE]](/2023/08/movies-may-aug-2024/#guardians-of-the-galaxy-vol-3-2023) |
+| Jun 02 | Spider-Man: Across the Spider-Verse | [[DONE]](/2023/08/movies-may-aug-2024/#spider-man-across-the-spider-verse-2023) |
 | Jun 09 | Transformers: Rise of the Beasts | [[DONE]](/2023/12/movies-sep-dec-2024/#transformers-rise-of-the-beasts-2023) |
-| Jun 16 | The Flash | [[DONE]](/2023/06/the-flash-2023/) |
+| Jun 16 | The Flash | [[DONE]](/2023/08/movies-may-aug-2024/#the-flash-2023) |
 | Jun 30 | Indiana Jones and the Dial of Destiny | [[DONE]](/2023/12/movies-sep-dec-2024/#indiana-jones-and-the-dial-of-destiny-2023) |
-| Jul 14 | Mission: Impossible – Dead Reckoning Part One | [[DONE]](/2023/07/mission-impossible-dead-reckoning-part-one-2023/) |
+| Jul 14 | Mission: Impossible – Dead Reckoning Part One | [[DONE]](/2023/08/movies-may-aug-2024/#mission-impossible-dead-reckoning-part-one-2023) |
 | Jul 21 | Oppenheimer | I haven't even seen Tenet yet |
 | Aug 18 | Blue Beetle | [[DONE]](/2023/12/movies-sep-dec-2024/#blue-beetle-2023) |
 | Sep 15 | A Haunting in Venice | [[DONE]](/2023/12/movies-sep-dec-2024/#a-haunting-in-venice-2023) |

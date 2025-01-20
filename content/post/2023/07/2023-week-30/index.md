@@ -40,7 +40,7 @@ I feel a bit lost, but hopefully things start picking up. Unfortunately, we are 
 
 - **Reading**: Finished reading: [Gideon the Ninth](/2023/07/gideon-the-ninth/). I also wrote about [what manga I've been reading lately](/2023/07/2023-manga-update/). Still reading a bunch of Marvel comics. *Fall of X* is on!
 
-- **Watching**: Finished up some animated movies I had left half-finished because I watched them with the niece: [Puss in Boots The Last Wish (2022)](/2023/07/puss-in-boots-the-last-wish-2022/) and [Soul (2020)](/2023/07/soul-2020/). Finishing Puss in Boots was relevant to our recent quiz night lol. Finished *Secret Invasion* and [was very disappointed](/2023/07/secret-invasion-tv/). *Strange New Worlds* [continues to be so good](/2023/07/110762663445495965/). I also watched the first couple of episodes of *Star Trek Prodigy*, not sure yet if I want to continue this.
+- **Watching**: Finished up some animated movies I had left half-finished because I watched them with the niece: [Puss in Boots The Last Wish (2022)](/2023/08/movies-may-aug-2024/#puss-in-boots-the-last-wish-2022) and [Soul (2020)](/2023/08/movies-may-aug-2024/#soul-2020). Finishing Puss in Boots was relevant to our recent quiz night lol. Finished *Secret Invasion* and [was very disappointed](/2023/07/secret-invasion-tv/). *Strange New Worlds* [continues to be so good](/2023/07/110762663445495965/). I also watched the first couple of episodes of *Star Trek Prodigy*, not sure yet if I want to continue this.
 
 ### Walking
 

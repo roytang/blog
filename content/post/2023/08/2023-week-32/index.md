@@ -47,7 +47,7 @@ Honestly I'm supposed to be working on a general site redesign, but that's kind 
 
 - **Reading**: Still reading: *Saving Time* by Jenny Odell. It's slow going as the book is very dense, but I like the ideas being discussed. Am close to the end of West Coast Avengers v1, though I was disappointed to find out that [the run is NOT complete on Marvel Unlimited](/2023/08/15o9ubc/). Feed reader backlog is currently at a very healthy 11 items.
 
-- **Watching**: Watched [Hidden Strike](/2023/08/hidden-strike-2023/) for some reason. *Strange New Worlds S2* finale was this week as well, I wrote [an episode-by-episode review of the season](/2023/08/strange-new-worlds-s2/).
+- **Watching**: Watched [Hidden Strike](/2023/08/movies-may-aug-2024/#hidden-strike-2023) for some reason. *Strange New Worlds S2* finale was this week as well, I wrote [an episode-by-episode review of the season](/2023/08/strange-new-worlds-s2/).
 
 ### Walking
 

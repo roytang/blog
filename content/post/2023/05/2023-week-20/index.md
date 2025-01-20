@@ -29,7 +29,7 @@ As May streaks to the end, the rains start coming more often, though mostly in t
 
 - **Reading**: I still have not yet selected a new book to read next. Reading a lot of comics still. Feed reader backlog: 97 items.
 
-- **Watching**: For some reason I decided to watch [Police Story 3](/2023/05/police-story-3-super-cop-1992/) earlier this past week. Also trying to catch up with *The Flash*. I am not happy with where the show is going, but it's the final season I figure I can power through it and get some closure! Also there are so many movies I want to watch!
+- **Watching**: For some reason I decided to watch [Police Story 3](/2023/08/movies-may-aug-2024/#police-story-3-super-cop-1992) earlier this past week. Also trying to catch up with *The Flash*. I am not happy with where the show is going, but it's the final season I figure I can power through it and get some closure! Also there are so many movies I want to watch!
 
 ### Walking
 

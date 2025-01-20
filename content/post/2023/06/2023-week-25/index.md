@@ -47,7 +47,7 @@ The site's backend has never been super performant - I often get alerts about us
 
 - **Reading**: Started reading another Discworld book but haven't gotten too far in yet. Still reading a bunch of old comics, a bit more than halfway through Avengers v1 at the moment. Feed reader backlog is at a manageable 31 items.
 
-- **Watching**: Went out to the cinemas to watch The Flash (2023) last Thursday. Here's [my review](/2023/06/the-flash-2023/). Still catching up with current series on TV. First episode of Secret Invasion has dropped; I initially thought I'd save up the episodes before binging them all at the end, but then the internet almost immediately gave me spoilers so I just watched it already. Also, I should probably start on the new season of *Strange New Worlds* as well.
+- **Watching**: Went out to the cinemas to watch The Flash (2023) last Thursday. Here's [my review](/2023/08/movies-may-aug-2024/#the-flash-2023). Still catching up with current series on TV. First episode of Secret Invasion has dropped; I initially thought I'd save up the episodes before binging them all at the end, but then the internet almost immediately gave me spoilers so I just watched it already. Also, I should probably start on the new season of *Strange New Worlds* as well.
 
 ### Walking
 

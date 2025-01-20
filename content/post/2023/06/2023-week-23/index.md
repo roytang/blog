@@ -30,7 +30,7 @@ Things happening I'm not particularly interested in: Trump indicted on federal c
 
 - **Reading**: Close to finishing the current Discworld book, progress has been slow. Reading a lot of comics still; current reading of Avengers v1 is up to #168 (not a great pace). Feed reader backlog is currently at a manageable 67 items.
 
-- **Watching**: Finally managed to watch [Spider-Man: Across the Spider-Verse](/2023/06/spider-man-across-the-spider-verse-2023/) this week, loved it! Also powered through the final season of *The Flash*, [RIP Arrowverse](/2023/06/rip-arrowverse/).
+- **Watching**: Finally managed to watch [Spider-Man: Across the Spider-Verse](/2023/08/movies-may-aug-2024/#spider-man-across-the-spider-verse-2023) this week, loved it! Also powered through the final season of *The Flash*, [RIP Arrowverse](/2023/06/rip-arrowverse/).
 
 ### Walking
 
