@@ -37,7 +37,7 @@ I did manage to start doing [Inktober 2023](/tags/inktober2023/) though.
 
 - **Reading**: Feed reader backlog is at a slightly-unhealthy 33 items. Still powering through Daredevil v1, currently well into Nocenti's run. Still haven't started any new books!
 
-- **Watching**: Being stuck in my room means I watched a lot of stuff this week. Caught up with my "poorly-reviewed superhero films" watchlist with [Fantastic Four (2015)](https://roytang.net/2023/10/fantastic-four-2015/), then caught up with this year's watch list with [Transformers: Rise of the Beasts (2023)](https://roytang.net/2023/10/transformers-rise-of-the-beasts-2023/) and [Blue Beetle (2023)](https://roytang.net/2023/10/blue-beetle-2023/). Also finished [Star Wars: Ahsoka](https://roytang.net/2023/10/ahsoka/) this week, and started on S2 of Loki. Also managed to rewatch more than two seasons of House, not in any logical order.
+- **Watching**: Being stuck in my room means I watched a lot of stuff this week. Caught up with my "poorly-reviewed superhero films" watchlist with [Fantastic Four (2015)](/2023/12/movies-sep-dec-2024/#fantastic-four-2015), then caught up with this year's watch list with [Transformers: Rise of the Beasts (2023)](/2023/12/movies-sep-dec-2024/#transformers-rise-of-the-beasts-2023) and [Blue Beetle (2023)](/2023/12/movies-sep-dec-2024/#blue-beetle-2023). Also finished [Star Wars: Ahsoka](/2023/10/ahsoka/) this week, and started on S2 of Loki. Also managed to rewatch more than two seasons of House, not in any logical order.
 
 ### Walking
 

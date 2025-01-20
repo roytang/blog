@@ -52,7 +52,7 @@ On the blog: I wrote about the [AI Ouroboros](/2023/09/ai-ouroboros/), mostly to
 
 - **Reading**: Feed reader backlog is at a slightly-unhealthy 28 items. I believe I have read close to 100 issues of Daredevil v1 this week. This brings me into Frank Miller's run, which is a marked improvement, the earlier issues were so bad, though [sometimes oddly prescient](/collections/comics/111138666200388561/). I really need to finish a book again soon though.
 
-- **Watching**: Managed to watch a few movies this past week: [47 Ronin (2013)](/2023/09/47-ronin-2013/), [Man on Fire (2004)](/2023/09/man-on-fire-2004/) and [Air (2023)](/2023/09/air-2023/). Also despite having a ton of other new content I could be watching, I started rewatching **House** this weekend, mostly because the Youtube algorithm kept giving me clips of the show. It's always been an excellent show for background watching, and seemed especially appropriate for someone under medical isolation.
+- **Watching**: Managed to watch a few movies this past week: [47 Ronin (2013)](/2023/12/movies-sep-dec-2024/#47-ronin-2013/), [Man on Fire (2004)](/2023/12/movies-sep-dec-2024/#man-on-fire-2004) and [Air (2023)](/2023/12/movies-sep-dec-2024/#air-2023). Also despite having a ton of other new content I could be watching, I started rewatching **House** this weekend, mostly because the Youtube algorithm kept giving me clips of the show. It's always been an excellent show for background watching, and seemed especially appropriate for someone under medical isolation.
 
 ### Walking
 

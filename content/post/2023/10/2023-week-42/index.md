@@ -33,7 +33,7 @@ I think I am a day or two behind on [Inktober 2023](/tags/inktober2023/), need t
 
 - **Reading**: Still powering through Daredevil v1, I think I am 30ish issues til the end of the volume. Looking forward to it, and honestly kind of tempted to keep going and read through the rest of the Daredevil main titles until the present day. The 2000s and up were great for the character, and I've already read most of the modern runs, so it shouldn't take too long maybe? Still haven't started any new books! Feed reader backlog is at a manageable 19 items, though I have added a bunch of new feeds this week, will see how that affects my pace.
 
-- **Watching**: Only watched one movie this week, and it was [The Equalizer (2014)](/2023/10/the-equalizer-2014/). Still watching a lot of TV. *Scrubs* binge is almost done with season 3. Trying to keep up with *Loki*, *Star Trek Lower Decks*. Finished *My Adventures with Superman* and started *Harley Quinn* season 4. Will probably finish a few of these then write a bunch of reviews together.
+- **Watching**: Only watched one movie this week, and it was [The Equalizer (2014)](/2023/12/movies-sep-dec-2024/#the-equalizer-2014). Still watching a lot of TV. *Scrubs* binge is almost done with season 3. Trying to keep up with *Loki*, *Star Trek Lower Decks*. Finished *My Adventures with Superman* and started *Harley Quinn* season 4. Will probably finish a few of these then write a bunch of reviews together.
 
 ### Walking
 
