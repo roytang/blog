@@ -9,6 +9,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10152740013213912
 tags:
 - mobile-uploads
+- toys
 ---
 
 There's a new avengers team!

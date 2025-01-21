@@ -1,5 +1,5 @@
 ---
-date: 2018-01-21 00:11:00+08:00
+date: 2018-01-20 16:11:00
 dontinlinephotos: true
 source: facebook
 syndicated:
@@ -7,6 +7,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156352576818912
 tags:
 - fbreposts03
+- duterte
 ---
 
 Madali lang naman pala magpaclear ng name, sali ka lang sa pdp laban
