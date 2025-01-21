@@ -35,7 +35,7 @@ After a few weeks of relatively good sleep discipline, I broke my sleep cycle ag
 
 - **Books**: Finished reading [The Truth](/2023/02/the-truth/) last night!
 
-- **Movies**: Watched a couple of kinda old movies this week: [Training Day (2001)](/2023/02/training-day-2001/) and [Daredevil (2003)](/2023/02/daredevil-2003/).
+- **Movies**: Watched a couple of kinda old movies this week: [Training Day (2001)](/2023/04/movies-jan-apr-2023/#training-day-2001) and [Daredevil (2003)](/2023/04/movies-jan-apr-2023/#daredevil-2003).
 
 - **TV**: Binged [Superstore S6](/2023/02/superstore-s6/). Also watched the [2023 Royal Rumble](/2023/01/royal-rumble-2023/).
 

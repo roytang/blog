@@ -3,85 +3,99 @@ date: 2023-12-30 12:48:01
 reviews:
 - date: '2023-09-18'
   description: ''
-  hashtag: the-italian-job
+  hashtag: the-italian-job-2003
+  year: 2003
   media: movies
   rating: '4.0'
   title: The Italian Job
 - date: '2023-09-29'
   description: ''
-  hashtag: 47-ronin
+  hashtag: 47-ronin-2013
+  year: 2013
   media: movies
   rating: '2.5'
   title: 47 Ronin
 - date: '2023-09-29'
   description: ''
-  hashtag: man-on-fire
+  hashtag: man-on-fire-2004
+  year: 2004
   media: movies
   rating: '3.0'
   title: Man on Fire
 - date: '2023-09-29'
   description: ''
-  hashtag: air
+  hashtag: air-2023
+  year: 2023
   media: movies
   rating: '4.0'
   title: Air
 - date: '2023-10-02'
   description: ''
-  hashtag: fantastic-four
+  hashtag: fantastic-four-2015
+  year: 2015
   media: movies
   rating: '2.0'
   title: Fantastic Four
 - date: '2023-10-04'
   description: ''
-  hashtag: transformers-rise-of-the-beasts
+  hashtag: transformers-rise-of-the-beasts-2023
+  year: 2023
   media: movies
   rating: '3.0'
   title: 'Transformers: Rise of the Beasts'
 - date: '2023-10-05'
   description: ''
-  hashtag: blue-beetle
+  hashtag: blue-beetle-2023
+  year: 2023
   media: movies
   rating: '3.5'
   title: Blue Beetle
 - date: '2023-10-10'
   description: ''
-  hashtag: tenet
+  hashtag: tenet-2020
+  year: 2020
   media: movies
   rating: '4.0'
   title: Tenet
 - date: '2023-10-20'
   description: ''
-  hashtag: the-equalizer
+  hashtag: the-equalizer-2014
+  year: 2014
   media: movies
   rating: '3.5'
   title: The Equalizer
 - date: '2023-10-31'
   description: ''
-  hashtag: a-haunting-in-venice
+  hashtag: a-haunting-in-venice-2023
+  year: 2023
   media: movies
   rating: '4.0'
   title: A Haunting in Venice
 - date: '2023-12-02'
   description: ''
-  hashtag: indiana-jones-and-the-dial-of-destiny
+  hashtag: indiana-jones-and-the-dial-of-destiny-2023
+  year: 2023
   media: movies
   rating: '3.5'
   title: Indiana Jones and the Dial of Destiny
 - date: '2023-12-26'
   description: ''
-  hashtag: they-cloned-tyrone
+  hashtag: they-cloned-tyrone-2023
+  year: 2023
   media: movies
   rating: '3.5'
   title: They Cloned Tyrone
 - date: '2023-12-26'
   description: ''
-  hashtag: the-creator
+  hashtag: the-creator-2023
+  year: 2023
   media: movies
   rating: '4.0'
   title: The Creator
 - date: '2023-12-31'
   description: ''
-  hashtag: the-fast-and-the-furious
+  hashtag: the-fast-and-the-furious-2001
+  year: 2001
   media: movies
   rating: '3.5'
   title: The Fast and the Furious

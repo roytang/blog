@@ -41,7 +41,7 @@ Anyway, here's a picture of some ducks:
 
 - **Reading**: Started reading *Four Thousand Weeks* by Oliver Burkman. Also, short update on my [Complete Marvel Run](/tags/complete-marvel-run/): Still proceeding, but not at the pace I'd hoped. I was hoping to finish *Thor v1* by March, but it seems likely that we're going to spill into April, which is fine I guess? It's not like this insane project has a deadline.
 
-- **Watching**: I am already into S6 of The Blacklist! I did however, take a short break after S5 to watch things like [Nightcrawler (2014)](/2023/03/nightcrawler-2014/) and [Abbott Elementary S1](/2023/03/abbott-elementary-s1/).
+- **Watching**: I am already into S6 of The Blacklist! I did however, take a short break after S5 to watch things like [Nightcrawler (2014)](/2023/04/movies-jan-apr-2023/#nightcrawler-2014) and [Abbott Elementary S1](/2023/03/abbott-elementary-s1/).
 
 ### Some Links
    

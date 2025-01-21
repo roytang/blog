@@ -35,7 +35,7 @@ Had a bit of a scare a few days ago when some image rendering artifacts (small b
 
 - **Reading**: Still mostly just comics. I am actually quite close to finishing the first volume of Thor! I am excitedly looking forward to another [Complete Marvel Run](/tags/complete-marvel-run/) update. Should start digging into an actual book again soon.
 
-- **Watching**: Actually managed to watch quite a bit this past week. Season 9 of *The Blacklist* still ongoing, albeit a bit slowly. Got started with *Star Trek Picard* season 3. Watched [Wrestlemania](/2023/04/wrestlemania-39/) with some friends. Rewatched [Thor (2011)](/2023/04/thor-2011/) and new-watched [Moneyball (2011)](/2023/04/moneyball-2011/) and [Murder Mystery (2023)](/2023/04/murder-mystery-2-2023/).
+- **Watching**: Actually managed to watch quite a bit this past week. Season 9 of *The Blacklist* still ongoing, albeit a bit slowly. Got started with *Star Trek Picard* season 3. Watched [Wrestlemania](/2023/04/wrestlemania-39/) with some friends. Rewatched [Thor (2011)](/2023/04/movies-jan-apr-2023/#thor-2011) and new-watched [Moneyball (2011)](/2023/04/movies-jan-apr-2023/#moneyball-2011) and [Murder Mystery 2 (2023)](/2023/04/movies-jan-apr-2023/#murder-mystery-2-2023).
 
 ### Walking
 

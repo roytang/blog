@@ -3,91 +3,106 @@ date: 2023-08-31 03:19:17
 reviews:
 - date: '2023-05-06'
   description: ''
-  hashtag: guardians-of-the-galaxy-vol-3
+  hashtag: guardians-of-the-galaxy-vol-3-2023
+  year: 2023
   media: movies
   rating: '4.5'
   title: Guardians of the Galaxy Vol. 3
 - date: '2023-05-15'
   description: ''
-  hashtag: police-story-3-super-cop
+  hashtag: police-story-3-super-cop-1992
+  year: 1992
   media: movies
   rating: '4.0'
   title: 'Police Story 3: Super Cop'
 - date: '2023-05-23'
   description: ''
-  hashtag: the-raid
+  hashtag: the-raid-2011
+  year: 2011
   media: movies
   rating: '4.0'
   title: The Raid
 - date: '2023-05-25'
   description: ''
-  hashtag: mystic-river
+  hashtag: mystic-river-2003
+  year: 2003
   media: movies
   rating: '5.0'
   title: Mystic River
 - date: '2023-06-04'
   description: ''
-  hashtag: the-mummy
+  hashtag: the-mummy-1999
+  year: 1999
   media: movies
   rating: '4.0'
   title: The Mummy
 - date: '2023-06-06'
   description: ''
-  hashtag: spider-man-across-the-spider-verse
+  hashtag: spider-man-across-the-spider-verse-2023
+  year: 2023
   media: movies
   rating: '5.0'
   title: 'Spider-Man: Across the Spider-Verse'
 - date: '2023-06-24'
   description: ''
-  hashtag: the-flash
+  hashtag: the-flash-2023
+  year: 2023
   media: movies
   rating: '3.5'
   title: The Flash
 - date: '2023-07-12'
   description: ''
-  hashtag: mission-impossible-dead-reckoning-part-one
+  hashtag: mission-impossible-dead-reckoning-part-one-2023
+  year: 2023
   media: movies
   rating: '4.5'
   title: 'Mission: Impossible - Dead Reckoning Part One'
 - date: '2023-07-24'
   description: ''
-  hashtag: puss-in-boots-the-last-wish
+  hashtag: puss-in-boots-the-last-wish-2022
+  year: 2022
   media: movies
   rating: '4.0'
   title: 'Puss in Boots: The Last Wish'
 - date: '2023-07-24'
   description: ''
-  hashtag: soul
+  hashtag: soul-2020
+  year: 2020
   media: movies
   rating: '3.5'
   title: Soul
 - date: '2023-08-10'
   description: ''
-  hashtag: hidden-strike
+  hashtag: hidden-strike-2023
+  year: 2023
   media: movies
   rating: '2.5'
   title: Hidden Strike
 - date: '2023-08-15'
   description: ''
-  hashtag: heart-of-stone
+  hashtag: heart-of-stone-2023
+  year: 2023
   media: movies
   rating: '3.0'
   title: Heart of Stone
 - date: '2023-08-21'
   description: ''
-  hashtag: young-frankenstein
+  hashtag: young-frankenstein-1974
+  year: 1974
   media: movies
   rating: '4.0'
   title: Young Frankenstein
 - date: '2023-08-22'
   description: ''
-  hashtag: street-kings
+  hashtag: street-kings-208
+  year: 2008
   media: movies
   rating: '2.5'
   title: Street Kings
 - date: '2023-08-23'
   description: ''
-  hashtag: lupin-the-third-the-castle-of-cagliostro
+  hashtag: lupin-the-third-the-castle-of-cagliostro-1979
+  year: 1979
   media: movies
   rating: '4.0'
   title: 'Lupin the Third: The Castle of Cagliostro'

@@ -31,7 +31,7 @@ title: 2023 Week 16
 
 - **Reading**: Still mostly just comics. Have delayed the next [Complete Marvel Run](/tags/complete-marvel-run/) update until this week, to include some newer series that are wrapping up. Also still need to read a new book!
 
-- **Watching**: Finished *The Blacklist* S9; will wait to write the review until after S10 finishes later this year. Finished [Star Trek Picard](/2023/04/picard-s3/). Watched [The Super Mario Bros Movie (2023)](/2023/04/the-super-mario-bros-movie-2023/) at the cinemas with some friends.
+- **Watching**: Finished *The Blacklist* S9; will wait to write the review until after S10 finishes later this year. Finished [Star Trek Picard](/2023/04/picard-s3/). Watched [The Super Mario Bros Movie (2023)](/2023/04/movies-jan-apr-2023/#the-super-mario-bros-movie-2023) at the cinemas with some friends.
 
 ### Walking
 

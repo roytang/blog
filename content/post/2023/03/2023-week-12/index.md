@@ -27,7 +27,7 @@ The trip itself deserves it's own post, which I'll try to get around to soon. Th
 
 - **Reading**: I brought a book with me during the trip, but didn't really dig into it. Comics ongoing etc.
 
-- **Watching**: Already into S9 of *The Blacklist*. Watched a couple of movies in cinemas during the weekend trip: [Suzume (2022)](/2023/03/suzume-2022/) and [John Wick: Chapter 4 (2023)](/2023/03/john-wick-chapter-4-2023/).
+- **Watching**: Already into S9 of *The Blacklist*. Watched a couple of movies in cinemas during the weekend trip: [Suzume (2022)](/2023/04/movies-jan-apr-2023/#suzume-2022) and [John Wick: Chapter 4 (2023)](/2023/04/movies-jan-apr-2023/#john-wick-chapter-4-2023).
 
 ### Walking
 

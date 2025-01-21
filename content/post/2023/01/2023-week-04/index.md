@@ -31,7 +31,7 @@ Sunday: Chaos in the household as all the pamangkins were here. Our family celeb
 
 - **Comics**: Finished [the next leg of my Complete Marvel Run, focused on Captain America](/2023/01/marvel-run-3-captain-america-etc/)
 
-- Only other new thing to note this week is that I watched [The Menu (2022)](/2023/01/the-menu-2022/).
+- Only other new thing to note this week is that I watched [The Menu (2022)](/2023/04/movies-jan-apr-2023/#the-menu-2022).
 
 ### Some Links
 

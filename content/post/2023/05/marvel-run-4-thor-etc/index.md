@@ -92,7 +92,7 @@ The highlight of the run is definitely Walt Simonson's run in the 80s which take
 
 The 90s were a weird time where they kept trying to change Thor's costume to be edgier or something? He had a battle armor version of his costume and a shredded 90s look with the sides of his shirt torn off, and towards the end of the run just seemed to give up and had Thor be shirtless all the time. 
 
-Overall, happy to have read this run. I've read a fair amount of modern Thor and going through this volume gave me a deeper appreciation of it and gave me a better understanding of the universe's foundations. I also appreciate most of Thor's Asgardian supporting characters, especially the Warriors Three. (Enough that it made rewatch [the 2011 movie](/2023/04/thor-2011/) so I could remember how they looked like in the MCU. Too bad they were killed off in *Ragnarok* D:) I think this is now my favorite volume among the four foundational Avengers volumes I have read for this series so far.
+Overall, happy to have read this run. I've read a fair amount of modern Thor and going through this volume gave me a deeper appreciation of it and gave me a better understanding of the universe's foundations. I also appreciate most of Thor's Asgardian supporting characters, especially the Warriors Three. (Enough that it made rewatch [the 2011 movie](/2023/04/movies-jan-apr-2023/#thor-2011) so I could remember how they looked like in the MCU. Too bad they were killed off in *Ragnarok* D:) I think this is now my favorite volume among the four foundational Avengers volumes I have read for this series so far.
 
 ### Other volumes
 

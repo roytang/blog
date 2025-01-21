@@ -27,7 +27,7 @@ After a long while, the Geekfight face-to-face quiz nights are back! [We attende
 
 - **Books**: Haven't started any new ones yet.
 
-- **Movies**: Watched [Ant-Man and the Wasp: Quantumania (2023)](/2023/02/ant-man-and-the-wasp-quantumania-2023/)
+- **Movies**: Watched [Ant-Man and the Wasp: Quantumania (2023)](/2023/04/movies-jan-apr-2023/#ant-man-and-the-wasp-quantumania-2023)
 
 - **TV**: Still watching The Blacklist, already halfway through S3! *Star Trek Picard* has already started though, might want to get into that.
 

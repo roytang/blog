@@ -34,7 +34,7 @@ I [wrote about my new progressive eyeglasses](/2023/02/progressives/).
 
 - **Books**: Haven't started any new ones yet.
 
-- **Movies**: Watched a couple of movies this week: [Fantastic Four: Rise of the Silver Surfer (2007)](/2023/02/fantastic-four-rise-of-the-silver-surfer-2007/) and [Lost Bullet (2020)](/2023/02/lost-bullet-2020/).
+- **Movies**: Watched a couple of movies this week: [Fantastic Four: Rise of the Silver Surfer (2007)](/2023/04/movies-jan-apr-2023/#fantastic-four-rise-of-the-silver-surfer-2007) and [Lost Bullet (2020)](/2023/04/movies-jan-apr-2023/#lost-bullet-2020).
 
 - **TV**: For some reason decided to start watching The Blacklist again (via NF), a series I dropped early on in 2014. I always enjoy James Spader's performances, let's see how far I get this time.
 

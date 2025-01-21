@@ -107,10 +107,10 @@ Also, here's a wordcloud for 2023:
     - Watched 8 movies in the cinema this year and surprisingly only half of those were superhero ones. IDK if I will keep it up next year, I have kind of soured on the cinema experience due to price. Doesn't seem worth it (compared to just streaming) unless you're going out with friends
     - I managed to watch all but 4 of [the films on my 2023 checklist](/2023/01/2023-checklist/#movies) this year, though not all of them in the cinema. Two were delayed to 2024.
     - My favorite films I watched this year: 
-        - [Good Will Hunting (1997)](/2023/01/letterboxd-review-337410751/)
-        - [Suzume (2022)](/2023/03/suzume-2022/)
-        - [Dungeons & Dragons: Honor Among Thieves (2023)](/2023/04/dungeons-dragons-honor-among-thieves-2023/)
-        - [The Super Mario Bros Movie (2023)](/2023/04/the-super-mario-bros-movie-2023/): I have rewatched this so many times at home because the nephews love it
+        - [Good Will Hunting (1997)](/2023/04/movies-jan-apr-2023/#good-will-hunting-1997)
+        - [Suzume (2022)](/2023/04/movies-jan-apr-2023/#suzume-2022)
+        - [Dungeons & Dragons: Honor Among Thieves (2023)](/2023/04/movies-jan-apr-2023/#dungeons-dragons-honor-among-thieves-2023)
+        - [The Super Mario Bros Movie (2023)](/2023/04/movies-jan-apr-2023/#the-super-mario-bros-movie-2023): I have rewatched this so many times at home because the nephews love it
         - [Guardians of the Galaxy vol 3 (2023)](/2023/08/movies-may-aug-2024/#guardians-of-the-galaxy-vol-3-2023)
         - [Spider-Man: Across the Spider-Verse (2023)](/2023/08/movies-may-aug-2024/#spider-man-across-the-spider-verse-2023)
     - Something new this year: I made [a Letterboxd account](https://letterboxd.com/hungryroy/films/diary/)! All my 2023 watched movies are logged there, then synced back to this site.

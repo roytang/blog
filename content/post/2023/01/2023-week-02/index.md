@@ -31,7 +31,7 @@ Metro Manila traffic is another con to the idea of playing paper Magic regularly
 
 **Gaming**: I have mostly finished **Citizen Sleeper**, but I am not yet achievement complete, which requires me doing another run or two, which I'm not sure I have time for, so I'll probably write the review for it already this week so I can move on. 
 
-**Media Diet**: Watched my first few movies of the year this past week: [Good Will Hunting](/2023/01/letterboxd-review-337410751/), [The Pale Blue Eye](/2023/01/letterboxd-review-338827558/) and [Battle of the Super-Sons](/2023/01/letterboxd-review-339378547/). Setting it up so my reviews on letterboxd get syndicated back here to the site was a good call, made it much easier to post movie reviews. Should probably do the same for goodreads and books.
+**Media Diet**: Watched my first few movies of the year this past week: [Good Will Hunting](/2023/04/movies-jan-apr-2023/#good-will-hunting-1997), [The Pale Blue Eye](/2023/04/movies-jan-apr-2023/#the-pale-blue-eye-2022) and [Battle of the Super-Sons](/2023/04/movies-jan-apr-2023/#batman-and-superman-battle-of-the-super-sons-2022). Setting it up so my reviews on letterboxd get syndicated back here to the site was a good call, made it much easier to post movie reviews. Should probably do the same for goodreads and books.
 
 I still don't have any links today. I've been going through the reader backlogs and marking articles to come back to later, but I don't have anything to share yet.
 
