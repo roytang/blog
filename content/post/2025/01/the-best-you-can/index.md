@@ -1,8 +1,11 @@
 ---
-title: "Have You Done The Best You Can?"
-date: 2025-01-21T10:19:11+08:00
+date: 2025-01-21 02:19:11
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/113863989464477450
 tags:
 - lifeprotips
+title: Have You Done The Best You Can?
 ---
 
 When you are going through a crisis or the world is on fire or your country just put a Nazi into power or any other situation where there's a lot of uncertainty over what's going to happen or how you're going to be able to deal with things, it is easy to be overwhelmed by fear or anxiety or stress.
