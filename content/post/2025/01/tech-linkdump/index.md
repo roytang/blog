@@ -1,10 +1,13 @@
 ---
-title: "Tech / Social Media Linkdump"
-date: 2025-01-23T16:47:17+08:00
+date: 2025-01-23 08:47:17
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/113877751834324578
 tags:
 - tech-life
 - linkdump
 - links
+title: Tech / Social Media Linkdump
 toc: true
 ---
 
