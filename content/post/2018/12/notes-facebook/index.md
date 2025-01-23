@@ -2,15 +2,16 @@
 author: roy
 categories: []
 date: 2018-12-22 02:56:56
+dontinlinephotos: true
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1076311739275399171/
 tags:
 - Current Events
 - Tech Life
+- facebook
 title: Notes on Facebook
 type: post
-dontinlinephotos: true
 ---
 
 Facebook is in hot water again, over controversial deals it made in the past that compromised user privacy.

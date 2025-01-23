@@ -10,6 +10,7 @@ tags:
 - ustrip2019
 title: Travel Anxiety, Part 2
 type: post
+dontinlinephotos: true
 ---
 
 I had written about [travel anxiety](/2015/11/travel-anxiety/) before, but I'm revisiting the topic because the recent US trip reminded me how much of a problem it is for me.
@@ -22,7 +23,8 @@ By my own count, I had ridden on an airplane 23 times now in my lifetime (19 int
 
 - need to arrive at the airport on time, without forgetting your travel documents
 - need to pass security/immigration/customs. Added feature this time was the stricter TSA screening. And the customs form I needed to fill up as I entered the US gave me some worry as well, because I was carrying some foodstuffs meant to be given to relatives and I wasn't sure if I had to declare them or not (apparently the default answer is just don't declare them? IDK). I had a similar issue on the way back into the PH, but even though I was given a customs form to fill up, no one actually asked for it?!? ¯\\\_(ツ)\_/¯
-- need to pray that your checked luggage doesn't get lost or stolen from. Additionally, in the US, the TSA may open your checked luggage outside of your presence, and if you're using a non-TSA approved luggage lock, they will break your lock to do so. I had the misfortune of getting [this souvenir from the TSA](https://photos.app.goo.gl/BMYFgcLnrtpwiEd66) because of this (I have since purchased TSA-approved locks)
+- need to pray that your checked luggage doesn't get lost or stolen from. Additionally, in the US, the TSA may open your checked luggage outside of your presence, and if you're using a non-TSA approved luggage lock, they will break your lock to do so. I had the misfortune of getting this souvenir from the TSA because of this (I have since purchased TSA-approved locks)
+  {{< photos 20190618 >}}
 - need to make sure no one else claims your checked baggage at the carousel
 - will I even be able to sleep during the long haul flight? Undoubtably yes, but only in very short bursts that I presume are not healthy. Airplane economy seats are often very uncomfortable for me and and have very little leg room, and the seat backs are not conducive to me sleeping. I am so uncomfortable on airplanes that I've come to realize that me preparing movies/books/comics/games to entertain me during the flight is a waste of time, as I typically won't indulge in those activities when I'm not very comfortable. Typically, a long haul flight goes like this for me:
   - Try to sleep

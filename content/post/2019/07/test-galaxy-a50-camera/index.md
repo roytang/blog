@@ -25,6 +25,8 @@ Here's a similar photo taken using the Asus Zenfone Max 4 camera, default settin
 
 Things look quite a bit more washed out, is that the proper term? I did like five different takes of this and they all came out around the same way. Maybe there's some setting I need to adjust? Or I'm focusing wrong? Like I said, I don't know much about photography, though it's something I wouldn't mind improving on, even with just a phone camera. I guess I need to learn things like focusing, lighting, etc. And I don't really understand many of the phone camera features either! I suspect it will take a lot of trial and error on my part, so that may take a while haha.
 
-For reference, I also tried this with the new 2018 iPad, which had a pretty good camera as well, the shot turned out ok, [closer to the A50 one](https://photos.app.goo.gl/u41sXTe9vtzhotTy9).
+For reference, I also tried this with the new 2018 iPad, which had a pretty good camera as well, the shot turned out ok, closer to the A50 one.
+
+{{% photos ipad %}}
 
 I also took an extra shot of Rippersnapper with the Galaxy A50 and the detail in the shot was pretty sweet, I [posted it on instagram](https://www.instagram.com/p/Bz4_55-BbTI/).

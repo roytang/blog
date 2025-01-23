@@ -9,6 +9,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10158523900768912
 tags:
 - tech life
+- facebook
 title: Quitting Facebook
 ---
 
