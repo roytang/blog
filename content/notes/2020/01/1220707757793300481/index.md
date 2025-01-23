@@ -8,4 +8,6 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1220707757793300481/
+tags:
+- webcomics
 ---

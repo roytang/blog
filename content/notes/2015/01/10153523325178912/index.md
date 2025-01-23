@@ -7,6 +7,7 @@ syndicated:
 tags:
 - arrowverse
 - flash
+- tv
 ---
 
 Flash S01E10: Leonard Snart's portrayal was great as usual, but it's kind of silly that the cops didn't just have a sniper or something to take out the bad guys when they pretty much announced where they would be

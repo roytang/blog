@@ -6,6 +6,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/29213122476646400/
 tags:
 - smbc
+- webcomics
 ---
 
 New estimation method [SMBC] http://www.smbc-comics.com/index.php?db=comics&id=2133#comic
