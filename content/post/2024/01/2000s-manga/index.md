@@ -57,7 +57,7 @@ I remember bingeing most of what was available for this series in the late 2000s
 
 Another well-known manga, this is another one that features dueling super-smart characters in the form of protagonist Light Yagami and his nemesis (and actual good guy) L. The first half of the manga is much better than the second because it focuses on Light and L's rivalry and them constantly trying to outsmart each other in their cat and mouse game of murderer and detective. The story changed in the second half and became much too convoluted in my opionion.
 
-I think one of the reasons for this manga's popularity was just the fantasy aspect of the Death Note itself as it's so easy to imagine how convenient having such a thing would be. Like when the 2010 hostage crisis happened over here, I jokingly posted on social media about how we wouldn't have these problems if we had a Death Note! I also [surveyed my friends to ask how they'd handle having a Death Note!](/2016/07/10154759411248912/)
+I think one of the reasons for this manga's popularity was just the fantasy aspect of the Death Note itself as it's so easy to imagine how convenient having such a thing would be. Like when the 2010 hostage crisis happened over here, I jokingly posted on social media about how we wouldn't have these problems if we had a Death Note! I also [surveyed my friends to ask how they'd handle having a Death Note!](/collections/surveys/10154759411248912/)
 
 The series ran from 2003 to 2006, and I believe I read it until the end, but I don't actually remember what the ending was. I actually have a physical copy of volume 2 somewhere around here.
 
