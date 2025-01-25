@@ -12,12 +12,6 @@
         "feeds": false
     },
     {
-        "path": "quotes/",
-        "label": "Quotes",
-        "descrip": "Quotes that I liked or found interesting.",
-        "feeds": false
-    },
-    {
         "path": "lyrics/",
         "label": "Lyrics",
         "descrip": "Song lyrics that I liked or found interesting.",
