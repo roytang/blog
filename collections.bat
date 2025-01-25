@@ -8,4 +8,5 @@ hugo --contentDir collections/webcomics --config collections.toml,local.toml,col
 hugo --contentDir collections/quora --config collections.toml,local.toml,collections/quora/quora.toml --destination public/quora
 hugo --contentDir collections/sketchbook --config collections.toml,local.toml,collections/sketchbook/sketchbook.toml --destination public/sketchbook
 hugo --contentDir collections/threads --config collections.toml,local.toml,collections/threads/threads.toml --destination public/threads
+hugo --contentDir collections/surveys --config collections.toml,local.toml,collections/surveys/surveys.toml --destination public/surveys
 

@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/179296490925/you-dont-have-to-be-on-all-the-time
 - type: twitter
   url: https://twitter.com/roytang/statuses/1054176116884324353/
+tags:
+- favorites
 title: You don't have to be on all the time
 type: post
 url: /2018/10/you-dont-have-to-be-on-all-the-time/

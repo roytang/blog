@@ -1,0 +1,4 @@
+[params]
+    collection_name = "surveys"
+    collection_title = "Surveys"
+    collections_root = false
