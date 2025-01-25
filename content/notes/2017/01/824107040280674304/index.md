@@ -1,11 +1,13 @@
 ---
-date: 2017-01-25 04:10:04+08:00
+date: 2017-01-24 20:10:04
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/824107040280674304/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155310061288912
+tags:
+- duterte
 ---
 
 And here I thought the PNoy admin was the height of insensitivity 
