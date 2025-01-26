@@ -1,6 +1,9 @@
 ---
-date: 2025-01-26T11:12:27+08:00
+date: 2025-01-26 03:12:27
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/113892907292230265
 tags:
 - weeknotes
 title: Weeknotes 2025-01-19 The Years Are Short But The Days Are Long
