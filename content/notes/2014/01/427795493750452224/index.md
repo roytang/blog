@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/427795493750452224/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152751380803912
+tags:
+- survey
 ---
 
 Does anybody *not* skip Youtube ads as soon as possible?

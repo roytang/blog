@@ -1,11 +1,12 @@
 ---
-date: 2019-01-30 02:30:39+08:00
+date: 2019-01-29 18:30:39
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1090437101701627904/
 tags:
 - devdiscuss
+- lifeprotips
 ---
 
 The advice "Go take a nap" applies in a lot of situations 
