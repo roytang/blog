@@ -21,6 +21,4 @@ title: Bucky the cat from Get Fuzzy
 
 Bucky the cat from Get Fuzzy 
 
-{{< photos 1451194166688444420 >}}
-
 [23:41] 294/365

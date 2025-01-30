@@ -17,8 +17,4 @@ tags:
 
 #Inktober #inktober2021 #sketchdaily #Transformers
 
-
-
 Day 27 Spark 300/365 
-
-{{< photos 1453293791276830733 >}}

@@ -19,5 +19,3 @@ tags:
 
 
 Day 31 (final day!) Risk 304/365 
-
-{{< photos 1454798534973149189 >}}

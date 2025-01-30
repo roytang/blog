@@ -27,5 +27,3 @@ Day 8: Watch 281/365
 Day 9: Pressure 282/365
 
 Day 10: Pickaxe 283/365 
-
-{{< photos 1448619103430725641 >}}

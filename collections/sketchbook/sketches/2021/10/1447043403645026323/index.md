@@ -25,5 +25,3 @@ Some more #sketchdaily catchup doodles
 9/29 sandwich 272/365
 
 9/30 hand 273/365 
-
-{{< photos 1447043403645026323 >}}

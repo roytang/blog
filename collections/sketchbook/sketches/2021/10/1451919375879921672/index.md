@@ -24,5 +24,3 @@ title: Inktober 2021 days 22-23
 Day 22 Open 295/365
 
 Day 23 Leak 296/365 
-
-{{< photos 1451919375879921672 >}}

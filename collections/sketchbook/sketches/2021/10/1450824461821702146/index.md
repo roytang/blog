@@ -31,5 +31,3 @@ Day 20 Sprout 293/365
 
 
 I'm all caught up! 
-
-{{< photos 1450824461821702146 >}}

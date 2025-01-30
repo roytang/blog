@@ -32,5 +32,3 @@ Day 2: clown suit 275/365
 Day 3: clown vessel 276/365
 
 Day 4: clown balloon animal in knots 277/365 
-
-{{< photos 1447471441046228994 >}}

@@ -27,5 +27,3 @@ Day 15 Helmet 288/365
 Day 16 Compass 289/365
 
 Day 17 Collide 290/365 
-
-{{< photos 1450454402519736323 >}}

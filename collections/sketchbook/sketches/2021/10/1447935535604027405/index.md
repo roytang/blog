@@ -27,5 +27,3 @@ Day 5 Raven 278/365
 Day 6 Spirit of vengeance 279/365
 
 Day 7 Can't beat Airman! 280/365 
-
-{{< photos 1447935535604027405 >}}

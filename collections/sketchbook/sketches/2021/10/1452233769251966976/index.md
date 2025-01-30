@@ -15,5 +15,3 @@ tags:
 ---
 
 #inktober #sketchdaily #inktober2021 Day 24 Extinct 297/365 
-
-{{< photos 1452233769251966976 >}}
