@@ -1,10 +1,13 @@
 ---
-title: "Gaiman"
-date: 2025-01-31T22:38:33+08:00
+date: 2025-01-31 14:38:33
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/113923636738186915
 tags:
 - gaiman
 - art
 - books
+title: Gaiman
 ---
 
 tante@tldr.nettime.org [writes](https://tldr.nettime.org/@tante/113821039229787192):
