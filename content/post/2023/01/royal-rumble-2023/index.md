@@ -7,6 +7,7 @@ reviews:
 tags:
 - wrestling
 - tv
+- formernote
 title: Royal Rumble 2023
 ---
 
