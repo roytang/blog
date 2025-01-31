@@ -14,6 +14,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154710843108912
 tags:
 - books
+- gaiman
 title: 'Book Review: Fragile Things: Short Fictions and Wonders by Gaiman, Neil'
 ---
 

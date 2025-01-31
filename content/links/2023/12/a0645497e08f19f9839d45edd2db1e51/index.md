@@ -9,6 +9,8 @@ source: web
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111510954185770908
+tags:
+- gaiman
 title: Neil Gaiman's Radical Vision for the Future of the Internet - Cal Newport
 ---
 

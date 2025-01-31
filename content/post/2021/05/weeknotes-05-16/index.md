@@ -38,7 +38,6 @@ title: Weeknotes 2021-05-16
 ### From the archives, this week in history:
 
 - 2018: [Google demoed their new AI assistant Duplex](/2018/05/google-duplex-and-conversation-ais/)
-- 2017: [Neil Gaiman on impostor syndrome](/2017/05/863438304150134784/)
 - 2014: My longtime friend David Ramirez [published his first sci-fi novel](/2014/05/10152950238278912-0/)
 
 
