@@ -1,5 +1,5 @@
 ---
-date: 2018-01-05 07:13:32+08:00
+date: 2018-01-04 23:13:32
 source: twitter
 syndicated:
 - type: twitter
@@ -7,6 +7,7 @@ syndicated:
 tags:
 - spectre
 - meltdown
+- threads
 ---
 
 I can just barely understand the details, but this is fascinating stuff 

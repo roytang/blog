@@ -1,5 +1,7 @@
 ---
 date: 2020-02-01
+tags:
+- meta
 ---
 
 Someone commented to me last night asking why my RSS feed includes my twitter content now. Two reactions:
