@@ -7,6 +7,9 @@ reviews:
   - steam
   rating: 3.5
   title: Ducktales Remastered (Steam)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/113938458401077158
 tags:
 - gaming
 - games
