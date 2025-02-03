@@ -140,4 +140,6 @@ By [amadcartoonist](https://twitter.com/amadcartoonist/statuses/1220707273179156
 
 {{< photos 1373633368936620036 >}}
 
+via [plasticfarm](https://www.tumblr.com/plasticfarm/67356039004/the-second-thanos-and-darkseid-carpool-buddies-of)
+
 ---
