@@ -7,6 +7,7 @@ syndicated:
   url: https://roywantsmeat.blogspot.com/2004/10/sinfest.html
 tags:
 - Software Development
+- sinfest
 title: Sinfest!
 type: post
 url: /2004/10/sinfest/
