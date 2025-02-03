@@ -447,3 +447,7 @@ div.two-column {
 iframe {
     max-width: 90%;
 }
+
+.pxgallery img, .pxgallery video {
+    max-width: 240px;
+}

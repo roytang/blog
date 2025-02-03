@@ -19,6 +19,7 @@ var ready = function ( fn ) {
 
 ready(() => {
     $('.pxgallery').photobox('a',{ thumbs: true, time:0 });
+    $('td.message').photobox('a.single_img',{ thumbs: true, time:0 });
 
     // populate collections gallery
     $('.collections_list .card').each(function() {
