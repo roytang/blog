@@ -14,6 +14,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10153541660098912
 tags:
 - writing
+title: Writing advice from Chuck Palahniuk
 ---
 
 <blockquote><p>This is an excellent writing advice from Chuck Palahniuk. This was first seen on tumblr. Unfortunately, when I clicked on the link, it no longer existed.</p>
@@ -230,5 +231,3 @@ telephone, wondering why Amanda didn’t call.”</p>
 
 
 <p>Find them. After that, find a way to re-write them. Make them stronger.</p></blockquote>
-
---<p>Thanks Hiraku! (via </p><p><a href="http://wingedbeastie.tumblr.com/" class="tumblr_blog">wingedbeastie</a></p><p>)</p><p>This reminded me of the process of drawing narrative without a narrative voice or thought bubble.</p><p>(via <a href="http://d-pi.tumblr.com/" class="tumblr_blog">d-pi</a>)</p>

@@ -1,5 +1,5 @@
 ---
-date: 2016-02-02 13:09:31+00:00
+date: 2016-02-02 13:09:31
 repost_source:
   name: Mikey_Nicholson
   type: twitter
@@ -8,6 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/694507940506529792/
+tags:
+- threads
+- deeplore
 ---
 
-It's early days but this may be the story of 2016. 
+It's early days but this may be the story of 2016.
