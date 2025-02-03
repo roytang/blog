@@ -1,6 +1,9 @@
 ---
-date: 2025-02-02T12:56:54+08:00
+date: 2025-02-02 04:56:54
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/113933068402955168
 tags:
 - weeknotes
 title: Weeknotes 2025-02-02 Year of the Snake
@@ -50,4 +53,3 @@ The "looking forward to" list, carried over from last week:
 - new Civilization game!! (Feb12)
 - new Captain America film (Feb12)
 - Avowed! (Feb18)
-
