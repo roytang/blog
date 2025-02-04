@@ -6,6 +6,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/420209713792307200/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152709994738912
+tags:
+- tv
+- sherlock
 ---
 
 Terrific Sherlock episode this week, much better than S03E01
