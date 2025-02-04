@@ -1,11 +1,14 @@
 ---
-title: "Tech/Web Linkdump"
-date: 2025-02-04T16:23:32+08:00
+date: 2025-02-04 08:23:32
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/113944918622106552
 tags:
 - tech
 - web
 - links
 - linkdump
+title: Tech/Web Linkdump
 toc: true
 ---
 
