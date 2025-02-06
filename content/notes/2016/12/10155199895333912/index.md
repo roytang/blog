@@ -1,5 +1,5 @@
 ---
-date: 2016-12-20 02:51:00+08:00
+date: 2016-12-19 18:51:00
 dontinlinephotos: true
 source: facebook
 syndicated:
@@ -9,6 +9,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/811217513279148032/
 tags:
 - fbreposts05
+- duterte
 ---
 
 I like how Andanar lists out a number of crimes that went down but just totally avoids any mention of murder or homicide

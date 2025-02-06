@@ -19,11 +19,11 @@ Work, Travel, Learning and Self Improvement:
   * Hours worked: 180-200 hours (estimated) - down from 1163 hours last year
     * I've been cutting back on my work commitments this year, preferring to spend more time on personal projects.
   * Programming languages/frameworks learned: Only 1 really new thing, that's the Ionic mobile app framework. (Down from 4 last year). Some other stuff though:
-    * I did do a [miniproject](/2019/08/devnotes-tt-miniproject/) which let me try out a few new things.
+    * I did do a [miniproject](/2019/08/devnotes-miniproject-tt/) which let me try out a few new things.
     * I also explored a bit and learned a lot about web standards and [Indieweb things](/2019/11/indieweb/) this year
   * Books read: 4, same as last year. 
     * [So Good They Can't Ignore You by Cal Newport](/2019/11/so-good-they-cant-ignore-you/)
-    * [Utopia for Realists by Rutger Bergman](/2019/08/book-review-utopia-for-realists-by-rutger-bregman/)
+    * [Utopia for Realists by Rutger Bergman](/2019/08/utopia-for-realists/)
     * [Wheel of Time: New Spring by Robert Jorden](/2019/05/wheel-of-time-new-spring/)
     * [Wheel of Time: Eye of the World by Robert Jorden](/2019/05/wheel-of-time-eye-of-the-world/) (Reread)
     * Action item: read more books
@@ -66,8 +66,8 @@ Gaming:
     * [Outer Worlds](/2019/11/outer-worlds/)
     * [What Remains of Edith Finch](/2019/08/edith-finch/)
     * [Zero Time Dilemma](/2019/03/zero-time-dilemma/)
-    * [Hollow Knight](/2019/02/game-review-hollow-knight/)
-    * [Slay the Spire](/2019/02/game-review-slay-the-spire/)
+    * [Hollow Knight](/2019/02/hollow-knight/)
+    * [Slay the Spire](/2019/02/slay-the-spire/)
     * Age of Decadence. I'd actually almost forgotten that I finished it this year, as I don't seem to have written about it. Only one ending for now though, I'll get back to it at some point in the future. 
     * Borderlands 2. I finally finished my long-running Steam save file. (I started playing it in 2013!). Main story only, my save is now currently in the DLC campaigns.
   * Steam playtime this year: 633.47 hours (down from 745.08 hours last year)
@@ -82,7 +82,7 @@ Gaming:
     * DRAGON BALL FighterZ - 17.88 hours
     * Borderlands 2 - 17.47 hours
     * The Banner Saga - 15.20 hours (I did a second run of this for achievement purposes, but I have to do one more hard run for achievement completion)
-  * Best MTGA Rank: [Mythic!!](/2019/05/magic-arena-first-time-mythic-i-did-it/)
+  * Best MTGA Rank: [Mythic!!](/2019/05/arena-mythic/)
   * MTG paper tournament games played: 28
   * MTG paper tournament games win rate: 39% (See [my MTG stats](/about/stats/mtg))
   * MTG GPs attended: 1. I originally wasn't planning on it, but I attended [GP Seattle](/2019/07/grand-prix-seattle-2019/) in June.
