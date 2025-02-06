@@ -13,7 +13,7 @@ tags:
 title: 'One Year with Hugo: Highs and Lows'
 ---
 
-It was a bit more than a year ago that I decided to [haphazardly and suddenly migrate from Wordpress to Hugo](/2018/11/site-migration-from-wordpress-to-hugo/). It's a good time to look back and reflect on that decision and consider where we are now, and how to move forward.
+It was a bit more than a year ago that I decided to [haphazardly and suddenly migrate from Wordpress to Hugo](/2018/11/site-migration-to-hugo/). It's a good time to look back and reflect on that decision and consider where we are now, and how to move forward.
 
 Good:
 

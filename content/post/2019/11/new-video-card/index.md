@@ -24,7 +24,7 @@ title: New Video Card!
 type: post
 ---
 
-This is a follow up to my previous [posts](/2019/08/the-great-memory-scare-of-2019/) about my [2019 PC troubles](/2019/09/two-backups/).
+This is a follow up to my previous [posts](/2019/08/great-memory-scare/) about my [2019 PC troubles](/2019/09/two-backups/).
 
 I was still encountering game crashes even after reinstalling the OS, so the most likely culprits now were either the video card or the power supply. I sent the video card over to my brother for him to test on his PC to see if he encountered the same symptoms. Sure enough, he couldn't even run the 3DMARK Time Spy test without immediately crashing, which was the same when it was on my PC.
 

@@ -56,7 +56,7 @@ On the blog: I wrote a bunch of reviews (links below).
 
 - **Reading**: Currently on the 3rd volume of Doctor Strange, less than halfway through. Finished Reaper Man (Discworld), review is linked above. Finished two Sanderson books: [Firefight](/2024/01/firefight/) and [Calamity](/2024/01/calamity/). Comics-wise, I am close to finishing the 3rd volume of Doctor Strange (getting through the 90s is challenging).
 
-- **Watching**: I wrote [a summary of movies/TV I watched in Jan 2024](/2024/02/movies-tv-jan-2024/)
+- **Watching**: I wrote [a summary of movies/TV I watched in Jan 2024](/2024/01/movies-tv-jan-2024/)
 
 ### Walking and Health
 

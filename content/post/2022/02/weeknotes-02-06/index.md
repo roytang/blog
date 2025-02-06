@@ -33,7 +33,7 @@ February has managed to creep up on us yet again, leaving the pleasant January w
 - [Narrative Device](https://narrative-device.herokuapp.com/) is AI-driven tool that generates the first paragraph of a story based on two themes you provide.
 - [The Complicated Futility of WordPress](https://coderjerk.com/the-complicated-futility-of-wordpress/): Dan Devine writes about Wordpress wanting to be a CMS.
 - [On the Insanity of Being a Scrabble Enthusiast](https://lithub.com/on-the-insanity-of-being-a-scrabble-enthusiast/): Oliver Roeder on what it's like being a competitive Scrabble player. [Aerolith](https://www.aerolith.org) is a site mentioned in this article that lets you test your Scrabble word-forming skills. It's hard!
-- [deskto.ps](https://deskto.ps/) is a site where users share desktop screenshots. Sharing this because I [still enjoy browsing other people's desktops](/2013/12/417693009837187072/). It has an RSS feed!
+- [deskto.ps](https://deskto.ps/) is a site where users share desktop screenshots. Sharing this because I [still enjoy browsing other people's desktops](/2013/12/10152694793568912/). It has an RSS feed!
 - [The battle for Ring Zero](https://pluralistic.net/2022/01/30/ring-minus-one/): Doctorow on the problems with modern computer security models.
 
 Visit the [Links page](/links/) for more links of interest. I still have so many saved longreads to get through!
