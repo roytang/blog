@@ -9,6 +9,8 @@ source: web
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/112301178070970633
+tags:
+- scrabble
 title: 'Scrabble: Mattel launches new version of game which is ''less competitive'''
 ---
 

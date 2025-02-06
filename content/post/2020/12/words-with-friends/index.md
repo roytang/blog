@@ -58,6 +58,7 @@ tags:
 - games
 - wordswfriends
 - backpost
+- scrabble
 title: Words With Friends
 ---
 

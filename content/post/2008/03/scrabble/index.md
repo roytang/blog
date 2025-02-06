@@ -7,6 +7,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156291835853912
 tags:
 - Gaming
+- scrabble
 title: Scrabble
 type: post
 url: /2008/03/scrabble/

@@ -1,9 +1,11 @@
 ---
-date: 2018-02-06 15:37:23+00:00
+date: 2018-02-06 15:37:23
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/960900234795626496/
+tags:
+- threads
 ---
 
 This thread is the second (and arguably better) bitcoin/blockchain explanation I've gotten today 

@@ -4,6 +4,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1168535062981201920/
+tags:
+- scrabble
 ---
 
 Sentence Scrabble: like normal scrabble except every turn you must use all the words you play that turn in a single sentence

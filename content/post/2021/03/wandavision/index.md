@@ -11,6 +11,8 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/105837565632385005
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/644825175757586432/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1357649120769445890/
 tags:
 - tv
 - comicbooks
@@ -30,3 +32,9 @@ title: Wandavision Spoiler-free Review
 - most of the episodes have something like 5-6 minutes of credits. Episodes 7 and 8 have a mid-credits scene. Episode 9 has both mid and post credits.
 
 Looking forward to Falcon and Winter Soldier next!
+
+---
+
+Episode 5 reaction:
+
+> <time id="1357649120769445890">[2021-02-05 19:15] </time> I finished the WandaVision ep 10 mins ago and I'm still in OMGWTH mode
