@@ -10,6 +10,6 @@ I'm not sure what to comment about this BS because frankly none of it makes sens
 
 {{% quoted url="https://twitter.com/PhilippineStar/status/1083880079258615808" label="PhilippineStar's tweet" %}}
 
-DFA passport maker runs off with all data http://bit.ly/2RHx6Yp 
+DFA passport maker runs off with all data https://www.philstar.com/headlines/2019/01/12/1884444/dfa-passport-maker-runs-all-data
 
 {{% /quoted %}}

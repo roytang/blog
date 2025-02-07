@@ -130,7 +130,7 @@ title: 'Halalan 2010: Elections Aftermath'
 
 ---
 
-<time>[23:33] </time> For those bemoaning the "unwise" choices of the masses: The poor vote is a thinking vote: http://bit.ly/bw565j #halalan
+<time>[23:33] </time> For those bemoaning the "unwise" choices of the masses: The poor vote is a thinking vote: https://web.archive.org/web/20100607112133/pcij.org/stories/the-poor-vote-is-a-thinking-vote #halalan
 
 [Comments](#comment-d94181a0-9787-4107-87f1-03c96073d792)
 

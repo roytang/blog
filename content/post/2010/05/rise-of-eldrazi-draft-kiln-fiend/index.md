@@ -17,8 +17,6 @@ tags:
 title: Rise of Eldrazi Draft -- Kiln Fiend
 type: post
 url: /2010/05/rise-of-eldrazi-draft-kiln-fiend/
-wp_jd_bitly:
-- http://bit.ly/aWIbSv
 wp_jd_target:
 - http://mtgstorm.com/2010/05/rise-of-eldrazi-draft-kiln-fiend/
 dontinlinephotos: true

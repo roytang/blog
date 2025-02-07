@@ -19,8 +19,6 @@ tags:
 title: M11 Sealed -- You Make the Play
 type: post
 url: /2010/08/m11-sealed-you-make-the-play/
-wp_jd_bitly:
-- http://bit.ly/cCjKcC
 wp_jd_target:
 - http://mtgstorm.com/2010/08/m11-sealed-you-make-the-play/
 dontinlinephotos: true

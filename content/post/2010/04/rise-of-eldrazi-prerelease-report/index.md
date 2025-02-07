@@ -29,8 +29,6 @@ tags:
 title: Rise of Eldrazi Prerelease Report
 type: post
 url: /2010/04/rise-of-eldrazi-prerelease-report/
-wp_jd_bitly:
-- http://bit.ly/9baEIH
 wp_jd_target:
 - http://mtgstorm.com/2010/04/rise-of-eldrazi-prerelease-report/
 ---

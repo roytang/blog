@@ -19,8 +19,6 @@ tags:
 title: Rise of Eldrazi -- Limited Impressions
 type: post
 url: /2010/04/rise-of-eldrazi-limited-impressions/
-wp_jd_bitly:
-- http://bit.ly/dyIC7C
 wp_jd_target:
 - http://mtgstorm.com/2010/04/rise-of-eldrazi-limited-impressions/
 ---

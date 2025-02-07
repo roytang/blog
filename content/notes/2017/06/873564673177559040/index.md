@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/873564673177559040/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155738645248912
+tags:
+- rip
 ---
 
 @_@ 

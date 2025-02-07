@@ -131,7 +131,7 @@ Looks like the 99 cents for SF4 on the iPad was well-spent. It plays pretty well
 
 ---
 
-<time>[2010-07-25 03:21] </time> Since I'm still awake might as well follow the Capcom SSF4 panel at Comic-con: http://bit.ly/cZWOrF New costumes and 3ds version announced!
+<time>[2010-07-25 03:21] </time> Since I'm still awake might as well follow the Capcom SSF4 panel at Comic-con: https://web.archive.org/web/20151105051851/http://www.1up.com/news/comic-con-2010-live-capcom-street New costumes and 3ds version announced!
 
 ---
 

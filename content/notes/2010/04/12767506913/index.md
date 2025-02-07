@@ -8,7 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/108264209216071
 ---
 
-Tips for asking for help on technical problems: http://bit.ly/cUesjW http://bit.ly/bAtHdZ
+Tips for asking for help on technical problems: 
 
 <time>[2021-01-19]</time> Edit: Above links saved from link rot:
 

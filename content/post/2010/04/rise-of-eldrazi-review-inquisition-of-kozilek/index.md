@@ -14,8 +14,6 @@ tags:
 title: 'Rise of Eldrazi Review: Inquisition of Kozilek'
 type: post
 url: /2010/04/rise-of-eldrazi-review-inquisition-of-kozilek/
-wp_jd_bitly:
-- http://bit.ly/aRiqnV
 ---
 
 <p style="text-align: left;">

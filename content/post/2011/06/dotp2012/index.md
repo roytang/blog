@@ -44,7 +44,7 @@ Previously: [Duels of the Planeswalkers](/2010/06/dotp/)
 
 <time>[2011-06-15 23:32] </time> Anyone here got DotP 2012 on Steam? Hit me up: My steam id is hungryroy
 
-<time>[2011-06-16 00:18] </time> The Duels 2012 unlock on Steam seems to be delayed to 2AM, I guess I'll just install it in the morning. Meanwhile: http://bit.ly/lGy4Zg
+<time>[2011-06-16 00:18] </time> The Duels 2012 unlock on Steam seems to be delayed to 2AM, I guess I'll just install it in the morning. Meanwhile: 
 
 {{% photos 49400_screenshots_2011-06-16_00001 %}}
 
