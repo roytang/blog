@@ -38,7 +38,7 @@ I have also started collating some data for my year-end wrap up posts coming nex
 
 - **Reading**: Managed to finish one final book this week, a Discworld one: [Small Gods by Terry Pratchett](/2023/12/small-gods/). Still reading a bunch of comics!
 
-- **Watching**: Wrote [some more TV reviews](/2023/12/tv-rich-morty-wheel-of-time-doctor-who-spy-x/). Finished watching What If season 2. In the middle of Live Action Yu Yu Hakusho. Watched some movies! [They Cloned Tyrone (2023)](/2023/12/movies-sep-dec-2024/#they-cloned-tyrone-2023), [The Creator (2023)](/2023/12/movies-sep-dec-2024/#the-creator-2023), [The Fast and the Furious (2001)](/2023/12/movies-sep-dec-2024/#the-fast-and-the-furious-2001).
+- **Watching**: Wrote [some more TV reviews](/2023/12/tv-rich-morty-wheel-of-time-doctor-who-spy-x/). Finished watching What If season 2. In the middle of Live Action Yu Yu Hakusho. Watched some movies! [They Cloned Tyrone (2023)](/2023/12/movies-sep-dec-2023/#they-cloned-tyrone-2023), [The Creator (2023)](/2023/12/movies-sep-dec-2023/#the-creator-2023), [The Fast and the Furious (2001)](/2023/12/movies-sep-dec-2023/#the-fast-and-the-furious-2001).
 
 ### Walking
 

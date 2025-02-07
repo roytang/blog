@@ -46,7 +46,7 @@ I also bought a new controller, an 8Bitdo Ultimate Bluetooth controller. It work
 
 - **Reading**: Feed reader backlog is at an unwieldy 37 items. Not a lot of reading this week, mostly just comics, though I have managed to clear the first 100 issues of Daredevil somehow. 
 
-- **Watching**: I have watched [The Italian Job (2003)](/2023/12/movies-sep-dec-2024/#the-italian-job-2003), but not much else.
+- **Watching**: I have watched [The Italian Job (2003)](/2023/12/movies-sep-dec-2023/#the-italian-job-2003), but not much else.
 
 ### Walking
 

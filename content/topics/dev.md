@@ -81,7 +81,7 @@ tags:
     - [Is SQL a dying art?](/2019/11/sql-dying-art/)
     - [Devnotes: PostgreSQL on the command line](/2019/08/devnotes-psql/)
   - React Native
-    - [Upgrading a React Native Project](/2019/07/upgrading-a-react-native-project/)
+    - [Upgrading a React Native Project](/2019/07/react-native-mobile-devt/)
   - C++
     - [Revisiting C&#43;&#43; after a decade](/2019/01/revisiting-c-after-a-decade/)
   - JavaScript

@@ -111,8 +111,8 @@ Also, here's a wordcloud for 2023:
         - [Suzume (2022)](/2023/04/movies-jan-apr-2023/#suzume-2022)
         - [Dungeons & Dragons: Honor Among Thieves (2023)](/2023/04/movies-jan-apr-2023/#dungeons-dragons-honor-among-thieves-2023)
         - [The Super Mario Bros Movie (2023)](/2023/04/movies-jan-apr-2023/#the-super-mario-bros-movie-2023): I have rewatched this so many times at home because the nephews love it
-        - [Guardians of the Galaxy vol 3 (2023)](/2023/08/movies-may-aug-2024/#guardians-of-the-galaxy-vol-3-2023)
-        - [Spider-Man: Across the Spider-Verse (2023)](/2023/08/movies-may-aug-2024/#spider-man-across-the-spider-verse-2023)
+        - [Guardians of the Galaxy vol 3 (2023)](/2023/08/movies-may-aug-2023/#guardians-of-the-galaxy-vol-3-2023)
+        - [Spider-Man: Across the Spider-Verse (2023)](/2023/08/movies-may-aug-2023/#spider-man-across-the-spider-verse-2023)
     - Something new this year: I made [a Letterboxd account](https://letterboxd.com/hungryroy/films/diary/)! All my 2023 watched movies are logged there, then synced back to this site.
 - **Books** read: 8, down from last year's 19
     - [The list](/lists/media/books/2023/), with 6 fiction and 2 nonfiction.

@@ -36,7 +36,7 @@ I did not start a Nanowrimo. I did not vote in this year's Barangay/SK Elections
 
 - **Reading**: Powered through both Daredevil v2 and v3 this past week. There's like 4 more modern volumes remaining, it's not a lot so I plan to re-read them, since modern Daredevil has been fairly good. Still need to start a new book though.
 
-- **Watching**: Watched [A Haunting in Venice (2023)](/2023/12/movies-sep-dec-2024/#a-haunting-in-venice-2023) on Halloween. Wrote [some TV reviews](/2023/11/oct2023-tv-lower-decks-superman-harley/). Still binging *Scrubs*, currently almost done with season 6. Trying to keep up with *Loki*, *Invincible S2*. Still a lot more stuff I want to watch!
+- **Watching**: Watched [A Haunting in Venice (2023)](/2023/12/movies-sep-dec-2023/#a-haunting-in-venice-2023) on Halloween. Wrote [some TV reviews](/2023/11/oct2023-tv-lower-decks-superman-harley/). Still binging *Scrubs*, currently almost done with season 6. Trying to keep up with *Loki*, *Invincible S2*. Still a lot more stuff I want to watch!
 
 ### Walking
 

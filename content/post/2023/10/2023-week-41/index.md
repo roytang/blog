@@ -34,7 +34,7 @@ On the blog: wrote about a conflict with [Grab Taxi](/2023/10/grabtaxi/), and al
 
 - **Reading**: Feed reader backlog is at a slightly-unhealthy 27 items. Still powering through Daredevil v1, currently well into the 90s (they're kinda terrible), and my pace has slowed. Should really start reading a new book at some point.
 
-- **Watching**: Only watched one movie this week, and it was [Tenet (2020)](/2023/12/movies-sep-dec-2024/#tenet-2020). Watched a lot of TV though. Switched my binge-side-watching from House to *Scrubs*, since I've at least never seen all of Scrubs. Got caught up with *Star Trek Lower Decks*, started watching *My Adventures with Superman* (it's very anime!) and am somehow already behind on Loki.
+- **Watching**: Only watched one movie this week, and it was [Tenet (2020)](/2023/12/movies-sep-dec-2023/#tenet-2020). Watched a lot of TV though. Switched my binge-side-watching from House to *Scrubs*, since I've at least never seen all of Scrubs. Got caught up with *Star Trek Lower Decks*, started watching *My Adventures with Superman* (it's very anime!) and am somehow already behind on Loki.
 
 ### Walking
 
