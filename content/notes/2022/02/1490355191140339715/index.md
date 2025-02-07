@@ -1,10 +1,12 @@
 ---
-date: 2022-02-06 16:02:21+00:00
+date: 2022-02-06 16:02:21
 dontinlinephotos: true
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/1490355191140339715/
+tags:
+- threads
 ---
 
 Alan Cooper on the power struggle in modern tech companies 

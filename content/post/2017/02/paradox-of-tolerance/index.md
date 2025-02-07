@@ -1,16 +1,17 @@
 ---
-date: 2017-02-07 08:30:00+00:00
+date: 2017-02-07 08:30:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155345820578912
 - type: twitter
   url: https://twitter.com/roytang/statuses/828883407492886529/
-title: ''
 tags:
 - freespeech
 - politics
 - activism
+- formernote
+title: The Paradox of Tolerance
 ---
 
 In The Open Society and Its Enemies, philosopher Karl Popper described this as “the paradox of tolerance.” Here is how he put it:

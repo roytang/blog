@@ -1,9 +1,11 @@
 ---
-date: 2017-02-07 01:25:00+00:00
+date: 2017-02-07 01:25:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155345214953912
+tags:
+- quizzes
 title: ''
 ---
 
