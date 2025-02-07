@@ -1,6 +1,9 @@
 ---
-title: "Consuming the News"
-date: 2025-02-07T06:23:11+08:00
+date: 2025-02-06 22:23:11
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/113959411571829984
+title: Consuming the News
 ---
 
 I was a bit young when I started consuming news regularly. I chalk this up to my dad, who was always reading the morning newspaper at the breakfast table, a kind of bad habit he still keeps to this day. (I sometimes joke that he is one of the few remaining people keeping the dying print news industry alive). At first I started out reading only the daily comic strips, but soon also began reading tech and business sections, and soon even the front page politics stuff and at some point I got familiar with the usual names on the editorial pages.
