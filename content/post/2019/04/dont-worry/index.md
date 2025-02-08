@@ -9,7 +9,7 @@ title: Don't worry, be happy
 type: post
 ---
 
-I worry about a lot of things. Recently with the planning for the [US trip](/2019/04/i-got-a-us-visa/), the worry that comes to mind is financial: this trip is expensive, should I be cutting back? Can I afford this Airbnb? Can I afford going to Disneyland with my nieces? etc. 
+I worry about a lot of things. Recently with the planning for the [US trip](/2019/04/us-visa/), the worry that comes to mind is financial: this trip is expensive, should I be cutting back? Can I afford this Airbnb? Can I afford going to Disneyland with my nieces? etc. 
 
 All this worrying is silly of course. I already know I can well afford the trip, but the fact that it's so expensive triggers the spendthrift in me to worry that I might be spending too much and I might be on a slippery slope to financial ruin. Again, silly.
 

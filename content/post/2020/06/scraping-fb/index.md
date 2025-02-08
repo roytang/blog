@@ -11,7 +11,7 @@ tags:
 title: Scraping Facebook
 ---
 
-I had been meaning to [quit Facebook](/2020/06/quitting-facebook/) for more than a year maybe, but I kept putting it off. The main reason being that I like having backups of my own digital data (still very much a [pack rat](/2007/12/pack-rat-mentality/)), and Facebook's [social media export](/2019/03/export-your-social-media-data/) is less than ideal, for me at least.
+I had been meaning to [quit Facebook](/2020/06/quitting-facebook/) for more than a year maybe, but I kept putting it off. The main reason being that I like having backups of my own digital data (still very much a [pack rat](/2007/12/pack-rat-mentality/)), and Facebook's [social media export](/2019/03/social-media-backups/) is less than ideal, for me at least.
 
 Less than ideal why? It doesn't include a lot of content I would like backed up, including:
 

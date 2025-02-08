@@ -15,7 +15,7 @@ type: post
 dontinlinephotos: true
 ---
 
-My [US trip](https://roytang.net/2019/04/i-got-a-us-visa/) started on the first of the month. I've been meaning to write more regularly about it, but one thing I had forgotten was how exhausting it would be to be a tourist, walking everywhere all of the time. Here's how many steps my Fitbit recorded during that first week:
+My [US trip](https://roytang.net/2019/04/us-visa/) started on the first of the month. I've been meaning to write more regularly about it, but one thing I had forgotten was how exhausting it would be to be a tourist, walking everywhere all of the time. Here's how many steps my Fitbit recorded during that first week:
 
 {{% img src="tourist-walk.jpg" %}}
 

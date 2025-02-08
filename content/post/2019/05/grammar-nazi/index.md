@@ -23,7 +23,7 @@ Even if don't speak up, I reserve the right to silently judge someone for poor g
 
 {{% img src="english.png" %}}
 
-It is mostly an elitist thing - English grammar isn't something the poorer or less educated citizens will be super familiar with (although most Filipinos will still understand rudimentary English of course... I think... ). Speaking good English is often seen as a sign of privilege. I imagine even foreigners make some judgments based on how good your English is; I imagine that my [US Visa interview](/2019/04/i-got-a-us-visa/) might have been a bit more difficult if I wasn't fluent. That being said, it may be a thing that's on the downturn, given the recent rise of anti-intellectualism locally (or is it really recent?)
+It is mostly an elitist thing - English grammar isn't something the poorer or less educated citizens will be super familiar with (although most Filipinos will still understand rudimentary English of course... I think... ). Speaking good English is often seen as a sign of privilege. I imagine even foreigners make some judgments based on how good your English is; I imagine that my [US Visa interview](/2019/04/us-visa/) might have been a bit more difficult if I wasn't fluent. That being said, it may be a thing that's on the downturn, given the recent rise of anti-intellectualism locally (or is it really recent?)
 
 I will still often correct friends and family though. The people who know me well know that it doesn't signify any ill will or malice on my part, just a lingering obsessive desire for correct grammar. It's the same way a slightly misaligned painting hanging from the wall would bother other people (okay, that would bother me too).
 

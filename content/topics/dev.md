@@ -20,7 +20,7 @@ tags:
   - [10X Programmers](/2019/07/10x-programmers/)
   - [Qualities to Look for in a Software Developer](/2017/01/qualities-to-look-for-in-a-software-developer/)
 - Self-improvement
-  - [Learning from failure](/2019/04/learning-from-failure/)
+  - [Learning from failure](/2019/04/failure-is-not-fatal/)
   - [Studying a large project codebase](/2019/03/studying-a-large-project-codebase/)
   - [Finding Time to Learn new Things](/2019/01/find-time-to-learn/)
   - [I still Google the most basic things](/2019/01/i-still-google-the-most-basic-things/)
@@ -36,7 +36,7 @@ tags:
   - [Cleaning up your Code](/2016/12/cleaning-up-your-code/)
 - Software career perils
   - [Burnout](/2020/02/burnout/)
-  - [Learning from failure](/2019/04/learning-from-failure/)
+  - [Learning from failure](/2019/04/failure-is-not-fatal/)
   - [Don&#39;t stay in the same place too long](/2019/03/dont-stay-too-long/)
 - Web Development
   - [Browsers and HTTP](/2020/03/browsers-http/) 
