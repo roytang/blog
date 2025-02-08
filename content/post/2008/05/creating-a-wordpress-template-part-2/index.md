@@ -85,5 +85,5 @@ The hard part turned out to be figuring out CSS-related problems. Luckily, CSS a
 
 I'll continue working on this whenever I have time, and hopefully can have the theme live on the Roy on Magic blog soon.
 
- [1]: /2008/04/creating-a-wordpress-template-part-1/
+ [1]: /2008/04/creating-a-wordpress-template-part-1-of-n/ 
  [3]: http://codex.wordpress.com

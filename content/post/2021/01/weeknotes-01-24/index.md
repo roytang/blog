@@ -34,7 +34,7 @@ Wow, January is almost done. Wouldn't you know it.
     - Watched [World War Z](/2021/01/1352137686614564867/), though I kinda wish I had seen it back at the start of the pandemic, seemed like it would have been appropriate.
     - WandaVision ep 3: So weird! I don't mind the sitcom stuff, though I'm mostly here for the Marvel plots. The pacing is fine, with just enough easter eggs and plot teasing to not be annoying.
 - Gaming:
-    - Kicked off a second run of [Fire Emblem Three Houses](/2021/01/1349796416042856448/)! Now in hard/classic, and going down the red/Black Eagle path.
+    - Kicked off a second run of [Fire Emblem Three Houses](/2021/01/fire-emblem-three-houses/)! Now in hard/classic, and going down the red/Black Eagle path.
     - MTG: **Kaldheim** previews are done, and set is out on Arena next week!
     - Regular Saturday gaming group tried to do some Jackbox games via Discord, but we ran into audio issues, so we ended up just playing Sentinels and Root again
 - Books: I finished reading Katie Mack's "**End of Everything**", here's [a short review](/2021/01/end-of-everything/). For the next book, I started on Scott Berkun's [The Year Without Pants](https://www.amazon.com/Year-Without-Pants-WordPress-com-Future/dp/1118660633) of which I've had a copy forever. It's about remote work back in the early 2010s, which is a fun contrast to our current remote work-heavy world.

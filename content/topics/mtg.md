@@ -134,7 +134,7 @@ I know, I know this page layout could use a lot of work.
 | **Mar** | | | [Alchemy metagame challenge](/2022/03/1508040061954101249/) |
 | **Feb** | Kamigawa Neon Dynasty | [Arena limited](/tags/mtgneo) / [Youtube playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXhLIY5zAbmQn-tSxCE5RWgs) | |
 | **2021** |
-| **Dec** | [Magic Arena Decathlon 2021](/2021/12/1472933987718815750/) | |
+| **Dec** | [Magic Arena Decathlon 2021](/2021/12/arena-decathlon/) | |
 | **Nov** | Innistrad: Crimson Vow | [Arena limited](/tags/mtgcrimson) / [Youtube playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXgokNsq0i3ejpcLJ0zkrZbE) | |
 | **Sep** | Innistrad: Midnight Hunt | [Arena limited](/tags/mtgmidnight) / [Youtube playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXieJN9NfT6l81avhvRedw7K) | |
 | **Jul** | Adventures in the Forgotten Realms | [Arena limited](/tags/mtgafr) / [Youtube playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXgMQw7q6DyiSQxDH5FDS33r) | |

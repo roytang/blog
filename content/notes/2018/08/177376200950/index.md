@@ -20,4 +20,4 @@ I’ve been rewatching Modern Family since it appeared on PH Netflix. It’s
 
 <br/></p>
 
-Edit: I quoted this [back in 2013](/2013/05/330664603791024128/)!
+Edit: I quoted this [back in 2013](https://roytang.net/files/twitter/roytang/status/330664603791024128/)!

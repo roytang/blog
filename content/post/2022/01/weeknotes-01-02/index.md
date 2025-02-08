@@ -59,7 +59,7 @@ Visit the [Links page](/links/) for more links of interest.
     {{< collections-embed sketchbook ca0cadc5d9ba79d5fde2d5916918acd9 >}}
 
 - **Gaming**:
-    - Not much gaming in the last week of the year. I managed [to hit Mythic in Arena](/2021/12/1476138083816980485/) and [got my last token for the Decathlon finals](/2021/12/1472933987718815750/) so that's something. Hopefully can start some new games this coming week!
+    - Not much gaming in the last week of the year. I managed [to hit Mythic in Arena](/2021/12/1476138083816980485/) and [got my last token for the Decathlon finals](/2021/12/arena-decathlon/) so that's something. Hopefully can start some new games this coming week!
 - **Watching:**
     - Not much in terms of new movies or TV watched last week either. I did complete a binge re-watch of **New Girl** before it left NetflixPH, as background watching while I did other things.
     - **TV:** 

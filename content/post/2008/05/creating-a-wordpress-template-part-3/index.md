@@ -32,6 +32,6 @@ Still, the current one is functional enough that I don't mind using it on the si
 
 Most of the difficulty so far has been the design part: thinking about colors, how things should be arranged, etc. As an engineer, it's not one of the things I'm used to doing. I can't imagine I would be able to do some of the fancy, complicated layouts anytime soon, though I might be able to create simpler, minimalistic ones first.
 
- [1]: /2008/04/creating-a-wordpress-template-part-1/
+ [1]: /2008/04/creating-a-wordpress-template-part-1-of-n/ 
  [2]: /2008/05/creating-a-wordpress-template-part-2/
  [3]: /tags/magic/

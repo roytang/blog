@@ -41,7 +41,7 @@ This is 2021 week 3. Or week 2. Two and a half? How do calendars work?
     - Watched my first two movies of the year: [The Godfather](/2021/01/1350042544567029763/) and [The Godfather Part II](/2021/01/1350361902149324800/).
     - First two eps of WandaVision are in! It's so weird. I'm looking forward to seeing how things unfold. Series runs until March, I feel like I should do one of my [spoiler-free reviews](/tags/spoiler-free-review/) when it's done (haven't done any of those in a while) but it feels weird to do it for a show that drops weekly.
 - Gaming:
-    - I finished [Fire Emblem Three Houses](/2021/01/1349796416042856448/)! Will probably kick off the 2nd run sometime this week.
+    - I finished [Fire Emblem Three Houses](/2021/01/fire-emblem-three-houses/)! Will probably kick off the 2nd run sometime this week.
     - MTG: **Kaldheim** preview season in progress. I am fairly excited for the new set to come in, because I'm looking forward to draft, the limited environment looks exciting.
     - I feel like I should be starting one of the many Steam RPGs on my backlog.
 - Books: Been reading Katie Mack's "**End of Everything**", I'm around 2/3rds in, so hopefully I can finish it and at least get 1 book in this month lol.

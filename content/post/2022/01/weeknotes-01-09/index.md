@@ -43,7 +43,7 @@ Visit the [Links page](/links/) for more links of interest.
 
 - **Gaming**:
     - This week I started playing **Tales of Vesperia**, one of the longer games I hope to finish this year.
-    - Today was the [Magic Arena](/tags/MagicArena/) Decathlon finals, which used up most of my day today. Unfortunately, [I did poorly](/2021/12/1472933987718815750/) D: Oh well. 
+    - Today was the [Magic Arena](/tags/MagicArena/) Decathlon finals, which used up most of my day today. Unfortunately, [I did poorly](/2021/12/arena-decathlon/) D: Oh well. 
 - **Watching**:
     - This week I kicked off the [2022 list of movies](/lists/media/movies/2022/) with [Pig (2021)](/2022/01/9f334e2bc092614079ecd191f947c4ff/).
     - **TV:** 

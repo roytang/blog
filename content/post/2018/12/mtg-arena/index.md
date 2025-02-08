@@ -17,7 +17,7 @@ title: MTG Arena
 type: post
 ---
 
-I've been playing [MTG Arena](https://magic.wizards.com/en/mtgarena) for a good while now, a little bit during the closed beta, and now I think we're still in open beta (?) because things still keep changing around. But I figured I could put in a little commentary about how this thing is going so far. I'm coming off the POV of a long-time [Magic the Gathering](/categories/magic-the-gathering/) player of course, with a little bit of comparison to [Eternal](/2018/11/review-eternal-or-eternal-primer-for-mtg-players/) and [Hearthstone](/2016/05/hearthstone-vs-mtg/), the two digital CCGs I'm most familiar with.
+I've been playing [MTG Arena](https://magic.wizards.com/en/mtgarena) for a good while now, a little bit during the closed beta, and now I think we're still in open beta (?) because things still keep changing around. But I figured I could put in a little commentary about how this thing is going so far. I'm coming off the POV of a long-time [Magic the Gathering](/categories/magic-the-gathering/) player of course, with a little bit of comparison to [Eternal](/2018/11/review-eternal/ ) and [Hearthstone](/2016/05/hearthstone-vs-mtg/), the two digital CCGs I'm most familiar with.
 
 ### Client, Ruleset, and Gameplay
 
