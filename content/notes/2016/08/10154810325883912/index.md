@@ -1,7 +1,7 @@
 ---
 albums:
 - timeline
-date: 2016-08-10 08:36:00+08:00
+date: 2016-08-10 00:36:00
 source: facebook
 syndicated:
 - type: facebook
@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/763171547229990912/
 tags:
 - timeline-photos
+- duterte
 ---
 
 Lol this reminds me of a certain local politician and his erstwhile followers

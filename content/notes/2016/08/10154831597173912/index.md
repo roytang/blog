@@ -1,5 +1,5 @@
 ---
-date: 2016-08-18 15:58:00+08:00
+date: 2016-08-18 07:58:00
 dontinlinephotos: true
 source: facebook
 syndicated:
@@ -9,6 +9,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/766220666110513152/
 tags:
 - fbreposts05
+- duterte
 ---
 
 I guess we're at the point where we realize the fanatics aren't really listening to us and they probably don't even understand what they sound like, so we just make fun of them and point and laugh and maybe we at least get a little entertained along our way down the slippery slope
