@@ -37,7 +37,7 @@ title: Weeknotes 2021-04-11
 
 - I [got my first dose of Sinovac vaccine today](/2021/04/first-sinovac-dose/)!
 - **Watching:**
-    - Continuing the James Bond run with [Diamonds are Forever (1971)](/2021/04/8fd56682f77942eb0badef9444d465a4/), Connery's last outing.
+    - Continuing the James Bond run with [Diamonds are Forever (1971)](/2021/04/movies-tv-jan-apr-2021/#diamonds-are-forever-1971), Connery's last outing.
     - This week's **Falcon and Winter Soldier** was great, and those last 10 minutes were intense!
     - Other than that, just the usual weekly shows, etc.
 - **Gaming**:

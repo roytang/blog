@@ -38,7 +38,7 @@ This is 2021 week 3. Or week 2. Two and a half? How do calendars work?
 - Watching:
     - I finished **Spectacular Spider-Man** on Netflix. I liked it, even if it was a kids' show. Too bad it was cut off abruptly due to licensing issues
     - I also started (re-?) watching Attack on Titan, from season 1, as the final season has been getting some hype. Anime is hard to background-watch though (due to subs), so this might take a while.
-    - Watched my first two movies of the year: [The Godfather](/2021/01/1350042544567029763/) and [The Godfather Part II](/2021/01/1350361902149324800/).
+    - Watched my first two movies of the year: [The Godfather](/2021/01/04/movies-tv-jan-apr-2021/#the-godfather-1972) and [The Godfather Part II](/2021/01/04/movies-tv-jan-apr-2021/#the-godfather-part-ii-1974).
     - First two eps of WandaVision are in! It's so weird. I'm looking forward to seeing how things unfold. Series runs until March, I feel like I should do one of my [spoiler-free reviews](/tags/spoiler-free-review/) when it's done (haven't done any of those in a while) but it feels weird to do it for a show that drops weekly.
 - Gaming:
     - I finished [Fire Emblem Three Houses](/2021/01/fire-emblem-three-houses/)! Will probably kick off the 2nd run sometime this week.

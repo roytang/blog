@@ -27,7 +27,7 @@ title: Weeknotes 2021-03-21
 
 - [Sketching, sketching](/albums/sketchbook/).
 - **Watching:**
-    - Continuing my run on the Bond movies with [Goldfinger (1964)](/2021/03/273eae12d668c24135d4db358511c9d4/) and [Thunderall (1965)](/2021/03/c6152994fa5ddf4b9c3302bcddfdd699/).
+    - Continuing my run on the Bond movies with [Goldfinger (1964)](/2021/04/movies-tv-jan-apr-2021/#goldfinger-1964) and [Thunderball (1965)](/2021/04/movies-tv-jan-apr-2021/#thunderball-1965).
     - I keep threatening to watch the Snyder Cut, but have yet to find a four hour block of time to do it. FOUR HOURS!!
     - Instead, I watched the first episode of The Falcon and the Winter Soldier. Kind of meh, though I appreciate the emotional angles they're going for. Might have been more hyped if I wasn't aware a certain character was going to be introduced in this series.
     - Finished watching **Star Trek: Enterprise**, now almost through the Animated Series. Almost to Star Trek TV series completion!

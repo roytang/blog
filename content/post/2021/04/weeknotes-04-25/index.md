@@ -57,7 +57,7 @@ I've been a bit busy this weekend (see below), so this post is running a bit lat
     {{< collections-embed sketchbook 1385224243848179719 >}}
 
 - **Watching:**
-    - Movies: Watched [Rocky (1976)](/2021/04/b178a1efcfc005930f062c7be447d7c1/), and I meant to watch the next Bond flick too, but ran out of time. New Mortal Kombat movie also came out this past week, I might watch that.
+    - Movies: Watched [Rocky (1976)](/2021/04/movies-tv-jan-apr-2021/#rocky-1976), and I meant to watch the next Bond flick too, but ran out of time. New Mortal Kombat movie also came out this past week, I might watch that.
     - **Falcon and Winter Soldier** season finale ran last Friday. A lot of people are happy with it (and the season overall), but I felt like some parts were too rushed and the finale suffered as a result. Will probably post more thoughts on it this week. After this, we won't have MCU content until Loki kicks off next month I think.
     - This week's **Invincible** is getting to the good part!
 - **Gaming**:

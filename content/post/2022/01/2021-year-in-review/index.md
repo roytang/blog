@@ -78,7 +78,7 @@ Also, here's a wordcloud for 2021:
 - **Movies**. (New) movies watched: 65, up from 47 last year. 
     - [The list.](/lists/media/movies/2021/)
     - I intentionally came into the year intending to watch more films than before. Most of these were action films (unsurprising), including an almost-complete Jack Ryan run and [the complete 25-film James Bond run](/tags/jamesbond)! All of these were watched at home due to the pandemic of course. 
-    - The best one on the list was probably the classic film [The Godfather](/2021/01/1350042544567029763/), but I'd guess my favorite was actually the final Craig Bond film [No Time To Die](/2021/11/no-time-to-die/).
+    - The best one on the list was probably the classic film [The Godfather](/2021/04/movies-tv-jan-apr-2021/#the-godfather-1972), but I'd guess my favorite was actually the final Craig Bond film [No Time To Die](/2021/11/no-time-to-die/).
 - **Books** read: 26, way up from last year's 2. 
     - [The list](/lists/media/books/2021/), with 18 fiction and 8 nonfiction.
     - Last year's action item was `read more books`, so I'd say that's a success! 
@@ -89,7 +89,7 @@ Also, here's a wordcloud for 2021:
         - New (to me) stuff I watched included **Cobra Kai season 3**, the old **Spectacular Spider-Man** cartoon, **Star Trek Enterprise** and **Star Trek The Animated Series** (to complete the classic Trek shows), and [Kim's Convenience season 5](/2021/06/1400634591166156805/). 
         - Rewatches of **Gurren Laggan**, **Brookyln Nine-Nine** and **New Girl**
     - **Prime Video**: Unfortunately doesn't provide a convenient method of counting the items in my watch history.
-        - New stuff I watched included [Invincible](/2021/04/183ab94b6cb10f5db0431e715cde1945/), [Jack Ryan season 2](/2021/05/99d3f5dffa9b1e1f2a4029f66c2b4f2a/), and [Wheel of Time](/2021/12/hawkeye-wot-lower-decks/)
+        - New stuff I watched included [Invincible](/2021/04/movies-tv-jan-apr-2021/#invincible-season-1), [Jack Ryan season 2](/2021/05/99d3f5dffa9b1e1f2a4029f66c2b4f2a/), and [Wheel of Time](/2021/12/hawkeye-wot-lower-decks/)
         - Also enjoyed rewatches of [House MD](/2021/09/house/), **Parks and Recreation** and **The Office**
     - Others:
         - Managed to watch all the Disney MCU shows somehow!

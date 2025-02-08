@@ -31,7 +31,7 @@ Wow, January is almost done. Wouldn't you know it.
 
 - Daily sketches in [the sketchbook album](/albums/sketchbook/), ongoing, streak yet unbroken.
 - Watching:
-    - Watched [World War Z](/2021/01/1352137686614564867/), though I kinda wish I had seen it back at the start of the pandemic, seemed like it would have been appropriate.
+    - Watched [World War Z](/2021/04/movies-tv-jan-apr-2021/#world-war-z-2013), though I kinda wish I had seen it back at the start of the pandemic, seemed like it would have been appropriate.
     - WandaVision ep 3: So weird! I don't mind the sitcom stuff, though I'm mostly here for the Marvel plots. The pacing is fine, with just enough easter eggs and plot teasing to not be annoying.
 - Gaming:
     - Kicked off a second run of [Fire Emblem Three Houses](/2021/01/fire-emblem-three-houses/)! Now in hard/classic, and going down the red/Black Eagle path.

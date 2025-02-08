@@ -31,7 +31,7 @@ It's the last weekend of March. It feels like the month went by quickly.
 
 - [Sketching, sketching](/albums/sketchbook/).
 - **Watching:**
-    - Continuing my run on the Bond movies with [You Only Live Twice (1967)](/2021/03/fb71576d1974213ea471b5cda8a20948/). Secret volcano lair!
+    - Continuing my run on the Bond movies with [You Only Live Twice (1967)](/2021/04/movies-tv-jan-apr-2021/#you-only-live-twice-1967). Secret volcano lair!
     - I also managed to convince myself to sit down and watch [Zack Snyder's Justice League](/2021/03/snyder-cut/). I couldn't manage to sit down for four hours straight, so it was two sittings over two days.
     - Second episode of The Falcon and the Winter Soldier last Friday. Still a bit meh, mostly because there hasn't been anything I haven't expected yet. But that's bound to change as I think all the content from the trailers have been shown by now. Some good acting by Sebastian Sean though.
     - Finished watching **Star Trek The Animated Series**, Star Trek TV series completion!

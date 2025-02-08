@@ -42,7 +42,7 @@ This is a [uses page](https://uses.tech/).
 | **Other stuff** |
 | Laptop | Macbook Air 2017, 256gb SSD | 2018 |
 | Mobile Phone | Samsung A50 | Aug 2019 |
-| Printer | HP Deskjet 3635 | 2013 (?) |
+| Printer | HP Deskjet 3635 | Apr 2016 |
 | Console | Playstation 4 | 2017 |
 | Console | Playstation 3 | 2013 |
 | Console | Nintendo Switch | [2020](/2020/09/nintendo-switch/) |

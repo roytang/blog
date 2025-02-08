@@ -38,7 +38,7 @@ I'm not sure what to think of this past week, feels like it went by quickly. I m
 
 - We tried out [these three-cheese donuts from Lola Nena's](/2021/04/1382290950483976200/), after I heard about them from a local streamer. Pretty good!
 - **Watching:**
-    - Movies: Watched [Airplane! (1980)](/2021/04/1381509474259673090/) and [Live and Let Die (1973)](/2021/04/ced0a77eea2857ad31bd014fac3ded9a/) to continute the James Bond run.
+    - Movies: Watched [Airplane! (1980)](/2021/04/movies-tv-jan-apr-2021/#airplane-1980) and [Live and Let Die (1973)](/2021/04/movies-tv-jan-apr-2021/#live-and-let-die-1973) to continute the James Bond run.
     - This week's **Falcon and Winter Soldier** was mostly set up for the finale next week.
     - I have also been enjoying **Invincible**, but I guess that I will reserve commentary until the season is done.
     - I did not watch this year's Wrestlemania.
