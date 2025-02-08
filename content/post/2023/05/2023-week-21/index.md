@@ -34,7 +34,7 @@ A supertyphoon was supposed to hit the country over the weekend, but the weather
 
 - **Reading**: I still have not yet selected a new book to read next. Reading a lot of comics still; I wrote [a blog post about Jason Aaron's Thor/Avengers runs](/2023/05/comics-aaron-thor-avengers-realms/). Feed reader backlog: 199 items.
 
-- **Watching**: Managed to watch a couple of movies this week: [The Raid (2011)](/2023/08/movies-may-aug-2024/#the-raid-2011) and [Mystic River (2003)](/2023/08/movies-may-aug-2024/#mystic-river-2003). Still trying to power through the final season of *The Flash*
+- **Watching**: Managed to watch a couple of movies this week: [The Raid (2011)](/2023/08/movies-may-aug-2023/#the-raid-2011) and [Mystic River (2003)](/2023/08/movies-may-aug-2023/#mystic-river-2003). Still trying to power through the final season of *The Flash*
 
 ### Walking
 

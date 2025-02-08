@@ -43,7 +43,7 @@ On the blog: I wrote about [my new phone loadout](/2023/08/new-phone-loadout/).
 
 - **Reading**: Finished reading my Avengers runs, so I wrote [a new complete marvel run blog post about it](/2023/08/marvel-run-5-avengers-etc/). My book reading has slowed down a bit though. Feed reader backlog is at a health 13 items.
 
-- **Watching**: Managed to watch 3 movies this week: [Young Frankenstein (1974)](/2023/08/movies-may-aug-2024/#young-frankenstein-1974), [Street Kings (2008)](/2023/08/movies-may-aug-2024/#street-kings-2008), and [Lupin the Third: The Castle of Cagliostro (1979)](/2023/08/movies-may-aug-2024/#lupin-the-third-the-castle-of-cagliostro-1979). TV-wise, *Ahsoka* is out on Disney+, but I decided to go through all 4 seasons of **Star Wars Rebels** first. I'm already a bit into season 2, it's fairly good!
+- **Watching**: Managed to watch 3 movies this week: [Young Frankenstein (1974)](/2023/08/movies-may-aug-2023/#young-frankenstein-1974), [Street Kings (2008)](/2023/08/movies-may-aug-2023/#street-kings-2008), and [Lupin the Third: The Castle of Cagliostro (1979)](/2023/08/movies-may-aug-2023/#lupin-the-third-the-castle-of-cagliostro-1979). TV-wise, *Ahsoka* is out on Disney+, but I decided to go through all 4 seasons of **Star Wars Rebels** first. I'm already a bit into season 2, it's fairly good!
 
 ### Walking
 

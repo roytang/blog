@@ -12,7 +12,7 @@ title: More thoughts on Avengers Endgame and the MCU
 type: post
 ---
 
-I already wrote about Avengers Endgame a bit in [yesterday's post](/2019/04/were-in-the-endgames-now/), but that was a bit rushed and I had more thoughts, so here we are. I figured I might as well get everything out. There will be unmarked spoilers for Avengers Endgame and Agents of SHIELD.
+I already wrote about Avengers Endgame a bit in [yesterday's post](/2019/04/endgames/), but that was a bit rushed and I had more thoughts, so here we are. I figured I might as well get everything out. There will be unmarked spoilers for Avengers Endgame and Agents of SHIELD.
 
 Before even going into the movie that was seemingly sold out everywhere despite being on almost every cinema screen in the Metro, I was thinking to myself what a phenomenon. Endgame is the culmination of a decade's worth of movies, 22 in total, and even some number of shows, something unrivalled in all of movie history. It's a new form of serialized event entertainment - even though there have been movie franchises with continuity before, most have been limited to trilogies, and the MCU blows them all out of the water. In my head it's more akin to an extended HBO or Netflix series, one that only gets three episodes a year, and each episode is an event in that you can go to the cinema and watch it with your friends. And Endgame was here, trying to put a bookend on all of that, an entire decade worth of stories, with dozens of characters and the stakes no less than half the universe. The scale of it is mind-boggling and very ambitious, and if they dropped the ball on this one it would be so terrible and a huge waste and it would take another decade to even attempt to conclude another story in this manner.
 

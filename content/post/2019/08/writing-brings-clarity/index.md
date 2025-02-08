@@ -20,7 +20,7 @@ I think it works similarly to the programmer practice of [rubber ducking](https:
 
 This clarity can also allow you to more easily process a large scope that can otherwise seem overwhelming. 
 
-I remember this in the context of [my travel anxiety](/2019/07/travel-anxiety-part-2/) during the recent trip, particularly during the Seattle leg when I was travelling alone. I was worried I would be missing something or that I would forget something. 
+I remember this in the context of [my travel anxiety](/2019/07/travel-anxiety-2/) during the recent trip, particularly during the Seattle leg when I was travelling alone. I was worried I would be missing something or that I would forget something. 
 
 To calm myself, I sat down and wrote a list of all the things I had to do before I considered myself back in a comfortable situation. The list included things like what to pack, what transportation methods I would take, what steps I had to do at the airport, and so on. Having this list to look at reminded me of the bigger picture and what I had imagined in my head as a large number of things to worry about turned out to be a lot more manageable once I was looking at a list, and not so worrying as I expected.
 

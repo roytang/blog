@@ -85,7 +85,7 @@ Gaming:
   * Best MTGA Rank: [Mythic!!](/2019/05/arena-mythic/)
   * MTG paper tournament games played: 28
   * MTG paper tournament games win rate: 39% (See [my MTG stats](/about/stats/mtg))
-  * MTG GPs attended: 1. I originally wasn't planning on it, but I attended [GP Seattle](/2019/07/grand-prix-seattle-2019/) in June.
+  * MTG GPs attended: 1. I originally wasn't planning on it, but I attended [GP Seattle](/2019/07/grand-prix-seattle/) in June.
   * Average points per turn in Words with Friends: 26, same as last year
 
 Others:

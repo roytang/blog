@@ -42,7 +42,7 @@ I wrote [about poetry](/2023/07/as-long-as-there-is-love/) and [about Reader's D
 
 - **Reading**: Finished reading [Moving Pictures by Terry Pratchett](/2023/07/moving-pictures/). Reading the Avengers v1 run is close to the end! Started reading **Gideon the Ninth**
 
-- **Watching**: Since we went out to the mall Wednesday, we went ahead and watched the newly-released **Mission Impossible: Dead Reckoning Part 1**, my [review is here](/2023/08/movies-may-aug-2024/#mission-impossible-dead-reckoning-part-one-2023). This week was also the series finale of **The Blacklist**, which got an undeserved terrible ending; I [wrote a series review here](/2023/07/the-blacklist/). Also started watching season 2 of **Star Trek: Strange New Worlds** which has been great so far, I am looking forward to writing about it.
+- **Watching**: Since we went out to the mall Wednesday, we went ahead and watched the newly-released **Mission Impossible: Dead Reckoning Part 1**, my [review is here](/2023/08/movies-may-aug-2023/#mission-impossible-dead-reckoning-part-one-2023). This week was also the series finale of **The Blacklist**, which got an undeserved terrible ending; I [wrote a series review here](/2023/07/the-blacklist/). Also started watching season 2 of **Star Trek: Strange New Worlds** which has been great so far, I am looking forward to writing about it.
 
 ### Walking
 

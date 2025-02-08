@@ -34,7 +34,7 @@ Wrote about how [you can write about anything](/2023/06/write-anything/).
 
 - **Reading**: Started reading another Discworld! A short one this time, so hopefully can be done soon. Reading a lot of comics still; current reading of Avengers v1 is up to #128 (not a great pace). Feed reader backlog is at a manageable 44 items.
 
-- **Watching**: Only one movie watched this week, it was [The Mummy (1999)](/2023/08/movies-may-aug-2024/#the-mummy-1999). My brother and I were planning to watch the Spider-verse sequel this past weekend, but he had to resched so hopefully we get to it this week, the reviews are so good! And there's also so many shows I want to watch/finish!
+- **Watching**: Only one movie watched this week, it was [The Mummy (1999)](/2023/08/movies-may-aug-2023/#the-mummy-1999). My brother and I were planning to watch the Spider-verse sequel this past weekend, but he had to resched so hopefully we get to it this week, the reviews are so good! And there's also so many shows I want to watch/finish!
 
 ### Walking
 

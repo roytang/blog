@@ -14,7 +14,7 @@ type: post
 
 Seattle was the riskiest part of my trip, relatively speaking, because it was my solo leg - I didn't have any friends or relatives in the city I could turn to in case of an emergency. I had also read online that while Seattle was very much a walkable city, there was a nontrivial homeless population, and some areas may be a bit sketchy after dark. As a friend of mine said though, "sketchy" in the US is probably a lot safer than "sketchy" in Metro Manila. I still worried a little bit, but given where I from, it didn't make sense to worry about it.
 
-My primary purpose for this leg of the trip was of course [GP Seattle](/2019/07/grand-prix-seattle-2019/), but I also looked forward to being able to walk and explore the city by myself. Not that I don't enjoy hanging out and travelling with my family, but I enjoy being able to wander around freely by myself with no real agenda, [letting my feet take me wherever](/2009/03/sometimes-you-just-go-where-your-feet-take-you/). 
+My primary purpose for this leg of the trip was of course [GP Seattle](/2019/07/grand-prix-seattle/), but I also looked forward to being able to walk and explore the city by myself. Not that I don't enjoy hanging out and travelling with my family, but I enjoy being able to wander around freely by myself with no real agenda, [letting my feet take me wherever](/2009/03/sometimes-you-just-go-where-your-feet-take-you/). 
 
 That meant instead of theme parks and tourist attractions and shopping outlets, I found myself walking around looking into small bookstores, vintage shops, collectibles stores, hobby shops, gaming arcades, and so on. My poor performance at the GP main event gave me some extra time to wander the streets as well.
 

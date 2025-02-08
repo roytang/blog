@@ -83,7 +83,7 @@ tags:
   - React Native
     - [Upgrading a React Native Project](/2019/07/react-native-mobile-devt/)
   - C++
-    - [Revisiting C&#43;&#43; after a decade](/2019/01/revisiting-c-after-a-decade/)
+    - [Revisiting C&#43;&#43; after a decade](/2019/01/revisiting-c++/)
   - JavaScript
     - [Javascript: References to out-of-scope variables.](/2016/12/javascript-references-to-out-of-scope-variables/)
   - Others

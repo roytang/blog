@@ -45,7 +45,7 @@ Trying to blog more this past week:
 
 - **Reading**: Reading has kind of taken a backseat this past week. Still reading: *Saving Time* by Jenny Odell. I have finished the West Coast Avengers v1 run! (Or at least what was available on Marvel Unlimited.) Might try to write a [complete-marvel-run](/tags/complete-marvel-run/) post this week. Feed reader backlog is currently at a very healthy 11 items.
 
-- **Watching**: Watched [Heart of Stone](/2023/08/movies-may-aug-2024/#heart-of-stone-2023) this week, upon my mom's recommendation. Also watching a bunch of TV stuff, but nothing too important.
+- **Watching**: Watched [Heart of Stone](/2023/08/movies-may-aug-2023/#heart-of-stone-2023) this week, upon my mom's recommendation. Also watching a bunch of TV stuff, but nothing too important.
 
 ### Walking
 

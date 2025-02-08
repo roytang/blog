@@ -28,7 +28,7 @@ title: 2023 Week 18
 
 - **Reading**: A bit more than halfway through *Tomorrow, and Tomorrow, and Tomorrow* by Gabrielle Nevin. Still reading comics, although have pushed off the next [Complete Marvel Run](/tags/complete-marvel-run/) update for a couple of weeks now, hope to get it done this week.
 
-- **Watching**: Still watching *The Blacklist* S10, working my way through it slowly. Watched [Guardians of the Galaxy vol 3](/2023/08/movies-may-aug-2024/#guardians-of-the-galaxy-vol-3-2023)!
+- **Watching**: Still watching *The Blacklist* S10, working my way through it slowly. Watched [Guardians of the Galaxy vol 3](/2023/08/movies-may-aug-2023/#guardians-of-the-galaxy-vol-3-2023)!
 
 ### Walking
 
