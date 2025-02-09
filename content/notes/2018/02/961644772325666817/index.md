@@ -1,5 +1,5 @@
 ---
-date: 2018-02-08 16:55:54+00:00
+date: 2018-02-08 16:55:54
 repost_source:
   name: jenist
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/961644772325666817/
+tags:
+- listofadvice
 ---
 
 RIP John Perry Barlow. Print out his "Principles of Adult Behavior" and stick it on your fridge

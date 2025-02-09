@@ -1,11 +1,10 @@
 ---
-title: "Globe's Rotten Bananas"
-date: 2014-02-07T23:14:02+08:00
 backpost_date: 2023-11-23
-tags:
-- globe
-- tech-life
-- backpost
+date: 2014-02-07 15:14:02
+dontinlinephotos: true
+resources:
+- src: timehop.png
+  title: Feb 7 is Rotten Bananas Day!
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/429598054816051200/
@@ -25,10 +24,13 @@ syndicated:
   url: https://twitter.com/roytang/statuses/431770257779224577/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152774120228912
-dontinlinephotos: true
-resources:
-- src: timehop.png
-  title: Feb 7 is Rotten Bananas Day!
+- type: twitter
+  url: https://twitter.com/roytang/statuses/432493455927808000/
+tags:
+- globe
+- tech-life
+- backpost
+title: Globe's Rotten Bananas
 ---
 
 *Archivist's note: This is an archive of social media posts about the "Rotten Bananas" incident when I had a spirited discussion with Globe over their "unlimited" data plan. The convo went a bit viral for a while. Unfortunately because @talk2globe has deleted the older tweets, I am unable to reconstruct the original thread.*
@@ -96,5 +98,9 @@ resources:
 <time>[Sat, Feb. 8, 2014, 7:47 a.m.]</time> Re: Globe, For the record, I personally don't mind having the 1GB/3GB limits, my mobile usage isn't that much and I have wired internet at home. (Although I wouldn't mind higher limits - there are apps that are larger than 1GB!) But the problem is that the plans are being marketed as "UNLIMITED" (and when confronted with this, they'll try to weasel out with technicalities like "it's still unlimited after the cap, just 2G") and they treat the "3%" who make the most of the UNLIMITED plan as "abusers" who are not "fair". In my opinion, if their network can't handle the congestion, they shouldn't sell these plans as "UNLIMITED".
 
 [Comments](#comment-0be54075-148c-4c41-bd4c-35d3dc722a4a)
+
+---
+
+<time id="432493455927808000">[2014-02-09 20:37] </time> In hindsight, i hope i didnt get some csr fired
 
 ---

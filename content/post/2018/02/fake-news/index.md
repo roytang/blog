@@ -20,6 +20,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156404257848912
 tags:
 - worldnews
+- formernote
+title: Social media and Fake News
 ---
 
 [Trudeau to Facebook: Fix your fake news problem or face stricter regulations](https://www.thestar.com/news/canada/2018/02/08/trudeau-to-facebook-fix-your-fake-news-problem-or-else.html)
