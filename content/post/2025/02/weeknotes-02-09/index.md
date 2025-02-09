@@ -1,6 +1,9 @@
 ---
-date: 2025-02-09T13:22:10+08:00
+date: 2025-02-09 05:22:10
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/113972556583152773
 tags:
 - weeknotes
 title: Weeknotes 2025-02-09 Circling The Drain
