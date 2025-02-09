@@ -22,8 +22,8 @@ This is a [uses page](https://uses.tech/).
 | NASH::Video card | Asus RTX3050 Phoenix NonOC 8GB | [2022](/2022/12/pc-build-2022/) |
 | NASH::SSD | Kingstton 1TB NV1 NVME | [2022](/2022/12/pc-build-2022/) |
 | NASH::SSHD | Seagate Firecuda 2tb | 2019 |
+| NASH::Monitor | HP M27f FHD | [2024](/2025/02/weeknotes-02-09/) | 
 | NASH::Monitor | AOC 24G2SE/71 | [2022](/2022/12/pc-build-2022/) | 
-| NASH::Monitor | AOC 24" M2470SWH | 2018 |
 | NASH::Keyboard | Redragon K502 | [2023](/2023/09/2023-week-38/#some-recent-purchases) |
 | NASH::Mouse | Logitech G2 | 2021 |
 | NASH::Controller | 8Bitdo Ultimate Wireless | [2023](/2023/09/2023-week-38/#some-recent-purchases) |
@@ -48,6 +48,7 @@ This is a [uses page](https://uses.tech/).
 | Console | Nintendo Switch | [2020](/2020/09/nintendo-switch/) |
 | Handheld | Playstation Vita | 2013 |
 | Handheld | New 3DSXL | 2015 |
+| Monitor (Unused) | AOC 24" M2470SWH | 2018 |
 
 Previously: [The Setup](/2010/06/the-setup/) | [The Setup 2018](/2018/03/the-setup-2018-edition/)
 
