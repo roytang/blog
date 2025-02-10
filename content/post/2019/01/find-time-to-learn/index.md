@@ -11,7 +11,7 @@ title: Finding Time to Learn new Things
 type: post
 ---
 
-Someone responded to my post on [things to learn in 2019](/2019/01/tech-to-learn-in-2019/) by asking how one finds the inspiration to learn all of the things. Well, my first answer was that those are just things I find interesting and may look into, but that's not really an answer for the inspiration part.
+Someone responded to my post on [things to learn in 2019](/2019/01/tech-to-learn-2019/) by asking how one finds the inspiration to learn all of the things. Well, my first answer was that those are just things I find interesting and may look into, but that's not really an answer for the inspiration part.
 
 Software development is a very wide field, one where the amount of things you can learn increases daily, so it's almost impossible to keep up with everything. I think that having a natural tendency or curiosity towards learning new things is a distinct advantage in this industry. Having at least some passing familiarity with a wide range of technologies gives you more options in both job hunting and deciding on technical approaches. 
 

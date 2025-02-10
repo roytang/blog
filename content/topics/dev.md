@@ -15,7 +15,7 @@ tags:
   - [The process of applying to be a software developer](/2016/06/the-programming-application-process/)
   - [Job Hunting for Programmers](/2008/01/job-hunting-for-programmers/)
   - [Technical Interview Notes](/2020/04/technical-interview/)
-  - [Software Dev Q&A on Reddit](/2019/02/reddit-ph-software-dev-qa/)
+  - [Software Dev Q&A on Reddit](/2019/02/reddit-ph-dev/)
   - [Fake devs and whiteboard interviews](/2017/03/fake-devs-and-whiteboard-interviews/)
   - [10X Programmers](/2019/07/10x-programmers/)
   - [Qualities to Look for in a Software Developer](/2017/01/qualities-to-look-for-in-a-software-developer/)
@@ -103,7 +103,7 @@ tags:
 
 
 Misc:
-- [Tech to Learn in 2019](/2019/01/tech-to-learn-in-2019/)
+- [Tech to Learn in 2019](/2019/01/tech-to-learn-2019/)
 - [Solution Architect](/2019/01/solution-architect/)
 - [Software Development and Government](/2017/06/software-development-and-government/)
 - [Google Code Jam and Competitive Programming](/2017/03/google-code-jam-and-competitive-programming/)

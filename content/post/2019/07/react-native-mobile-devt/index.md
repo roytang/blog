@@ -39,7 +39,7 @@ It was still a nontrivial amount of work, but I eventually got everything workin
 - Google now recommends that I provide an upload key for encryption, but since I reset the project, I also accidentally deleted the signing key I was using before. Oops! Momentary panic until I have the sense to do a search and realize that past me was wise enough to backup the file elsewhere. 
 - Test that I can create the app bundle successfully.
   
-By this point I more or less had a working Android build, then shifted over to iOS. Since I only [recently got a Macbook Air](/2018/12/macbook-air-2017-model/), I actually hadn't tried creating and publishing the iOS build, someone was helping me with that part before. Because of reasons, I wanted/had to do it myself this time around, so a bit of a learning curve and trial-and-error again.
+By this point I more or less had a working Android build, then shifted over to iOS. Since I only [recently got a Macbook Air](/2018/12/macbook-air-2017/), I actually hadn't tried creating and publishing the iOS build, someone was helping me with that part before. Because of reasons, I wanted/had to do it myself this time around, so a bit of a learning curve and trial-and-error again.
 
 - clone the project from repo, `npm install`, try `react-native run-ios`, oops missing dependencies
 - find out about CocoaPods. Clone a fresh copy of the project, `npm install` then `pod install` (took a while), then try `react-native run-ios` again

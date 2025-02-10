@@ -13,7 +13,7 @@ title: A Look Back at the Marvel Cinematic Universe
 type: post
 ---
 
-I know I already made a [whole post about the MCU after Endgame came out](https://roytang.net/2019/04/more-thoughts-on-avengers-endgame-and-the-mcu/), but after the MCU Phase 4 announcements this past weekend at SDCC I was a bit hyped. I thought it would be fun to look back at the past 10 years of MCU Phase 1-3 and see what I wrote about the movies.
+I know I already made a [whole post about the MCU after Endgame came out](https://roytang.net/2019/04/more-endgame-mcu/), but after the MCU Phase 4 announcements this past weekend at SDCC I was a bit hyped. I thought it would be fun to look back at the past 10 years of MCU Phase 1-3 and see what I wrote about the movies.
 
 **Iron Man (2008)** 
 
@@ -237,7 +237,7 @@ Around this time, I started [posting the reviews to Tumblr](https://tumblr.royta
   
 **Avengers Endgame (2019)**
 
-You can read my review [right here on this blog](/2019/04/more-thoughts-on-avengers-endgame-and-the-mcu/)!
+You can read my review [right here on this blog](/2019/04/more-endgame-mcu/)!
 
 **Spider-man Far From Home (2019)**
 

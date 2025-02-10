@@ -67,4 +67,4 @@ I would also recommend becoming familiar with the requirements for the position 
 
 It would also help to ask around about the specific recruitment process for the company you're interviewing for, if you have any contacts, or sometimes there's information on the internet. (Good internet searching is an essential developer skill as well!) Just knowing what to expect can boost your confidence.
 
-I've also given some other advice in a [Q&A last year on reddit](/2019/02/reddit-ph-software-dev-qa/). Good luck!
+I've also given some other advice in a [Q&A last year on reddit](/2019/02/reddit-ph-dev/). Good luck!
