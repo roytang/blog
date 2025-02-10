@@ -1,9 +1,11 @@
 ---
-date: 2020-02-10 11:01:46+00:00
+date: 2020-02-10 11:01:46
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1226823567360217091/
+tags:
+- unlibb
 ---
 
 I had a very long convo with globe customer support via messenger about that unliBB thing (took 3 days because they took so long to respond between messages). Adding new charges to a bill without confirmation should be illegal 

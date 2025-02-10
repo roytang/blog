@@ -9,6 +9,7 @@ tags:
 - gaming
 - psvita
 - games
+- formernote
 title: Virtue's Last Reward (PS Vita)
 ---
 

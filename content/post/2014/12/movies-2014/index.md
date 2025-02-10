@@ -225,7 +225,7 @@ I'm still disappointed!
 
 <time>[2014-11-01 07:12] </time> Just saw Age of Extinction. As an 80s Transformers fan, it's very disconcerting whenever Optimus Prime says something like "I'll kill you!"
 
-Missed opportunity to call it [Trans4mers](/2014/02/432906375153205248/)
+Missed opportunity to call it Trans4mers
 
 #### Interstellar (2014)
 

@@ -1,10 +1,14 @@
 ---
-date: 2015-02-10 14:16:00+00:00
+date: 2015-02-10 14:16:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153558214993912
-title: ''
+tags:
+- formernote
+- mcu
+- movies
+title: "Sony's Spider-Man joins the MCU"
 ---
 
 http://marvel.com/news/movies/24062/sony_pictures_entertainment_brings_marvel_studios_into_the_amazing_world_of_spider-man
