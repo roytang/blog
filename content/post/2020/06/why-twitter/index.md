@@ -12,7 +12,7 @@ tags:
 title: Why Twitter?
 ---
 
-Alright so someone responded to [my previous post on quitting facebook](/2020/05/quitting-facebook/) asking why I'm quitting facebook but keeping Twitter. This is a fair question; after all, Twitter also makes its money off targetted advertising, can also get you addicted to engagement (likes/RTs), the Twitter app can also be dumb, and there can also be a lot of toxic people on this platform.
+Alright so someone responded to [my previous post on quitting facebook](/2020/06/quitting-facebook/) asking why I'm quitting facebook but keeping Twitter. This is a fair question; after all, Twitter also makes its money off targetted advertising, can also get you addicted to engagement (likes/RTs), the Twitter app can also be dumb, and there can also be a lot of toxic people on this platform.
 
 So here are my reasons for keeping Twitter, and you may also get some tips for improving your twitter experience:
 

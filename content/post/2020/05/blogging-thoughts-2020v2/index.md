@@ -13,7 +13,7 @@ tags:
 title: Thoughts on Blogging, 2020 Edition, Vol 2
 ---
 
-[Previously](/2020/02/thoughts-on-blogging-2020-edition/).
+[Previously](/2020/02/thinking-in-public/).
 
 In the [most recent weeknotes](/2020/05/weeknotes-2020-05-17/), I mentioned this [post about bringing blogs back to the internet](http://tttthis.com/blog/if-i-could-bring-one-thing-back-to-the-internet-it-would-be-blogs) and the [ensuing discussion on Hacker News](https://news.ycombinator.com/item?id=23205588).
 

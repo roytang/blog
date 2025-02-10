@@ -12,7 +12,7 @@ tags:
 - favorites
 title: Thoughts on Blogging, 2020 Edition
 aliases:
-- /2020/02/thoughts-on-blogging-2020-edition/
+- /2020/02/thinking-in-public/
 ---
 
 I found this great article the other week about [Why You Should Start A Blog Right Now](https://guzey.com/personal/why-have-a-blog/). 

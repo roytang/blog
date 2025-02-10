@@ -28,7 +28,7 @@ tags:
   - [Learning a New Programming Language](/2016/12/learning-a-new-programming-language/)
 - Working with other people
   - [... with testers](/2016/06/working-with-testers/)
-  - [... with people from other cultures](/2020/04/working-with-people-from-other-cultures/)
+  - [... with people from other cultures](/2020/04/working-other-cultures/)
   - [Mentoring in Software Development](/2018/10/mentoring-in-software-development/)
 - Actually coding
   - [My Coding Approach](/2017/12/my-coding-approach/)
@@ -51,7 +51,7 @@ tags:
   - [Bespoke vs Product Development](/2020/04/bespoke-vs-product/)
   - [What to do in a production crisis](/2019/11/prod-crisis/)
   - [The Perils of Handover Documentation](/2019/11/handover-documentation/)
-  - [Adding Developers to a Late Project](/2018/12/adding-developers-to-a-late-project/)
+  - [Adding Developers to a Late Project](/2018/12/adding-devs/)
   - [Change and Risk and Governments](/2018/10/change-and-risk-and-governments/)
   - [Gladwell and Risk Management](/2018/10/gladwell-and-risk-management/)
   - [Problems in Large Software Dev Teams](/2017/01/problems-in-large-software-dev-teams/)

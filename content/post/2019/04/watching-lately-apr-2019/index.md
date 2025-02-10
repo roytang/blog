@@ -19,7 +19,7 @@ reviews:
   title: "The Orville season 2"
 ---
 
-I've already written extensively about [Avengers Endgame](/2019/04/more-endgame-mcu/), but there are other things I watched this month too.
+I've already written extensively about [Avengers Endgame](/2019/04/more-avengers-mcu/), but there are other things I watched this month too.
 
 **Shazam** came out early this month, and while it was unfortunately sandwiched between MCU blockbusters, it was a fun adventure romp and surprised me in a few ways. I wrote a [short spoiler-free review](https://tumblr.roytang.net/post/183916511215/shazam-spoiler-free-review) over on Tumblr.
 
