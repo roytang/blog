@@ -86,10 +86,10 @@ Also, here's a wordcloud for 2021:
     - I think my favorite fiction read of the year was [Le Guin's Left Hand of Darkness](/2021/09/lhod/). My favorite nonfiction read of the year was [Katie Mack's The End of Everything](/2021/01/end-of-everything/).
 - **TV/Streaming**
     - **Netflix**: 578 items in the watch history (802 last year). Numbers are way down! 
-        - New (to me) stuff I watched included **Cobra Kai season 3**, the old **Spectacular Spider-Man** cartoon, **Star Trek Enterprise** and **Star Trek The Animated Series** (to complete the classic Trek shows), and [Kim's Convenience season 5](/2021/06/1400634591166156805/). 
+        - New (to me) stuff I watched included **Cobra Kai season 3**, the old **Spectacular Spider-Man** cartoon, **Star Trek Enterprise** and **Star Trek The Animated Series** (to complete the classic Trek shows), and [Kim's Convenience season 5](/2021/08/movies-tv-may-aug-2021/#kims-convenience-season-5). 
         - Rewatches of **Gurren Laggan**, **Brookyln Nine-Nine** and **New Girl**
     - **Prime Video**: Unfortunately doesn't provide a convenient method of counting the items in my watch history.
-        - New stuff I watched included [Invincible](/2021/04/movies-tv-jan-apr-2021/#invincible-season-1), [Jack Ryan season 2](/2021/05/99d3f5dffa9b1e1f2a4029f66c2b4f2a/), and [Wheel of Time](/2021/12/hawkeye-wot-lower-decks/)
+        - New stuff I watched included [Invincible](/2021/04/movies-tv-jan-apr-2021/#invincible-season-1), [Jack Ryan season 2](/2021/08/movies-tv-may-aug-2021/#tom-clancys-jack-ryan-season-2), and [Wheel of Time](/2021/12/hawkeye-wot-lower-decks/)
         - Also enjoyed rewatches of [House MD](/2021/09/house/), **Parks and Recreation** and **The Office**
     - Others:
         - Managed to watch all the Disney MCU shows somehow!

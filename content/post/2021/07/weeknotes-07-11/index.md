@@ -40,7 +40,7 @@ Visit the [Links page](/links/) for more links of interest.
 
 - **HELTH**: Had a bit of a scare early in the week, as I ran a fever starting from Sunday evening. Pre-pandemic, it's nothing I'd just take some biogesic and sleep it off, but now we have to worry about Covid. To be sure, I had an RT-PCR swab test taken by Monday lunch time. My brother and his family had passed by the house Sunday morning and we hung out a bit outside shooting the breeze, so aside from the seniors I live with, I was worried for them, so the test was mostly to be sure and for peace of mind. I thought the test itself would be uncomfortable, but it was super quick, swab went in and out once per nostril, then one more in the throat. It was a bit pricey, as someone comes to your home to do it, but the results came quickly, got the NEGATIVE result the next morning. Hugh sigh of relief. By then my fever had gone down. I self-isolated for a couple more days just to be sure. Am completely fine now.
 - I wrote a bunch of words on the blog this week. Other than the usual media reviews, there's [this post on Compshop culture in the Philippines](/2021/07/comsat-and-compshops/) and also [some commentary on what it takes to be President of this country](/2021/07/on-being-president/).
-- Still [sketching](/albums/sketchbook/); Nothing I'm too proud of this week, kind of phoned in a lot of them. Here's Squeeks from [Transformers: The Last Knight](/2021/06/2789a7cda3fd16feca84b58fae45811b/):
+- Still [sketching](/albums/sketchbook/); Nothing I'm too proud of this week, kind of phoned in a lot of them. Here's Squeeks from [Transformers: The Last Knight](/2021/08/movies-tv-may-aug-2021/#transformers-the-last-knight-2017):
 
     {{< collections-embed sketchbook 1411947275169910786 2_1411947275169910786_E5g >}}
 
@@ -48,7 +48,7 @@ Visit the [Links page](/links/) for more links of interest.
     - Movies: Actually managed to watch a fair amount of movies this week! 
         - James Bond run continues into the Brosnan era with [Goldeneye (1995)](/2021/07/goldeneye/) and [Tomorrow Never Dies (1997)](/2021/07/tomorrow-never-dies/)
         - [Black Widow](/2021/07/black-widow/) came out this week of course, bringing the MCU back to the movies. Linked review starts spoiler-free.
-        - Watched some dumb movies (**America the Motion Picture (2021)** and **Ice Road (2021)**) [during the Saturday gaming watchalong](/2021/07/saturday-10-movies/).
+        - Watched some dumb movies (**America the Motion Picture (2021)** and **Ice Road (2021)**) [during the Saturday gaming watchalong](/2021/08/movies-tv-may-aug-2021/#saturday-the-10th-movies).
     - Not much TV this week apparently. Still keeping up with Flash, Rick and Morty, Loki. Mildly annoyed that Loki has one episode to go and we still don't have any real idea who the big bad is. 
 
 - **Gaming**:

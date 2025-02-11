@@ -6,7 +6,7 @@ tags:
 - quiznight
 ---
 
-Jason, who used to host quiz nights at [Amici Greenhills](http://localhost:8000/locations/4cbea79719ceb1f7f2ba1ecd) invited us to a quiz night at a new place: Don Conejos near Greenhills.
+Jason, who used to host quiz nights at [Amici Greenhills](/locations/4cbea79719ceb1f7f2ba1ecd) invited us to a quiz night at a new place: Don Conejos near Greenhills.
 
 The event was scheduled for 8pm and we were there on time, but it started late, almost 9:30pm I think. =/ We had a special guest from Sixsikan with us lol
 

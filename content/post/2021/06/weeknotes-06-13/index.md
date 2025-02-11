@@ -53,7 +53,7 @@ Visit the [Links page](/links/) for more links of interest.
     {{< collections-embed sketchbook 1404039267685261332 >}}
 
 - **Watching:**
-    - Movies: Managed another James Bond film this week: [For Your Eyes Only (1981)](/2021/06/2641c1868d6ccb70715302ea340cae74/). I think we're only a couple of films away from the end of Moore's tenure, then it's two Daltons, and finally the modern era (i.e. the ones where I actually caught some of them on film) of Pierce Brosnan
+    - Movies: Managed another James Bond film this week: [For Your Eyes Only (1981)](/2021/08/movies-tv-may-aug-2021/#for-your-eyes-only-1981). I think we're only a couple of films away from the end of Moore's tenure, then it's two Daltons, and finally the modern era (i.e. the ones where I actually caught some of them on film) of Pierce Brosnan
     - For my background watching during the game jam weekend, I watched the first season of **Schitt's Creek**, which I've heard good things about. The first season was ok, so I went ahead and queued up the next two season too.
     - Last Wednesday was the first episode of **Loki**! I enjoy this slow drip of MCU content, and the Timekeepers/TVA add a new aspect to the MCU's universe/multiverse. One can't help but think the multiversal status quo will be upset at the end of this series though, especially given some of the rumors about future films.
     - Last week I shared a video of [Bo Burnham's "Welcome to the Internet"](https://www.youtube.com/watch?v=k1BneeJTDcU) and this week I decided to watch his special **"Inside"** on Netflix, from where the song came from. It's pretty good, and probably took him forever to do.

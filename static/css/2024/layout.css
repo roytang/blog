@@ -451,3 +451,13 @@ iframe {
 .pxgallery img, .pxgallery video {
     max-width: 240px;
 }
+
+.pxgallery figure {
+    display: inline;
+}
+
+.pxgallery.photos {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}

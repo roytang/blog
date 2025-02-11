@@ -55,8 +55,8 @@ Visit the [Links page](/links/) for more links of interest.
     {{< collections-embed sketchbook 1399566991870943233 >}}
 
 - **Watching:**
-    - Movies: Advanced my James Bond agenda a bit this past week by watching the very campy [Moonraker (1979)](/2021/06/cbb6135fa20b48a488982eccc7df76ce/). I've now crossed over into "Bond movies released when I was alive" territory.
-    - Only one movie this week, but I did also manage to [binge the final season of Kim's Convenience](/2021/06/1400634591166156805/) and also have been running the new Jeopardy episodes on Netflix in the background while I do other stuff, am about halfway through them. Also managed to get caught up with Legends of Tomorrow, Supergirl and Flash. What's that, more episodes are coming?!?
+    - Movies: Advanced my James Bond agenda a bit this past week by watching the very campy [Moonraker (1979)](/2021/08/movies-tv-may-aug-2021/#moonraker-1979). I've now crossed over into "Bond movies released when I was alive" territory.
+    - Only one movie this week, but I did also manage to [binge the final season of Kim's Convenience](/2021/08/movies-tv-may-aug-2021/#kims-convenience-season-5) and also have been running the new Jeopardy episodes on Netflix in the background while I do other stuff, am about halfway through them. Also managed to get caught up with Legends of Tomorrow, Supergirl and Flash. What's that, more episodes are coming?!?
 - **Gaming**:
     - Still playing a bunch of **Horizon Zero Dawn** on PS4 and [Root](/2021/05/root/) with the regular Saturday group. I should pick up something new for playing on the PC maybe?
     - Tried to go for Master rank in Eternal at the end of the last month, [failed miserably](/2021/06/1399629350140407812/).

@@ -195,7 +195,7 @@ Plot was not very surprising but it's some good action and the fight choreograph
 
 #### Tom Clancy's Jack Ryan season 3 and 4
 
-Previously: [season 1](/2018/10/october-2018-watching-lately/), [season 2](/2021/05/99d3f5dffa9b1e1f2a4029f66c2b4f2a/)
+Previously: [season 1](/2018/10/october-2018-watching-lately/), [season 2](/2021/08/movies-tv-may-aug-2021/#tom-clancys-jack-ryan-season-2)
 
 I think Season 3 was my favorite one of this entire run, maybe because in my head I mostly associate the Jack Ryan character with the cold war stuff, and someone goading Russia and the US into a war felt like classic Jack Ryan/Tom Clancy. Fourth season was meh and a bit short and I have trouble taking Michael Pena seriously after first taking notice of him in Ant-Man.
 

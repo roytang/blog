@@ -44,7 +44,7 @@ I don't have anything for this section today. Visit the [Links page](/links/) fo
     {{< collections-embed sketchbook 1404812392010289164 >}}
 
 - **Watching:**
-    - Movies: Only one movie again this week, continuing the James Bond run: [Octopussy (1983)](/2021/06/1639118365d91bdbd1a41eb9b170a9a0/). Only one more Moore to go! I also wanted to watch **Rurouni Kenshin: The Final**, which came out on PH Netflix last Friday, but haven't found the time yet.
+    - Movies: Only one movie again this week, continuing the James Bond run: [Octopussy (1983)](/2021/08/movies-tv-may-aug-2021/#octopussy-1983). Only one more Moore to go! I also wanted to watch **Rurouni Kenshin: The Final**, which came out on PH Netflix last Friday, but haven't found the time yet.
     - My regular background watching this week was seasons 2 and 3 of **Schitt's Creek**, and I'm already halfway through season 4 now.
     - This week's episode of **Loki** felt a bit meh and mostly setup, but I must admit I am enjoying Owen Wilson's performance and his back-and-forth with Tom Hiddleston.
 - **Gaming**:

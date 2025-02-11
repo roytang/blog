@@ -49,7 +49,7 @@ title: Weeknotes 2021-05-16
     {{< collections-embed sketchbook 1391720092199649286 >}}
 
 - **Watching:**
-    - Movies: This week I watched [The Man With The Golden Gun (1974)](/2021/05/ba2999c2cc9d8803ad982d24e52035e6/) and [The Mitchells vs The Machines (2021)](/2021/05/1392042759863689217/)
+    - Movies: This week I watched [The Man With The Golden Gun (1974)](/2021/08/movies-tv-may-aug-2021/#the-man-with-the-golden-gun-1974) and [The Mitchells vs The Machines (2021)](/2021/08/movies-tv-may-aug-2021/#the-mitchells-vs-the-machines-2021)
 - **Gaming**:
     - Still playing a bunch of **Horizon Zero Dawn** on PS4 and **Street Fighter V** on Steam. Kind of stuck in a rut with Balrog (Boxer), need to leve up!
     - Currently looking for a single-player game to play and stream on twitch when Arena limited is off season, so that I'm not only doing Arena streams for a while. 

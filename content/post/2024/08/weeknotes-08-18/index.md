@@ -31,7 +31,7 @@ On the blog: Just a couple of review posts (which is most of what I seem to writ
 ### Media Diet
 
 - **Gaming**: 
-    - Single player: I finished playing Afterimage and [wrote a review](http://localhost:8000/2024/08/afterimage/)! I also started playing a shooty game from 2012 which is super out of character, but it's actually **Transformers: Fall of Cybertron** so that explains it.
+    - Single player: I finished playing Afterimage and [wrote a review](/2024/08/afterimage/)! I also started playing a shooty game from 2012 which is super out of character, but it's actually **Transformers: Fall of Cybertron** so that explains it.
     - Online: Still doing regular grinding in **Magic Arena** and **Marvel Snap**. Bloomburrow drafting has been going reasonably well; there is [a YT playlist of my drafts so far](https://www.youtube.com/playlist?list=PLmU0vkKslGXimBbVvzhx_Kh8V_5wDoeb9) if that's your thing.
   
 - **Reading**: I finished a book and [wrote a review](/2024/08/all-the-marvels/)! Also still reading more comics, etc.

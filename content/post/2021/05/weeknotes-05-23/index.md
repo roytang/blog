@@ -56,7 +56,7 @@ It's the last week of May (more or less), and I'm mostly looking forward to a ne
     {{< collections-embed sketchbook 1394250880933838849 >}}
 
 - **Watching:**
-    - Movies: This week I watched [The Spy Who Loved Me (1977)](/2021/05/ea715fa4d23937c15e47022adf93e192/) and [Mortal Kombat (2021)](/2021/05/09b5a24d69042602b9ac909e277987a6/). My James Bond run is now officially crossing over into the "movies released after I born" territory. I'm hoping I can somehow get through the rest of them before the latest one (No Time To Die) comes out.
+    - Movies: This week I watched [The Spy Who Loved Me (1977)](/2021/08/movies-tv-may-aug-2021/#the-spy-who-loved-me-1977) and [Mortal Kombat (2021)](/2021/08/movies-tv-may-aug-2021/#mortal-kombat-2021). My James Bond run is now officially crossing over into the "movies released after I born" territory. I'm hoping I can somehow get through the rest of them before the latest one (No Time To Die) comes out.
 - **Gaming**:
     - Still playing a bunch of **Horizon Zero Dawn** on PS4 and **Street Fighter V** on Steam and [Root](/2021/05/root/) with the regular Saturday group.
     - Still looking for a single-player game to play and stream on twitch when Arena limited is off season, so that I'm not only doing Arena streams for a while. 

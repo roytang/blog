@@ -43,7 +43,7 @@ It's already May? April felt like it came and went so quickly. But then again, [
 - For some reason all the [sketches](/albums/sketchbook/) for the past week were done with pen and paper on this tiny pad I keep near my desk. Much quicker to do, but the sketches are also much simpler than anything I do in Procreate.
 - **Watching:**
     - Movies: Caught [Green Hornet (2011)](/2021/04/2021/04/movies-tv-jan-apr-2021/#green-hornet) on cable, a movie I didn't even know existed. I should resume my James Bond run soonish.
-    - Watched the [second season of Jack Ryan](/2021/05/99d3f5dffa9b1e1f2a4029f66c2b4f2a/) and [finished up season 1 of Invincible](/2021/04/movies-tv-jan-apr-2021/#invincible-season-1), both on Prime Video
+    - Watched the [second season of Jack Ryan](/2021/08/movies-tv-may-aug-2021/#tom-clancys-jack-ryan-season-2) and [finished up season 1 of Invincible](/2021/04/movies-tv-jan-apr-2021/#invincible-season-1), both on Prime Video
 - **Gaming**:
     - Been drafting a bit more [Strixhaven](/tags/mtgstrixhaven/) on Arena. I thought the Sealed Open was this weekend, but turns out it was actually next week. I'll probably shift to Quick Drafts next week.
     - Played a bunch of **Horizon Zero Dawn** on PS4 already after it dropped for free last week. Wasn't a big fan of the intro sequence, but I've warmed up to it as the story and the world gradually opened up. I can tell this will take a while to finish though.
