@@ -11,7 +11,7 @@ title: Don't Break the Chain
 type: post
 ---
 
-[New year's resolutions](/2018/12/my-resolution-suggestions/) are hard to maintain, so much so that people will make jokes about opening a gym that only runs during January, since most gym NYRs run out of steam by then. 
+[New year's resolutions](/2018/12/ny-resolution-suggestions/) are hard to maintain, so much so that people will make jokes about opening a gym that only runs during January, since most gym NYRs run out of steam by then. 
 
 One of the best pieces of advise I've read on this is "Don't break the chain", most often anecdotally attributed to Jerry Seinfeld. This advice means that for a recurring activity, once you get a streak or chain going, as much as possible you should avoid breaking the chain. So if your NYR is to exercise daily, you should try to avoid breaking that chain for as long as possible.
 
