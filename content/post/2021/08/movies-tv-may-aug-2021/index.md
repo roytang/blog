@@ -1,6 +1,5 @@
 ---
 date: 2021-08-31
-draft: true
 reviews:
 - date: '2021-05-10'
   description: ''
@@ -212,6 +211,7 @@ tags:
 - tv
 title: Movies/TV Watched May to Aug 2021
 toc: true
+dontinlinephotos: true
 ---
 
 ### Movies
