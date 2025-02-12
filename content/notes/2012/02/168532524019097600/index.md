@@ -9,9 +9,19 @@ syndicated:
   url: https://twitter.com/roy_mtg/status/168667558310981632/
 - type: twitter
   url: https://twitter.com/roy_mtg/status/168667965821165568/
+- type: reddit
+  url: https://www.reddit.com/r/magicTCG/comments/plq5d/can_anyone_recommend_a_bot_that_sells_or_gives/
+tags:
+- mtg
+- mtgo
+- magictcg
 ---
 
 what's a good MTGO bot to get commons/uncommons from?
+
+(Also [posted on Reddit](https://reddit.com/r/magicTCG/comments/plq5d/can_anyone_recommend_a_bot_that_sells_or_gives/))
+
+> I just wanna build a few casual decks, don't wanna spend too much. But I need some commons/uncs that may be used in some standard decks (like Vapor Snag, Delver, etc). Any suggestions?
 
 <time>[20:07]</time> I played a few drafts today, but I've been away from Magic so long, complex board positions gave me a headache.
 
