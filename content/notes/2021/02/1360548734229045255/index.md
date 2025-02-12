@@ -1,9 +1,11 @@
 ---
-date: 2021-02-13 11:17:50+00:00
+date: 2021-02-13 11:17:50
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1360548734229045255/
+tags:
+- duterte
 ---
 
 Back before the 2016 elections, somebody I used to know claimed that we needed a "rottweiler" like Duterte as president because he would be tough against China. I remember this sometimes and laugh and then am also sad 

@@ -4,6 +4,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://roytang.tumblr.com/post/387176051/warning-corny-crappykid-nakakaaliw-naman
+tags:
+- webcomics
 ---
 
 <p>Warning: Corny!</p>
