@@ -3,6 +3,8 @@ date: 2023-01-19 15:48:52
 resources:
 - src: bantayan.png
   title: The one screenshot I took is because it had a Tagalog reference
+- src: stats.png
+  title: Stats!
 reviews:
 - description: An excellent space cyberpunk narrative game
   media: games
