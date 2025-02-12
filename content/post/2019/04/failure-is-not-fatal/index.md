@@ -13,9 +13,7 @@ title: Learning from failure
 type: post
 ---
 
-> Success is not final, failure is not fatal: it is the courage to continue that counts. 
-> 
-> -- Winston Churchill
+{{< collections-embed quotes 190865723445358592 >}}
 
 I already typed the above quote into the post, then realized I had already [used it before](/2016/07/dealing-with-failure/). Whatever, just goes to show, I'm no stranger to failure.
 

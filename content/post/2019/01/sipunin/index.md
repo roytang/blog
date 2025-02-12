@@ -15,4 +15,4 @@ Certainly applicable to me. For as long as I can remember I've always had the co
 
 I remember reading when I was young that the common cold, more specifically the rhinovirus, tended to mutate rapidly, which was why our body was unable to develop any permanent immunity to it. So every time I would get a cold again, it would be a new mutation. At some point I wondered how many of all possible mutations I had already acquired, given that I kept getting the cold so often.
 
-I don't think there's a lesson to be learned here. Except maybe that I should ask my doctor if there's anything I can do. Luckily, [not all posts have to be profound](/2019/01/not-all-posts-have-to-be-profound/).
+I don't think there's a lesson to be learned here. Except maybe that I should ask my doctor if there's anything I can do. Luckily, [not all posts have to be profound](/2019/01/not-all-posts-profound/).

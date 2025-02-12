@@ -11,7 +11,7 @@ title: Export your social media data
 type: post
 ---
 
-As a follow-up to [yesterday's post about Google Plus being discontinued](/2019/03/google-plus-is-dying/), I should note that you should be regularly doing backups of all your social media content anyway. Most of them will provide easily accessible backup tools, but probably they have to be accessed via a web browser. Here are the relevant pages for [Facebook](https://www.facebook.com/settings?tab=your_facebook_information), [Instagram](https://www.instagram.com/download/request/) and [Twitter](https://twitter.com/settings/your_twitter_data). (And be wary of sites like [Quora](https://roytang.net/2018/12/quora/) that don't have a direct backup option.)
+As a follow-up to [yesterday's post about Google Plus being discontinued](/2019/03/google-plus-dying/), I should note that you should be regularly doing backups of all your social media content anyway. Most of them will provide easily accessible backup tools, but probably they have to be accessed via a web browser. Here are the relevant pages for [Facebook](https://www.facebook.com/settings?tab=your_facebook_information), [Instagram](https://www.instagram.com/download/request/) and [Twitter](https://twitter.com/settings/your_twitter_data). (And be wary of sites like [Quora](https://roytang.net/2018/12/quora/) that don't have a direct backup option.)
 
 I'm not saying these services are going to fail and shut down mind you (though that's a disinct possibility with all the controversy these days). But there's a variety of other reasons why regularly backing up your data is a good idea:
 

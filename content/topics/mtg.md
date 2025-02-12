@@ -172,7 +172,7 @@ I know, I know this page layout could use a lot of work.
 | **Jan** | Oath of the Gatewatch | [Prerelease](/2016/01/688663713134424064/) | |
 | **2015** |
 | **Oct** | Battle for Zendikar | [Prerelease](/2015/09/8Fq4xxsoLK/) | |
-| **Jul** | Magic Origins | [Prerelease](/2015/07/10153935708933912-1/) | [Grand Prix London](/2015/08/grand-prix-london-2015/) |
+| **Jul** | Magic Origins | [Prerelease](/2015/07/10153936480393912/) | [Grand Prix London](/2015/08/grand-prix-london-2015/) |
 | **Mar** | Dragons of Tarkir | [Prerelease](/2015/03/579238284511039488/) | [Grand Prix Singapore 2015](/2015/06/gp-singapore-2015/) |
 | **Jan** | Fate Reforged | [Prerelease](/2015/01/556281508978102273/) | [Grand Prix Manila 2015](/2015/02/grand-prix-manila-2015/) (Standard - Jeskai Ascendancy) |
 | **2014** |

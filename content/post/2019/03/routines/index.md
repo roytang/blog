@@ -20,7 +20,7 @@ The common advice for fixing a sleep cycle is to have a regular time of the day 
 
 I think I really need to find the discipline to establish a regular routine, with scheduled naps throughout the day if needed. Routines have a few benefits:
 
-- it makes it easier to [establish new habits](/2019/01/form-good-habits-and-become-their-slave/) if they're incorporated into a routine. I noticed this with my [Duolingo lessons](/2018/12/duolingo/), the past few weeks I've always been doing them right after breakfast, still sitting at the table. I bring my iPad with me during breakfast for reading the news, so it's easy to transition into the Duolingo app. Doing it a regular time and so early day makes it a lot less likely that I [break the streak](/2019/01/broken-streaks/).
+- it makes it easier to [establish new habits](/2019/01/form-good-habits/) if they're incorporated into a routine. I noticed this with my [Duolingo lessons](/2018/12/duolingo/), the past few weeks I've always been doing them right after breakfast, still sitting at the table. I bring my iPad with me during breakfast for reading the news, so it's easy to transition into the Duolingo app. Doing it a regular time and so early day makes it a lot less likely that I [break the streak](/2019/01/broken-streaks/).
 - it reduces the amount of decisions you need to make during the day, and can also reduce procrastination. For example, if I allocated certain hours of the day to be "productive hours" and some hours to be "gaming hours" and so on, I don't have to make that decision during the day. And I can't procrastinate on being productive, since I know the rest of my time is already allocated
 - having a regular rhythm makes it easier to get through difficult days
 

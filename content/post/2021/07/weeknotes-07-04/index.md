@@ -17,7 +17,7 @@ It's the Fourth of July, which really only means something in the US. Over here 
 
 ### A quote
 
-> "Success is not final, failure is not fatal: it is the courage to continue that counts" - W. Churchill
+{{< collections-embed quotes 190865723445358592 >}}
 
 ### The world:
 

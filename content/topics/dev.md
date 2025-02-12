@@ -11,7 +11,7 @@ tags:
   - [Working hours and overtime](/2018/10/working-hours-and-overtime/)
   - [Working with Client-Server Programs](/2017/02/working-with-client-server-programs/)
 - Getting a job as a software developer / hiring software developers
-  - [Pros and cons of a career as a software developer](/2019/03/what-are-the-pros-and-cons-of-a-programming-career/)
+  - [Pros and cons of a career as a software developer](https://roytang.net/collections/quora/what-are-the-pros-and-cons-of/)
   - [The process of applying to be a software developer](/2016/06/the-programming-application-process/)
   - [Job Hunting for Programmers](/2008/01/job-hunting-for-programmers/)
   - [Technical Interview Notes](/2020/04/technical-interview/)
@@ -21,9 +21,9 @@ tags:
   - [Qualities to Look for in a Software Developer](/2017/01/qualities-to-look-for-in-a-software-developer/)
 - Self-improvement
   - [Learning from failure](/2019/04/failure-is-not-fatal/)
-  - [Studying a large project codebase](/2019/03/studying-a-large-project-codebase/)
+  - [Studying a large project codebase](https://roytang.net/collections/quora/how-can-you-read-and-study-a-l/)
   - [Finding Time to Learn new Things](/2019/01/find-time-to-learn/)
-  - [I still Google the most basic things](/2019/01/i-still-google-the-most-basic-things/)
+  - [I still Google the most basic things](/2019/01/google-basic-things/)
   - [168 hours vs 10000 hours](/2018/11/168-hours-vs-10000-hours/)
   - [Learning a New Programming Language](/2016/12/learning-a-new-programming-language/)
 - Working with other people
@@ -92,7 +92,7 @@ tags:
   - [Scraping Facebook](/2020/06/scraping-fb/)
   - [Python: Markov Chains](/2019/08/markov-chain/)
   - [Devnotes: TT Miniproject (Django Rest Framework, Unit Testing, VueJS, Geocoding, Nightwatch e2e Testing)](/2019/08/devnotes-miniproject-tt/)
-  - [A Quick Twitter App I Wrote](/2019/03/a-quick-twitter-app-i-wrote/)
+  - [A Quick Twitter App I Wrote](/2019/03/twitter-app/)
   - [Hacktoberfest](/2019/02/hacktoberfest/)
   - [TriviaStorm: Text and Answer parsing](/2019/02/triviastorm-checking-answers/)
   - [Weekend Project: Twitter Trivia Bot](/2017/02/weekend-project-twitter-trivia-bot/)
@@ -149,8 +149,6 @@ Unsorted:
 - [Programming is Finding the Right Arrangement of Code](/2016/08/programming-is-finding-the-right-arrangement-of-code/)
 
 - [Living With Development Standards](/2016/08/living-with-development-standards/)
-
-- [Pros and Cons of a Career in Programming](/2016/08/pros-and-cons-of-a-career-in-programming/)
 
 - [Evaluation of Programmer Performance](/2016/07/evaluation-of-programmer-performance/)
 

@@ -17,7 +17,7 @@ It's the last week of May (more or less), and I'm mostly looking forward to a ne
 
 ### A quote
 
-> “We must be willing to let go of the life we planned so as to have the life that is waiting for us.” ― Joseph Campbell [#](/2014/05/468028741092794373/)
+{{< collections-embed quotes 468028741092794373 >}}
 
 ### The world:
 
