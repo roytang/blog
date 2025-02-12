@@ -50,6 +50,12 @@ reviews:
   media: movies
   rating: 0.0
   title: The Green Knight (2021)
+- date: '2021-10-24'
+  description: ''
+  hashtag: ted-lasso-s2
+  media: tv
+  rating: 0.0
+  title: Ted Lasso S2
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/107123402068761580
@@ -99,6 +105,8 @@ syndicated:
   url: https://twitter.com/roytang/status/1475149484883464193/
 - type: twitter
   url: https://twitter.com/roytang/status/1475149486670286850/
+- type: twitter
+  url: https://twitter.com/roytang/status/1418852829381337088/
 tags:
 - backpost
 - movies
@@ -106,6 +114,8 @@ tags:
 title: Movies/TV Watched Sep to Dec 2021
 toc: true
 ---
+
+### Movies
 
 #### Kate (2021)
 
@@ -186,5 +196,21 @@ I have a bit of face blindness when it comes to Pacino and De Niro, I always nee
 <time id="82b6c9fc2e334e6f86afda915c9dd1f3">[2021-12-27 01:00] </time>
 
 Watched The Green Knight (2021). Wasn't sure what to expect. Description suggested it would be some kind of action movie. It was most certainly not. The movie is captivating, unsettling, ambiguous, and even kind of trippy. <!--sep-->Some great shots and visuals. Also it is surprisingly a Christmas movie. And there is a short post-credits scene!
+
+---
+
+### TV
+
+#### Ted Lasso S2
+
+<time id="ted-lasso-s2">[2021-10-24 08:00] </time>
+
+Ted Lasso being absolutely right about Gin Blossoms - Ted Lasso S02E01:
+
+{{< photos 1418852829381337088 >}}
+
+Ted Lasso S2 goes a lot heavier on the character stuff, but I wish they would bring back more of that sports underdog movie feel from S1
+
+The season went in a direction I wasn't expecting, but I'm glad the finale made the sports part relevant again. Looking forward to season 3!
 
 ---
