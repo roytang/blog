@@ -1,13 +1,17 @@
 ---
-title: "Citizen Sleeper 2: Starward Vector"
-date: 2025-02-12T13:01:01+08:00
+date: 2025-02-12 05:01:01
 reviews:
-- media: gaming
-  title: "Citizen Sleeper 2: Starward Vector (PC Game Pass)"
+- description: Harder than the first game, but less on-rails and lots of difficult
+    decisions to be made.
+  media: gaming
   rating: 4.0
-  description: Harder than the first game, but less on-rails and lots of difficult decisions to be made.
+  title: 'Citizen Sleeper 2: Starward Vector (PC Game Pass)'
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/113989224992990727
 tags:
 - gaming
+title: 'Citizen Sleeper 2: Starward Vector'
 ---
 
 Previously: [Citizen Sleeper](/2023/01/citizen-sleeper/)
@@ -19,4 +23,3 @@ I played the first game just over 2 years ago via Game Pass as well! It was one 
 Other than that, the game is mostly the same. You wander around trying to escape your fate and help people and there is a cat again and some characters from the first game make another appearance. The plot feels more expansive than the first game because there is a war happening in the background, and the narrative is still very good and a lot of the sci-fi touches are neat.
 
 I played for a bit more than 10hrs; HLTB says main story is around 9 hours and completionist runs around 16 hours, so that feels around right. I am not going for completion on this one, as I am not in the mood for another run, same as the first game. (The usual fantasy of "maybe I'll come back to it later" applies.) I did manage to get 22/30 achievements; most of the remaining ones are secret but one of them is like "complete the game on DANGEROUS difficulty" and I'm like "Mmmm... no!"
-
