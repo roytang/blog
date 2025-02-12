@@ -50,7 +50,7 @@ Visit the [Links page](/links/) for more links of interest.
     - Daily grinds still ongoing in the card games (**Eternal** and **Magic Arena**) and the fighting games (**Guilty Gear Strive** and **Street Fighter V**)
     - Saturday gaming group still playing **Root** and newcomer **Fury of Dracula**. I tried playing as Dracula during this weekend's session, was terrible at it and got cornered and lost. At least I won two games of Root!
 - **Watching:**
-    - **Movies:** This past week I watched [Venom: Let There Be Carnage (2021)](/2021/12/56dd95663d98892bbe89d56ab0b96887/), [The Last Duel (2021)](/2021/12/6a6736de7e1db5688bb8a6bc15b9e023/), and [Heat (1995)](/2021/12/c65caaf1deb0e34faaddb3451ac0cdd8/).
+    - **Movies:** This past week I watched [Venom: Let There Be Carnage (2021)](/2021/12/movies-tv-sep-dec-2021/#venom-let-there-be-carnage-spoiler-free-review), [The Last Duel (2021)](/2021/12/movies-tv-sep-dec-2021/#the-last-duel-2021), and [Heat (1995)](/2021/12/movies-tv-sep-dec-2021/#heat-1995).
     - **TV:** 
         - Caught up: **Star Trek Discovery**, **Hawkeye**, **Wheel of Time**, **The Expanse**. 
         - Behind: **Flash**, **Legends of Tomorrow**

@@ -48,7 +48,7 @@ Not much today. Visit the [Links page](/links/) for more links of interest.
     - New sets dropped on both **Eternal** and **Magic Arena**! I cribbed a fun new Expedition deck for Eternal, and also started drafting Crimson Vow in Magic Arena.
     - **Shin Megami Tensei V** for Switch also dropped last week, I'm probably going to get it eventually, but I'm holding off since I still have so many things to play!
 - **Watching:**
-    - **Movies:** Watched [Blade Runner 2049](/2021/11/4737c6da7ee142af8b00576b407172a2/) and [Shang-Chi](/2021/11/shang-chi/) this past week. Next: No Time To Die?!?
+    - **Movies:** Watched [Blade Runner 2049](/2021/12/movies-tv-sep-dec-2021/#blade-runner-2049-2017) and [Shang-Chi](/2021/11/shang-chi/) this past week. Next: No Time To Die?!?
     - **TV:** **Supergirl** had its series finale this past week; I have some thoughts on that and the present state of the Arrowverse, maybe I'll write some words about it later this week.
 - **Reading:** I finished reading [The Conjugal Dictatorship](/2021/11/conjugal-dictatorship/) last week. Still thinking about what to read next.
 - Trivia team: The regular crosswords continue.

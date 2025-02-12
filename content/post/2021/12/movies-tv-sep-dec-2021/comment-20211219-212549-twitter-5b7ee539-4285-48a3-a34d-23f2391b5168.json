@@ -3,8 +3,10 @@
   "name": "Paul Catiang, Unicron Variant",
   "url": "https://twitter.com/paulcatiang",
   "text": "[@roytang](https://twitter.com/roytang/) Another 90s movie I still haven't seen.",
-  "date": "2021-12-19 13:25:49",
+  "date": "2021-12-19 21:25:49 +0800",
   "photo": "https://pbs.twimg.com/profile_images/1446730513876541442/fVDlEIHe_normal.jpg",
   "source_url": "https://twitter.com/paulcatiang/status/1472558790273024004/",
-  "source": "twitter"
+  "source": "twitter",
+  "spam": false,
+  "reply_to": "https://mastodon.technology/users/roytang/statuses/107473813343984687"
 }

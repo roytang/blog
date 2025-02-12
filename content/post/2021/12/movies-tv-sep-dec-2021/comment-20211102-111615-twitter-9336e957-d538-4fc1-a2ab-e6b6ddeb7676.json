@@ -3,9 +3,10 @@
   "name": "Roy Tang",
   "url": "https://twitter.com/roytang",
   "text": "[@MaoiArroyo](https://twitter.com/MaoiArroyo/) Patrick Stewart is there!",
-  "date": "2021-11-02 03:16:15",
+  "date": "2021-11-02 11:16:15 +0800",
   "photo": "https://pbs.twimg.com/profile_images/1269775872740872192/88S_sBIM_normal.jpg",
   "source_url": "https://twitter.com/roytang/status/1455373160635789314/",
-  "reply_to": "https://twitter.com/MaoiArroyo/status/1455210206426587137/",
-  "source": "twitter"
+  "source": "twitter",
+  "spam": false,
+  "reply_to": "https://twitter.com/MaoiArroyo/status/1455210206426587137/"
 }

@@ -1,8 +1,8 @@
 ---
 date: 2021-10-24 07:03:16
 featuredResource:
-  photo: "/2021/10/1451194166688444420/"
-  filename: "1451194166688444420_1_FCOtZvtUcAgA7e1.jpg"
+  filename: 1451194166688444420_1_FCOtZvtUcAgA7e1.jpg
+  photo: /2021/10/1451194166688444420/
 slug: weeknotes-2021-10-24
 syndicated:
 - type: mastodon
@@ -45,7 +45,7 @@ Visit the [Links page](/links/) for more links of interest.
     {{< collections-embed sketchbook 1451194166688444420 >}}
 
 - **Watching:**
-    - Movies: While we did have a TV during the hospital stay, I left control of it up to my dad, and we saw repeated runs of James Bond films. The only new movie I've seen during the past month or so was [Kate](https://roytang.net/2021/10/f3cb16d7f21123133bc0506e9ddfc641/) on Netflix.
+    - Movies: While we did have a TV during the hospital stay, I left control of it up to my dad, and we saw repeated runs of James Bond films. The only new movie I've seen during the past month or so was [Kate](/2021/12/movies-tv-sep-dec-2021/#kate-2021) on Netflix.
     - TV: 
         - Actually managed to watch the season finales for **What If** and **Ted Lasso S2** during the hospital stay. 
             - **What If**: I'm glad that they actually made a finale where the previous episodes meant something, but the premise was kind of whack
