@@ -40,6 +40,10 @@ syndicated:
   url: https://twitter.com/roytang/statuses/789250430140153856/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155017308758912
+- type: twitter
+  url: https://twitter.com/roytang/status/1095916260884246528/
+- type: twitter
+  url: https://twitter.com/roytang/status/1095973034446520320/
 tags:
 - games
 title: 'Games: Civilization VI'
@@ -121,6 +125,18 @@ A lot of people play Civ games while doing a lot of extreme optimization and min
 I did manage to play quite a few multiplayer games with friends for Civ6, much more than Civ5 at least, probably because we have better internet providers this time around. I'm still annoyed by simultaneous turns in multiplayer; since I tend to finish my turns very quickly, it makes me much more vulnerable to a late-turn surprise DOW and ambush.
 
 I also streamed Civ6 a few times on [Twitch](https://www.twitch.tv/twitchyroy). I have [a couple of videos up on Youtube](https://www.youtube.com/playlist?list=PLmU0vkKslGXgOGCS-686KV8qVWuqDYNDl).
+
+### Gathering Storm
+
+Gahtering Storm DLC released in 2019! 
+
+<time id="1095916260884246528">[2019-02-14 13:22] </time> Time to gather some storms! 
+
+{{< photos 1095916260884246528 >}}
+
+<time>[17:08]</time> Chocolate Hills! #CivilizationVI 
+
+{{< photos 1095973034446520320 >}}
 
 ### That's It!
 

@@ -2,6 +2,7 @@
 albums:
 - gaming
 date: 2020-03-07
+dontinlinephotos: true
 featuredResource:
   filename: 20200206161636_1.jpg
 reviews:
@@ -15,13 +16,16 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1236125992177012742/
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/103779545372658735
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1228114501179977730/
 tags:
 - gaming
 - games
 - talesof
 title: 'Late Game Review: Tales of Berseria'
-dontinlinephotos: true
 ---
+
+> <time id="1228114501179977730">[2020-02-14 08:31] </time> Finished Tales of Berseria today. Pretty good game, fairly sure I enjoyed it more than Zestiria. Now the question is whether I push for the platinum now or take a break and play something else for a while...
 
 For the past month, most of my gaming time was spent on the Steam version of Tales of Berseria, which I got from a Humble Monthly Bundle back in 2018. 
 

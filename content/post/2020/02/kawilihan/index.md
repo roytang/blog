@@ -10,6 +10,8 @@ syndicated:
   url: https://instagram.com/p/B8i3t3EhmHu/
 tags:
 - instacomments
+- formernote
+title: Kawilihan
 ---
 
 Kawilihan bakery, practically an institution of Anonas Street. IDK when it was established, but we bought our morning pandesal there everyday when I was a child, so imagine it's been there at least 40 years now

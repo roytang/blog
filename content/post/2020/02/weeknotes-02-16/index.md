@@ -31,7 +31,7 @@ There was also a KFC now along Anonas, to my left as I emerged from our old stre
 
 [Three movies watched this week](/lists/2020/movies/), all of them very good. Aside from that, I've also been rewatching all of Rick and Morty. It's a fun rewatch, but I'm mostly doing it because it's a topic for a quiz next week, and it can be a very challenging show for that purpose, because most episodes are filled wall-to-wall with zany antics, it's hard to tell what needs to be remembered. 
 
-I finished **Tales of Berseria** [last Friday](/2020/02/1228114501179977730/)! Well, the main story at least. I plan to still go for the platinum, though that'll probably take quite a bit longer. So the blog post/review will have to wait a bit. I feel like I'm already way over the typical hours for the first run though.
+I finished **Tales of Berseria** [last Friday](/2020/03/tales-of-berseria/#1228114501179977730)! Well, the main story at least. I plan to still go for the platinum, though that'll probably take quite a bit longer. So the blog post/review will have to wait a bit. I feel like I'm already way over the typical hours for the first run though.
 
 I had one of my regular checkups this week. Bloodwork all came back good, but the annoying thing was mild coughs/cold I was experiencing since the start of the week. Probably exacerbated by the cold nights. Now is not a good time to be remotely Chinese looking and coughing/sneezing in public! My doctor prescribed a bunch of things, including some nasal spray and a pill I have to dissolve in a glass of water. Hopefully they help; the cold seems to have receded by now, but I still have the coughs.
 
