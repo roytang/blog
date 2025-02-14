@@ -17,7 +17,7 @@ title: An Archive of My Own
 type: post
 ---
 
-A post about making a guy [making an archive of his twitter data](https://www.zachleat.com/web/own-my-tweets/) made the rounds lately, so I figured I should make my own post about my ongoing efforts in this regard. I mentioned in an [earlier post](/2019/08/ephemeral-social-media/) that I like being able to use social media to dig through my own history. But as the first link above says, these social media sites can go away since nothing lasts forever. In the spirit of the [Indieweb principle to own your data](https://indieweb.org/own_your_data), for the past few months I've been working on archiving most of my social media content on my own site. I also intend to cut down on my social media accounts and activities, and having a backup of all the data on my own site helps with that effort.
+A post about making a guy [making an archive of his twitter data](https://www.zachleat.com/web/own-my-tweets/) made the rounds lately, so I figured I should make my own post about my ongoing efforts in this regard. I mentioned in an [earlier post](/2019/08/ephemeral/) that I like being able to use social media to dig through my own history. But as the first link above says, these social media sites can go away since nothing lasts forever. In the spirit of the [Indieweb principle to own your data](https://indieweb.org/own_your_data), for the past few months I've been working on archiving most of my social media content on my own site. I also intend to cut down on my social media accounts and activities, and having a backup of all the data on my own site helps with that effort.
 
 Requirements and considerations:
 

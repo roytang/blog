@@ -62,7 +62,7 @@ tags:
 - Tools
   - Source control
     - [Git vs CVS](/2019/01/git-vs-cvs/)
-    - [Devnotes: Migrating Mercurial to Git](/2019/08/devnotes-migrating-mercurial-to-git/)
+    - [Devnotes: Migrating Mercurial to Git](/2019/08/migrate-mercurial-to-git/)
   - Editors
     - [My history in text editors](/2018/11/my-history-in-text-editors/)
   - Internet

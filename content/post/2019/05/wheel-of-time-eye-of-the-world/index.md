@@ -15,7 +15,7 @@ title: 'Wheel of Time: Eye of the World'
 type: post
 ---
 
-Continuing with the [Wheel of Time re-read](/2019/05/wheel-of-time-new-spring/)! I devoured Eye of the World much more quickly than I expected, finishing the book in less than 3 days. It helps that I had already read it before of course, but I think there's also a part of me that enjoys escaping into this fantasy world when the [real world outlook seems dire](/2019/05/ph-elections-2019-otso-diretso-compromises-lesser-evils/). 
+Continuing with the [Wheel of Time re-read](/2019/05/wheel-of-time-new-spring/)! I devoured Eye of the World much more quickly than I expected, finishing the book in less than 3 days. It helps that I had already read it before of course, but I think there's also a part of me that enjoys escaping into this fantasy world when the [real world outlook seems dire](/2019/05/ph-elections-2019/). 
 
 Anyway, the book shows a lot of Tolkien-esque plot influence, especially near the start: Some kids from a backwater village are visited by a magic user and after some troubles are forced on the run from black riders? Sounds familiar. Not only that, but you can even map the characters somewhat:
 
