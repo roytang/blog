@@ -16,7 +16,7 @@ tags:
 title: 'Arrowverse: Crisis on Infinite Earths'
 ---
 
-So the back half of the CW Arrowverse's epic Crisis on Infinite Earth's crossover finally aired this week, and I promised more words about [the Arrowverse and the crossover last month](/2019/12/watching-lately-december-2019/), so here we are. Spoilers abound!
+So the back half of the CW Arrowverse's epic Crisis on Infinite Earth's crossover finally aired this week, and I promised more words about [the Arrowverse and the crossover last month](/2019/12/watching-lately-dec-2019/), so here we are. Spoilers abound!
 
 {{< note "2020/01/1217311777035366401/" >}}
 

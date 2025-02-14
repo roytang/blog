@@ -14,7 +14,7 @@ title: 'Review: Fitbit Charge 2'
 type: post
 ---
 
-I mentioned in [yesterday's post about my daily walks](/2019/11/daily-walks/) that my brother got me a Fitbit Charge 2 mid last year, I thought I'd write a quick review. (Actually, this is mainly an excuse to write down a story about how stupid I am.)
+I mentioned in [yesterday's post about my daily walks](/2018/11/daily-walks/) that my brother got me a Fitbit Charge 2 mid last year, I thought I'd write a quick review. (Actually, this is mainly an excuse to write down a story about how stupid I am.)
 
 Anyway, yeah my bro got me a Fitbit. Or maybe I paid for it. I don't really recall. The point is, I had it and I've been using it regularly for the past year and a half. It's a great little gizmo, not only do I use it for step counts, but it also lets me track how much sleep I'm getting (which is why I know how rare a regular continuous 8-hour sleep is for me, even when I'm not working). I'm a big fan of measuring my own data for self-improvement purposes so I like it. Conveniently, it also works with [IFTTT](http://ifttt.com/), so I have an applet that exports my daily data to the a Google Sheets for easy reference. In theory I could also use the Fitbit to track stuff like my food intake and weight, but those don't happen automatically so I don't. Maybe someday. The fitbit itself doesn't use too much battery and has an Android app that syncs with the device via bluetooth (so I have bluetooth on all the time now).
 

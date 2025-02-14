@@ -14,7 +14,7 @@ title: A Tale of Two Backups
 type: post
 ---
 
-Despite my desktop PC being generally more stable after the events of the [Great Memory Scare of 2019](/2019/08/the-great-memory-scare-of-2019/), I was still encountering occasionally crashes when playing games. And by crash I mean the displays dying although the PC continues to run for a short while thereafter and after which they proceed to apparently stop operating completely. It only happens when playing games, and most often when playing Magic Arena and sometimes (rarely) when playing Starcraft 2 or Borderlands 2.
+Despite my desktop PC being generally more stable after the events of the [Great Memory Scare of 2019](/2019/08/great-memory-scare/), I was still encountering occasionally crashes when playing games. And by crash I mean the displays dying although the PC continues to run for a short while thereafter and after which they proceed to apparently stop operating completely. It only happens when playing games, and most often when playing Magic Arena and sometimes (rarely) when playing Starcraft 2 or Borderlands 2.
 
 Given that I didn't want to try swapping out the video card just yet, and I had already tried doing all the driver updates during the previous episode, I decided it was time to try a more extreme approach. I was going to re-install Windows 10.
 

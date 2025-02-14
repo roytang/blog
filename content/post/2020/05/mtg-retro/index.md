@@ -88,7 +88,7 @@ Since I'm reminiscing, I want to remember some favorite constructed decks I've p
 - prior to 2008, I was mostly a rogue deckbuilder, coming up with my own brews to bring to tournaments. One of my favorite rogue brews was this monoblack [Korlash Heir to Blackblade](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136208) deck I ran [before regionals in 2007](/2007/05/future-sight-inaugural-ng-galleria-26-may-2007/). (I ended up netdecking for regionals itself)
 - there was this fantastic Bant [Finest Hour](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451135) list that I played to a top 8 finish in the [2009 regionals](/2009/05/regionals-2009-finest-hour-top-8/). It was a fun aggro-control deck that also had a lot of challenging technical lines of play.
 - in 2015, I day 2'ed Grand Prix Manila with [this great Jeskai Ascendancy standard deck](/2015/02/grand-prix-manila-2015/) that I had a blast playing.
-- for Modern, my current deck of choice is Grixis [Death Shadow](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425889), which I last played in [an MCQ in 2019](/2019/08/mcq-richmond-modern-with-grixis-death-shadow/). I love these interactive and grindy midrange decks where you try to gain incremental advantage every turn, very skill-testing. 
+- for Modern, my current deck of choice is Grixis [Death Shadow](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425889), which I last played in [an MCQ in 2019](/2019/08/mcq-richmond/). I love these interactive and grindy midrange decks where you try to gain incremental advantage every turn, very skill-testing. 
 
 ### Moving Forward
 
