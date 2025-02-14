@@ -11,6 +11,7 @@ syndicated:
 tags:
 - mobile-uploads
 - ff13
+- pickups
 ---
 
 Still couldnt get a Bravely Default, so this month's gaming purchases are playstation stuff only

@@ -10,6 +10,8 @@ syndicated:
 tags:
 - BNG
 - LowEV
+- mtg
+- mtgo
 ---
 
 Well, this has to be one of the most straightforward sealed pools I've seen in a while: https://i.imgur.com/bcF5KRP.png #BNG #LowEV
