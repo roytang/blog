@@ -1,0 +1,30 @@
+{
+  "id": "8ffba483-7d8d-4acf-8f22-8e505e9056bb",
+  "name": "meadow.cafe",
+  "url": "https://meadow.cafe/links/",
+  "text": "Mentioned by https://meadow.cafe/links/",
+  "date": "2025-02-15 01:44:44 +0800",
+  "photo": null,
+  "source_url": "https://meadow.cafe/links/",
+  "source": "webmention",
+  "spam": false,
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "",
+      "photo": "",
+      "url": ""
+    },
+    "url": "https://meadow.cafe/links/",
+    "published": null,
+    "wm-received": "2025-02-14T17:44:44Z",
+    "wm-id": 1885102,
+    "wm-source": "https://meadow.cafe/links/",
+    "wm-target": "https://roytang.net/2023/11/youtube-adblockers/",
+    "wm-protocol": "webmention",
+    "mention-of": "https://roytang.net/2023/11/youtube-adblockers/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  }
+}
