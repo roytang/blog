@@ -250,6 +250,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10157118240223912
 - type: tumblr
   url: https://ireadcomicbooks.tumblr.com/post/181046084670/roytang-arrowverse-elseworlds-crossover
+- type: twitter
+  url: https://twitter.com/roytang/statuses/964639973562437632/
 tags:
 - movies
 - tv
@@ -468,6 +470,8 @@ The pacing was good throughout the season (which was one of the weakness of the 
 #### Star Trek
 
 <time>[2018-02-07 23:22] </time> After catching up with Discovery, I started watching Star Trek TOS as well. (I had never watched it before.) Talk about a stark contrast
+
+<time>[2018-02-17 07:17] </time> The most unbelievable part of Star Trek TOS has to be that whenever they find a class M planet occupied by an atomic-era human civilization, that planet has a single worldwide homegenous culture
 
 ---
 
