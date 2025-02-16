@@ -1,7 +1,6 @@
 ---
 title: "Blogroll"
 date: 2020-02-21
-submenu: "follows"
 ---
 
 This is an partial list of blogs I follow, that I feel are worth sharing. [OPML File](/blogroll/opml/)

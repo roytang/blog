@@ -131,10 +131,6 @@
         {
             "Name": "Blogroll",
             "URL": "/page/blogroll/"
-        },
-        {
-            "Name": "River",
-            "URL_name": "posts_river"
         }
     ],
     "main_header": [
