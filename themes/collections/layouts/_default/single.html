@@ -10,7 +10,11 @@
 {{ $mainRoot := .Site.Params.mainRoot }}
 <ul class="related_posts">
 {{ range .Params.related_posts }}
+    {{ if .collection }}
+    <li><a href="../../{{ .collection }}/{{ .key }}">{{ .text }}</a></li>
+    {{ else }}
     <li><a href="{{ $mainRoot }}{{ .url }}">{{ .text }}</a></li>
+    {{ end }}
 {{ end }}
 </ul>
 

@@ -10,8 +10,11 @@ syndicated:
 tags:
 - sketchdaily
 - '2021'
+related_posts:
+- text: Previously
+  collection: sketchbook
+  key: BJCenKDhNW9
 ---
 
 Beach volleyball #sketchdaily 217/365 
 
-[Previously](/2016/08/BJCenKDhNW9/)

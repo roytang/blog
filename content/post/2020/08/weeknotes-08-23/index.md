@@ -16,7 +16,9 @@ There was a bit of work to be done, but very miniscule by comparison. Minor fixe
 
 I did get to write on the blog more, as expected. Let's hope I can keep it up.
 
-These week's quiz nights were terrible for our team, but on the bright side, I got to [do a couple of sketches](/2020/08/quiz-night-sketches/).
+These week's quiz nights were terrible for our team, but on the bright side, I got to do a couple of sketches:
+
+{{< collections-embed sketchbook quiz-night-sketches >}}
 
 Here are the things I've been watching and playing the past week:
 

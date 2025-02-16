@@ -101,7 +101,7 @@ In March 2022, I made a "limited recap" post for Kamigawa Neon Dynasty, collatin
 | [Kaldheim](/2021/02/mtgkld-limited-recap/) | Feb 2021 | 19 | 58 | 55 | 113 | 0.5133 |
 | [Kaladesh Remastered](/2020/12/mtgklr-recap/) | Dec 2020 | 6 | 8 | 18 | 26 | 0.3077 |
 | [Zendikar Rising](/2020/11/mtgznr-limited-recap/) | Nov 2020 | 12 | 39 | 34 | 73 | 0.5342 |
-| [Amonkhet Remastered](/2020/07/mtgakr-recap/) | Sep 2020 | 13 | 41 | 39 | 80 | 0.5125 |
+| [Amonkhet Remastered](/2020/09/mtgakr-recap/) | Sep 2020 | 13 | 41 | 39 | 80 | 0.5125 |
 | [M21](/2020/07/mtgm21-limited-recap/) | Jul 2020 | 8 | 25 | 23 | 48 | 0.5208 |
 | [Ikoria](/2020/05/mtgiko-limited-recap/) | May 2020 | 20 | 75 | 51 | 126 | 0.5952 |
 | [Theros Beyond Death](/2020/02/mtgthb-limited-recap/) | Feb 2020 | 11 | 39 | 32 | 71 | 0.5493 |

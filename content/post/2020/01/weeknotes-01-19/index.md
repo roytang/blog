@@ -26,7 +26,7 @@ I've had a Twitch account for a while and even did a few test streams last year 
 
 ---
 
-After discussing my [top 10s of the 2010s](/2020/01/top-tens-2010s/) with some friends, I realized there's a lot of good films I've missed out on over the past decade. I decided to watch more movies this year. And new movies, rewatches don't count. Initially I thought I'd target 366 movies, but in hindsight that might be a bit much. I'm not sure I'll always have 2-3 hours every day for movies, and I don't want this to be a source of daily anxiety or anything. So for now I'll set a target of maybe 200 movies for the year, that's still a bit ambitious and at the same time not unreasonable. I've put up [a page to track my movies](/lists/2020/movies/) watched for the year, with mini-reviews too.
+After discussing my [top 10s of the 2010s](/2020/01/top-ten-2010s/) with some friends, I realized there's a lot of good films I've missed out on over the past decade. I decided to watch more movies this year. And new movies, rewatches don't count. Initially I thought I'd target 366 movies, but in hindsight that might be a bit much. I'm not sure I'll always have 2-3 hours every day for movies, and I don't want this to be a source of daily anxiety or anything. So for now I'll set a target of maybe 200 movies for the year, that's still a bit ambitious and at the same time not unreasonable. I've put up [a page to track my movies](/lists/2020/movies/) watched for the year, with mini-reviews too.
 
 ---
 

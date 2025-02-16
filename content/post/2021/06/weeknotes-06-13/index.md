@@ -47,7 +47,7 @@ Visit the [Links page](/links/) for more links of interest.
 
 ### My stuff:
 
-- Okay, so the reason this post is delayed is because I [did another game jam this weekend](/2021/06/1404312180720226305/) and only made the submission around 10pm last night so that kind of used up most of my weekend time. I'll do a separate post about the game jam sometime this week!
+- Okay, so the reason this post is delayed is because I [did another game jam this weekend](/2021/06/gmtk-game-jam-2021-manananggal/) and only made the submission around 10pm last night so that kind of used up most of my weekend time. I'll do a separate post about the game jam sometime this week!
 - Still [sketching](/albums/sketchbook/), though I had to skip the past two days because of the game jam thingy, so I'm behind again, which isn't unusual. I did use up the free draw friday slot to draw the splash screen art for the game jam entry:
 
     {{< collections-embed sketchbook 1404039267685261332 >}}

@@ -15,7 +15,7 @@ The world continues to be terrible. The PH government wants people to get back t
 
 Still not writing blog posts apparently. I have a lot of thoughts swirling in my head, I'm sure they'll pop out sooner or later.
 
-Gaming: Hey, I [finished Super Mario Sunshine](/2020/10/1314224120490389504/)! I started Super Mario Galaxy right afterwards. It's actually interesting playing through these 3d Mario games for the first time, since I can see how things evolve. Will hopefully have some good thoughts for the eventual review, probably after I also play Odyssey.
+Gaming: Hey, I [finished Super Mario Sunshine](/2020/10/mario-3d-all-stars/#super-mario-sunshine)! I started Super Mario Galaxy right afterwards. It's actually interesting playing through these 3d Mario games for the first time, since I can see how things evolve. Will hopefully have some good thoughts for the eventual review, probably after I also play Odyssey.
 
 Still ongoing: [the Inktober thing](/tags/inktober2020).
 

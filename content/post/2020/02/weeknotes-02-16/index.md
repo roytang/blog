@@ -23,7 +23,7 @@ We went to a QC quiz night last Wednesday. To get to the venue, I found myself w
 
 The streets I walked were narrower and shorter than I remember - I guess in my head I still see them through a ten-year-old's eyes. I recognize many of the houses I walk past, neighbors we never really knew. But I recognized their plants! One house still had a lot of greenery adorning their facade, same as I remember it. In the last post I wrote that our old lot had been replaced by three townhouses, but this time when I passed by I saw there were four identical ones side-by-side, and I couldn't tell which three replaced my grandmother's house. Was the fourth one added later, or did I simply miss it the last time I was here? 
 
-There was also a KFC now along Anonas, to my left as I emerged from our old street. That used to be some kind of car repair complex, I think? Memories are hazy. I think to myself: "there should be a Google Maps version of the Wayback Machine, showing us what the streets looked like some time ago, for nostalgia's sake." I continue walking and take a break at a 7-11 across the street from [the old bakery](/2020/02/1228281070300299264/). 
+There was also a KFC now along Anonas, to my left as I emerged from our old street. That used to be some kind of car repair complex, I think? Memories are hazy. I think to myself: "there should be a Google Maps version of the Wayback Machine, showing us what the streets looked like some time ago, for nostalgia's sake." I continue walking and take a break at a 7-11 across the street from [the old bakery](/2020/02/kawilihan/). 
 
 (As for the quiz, we won handily, though I suggested that dominating so much might discourage future quizzes in the same area. Eh, whatever.)
 

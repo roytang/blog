@@ -52,7 +52,6 @@ Visit the [Links page](/links/) for more links of interest.
   {{< collections-embed sketchbook BJCenKDhNW9 >}}
 
   {{< collections-embed sketchbook 1423273687017394177 >}}
-  
 
 - **Watching:**
     - Movies: 
