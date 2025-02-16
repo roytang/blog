@@ -81,7 +81,7 @@
 
         {{ end }}
 
-        {{ with .Site.Author.email }}
+        {{ with .Site.Params.Author.email }}
         <a id="contact-link-email" rel="me" class="contact_link" href="mailto:{{ . }}"></a>
         {{ end }}
 

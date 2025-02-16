@@ -4,9 +4,9 @@
         <div class="h-card vcard about-author">
             <img class="u-photo" src="{{ .Site.Params.featuredImage }}" alt="" />
             <a href="{{ .Site.BaseURL }}" class="p-name u-url url author metatag" rel="me">
-                {{ .Site.Author.name }}
+                {{ .Site.Params.Author.name }}
             </a>
-            <p class="u-email" style="display:none">{{ .Site.Author.email }}</p>
+            <p class="u-email" style="display:none">{{ .Site.Params.Author.email }}</p>
             <p class="p-note">{{ .Site.Params.topline }}</p>
             <div class="single_line_menu">
                 {{ partial "submenu" .Site.Data.Sidebars.elsewhere }}
@@ -14,7 +14,7 @@
         </div>
         <div>
             <small>{{ .Site.Params.footline }}
-            For all content not indicated as shared/reposted from other sources, (c) 2002-{{ now.Format "2006" }} {{ .Site.Author.name }}, 
+            For all content not indicated as shared/reposted from other sources, (c) 2002-{{ now.Format "2006" }} {{ .Site.Params.Author.name }}, 
             and is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>.
             </small>
             <p><small>Powered by <a href="https://www.djangoproject.com/">Django</a>. 
