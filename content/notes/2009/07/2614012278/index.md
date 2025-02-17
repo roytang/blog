@@ -8,6 +8,9 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/105975126995
 - type: twitter
   url: https://twitter.com/roytang/status/2621644349/
+tags:
+- puns
+- phpuns
 ---
 
 Q: saan ang pinakamalaking calcium sa pilipinas?

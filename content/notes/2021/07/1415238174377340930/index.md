@@ -8,6 +8,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1415238176126373893/
 tags:
 - Loki
+- tv
 ---
 
 #Loki spoiler-free review:

@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/488209277786390528/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153086875263912
+tags:
+- lifeprotips
 ---
 
 Everything is gonna be alright.
