@@ -34,7 +34,7 @@ Visit the [Links page](/links/) for more links of interest. I still have so many
 ### My Stuff
 
 - a couple of days ago I had a miserable time spent arguing with customer service about some billing thing. Can't write about it in detail yet because it's not yet resolved. Needing to talk to any kind of customer service is always a pain though.
-- I still get a bit annoyed whenever I see threads on social media about people being dumb/misinformed over politics. Sometimes [I am compelled to respond](/2022/02/1492444974561914882/).
+- I still get a bit annoyed whenever I see threads on social media about people being dumb/misinformed over politics. Sometimes [I am compelled to respond](/2022/02/facts/).
 - On the blog: Other than the media reviews, I wrote [a ranty thing about URLs](/2022/02/urls/) and [some thoughts about Instant Messaging apps](/2022/02/im-apps/). That last one got a good number of likes/shares for some reason.
 
 - **Gaming**:

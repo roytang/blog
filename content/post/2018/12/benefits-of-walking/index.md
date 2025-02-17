@@ -13,9 +13,7 @@ type: post
 
 The other day [I wrote about how I've been walking on a regular basis recently](/2018/11/daily-walks/). While the regularity and the tracking are fairly recent, I'm actually not that much of a stranger to walking as an activity. Even back when I was in high school I would often walk all the way home instead of taking the bus-and-jeep commute route I was supposed to take. It didn't take that much longer, and I often enjoyed the solace (and I got to save a bit of money, even as a child I was quite frugal~). In college, I would regularly walk the couple of kilometers between classes, or from the campus itself to Philcoa. Sometimes, when it was especially hard to commute, I would walk through UP/Teacher's/Sikatuna Village all the way back to our old home in Kamias. I remember doing this once during the aftermath of a terrible storm when there were no jeeps around to take me home.
 
-Even back then, walking for me was kinda therapeutic. Like I said, I enjoyed the solace. I would often stop at some places and just be at peace for a while. I wrote about this once in an [old facebook post](https://www.facebook.com/10155666240078912/posts/10152788551883912).
-
-{{< note "/2014/02/10152788551883912" >}}
+Even back then, walking for me was kinda therapeutic. Like I said, I enjoyed the solace. I would often stop at some places and just be at peace for a while. I wrote about this once in an [old facebook post](/2014/02/corner/).
 
 Also, a side note, checking Google Maps now, that route's distance was a measly 3.7km, a couple of km shorter than my average walking routes these days. Back then it felt like I was walking a lot!
 

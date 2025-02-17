@@ -14,7 +14,7 @@ I walk a lot. A couple of days ago I was thinking about how I'd been a walking a
 
 ### High School
 
-Google Maps tells me my high school is around 3.7km away from where we lived back then. I am sure I walked that whole distance at least once, but not often. What I did do fairly regularly was walk down Agham Road and BIR road to [my favorite spot on East Avenue](/2014/02/10152788551883912/), which should be around half that distance, so probably a 15-20 minute walk. The commute home from that spot was easier - 1 jeepney ride vs at least a jeepney and a bus ride + maybe a 1km walk. The downside being walking that route takes me past some shady squatters' areas, so I'd prefer not to do it after dark.
+Google Maps tells me my high school is around 3.7km away from where we lived back then. I am sure I walked that whole distance at least once, but not often. What I did do fairly regularly was walk down Agham Road and BIR road to [my favorite spot on East Avenue](/2014/02/corner/), which should be around half that distance, so probably a 15-20 minute walk. The commute home from that spot was easier - 1 jeepney ride vs at least a jeepney and a bus ride + maybe a 1km walk. The downside being walking that route takes me past some shady squatters' areas, so I'd prefer not to do it after dark.
 
 ### College
 
