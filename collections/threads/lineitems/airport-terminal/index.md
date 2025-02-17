@@ -9,7 +9,8 @@ syndicated:
 - type: tumblr
   url: https://roytang.tumblr.com/post/66430400788/after-learning-my-flight-was-detained-4-hours-i
 tags:
-- threads
+- poetry
+title: Wandering Around an Albuquerque Airport Terminal
 ---
 
 <blockquote><p>After learning my flight was detained 4 hours,<br/>

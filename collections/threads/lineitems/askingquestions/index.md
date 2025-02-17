@@ -11,7 +11,8 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152696521158912
 tags:
-- threads
+- curiosity
+title: 'Carl Sagan on Children Asking Questions'
 ---
 
 <blockquote><p>Many adults are put off when youngsters pose scientific questions. Children ask why the sun is yellow, or what a dream is, or how deep you can dig a hole, or when is the world’s birthday, or why we have toes. </p>

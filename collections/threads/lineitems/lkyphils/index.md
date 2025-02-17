@@ -6,13 +6,15 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155114485048912
 tags:
-- fbreposts05
-- threads
+- philippines
+title: Lee Kuan Yew on Filipinos and the Philippines
+repost_source:
+  name: Filipinas Nostalgia
+  type: facebook
+  url: https://www.facebook.com/filipinasnostalgia//posts/1640275602857079
 ---
 
-It's a long read, but pretty interesting.
-
-{{% quoted url="https://www.facebook.com/filipinasnostalgia//posts/1640275602857079" label="Filipinas Nostalgia's Facebook post" %}}
+> *(Roy: It's a long read, but pretty interesting.)*
 
 Lee Kuan Yew on Filipinos and the Philippines
 
@@ -64,6 +66,3 @@ credits to :https://correctphilippines.org/tag/philippines/
 
 {{% photos 10155114485048912%}}
 
-
-
-{{% /quoted %}}
