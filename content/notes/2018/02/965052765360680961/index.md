@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/965052765360680961/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156427138243912
+tags:
+- puns
 ---
 
 Ano sabi ni Son Goku nung makita nyang mauuntog si Black Panther?

@@ -461,3 +461,17 @@ iframe {
     flex-wrap: wrap;
     flex-direction: row;
 }
+
+/* color-coding different post-types */
+
+.list_item.links {
+    border-color: var(--second-color);
+}
+
+.list_item.notes {
+    border-color: var(--third-color);
+}
+
+.list_item.post, .list_item.blog {
+    border-color: var(--main-color);
+}
