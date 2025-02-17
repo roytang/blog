@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1362189435815698433/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1362189802242646018/
+tags:
+- globeoutage
 ---
 
 Our internet service has thankfully been restored, now I no longer have any excuse for not being productive.
