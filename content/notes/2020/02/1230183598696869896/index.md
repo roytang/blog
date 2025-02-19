@@ -10,4 +10,5 @@ syndicated:
   url: https://www.instagram.com/p/B8wXtP2B6xr/
 tags:
 - instacomments
+- signs
 ---

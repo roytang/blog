@@ -1,9 +1,12 @@
 ---
-date: 2019-02-19 10:34:43+00:00
+date: 2019-02-19 10:34:43
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1097806680266465280/
+tags:
+- threads
+- duterte
 ---
 
 Wow. Just wow. 

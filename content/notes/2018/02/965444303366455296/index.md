@@ -1,5 +1,5 @@
 ---
-date: 2018-02-19 04:33:53+00:00
+date: 2018-02-19 04:33:53
 repost_source:
   name: jbenton
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/965444303366455296/
+tags:
+- threads
 ---
 
 It’s a well-known phenomenon that researchers spend more time studying Twitter and less time studying Facebook than would seem to be reasonable. 

@@ -1,5 +1,5 @@
 ---
-date: 2016-02-20 17:52:00+08:00
+date: 2016-02-20 09:52:00
 source: facebook
 syndicated:
 - type: facebook
@@ -8,6 +8,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/701027387450851328/
 tags:
 - PiliPinasDebates2016
+- halalan2016
 ---
 
 #PiliPinasDebates2016 Tomorrow will be the first Presidential debate. If I were hosting the debate, here are some of the questions I would want each candidate to address:  
