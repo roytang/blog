@@ -28,7 +28,7 @@ tags:
 - halalan2016
 - philippines
 - PiliPinasDebates2016
-title: 3rd Presidential Debate
+title: Third Presidential Debate
 ---
 
 Commentary thread for 3rd presidential debate (consolidated).

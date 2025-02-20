@@ -9,6 +9,9 @@ syndicated:
 tags:
 - PiliPinasDebates2016
 - halalan2016
+- philippines
+- formernote
+title: Proposed Presidential Debate Questions
 ---
 
 #PiliPinasDebates2016 Tomorrow will be the first Presidential debate. If I were hosting the debate, here are some of the questions I would want each candidate to address:  

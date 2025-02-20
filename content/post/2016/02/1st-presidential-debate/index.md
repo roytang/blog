@@ -1,5 +1,5 @@
 ---
-date: 2016-02-21 20:00:00+08:00
+date: 2016-02-21 12:00:00
 source: facebook
 syndicated:
 - type: facebook
@@ -8,8 +8,14 @@ syndicated:
   url: https://twitter.com/roytang/statuses/701376079609475072/
 - type: twitter
   url: https://twitter.com/roytang/statuses/701354571939991553/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154387557518912
 tags:
 - PiliPinasDebates2016
+- philippines
+- halalan2016
+- formernote
+title: First Presidential Debate
 ---
 
 My reactions to the first #PiliPinasDebates2016:

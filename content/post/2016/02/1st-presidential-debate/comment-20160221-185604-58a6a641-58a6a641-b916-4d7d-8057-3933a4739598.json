@@ -3,9 +3,11 @@
   "name": "Arnel Cayabyab",
   "url": "https://www.facebook.com/arnel919",
   "text": "Sa labas lang ng lumang bahay ni Binay along Caong street sa San Antonio Village, pagdating pa lang ng kanto, may mga illegal settlers na.",
-  "date": "2016-02-21 00:00:03",
+  "date": "2016-02-21 18:56:04 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154387557518912#10154387584653912",
+  "source": "58a6a641",
+  "spam": false,
   "source_obj": {
     "id": "10154387584653912",
     "poster": "Arnel Cayabyab",
@@ -13,5 +15,6 @@
     "text": "Sa labas lang ng lumang bahay ni Binay along Caong street sa San Antonio Village, pagdating pa lang ng kanto, may mga illegal settlers na.",
     "attachments": [],
     "date": "Feb 21, 2016"
-  }
+  },
+  "reply_to": "https://www.facebook.com/stephen.roy.tang/posts/10154387557518912"
 }

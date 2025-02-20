@@ -1,5 +1,5 @@
 ---
-date: 2016-03-20 19:07:00+08:00
+date: 2016-03-20 11:07:00
 source: twitter
 syndicated:
 - type: facebook
@@ -40,6 +40,10 @@ syndicated:
   url: https://twitter.com/roytang/status/711546765342670848/
 tags:
 - pilipinasdebates2016
+- philippines
+- halalan2016
+- formernote
+title: Second Presidential Debate
 ---
 
 This debate format is much more exciting lol.

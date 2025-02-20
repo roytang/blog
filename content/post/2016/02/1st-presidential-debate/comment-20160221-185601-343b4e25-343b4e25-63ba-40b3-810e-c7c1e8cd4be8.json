@@ -3,9 +3,11 @@
   "name": "Arnel Cayabyab",
   "url": "https://www.facebook.com/arnel919",
   "text": "Definitely.",
-  "date": "2016-02-21 00:00:00",
+  "date": "2016-02-21 18:56:01 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154387557518912#10154387565188912",
+  "source": "343b4e25",
+  "spam": false,
   "source_obj": {
     "id": "10154387565188912",
     "poster": "Arnel Cayabyab",
@@ -13,5 +15,6 @@
     "text": "Definitely.",
     "attachments": [],
     "date": "Feb 21, 2016"
-  }
+  },
+  "reply_to": "https://www.facebook.com/stephen.roy.tang/posts/10154387557518912"
 }

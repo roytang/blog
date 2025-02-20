@@ -26,6 +26,8 @@ tags:
 - playstation2013
 - ps4
 - playstation
+- gaming
+- formernote
 title: 2013 Playstation Event
 ---
 
