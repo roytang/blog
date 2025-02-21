@@ -74,6 +74,8 @@ syndicated:
 tags:
 - tzimmer_history
 - threads
+- twitter
+title: "tzimmer_history: Thoughts on Twitter, Musk, and the destruction of the virtual public square"
 ---
 
 Thoughts on Twitter, Musk, and the destruction of the virtual public square. 
