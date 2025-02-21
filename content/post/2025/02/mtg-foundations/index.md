@@ -1,5 +1,5 @@
 ---
-date: 2025-02-21T13:21:39+08:00
+date: 2025-02-21 05:21:39
 dontinlinephotos: true
 resources:
 - src: blb-7-carrot-cake.jpg
@@ -10,13 +10,16 @@ resources:
   title: Bloomburrow Arena Stats Email
 - src: blbtrophy.jpg
   title: My one Bloomburrow draft trophy (BG)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/114040602011976345
 tags:
 - mtg
 - limited
 - magicarena
 - limitedrecap
 - mtgsetrecap
-title: 'MTG Foundations'
+title: MTG Foundations
 toc: true
 ---
 
