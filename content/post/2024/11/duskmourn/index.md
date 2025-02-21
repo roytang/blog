@@ -92,7 +92,9 @@ I got my two trophy drafts early during the first quick draft run. Further draft
 
 ### Magic Arena Stats
 
-To follow, when the stats email comes in.
+{{< photos arenastats >}}
+
+Lol 162 boosters opened! This is because I opened my Bloomburrow boosters late so they were counted for this set.
 
 ### Streaming videos
 
