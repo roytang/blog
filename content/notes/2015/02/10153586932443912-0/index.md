@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10153586932378912
 tags:
 - mobile-uploads
+- toys
 ---
 
 Where my hkpf buddies at?
