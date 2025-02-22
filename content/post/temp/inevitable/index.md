@@ -1,6 +1,9 @@
 ---
-title: "Inevitable"
-date: 2025-02-22T20:45:29+08:00
+date: 2025-02-22 12:45:29
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/114047736609454171
+title: Inevitable
 ---
 
 A few days ago, someone in our household passed away. In the past couple of months of [weeknotes](/tags/weeknotes/) I have referred to her as "Patient#3" to avoid disclosing personal details. She is not a relative, but she has been working and living with our family for the better part of 30 years (estimated), so we pretty much grew up wtih her around the household, making her practically family. Needless to say she will be missed.
