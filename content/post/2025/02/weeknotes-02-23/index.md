@@ -1,6 +1,9 @@
 ---
-date: 2025-02-23T19:48:20+08:00
+date: 2025-02-23 11:48:20
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/114053110585653997
 tags:
 - weeknotes
 title: Weeknotes 2025-02-23 Moving On
