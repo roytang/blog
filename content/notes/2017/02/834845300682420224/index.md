@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/834845300682420224/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155391550278912
+tags:
+- lifeprotips
 ---
 
 There is never enough time
