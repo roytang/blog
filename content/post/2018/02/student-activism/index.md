@@ -10,6 +10,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/967066761962008576/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156441354968912
+tags:
+- formernote
+title: Student Activism
 ---
 
 There are actually people who question why state-sponsored students are protesting against the government. As a taxpayer and as someone whose education had been state-sponsored from high school, I would expect that educational subsidies produce well-informed good citizens.

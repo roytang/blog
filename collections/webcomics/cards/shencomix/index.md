@@ -15,7 +15,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156666098393912
 - type: twitter
   url: https://twitter.com/roytang/statuses/1079796091954946054/
-title: Shencomix
+title: Shen Comix
 ---
 
 Previously known as Owlturd, Shen Comix [is on Tumblr](https://shencomix.tumblr.com/) and the usual socials.
@@ -51,6 +51,18 @@ Previously known as Owlturd, Shen Comix [is on Tumblr](https://shencomix.tumblr.
 {{% photos 10155061600593912%}}
 
 {{% /quoted %}}
+
+---
+
+<time id="967068870258208769">[2018-02-24 00:09] </time> This cracked me up for some reason 
+
+{{% quoted url="https://twitter.com/shenanigansen/status/967068676636606465" label="shenanigansen's tweet" %}}
+
+{{% photos 1_967068870258208769_DWu3094U8AIAz1K %}}
+
+{{% /quoted %}}
+
+[Comments](#comment-3ad0b6ac-29cc-4e8b-869e-5fcc81b0b63f)
 
 ---
 
