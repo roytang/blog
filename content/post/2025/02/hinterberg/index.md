@@ -2,23 +2,26 @@
 date: 2025-02-25 08:07:50
 resources:
 - src: Dungeons Of Hinterberg 16_02_2025 3_44_31 pm.png
-  title: 'Magic dungeon portals!'
+  title: Magic dungeon portals!
 - src: Dungeons Of Hinterberg 16_02_2025 3_46_31 pm.png
-  title: 'Luisa does a lot of self-reflection'
+  title: Luisa does a lot of self-reflection
 - src: Dungeons Of Hinterberg 18_02_2025 7_50_02 pm.png
-  title: 'Lots of cozy advice in this game'
+  title: Lots of cozy advice in this game
 - src: Dungeons Of Hinterberg 20_02_2025 7_34_09 am.png
-  title: 'This guy reminds me of Blade'
+  title: This guy reminds me of Blade
 - src: Dungeons Of Hinterberg 25_02_2025 1_36_11 pm.png
-  title: 'STAIRS'
+  title: STAIRS
 - src: Dungeons Of Hinterberg 25_02_2025 5_07_07 pm.png
-  title: 'Character stats before the last dungeon'
+  title: Character stats before the last dungeon
 - src: stats.png
-  title: 'Stats from the XBox app'
+  title: Stats from the XBox app
 reviews:
 - media: gaming
   rating: 4.0
   title: Dungeons of Hinterberg (PC Game Pass)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/114063782765841961
 tags:
 - gaming
 title: Dungeons of Hinterberg
