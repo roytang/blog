@@ -2,9 +2,9 @@
 date: 2025-02-25 08:07:50
 resources:
 - src: Dungeons Of Hinterberg 16_02_2025 3_44_31 pm.png
-  title: 'Magic portals take you to the dungeons'
+  title: 'Magic dungeon portals!'
 - src: Dungeons Of Hinterberg 16_02_2025 3_46_31 pm.png
-  title: 'Luisa takes a lot of time for self-reflection'
+  title: 'Luisa does a lot of self-reflection'
 - src: Dungeons Of Hinterberg 18_02_2025 7_50_02 pm.png
   title: 'Lots of cozy advice in this game'
 - src: Dungeons Of Hinterberg 20_02_2025 7_34_09 am.png
@@ -12,7 +12,7 @@ resources:
 - src: Dungeons Of Hinterberg 25_02_2025 1_36_11 pm.png
   title: 'STAIRS'
 - src: Dungeons Of Hinterberg 25_02_2025 5_07_07 pm.png
-  title: 'My final character stats before the last dungeon'
+  title: 'Character stats before the last dungeon'
 - src: stats.png
   title: 'Stats from the XBox app'
 reviews:
