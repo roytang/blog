@@ -21,7 +21,7 @@ Personal projects: Proceeding apace. Got a bunch of work done on one of them las
 
 Paid work: Billed a small amount of time, mostly for consulting meetings.
 
-Last Tuesday was a Holiday ([EDSA](/2020/02/different-revolution/)), but that didn't affect me much. [Ash Wednesday](/2020/02/1232493019292557313/) was last Wednesday.
+Last Tuesday was a Holiday ([EDSA](/2020/02/different-revolution/)), but that didn't affect me much. Ash Wednesday was last Wednesday.
 
 ---
 
