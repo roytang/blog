@@ -1,5 +1,5 @@
 ---
-date: 2018-03-01 22:38:00+08:00
+date: 2018-03-01 14:38:00
 dontinlinephotos: true
 repost_source:
   name: The Daily Show
@@ -11,6 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156456479973912
 tags:
 - fbreposts09
+- fascism
 ---
 
 Timothy D. Snyder, author of "On Tyranny," outlines the steps of dismantling a democracy.    ►Full interview:  http://on.cc.com/2qLHCje

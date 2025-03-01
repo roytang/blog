@@ -1,5 +1,5 @@
 ---
-date: 2017-03-01 22:29:00+08:00
+date: 2017-03-01 14:29:00
 source: facebook
 syndicated:
 - type: facebook
@@ -8,6 +8,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/836948176712028160/
 tags:
 - philippines
+- duterte
 ---
 
 If you want to shut up the critics of the drug war, all you have to do is:

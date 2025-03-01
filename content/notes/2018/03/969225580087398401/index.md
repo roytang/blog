@@ -1,9 +1,11 @@
 ---
-date: 2018-03-01 14:59:20+00:00
+date: 2018-03-01 14:59:20
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/969225580087398401/
+tags:
+- threads
 ---
 
 Thread of amazingness 

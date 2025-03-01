@@ -1,9 +1,11 @@
 ---
-date: 2016-03-01 08:16:07+00:00
+date: 2016-03-01 08:16:07
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/704580965784354817/
+tags:
+- threads
 ---
 
 Fun with javascript dates. (Read the whole thread!) 

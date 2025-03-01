@@ -6,6 +6,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10153604764908912
 tags:
 - arrowverse
+- tv
 ---
 
 It's weird how Ra's al'Ghul in Arrow looks like Manny Pacquiao

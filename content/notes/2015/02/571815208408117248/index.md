@@ -18,6 +18,8 @@ syndicated:
   url: https://twitter.com/roytang/status/571826904111583232/
 tags:
 - '5656525'
+- globe
+- talk2globe
 ---
 
 [@talk2GLOBE](https://twitter.com/talk2GLOBE/) can I follow-up on the email I sent to talk@globe.com.ph last feb 16 pls. Subject is "RE: Case ID #5656525| Double billing"
