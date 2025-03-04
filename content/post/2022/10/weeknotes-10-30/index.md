@@ -37,7 +37,7 @@ Monday weeknotes are here to stay apparently.
     - Still trying to power through **SMT5** and **Paradise Killer**.
     - **Street Fighter V** was very good this week though, [I finally managed to hit Gold rank](/2022/12/street-fighter-v/#1585237402192601089)!
 
-- **Media Diet**: Watched [the Doctor Who 2022 specials](/2022/10/doctor-who-2022/) and also [Catch Me If You Can (2002)](/2022/10/catch-me/).
+- **Media Diet**: Watched [the Doctor Who 2022 specials](/2022/12/movies-tv-2022/#doctor-who-2022-specials) and also [Catch Me If You Can (2002)](/2022/12/movies-tv-2022/#catch-me-if-you-can).
 
 ### Some Links of Interest
 

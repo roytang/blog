@@ -45,9 +45,9 @@ Visit the [Links page](/links/) for more links of interest.
     - This week I started playing **Tales of Vesperia**, one of the longer games I hope to finish this year.
     - Today was the [Magic Arena](/tags/MagicArena/) Decathlon finals, which used up most of my day today. Unfortunately, [I did poorly](/2021/12/arena-decathlon/) D: Oh well. 
 - **Watching**:
-    - This week I kicked off the [2022 list of movies](/lists/media/movies/2022/) with [Pig (2021)](/2022/01/9f334e2bc092614079ecd191f947c4ff/).
+    - This week I kicked off the [2022 list of movies](/lists/media/movies/2022/) with [Pig (2021)](/2022/12/movies-tv-2022/#pig-2021).
     - **TV:** 
-        - This week I binged [Only Murders in the Building](/2022/01/23af5dc063224b0fbafec7f8097adddb/)
+        - This week I binged [Only Murders in the Building](/2022/12/movies-tv-2022/#only-murders-in-the-building)
         - I also started watching **Arcane** since people kept recommending it to me, but I'm only halfway through.
         - Behind: **Star Trek Discovery**, **Legends of Tomorrow**, **Young Justice**
         - Caught Up: **The Expanse** (Series finale this week!)

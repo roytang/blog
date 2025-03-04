@@ -3,10 +3,11 @@
   "name": "Flarnie",
   "url": "https://mastodon.technology/@Flarnie",
   "text": "[Flarnie](https://mastodon.technology/@Flarnie) [liked this](https://mastodon.technology/@roytang/107616193537136564#favorited-by-107049359476778678)",
-  "date": "2022-01-13 20:31:31",
+  "date": "2022-01-14 04:31:31 +0800",
   "photo": "https://webmention.io/avatar/cdn.mastodon.technology/3909624a47c9780345bde4548eb96c15ee3eec6f723e1b7ec7bbddc0a92f4b1a.jpg",
   "source_url": "https://mastodon.technology/@roytang/107616193537136564#favorited-by-107049359476778678",
   "source": "webmention",
+  "spam": false,
   "source_obj": {
     "type": "entry",
     "author": {
@@ -24,5 +25,6 @@
     "like-of": "https://roytang.net/2022/01/2ffc2893357aca5b3cbf7d27510ade9c/",
     "wm-property": "like-of",
     "wm-private": false
-  }
+  },
+  "reply_to": "https://mastodon.technology/users/roytang/statuses/107616193537136564"
 }

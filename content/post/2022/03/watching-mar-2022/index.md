@@ -68,7 +68,7 @@ Been meaning to watch this for a while. Very classic cold war spy stuff. Some ex
 
 {{< photos adam >}}
 
-Some people kind of overhyped this to me. Not as good as [the last Reynolds film I watched](/2022/03/08a99408e883fc81ddbd4c0d84fbbf6f/), but ok enough for a popcorn movie. Reynolds still basically playing himself. Plot is a bit predictable, and not a fan of how their time travel works.
+Some people kind of overhyped this to me. Not as good as [the last Reynolds film I watched](/2022/12/movies-tv-2022/#free-guy-2021), but ok enough for a popcorn movie. Reynolds still basically playing himself. Plot is a bit predictable, and not a fan of how their time travel works.
 
 ### Star Trek Discovery season 4
 

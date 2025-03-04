@@ -66,7 +66,7 @@ I enjoyed all four of the 2023 Doctor Who specials and was happy to be re-introd
 
 * I needed [a Youtube video](https://www.youtube.com/watch?v=eIkn4-bG5Hk) to tell me how Ncuti's name is pronounced.
 
-Previously: [Doctor Who 2022 Specials](/2022/10/doctor-who-2022/), [Doctor Who Flux (series 13)](/2021/12/2c719acc6b88173b3abe47cc18a632c0/). Oh, I hadn't written about the pre-2022 Nuwho series before! A while back I started compiling a spreadsheet giving per-episode ratings as I rewatched Smith's run, it might be worth doing that for all of Nuwho at some point.
+Previously: [Doctor Who 2022 Specials](/2022/12/movies-tv-2022/#doctor-who-2022-specials), [Doctor Who Flux (series 13)](/2021/12/2c719acc6b88173b3abe47cc18a632c0/). Oh, I hadn't written about the pre-2022 Nuwho series before! A while back I started compiling a spreadsheet giving per-episode ratings as I rewatched Smith's run, it might be worth doing that for all of Nuwho at some point.
 
 ### Spy X Family Season 2
 

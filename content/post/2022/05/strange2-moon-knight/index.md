@@ -26,11 +26,17 @@ title: 'MCU Reviews: Doctor Strange and the Multiverse of Madness, Moon Knight'
 
 I've been putting my media reviews in the [weeknotes](/tags/weeknotes/) but I felt like these two reviews would be long enough to justify a separate post.
 
-I posted [spoiler-free reviews](/2022/05/5cdd1736e08f59c115dc2e333b1b66bf/) the other day. This post will have unmarked spoilers.
+I posted spoiler-free reviews the other day, added them into this post below. This post will have unmarked spoilers.
 
 ### Doctor Strange and the Multiverse of Madness (2022)
 
 {{% photos strange %}}
+
+Spoiler-free review:
+
+> - fun, trippy and very "comic book" movie
+> - better if you have seen Wandavision
+> - don't bring kids, they might get scared
 
 Watched this with some friends last Wednesday, only my 3rd film seen in the theaters since the pandemic, and the first time I went with friends outside of immediate family.
 
@@ -56,9 +62,18 @@ Nitpicks aside, it was a fun movie! And probably the most "comic book" MCU movie
 
 ### Moon Knight
 
+{{% photos moonknight %}}
+
 The Moon Knight season finale aired the same day as Multiverse of Madness came out over here, so I watched it as soon as I got home.
 
-{{% photos moonknight %}}
+Spoiler-free review:
+
+> - some beautiful shots of varied locations
+> - great performances
+> - plot was ok, episode 5 was weird but probably the best one
+> - ending a bit weak
+> - probably enjoy it more if you're into the comics
+
 
 I did enjoy most of the series, but I found the ending to be a bit of a letdown. Layla becoming the Scarlet Scarab was great, but other than that I was not impressed. 
 

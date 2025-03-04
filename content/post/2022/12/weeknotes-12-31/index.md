@@ -36,7 +36,7 @@ Kind of slow final news week actually. The best thing was Greta Thunberg [owning
 
 ### Media Diet
 
-I decided to start [logging my movie watches on Letterboxd](https://letterboxd.com/hungryroy/), and also set up a script to syndicate my reviews from there back to this site as [notes](/notes/). Luckily Letterboxd provides an RSS feed for each user's reviews! This week I managed to watch [See How They Run (2022)](/2022/12/letterboxd-review-329402655/) and [The Gentlemen (2019)](/2022/12/letterboxd-review-330319397/).
+I decided to start [logging my movie watches on Letterboxd](https://letterboxd.com/hungryroy/), and also set up a script to syndicate my reviews from there back to this site as [notes](/notes/). Luckily Letterboxd provides an RSS feed for each user's reviews! This week I managed to watch [See How They Run (2022)](/2022/12/movies-tv-2022/#see-how-they-run-2022) and [The Gentlemen (2019)](/2022/12/movies-tv-2022/#the-gentlemen-2019).
 
 Okay, after writing this, I discovered Goodreads also has an RSS feed for each user that includes my reviews! Maybe I'll resume using Goodreads for my book reviews? (Or if someone wants to recommend another service that also makes it easy for me to syndicate content back to here.)
 

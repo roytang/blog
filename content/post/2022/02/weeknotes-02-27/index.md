@@ -45,7 +45,7 @@ Visit the [Links page](/links/) for more links of interest. I still have so many
         - [Eternal](/tags/EternalCardGame/): Managed to [hit Master rank in Expedition](/2022/02/1497136051298570244/) a few days early, that means I get a mastery token for next month's open! Hopefully that goes better than the Arena one did!
     - Ongoing Fighting games: Still playing the occasional **Street Fighter V** match. Capcom [announced Street Fighter 6 last weekend](https://www.eventhubs.com/news/2022/feb/20/street-fighter-6-announce/)! That's at least a year away though.
 - **Watching**:
-    - Movies: For some reason I decided to watch [Sum of All Fears (2022)](/2022/02/a370090670a1a8b0e2adf4aa6156a412/) this week, coincidentally right around the time Russia decided to invade Ukraine. Sorry if that was my fault.
+    - Movies: For some reason I decided to watch [Sum of All Fears (2022)](/2022/12/movies-tv-2022/#sum-of-all-fears-2002) this week, coincidentally right around the time Russia decided to invade Ukraine. Sorry if that was my fault.
     - **TV:** 
         - Wrote [some words about Peacemaker](/2022/02/peacemaker/).
         - Actually didn't watch a lot of TV this week.

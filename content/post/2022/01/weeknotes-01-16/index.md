@@ -49,9 +49,9 @@ Visit the [Links page](/links/) for more links of interest.
     - Ongoing: **Captain Toad Treasure Tracker** (Switch). IDK what Nintendo was thinking; this is a 10-hour game and they made it free to try for one week. I've been meaning to get it anyway, but now that it's free I'll just try to finish it in the one week trial period! I'm already more than halfway through with around 5 days to go, so there's a good chance I can finish it.
     - [Magic Arena](/tags/MagicArena/) has an Alchemy open this weekend. I made my one attempt with Boros Dragons, throwing away some gold, but only got to two wins (needed four to advance, with no losses since it was best-of-3). At least I got back some gems, which I am immediately tempted to spend back on another run, but no, I should save up for the upcoming Kamigawa set.
 - **Watching**:
-    - This week's movies: [Eternals (2021)](/2022/01/eternals/) and [Tick, Tick... Boom! (2021)](/2022/01/2ffc2893357aca5b3cbf7d27510ade9c/)
+    - This week's movies: [Eternals (2021)](/2022/01/eternals/) and [Tick, Tick... Boom! (2021)](/2022/12/movies-tv-2022/#tick-tick-boom-2021)
     - **TV:** 
-        - Finished watching [Arcane: League of Legends](/2022/01/7716cd7e971f869c82795cb6fcbc54e5/)
+        - Finished watching [Arcane: League of Legends](/2022/12/movies-tv-2022/#arcane-league-of-legends)
         - Watched [The Expanse](/2022/01/expanse/) series finale!
         - Behind: **Legends of Tomorrow**, **Young Justice**
         - Caught Up: **Star Trek Discovery**, **Superman and Lois** (new season just started)

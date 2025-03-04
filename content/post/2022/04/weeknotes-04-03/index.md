@@ -48,7 +48,7 @@ Visit the [Links page](/links/) for more links of interest.
 - **Watching**:
     - I did watch one movie this week, **Death on the Nile (2022)**. Will probably write it up in a future ["watching lately"](/tags/watching-lately) post.
     - **TV:** 
-        - I started watching **Our Flag Means Death** because I saw people recommending it. About halfway through now I think. It's okay. I place it about the same as [Only Murders In The Building](/2022/01/23af5dc063224b0fbafec7f8097adddb/).
+        - I started watching **Our Flag Means Death** because I saw people recommending it. About halfway through now I think. It's okay. I place it about the same as [Only Murders In The Building](/2022/12/movies-tv-2022/#only-murders-in-the-building).
         - Behind: **Legends of Tomorrow**, **Young Justice**, **Superman and Lois**, **Star Trek Picard season 2**, **NCIS**, **The Simpsons**
         - Yet to start: **Cobra Kai season 4**, **Moon Knight**
 - **Reading**: Still reading **Wyrd Sisters** by Terry Pratchett. The book isn't long, I just haven't had a lot of chances to sit down and read through it.

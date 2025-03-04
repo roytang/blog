@@ -47,7 +47,7 @@ Not a lot today. Visit the [Links page](/links/) for more links of interest.
     - Ongoing Card games: Regular [Magic Arena](/tags/MagicArena/) and [Eternal](/tags/EternalCardGame/) games continue. I still plan to stream the occasional [Neon Dynasty](/tags/mtgneo) quick drafts.
     - Ongoing Fighting games: Still playing the occasional **Street Fighter V** match, though I'm finding less and less time for these.
 - **Watching**:
-    - Movies: Managed to watch a few movies this week: [Drive (2011)](/2022/03/drive/), [Free Guy (2021)](/2022/03/08a99408e883fc81ddbd4c0d84fbbf6f/) and today I watched **The Batman (2022)**, review to follow.
+    - Movies: Managed to watch a few movies this week: [Drive (2011)](/2022/12/movies-tv-2022/#drive-2011), [Free Guy (2021)](/2022/12/movies-tv-2022/#free-guy-2021) and today I watched **The Batman (2022)**, review to follow.
     - **TV:** 
         - Managed to catch up on some series this week and was also pleasantly surprised that the season 2 of Star Trek Picard had already started on Prime Video.
         - Caught up: **Superman and Lois**, **Star Trek Discovery**, **Star Trek Picard season 2**

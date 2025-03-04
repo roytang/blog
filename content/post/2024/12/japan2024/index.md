@@ -50,7 +50,7 @@ On the third day we traveled to Hiroshima, where we would be staying near Miyaji
 
 {{% collections-embed albums japan2024 uphill %}}
 
-When we finally got to the house, the tradeoff was obvious: this was easily the best accomodations for the entire trip. The house was huge and spacious and with multiple rooms and had stuff like a bathtub and a washer/dryer so we could wash clothes and a huge TV with Netflix. We were so exhausted when we got there I just plopped down on the sofa for a couple of hours and we watched Bullet Train ([excellent movie](/2022/10/bullet-train/)) until we eventually just decided to order Domino's for dinner because there were no open food places nearby and noone was up for another trek up and down that hill.
+When we finally got to the house, the tradeoff was obvious: this was easily the best accomodations for the entire trip. The house was huge and spacious and with multiple rooms and had stuff like a bathtub and a washer/dryer so we could wash clothes and a huge TV with Netflix. We were so exhausted when we got there I just plopped down on the sofa for a couple of hours and we watched Bullet Train ([excellent movie](/2022/12/movies-tv-2022/#bullet-train)) until we eventually just decided to order Domino's for dinner because there were no open food places nearby and noone was up for another trek up and down that hill.
 
 #### Miyajima Island and Mount Misen
 

@@ -101,7 +101,7 @@ Also, here's a wordcloud for 2022:
     - No real theme here, though I think I started watching more dark/tragic comedies and even my first Indian film!
     - Watched 6 movies in the cinema this year, just the superhero ones. First time I'm watching in the cinemas again since the pandemic started. I actually wish I could watch more movies in the cinemas, but tickets are so expensive nowadays!
     - My favorite films I watched this year: 
-        - [Pig (2021)](/2022/01/9f334e2bc092614079ecd191f947c4ff/)
+        - [Pig (2021)](/2022/12/movies-tv-2022/#pig-2021)
         - [The Batman (2022)](/2022/03/the-batman/)
         - [Doctor Strange and the Multiverse of Madness (2022)](/2022/05/strange2-moon-knight/)
         - [RRR (2022)](/2022/07/weeknotes-07-03/#rrr-2022)
