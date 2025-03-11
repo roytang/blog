@@ -2,15 +2,18 @@
 author: Roy
 categories: []
 date: 2007-07-01 16:56:45
+reviews:
+- media: movies
+  title: Transformers (2007)
+syndicated:
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155427411338912
 tags:
 - Movies
 - Pop Culture
 title: Transformers
 type: post
 url: /2007/07/transformers/
-reviews:
-- media: movies
-  title: "Transformers (2007)"
 ---
 
 As a big Transformers fan back in the day, I have to say: the movie is okay. Action-packed and a fun popcorn flick. The story's nothing to win an oscar over, but everything looks SO COOL!

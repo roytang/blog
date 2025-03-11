@@ -3,9 +3,11 @@
   "name": "Amiel Malay",
   "url": "https://www.facebook.com/amielmalay",
   "text": "Most probably from Hanna Barbera.",
-  "date": "2017-03-09 00:00:04",
+  "date": "2017-03-09 08:00:04 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155427411338912#10155429647323912",
+  "source": "5a2bfbd1",
+  "spam": false,
   "source_obj": {
     "id": "10155429647323912",
     "poster": "Amiel Malay",
@@ -13,5 +15,6 @@
     "text": "Most probably from Hanna Barbera.",
     "attachments": [],
     "date": "Mar 9, 2017"
-  }
+  },
+  "reply_to": "https://www.facebook.com/stephen.roy.tang/posts/10155427411338912"
 }

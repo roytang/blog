@@ -3,9 +3,11 @@
   "name": "Christine 'Tin' Rabe",
   "url": "https://www.facebook.com/christine.rabe",
   "text": "Sailormoon!",
-  "date": "2017-03-09 00:00:03",
+  "date": "2017-03-09 08:00:03 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155427411338912#10155428806953912",
+  "source": "4b78276a",
+  "spam": false,
   "source_obj": {
     "id": "10155428806953912",
     "poster": "Christine 'Tin' Rabe",
@@ -13,5 +15,6 @@
     "text": "Sailormoon!",
     "attachments": [],
     "date": "Mar 9, 2017"
-  }
+  },
+  "reply_to": "https://www.facebook.com/stephen.roy.tang/posts/10155427411338912"
 }

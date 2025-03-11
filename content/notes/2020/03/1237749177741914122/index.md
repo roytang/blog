@@ -6,6 +6,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1237749177741914122/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1237781747493830657/
+tags:
+- twitch
+- gaming
 ---
 
 Blind Frostpunk Run (part 2) https://www.twitch.tv/twitchyroy

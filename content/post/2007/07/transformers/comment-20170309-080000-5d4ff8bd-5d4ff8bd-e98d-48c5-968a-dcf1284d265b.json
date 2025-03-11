@@ -3,9 +3,11 @@
   "name": "Michael Daniel V. Samson",
   "url": "https://www.facebook.com/mdvsamson",
   "text": "Candy Candy",
-  "date": "2017-03-09 00:00:00",
+  "date": "2017-03-09 08:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155427411338912#10155427548598912",
+  "source": "5d4ff8bd",
+  "spam": false,
   "source_obj": {
     "id": "10155427548598912",
     "poster": "Michael Daniel V. Samson",
@@ -13,5 +15,6 @@
     "text": "Candy Candy",
     "attachments": [],
     "date": "Mar 9, 2017"
-  }
+  },
+  "reply_to": "https://www.facebook.com/stephen.roy.tang/posts/10155427411338912"
 }

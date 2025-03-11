@@ -4,6 +4,8 @@ dontinlinephotos: true
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/112069406719347864
+- type: mastodon
+  url: https://indieweb.social/@roytang/112069554535261848
 tags:
 - weeknotes
 title: Weeknotes 2024-03-10
@@ -12,6 +14,17 @@ title: Weeknotes 2024-03-10
 ### The World
 
 [Akira Toriyama has passed away at the age of 68](https://asia.nikkei.com/Life-Arts/Obituaries/Akira-Toriyama-creator-of-Dragon-Ball-dies-at-68). It's hard to overestate his influence on world culture. Dragon Ball basically introduced anime to the world outside Japan and he worked on iconic RPG franchise Dragon Quest without which we would not have the entire JRPG genre. Truly a GOAT.
+
+I posted on [Mastodon](https://indieweb.social/@roytang/112069554535261848):
+
+> In memory of Akira Toriyama:
+> 
+> Dragon Ball opening theme PH version: https://www.youtube.com/watch?v=r5ioabxxm_M
+> 
+> Dragon Ball Z opening theme PH version: https://www.youtube.com/watch?v=E5ChXjdLnPM
+> 
+>  (Both videos are in English)
+
 
 ### My Week
 
@@ -30,7 +43,7 @@ On the blog: Same as last week, no new posts, just the weeknotes! That's okay, t
 - **Gaming**: 
     - Single player: Been playing a lot of **Tales of Arise**, possibly too much! I think I've played around 15 hours over the past week!
     - Online: Still doing regular grinding in **Magic Arena** and **Marvel Snap**, sometimes **Eternal**. I have worked my way back to Limited Platinum rank in Arena through MKM drafts, so it isn't going too poorly, but now I kind of want to pause again until montly reset sends me back to friendlier matches!
-    - Today is [Mario day](/2017/03/840184366705790978/)! I was kind of hoping Super Mario 3D World would be on sale on the Switch eShop; Niece #1 really liked that game but our WiiU disc died and I kind of want Nephew #2 to try it out. But it's still full price! Nintendo sales are never cheap enough for me anyway.
+    - Today is Mario day! I was kind of hoping Super Mario 3D World would be on sale on the Switch eShop; Niece #1 really liked that game but our WiiU disc died and I kind of want Nephew #2 to try it out. But it's still full price! Nintendo sales are never cheap enough for me anyway.
 
 - **Reading**: Still no non-comic book reading so far. I did read more comics, mostly the same series as last week.
 
