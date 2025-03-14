@@ -1,7 +1,11 @@
 ---
-date: 2009-03-13 22:29:32
+date: 2009-03-13 20:26:52
 source: twitter
 syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1323752701/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/70439658944
 - type: twitter
   url: https://twitter.com/roytang/status/1324361922/
 - type: facebook
@@ -36,7 +40,9 @@ tags:
 - hong-kong
 ---
 
-went out to look for (real) bread, took 45mins to find an open bakery. this city needs to wake up earlier
+already awake at this hour, forgot to change alarm time &gt;.&lt;
+
+<time>[06:29]</time> went out to look for (real) bread, took 45mins to find an open bakery. this city needs to wake up earlier
 
 <time>[07:33]</time> all my bags are packed im ready to go. heading out to check in at central
 
