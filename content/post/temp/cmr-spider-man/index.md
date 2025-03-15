@@ -34,13 +34,13 @@ This is the part 17 in my continuing insane effort to try to read **EVERY MARVEL
 
 I was originally planning to do a Captain America post next, but I wanted to read some Spider-Man. I knew for a fact that I had already read all issues of *Amazing Spider-Man*, so instead I decided to go through the entire *Spectacular Spider-Man* run from the 70s-90s, plus some other Spider-Man stuff.
 
-### Spectacular Spider-Man v1
+### Spectacular Spider-Man v1 (1968)
 
 - #1-2 (1968)
 
 V1 was a black and white magazine that came out every 3 months but only lasted 2 issues. I think the stories as presented here are out of continuity, though they would be later edited and reprinted in-continuity.
 
-### Spectacular Spider-Man v2
+### Spectacular Spider-Man v2 (1976)
 
 - 264 issues: #1-#163, -1 (1976-1998)
 - 15 annuals
@@ -121,7 +121,7 @@ This volume ends in Sep 1998, as did all the other Spidey ongoing titles at the 
 
 As is typical for long-running series, many creators had a hand in the series. I think Gerry Conway, Bill Mantlo, JM DeMatteis were the notable writers. For me the artwork of the Spectacular Spider-Man period is most characterized by Sal Buscema; I think he worked on about 100 issues total from 1976-1996 and it was fun seeing his iconic renditions of Peter Parker evolve through the years!
 
-### Amazing Spider-Man v7
+### Amazing Spider-Man v7 (2022)
 
 - 72 issues: #1-#70, 65.DEATHS, 68.DEATHS (2022-2025)
 - 2 annuals
