@@ -1,6 +1,9 @@
 ---
-date: 2025-03-16T20:00:23+08:00
+date: 2025-03-16 12:00:23
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/114172490299014180
 tags:
 - weeknotes
 title: Weeknotes 2025-03-16
@@ -76,4 +79,3 @@ Google Fit tells me I walked 60,133 steps over the past week (Sunday to Saturday
 
 
 ### Looking Forward
-
