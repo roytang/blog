@@ -79,3 +79,5 @@ Google Fit tells me I walked 60,133 steps over the past week (Sunday to Saturday
 
 
 ### Looking Forward
+
+- We may be able to attend another quiz night this week. 
