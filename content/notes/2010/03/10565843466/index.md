@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/10565843466/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/382401133040
+tags:
+- lastdayatwork
 ---
 
 why does everybody keep asking about the plan? Plans are overrated!

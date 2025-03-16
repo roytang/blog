@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/10516995727/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/365230799901
+tags:
+- lastdayatwork
 ---
 
 all good things must come to an end
