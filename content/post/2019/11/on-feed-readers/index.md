@@ -10,7 +10,7 @@ tags:
 title: On Feed Readers
 ---
 
-I don't use [Inoreader](https://www.inoreader.com/) anymore, but a recent blog post of theirs recently appeared in my feeds that mentioned [they implemented "sort by magic"](https://blog.inoreader.com/2019/11/new-feature-sort-by-magic-and-article-popularity-indicators.html). This was a feature that [Google reader had 10 YEARS AGO](/2009/10/5149594629/)! There hasn't been much innovation in the feed reader space in the last decade it seems, which is totally understandable given they are mostly tools used by internet "power users", and mostly by older netheads, so the target market isn't very large.
+I don't use [Inoreader](https://www.inoreader.com/) anymore, but a recent blog post of theirs recently appeared in my feeds that mentioned [they implemented "sort by magic"](https://blog.inoreader.com/2019/11/new-feature-sort-by-magic-and-article-popularity-indicators.html). This was a feature that [Google reader had 10 YEARS AGO](/2013/07/google-reader/#5149594629)! There hasn't been much innovation in the feed reader space in the last decade it seems, which is totally understandable given they are mostly tools used by internet "power users", and mostly by older netheads, so the target market isn't very large.
 
 ---
 

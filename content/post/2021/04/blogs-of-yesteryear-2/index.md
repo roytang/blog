@@ -55,7 +55,7 @@ These are blogs I followed about self-improvement, productivity, that kind of st
 
 ### feed readers
 
-According to the old site, my feeds back then were powered by an app called Bloglines. [Wikipedia](https://en.wikipedia.org/wiki/Bloglines) says Bloglines became unavailable in 2015, but presumably I stopped using it in 2007 when I [switched to a different app called Newshutch](/2007/01/newshutch-feed-aggregator/). At the time, I was complaining that [Google Reader](https://en.wikipedia.org/wiki/Google_Reader), released in 2007, was "slow as molasses"! I eventually did migrate to Google Reader and was a faithful user until [it was killed off in 2013](/2013/06/347364993144074241/). (In hindsight, this was more recent than I thought it was!)
+According to the old site, my feeds back then were powered by an app called Bloglines. [Wikipedia](https://en.wikipedia.org/wiki/Bloglines) says Bloglines became unavailable in 2015, but presumably I stopped using it in 2007 when I [switched to a different app called Newshutch](/2007/01/newshutch-feed-aggregator/). At the time, I was complaining that [Google Reader](https://en.wikipedia.org/wiki/Google_Reader), released in 2007, was "slow as molasses"! I eventually did migrate to Google Reader and was a faithful user until [it was killed off in 2013](/2013/07/google-reader/). (In hindsight, this was more recent than I thought it was!)
 
 ### what about now?
 
