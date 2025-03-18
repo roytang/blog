@@ -1,10 +1,12 @@
 ---
-date: 2022-03-16 16:58:51+00:00
+date: 2022-03-16 16:58:51
 dontinlinephotos: true
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/1504140148824768513/
+tags:
+- threads
 ---
 
 Thread about names 

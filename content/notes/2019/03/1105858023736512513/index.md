@@ -1,9 +1,11 @@
 ---
-date: 2019-03-13 15:47:53+00:00
+date: 2019-03-13 15:47:53
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1105858023736512513/
+tags:
+- watercrisis
 ---
 
 This is true. Kahit sa grab driver eto ang topic 

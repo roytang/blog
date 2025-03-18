@@ -1,9 +1,11 @@
 ---
-date: 2020-03-16 04:04:04+00:00
+date: 2020-03-16 04:04:04
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1239402024485060614/
+tags:
+- threads
 title: ''
 ---
 

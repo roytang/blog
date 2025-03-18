@@ -1,9 +1,11 @@
 ---
-date: 2019-03-13 11:03:22+00:00
+date: 2019-03-13 11:03:22
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1105786421279748097/
+tags:
+- watercrisis
 ---
 
 Alam na this 
