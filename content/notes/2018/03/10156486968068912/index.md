@@ -5,7 +5,8 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156486968068912
-tags: []
+tags:
+- profilepics
 ---
 
 {{% photos 10156486968068912%}}

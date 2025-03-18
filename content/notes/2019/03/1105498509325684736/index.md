@@ -1,9 +1,11 @@
 ---
-date: 2019-03-12 15:59:18+00:00
+date: 2019-03-12 15:59:18
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1105498509325684736/
+tags:
+- watercrisis
 ---
 
 Where is the grandstanding senate inquiry to investigate this water shortage? 

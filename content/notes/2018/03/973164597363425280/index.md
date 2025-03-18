@@ -1,11 +1,13 @@
 ---
-date: 2018-03-12 11:51:35+00:00
+date: 2018-03-12 11:51:35
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/973164597363425280/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156486780313912
+tags:
+- threads
 ---
 
 Thread 
@@ -20,4 +22,3 @@ Thread
 >
 
 [Threadreader version](http://threadreaderapp.com/thread/972841751189839872.html). [Wayback archive](https://web.archive.org/web/20240311163421/https://threadreaderapp.com/thread/972841751189839872.html).
-
