@@ -1,6 +1,8 @@
 ---
-title: "Junk Shop"
-date: 2023-03-20T13:04:03+08:00
+date: 2023-03-20 05:04:03
+tags:
+- signs
+title: Junk Shop
 ---
 
 I'm always amused by this sign whenever I walk past this storefront.

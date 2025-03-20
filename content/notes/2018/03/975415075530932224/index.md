@@ -1,5 +1,5 @@
 ---
-date: 2018-03-18 16:54:10+00:00
+date: 2018-03-18 16:54:10
 source: twitter
 syndicated:
 - type: twitter
@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156504097433912
 tags:
 - '58'
+- threads
 title: ''
 ---
 

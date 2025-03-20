@@ -6,6 +6,10 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/103864507062854379
 - type: twitter
   url: https://twitter.com/roytang/statuses/1241562764147142656/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1240511778775171074/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1241665282327773184/
 tags:
 - weeknotes
 title: Weeknotes 2020-03-22 Quarantine Edition
@@ -18,6 +22,12 @@ My [COVID19 Diary](/2020/03/covid19/) is still ongoing if you want more day-to-d
 When thinking about how the world is handling this pandemic, the words of one of my boardgame friends comes to mind:
 
 > "Everyone's playing like idiots!"
+
+A couple of relevant things I said on soc med this week:
+
+<time id="1240511778775171074">[2020-03-19 13:33] </time> I'm usually at home most of the time normally, so this staying at home isnt new for me, but I still find it hard to be productive in these times. It's like the virus thing is a lingering concern always at the back of my head
+
+<time id="1241665282327773184">[2020-03-22 17:57]</time> There’s a good chance we might have avoided the brunt of this, but nooo we didnt eant to hurt china’s feelings
 
 ---
 
@@ -44,3 +54,4 @@ Site changes this week: Not much.
 ---
 
 Not sure what the next week will bring, but I'm hoping as we settle further into this new normal (however long it may last), we are better able to mentally cope with it and maybe even find some source of optimism for the days ahead.
+

@@ -8,6 +8,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/103422779692490
 tags:
 - hajimenoippo
+- manga
+- comics
 ---
 
 started reading Hajime no Ippo. 800+ chapters!
