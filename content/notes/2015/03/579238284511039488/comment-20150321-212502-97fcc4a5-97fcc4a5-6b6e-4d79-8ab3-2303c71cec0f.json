@@ -3,9 +3,11 @@
   "name": "Kristine Casas",
   "url": "https://www.facebook.com/keiscasas",
   "text": "Pasalubong!  :)",
-  "date": "2015-03-21 00:00:01",
+  "date": "2015-03-21 21:25:02 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153651628508912#10153651748883912",
+  "source": "97fcc4a5",
+  "spam": false,
   "source_obj": {
     "id": "10153651748883912",
     "poster": "Kristine Casas",
@@ -13,5 +15,6 @@
     "text": "Pasalubong!  :)",
     "attachments": [],
     "date": "Mar 21, 2015"
-  }
+  },
+  "reply_to": "https://www.facebook.com/stephen.roy.tang/posts/10153651628508912"
 }

@@ -9,6 +9,8 @@ syndicated:
   url: https://twitter.com/roytang/status/1505848932605169666/
 tags:
 - EternalCardGame
+- twitch
+- gaming
 ---
 
 Casual Eternal Expedition stream https://www.twitch.tv/twitchyroy [@EternalCardGame](https://twitter.com/EternalCardGame/)

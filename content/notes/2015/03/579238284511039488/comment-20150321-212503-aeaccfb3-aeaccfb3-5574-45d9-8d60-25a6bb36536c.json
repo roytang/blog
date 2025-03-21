@@ -3,9 +3,11 @@
   "name": "Roy Tang",
   "url": "https://www.facebook.com/stephen.roy.tang",
   "text": "I was able to resist! Lol",
-  "date": "2015-03-21 00:00:02",
+  "date": "2015-03-21 21:25:03 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153651628508912#10153651822963912",
+  "source": "aeaccfb3",
+  "spam": false,
   "source_obj": {
     "id": "10153651822963912",
     "poster": "Roy Tang",
@@ -13,5 +15,6 @@
     "text": "I was able to resist! Lol",
     "attachments": [],
     "date": "Mar 21, 2015"
-  }
+  },
+  "reply_to": "https://www.facebook.com/stephen.roy.tang/posts/10153651628508912"
 }
