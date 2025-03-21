@@ -1,5 +1,5 @@
 ---
-date: 2017-03-22 17:13:00+08:00
+date: 2017-03-22 09:13:00
 dontinlinephotos: true
 source: facebook
 syndicated:
@@ -7,6 +7,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155466852378912
 tags:
 - fbreposts06
+- duterte
 ---
 
 "There's killings, but don't worry, it's only for the poor." 

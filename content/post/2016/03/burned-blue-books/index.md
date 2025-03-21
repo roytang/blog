@@ -1,11 +1,12 @@
 ---
-title: "Ashes of burned bluebooks"
-date: 2016-04-01T03:22:00+08:00
-tags:
-- poetry
+date: 2016-03-31 19:22:00
 syndicated:
 - type: facebook
   url: https://www.facebook.com/lizbethjanegarcia/posts/1174595919218365?comment_id=1174614179216539
+tags:
+- poetry
+- formernote
+title: Ashes of burned bluebooks
 ---
 
 Across the fields as I remember
