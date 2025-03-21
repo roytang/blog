@@ -1,6 +1,7 @@
 ---
 date: 2017-03-31
 dontinlinephotos: true
+toc: true
 locations:
 - hashtag: kaladesh-prerelease
   id: 4c529236384c76b0a0d0fc2a

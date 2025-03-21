@@ -3,9 +3,10 @@
   "name": "Roy Tang",
   "url": "https://twitter.com/roytang",
   "text": "[@aleksfelipe](https://twitter.com/aleksfelipe/) ended up gw and 2-2 :p",
-  "date": "2016-04-02 14:59:55",
+  "date": "2016-04-02 22:59:55 +0800",
   "photo": "https://pbs.twimg.com/profile_images/1269775872740872192/88S_sBIM_normal.jpg",
   "source_url": "https://twitter.com/roytang/status/716278999358410752/",
-  "reply_to": "https://twitter.com/aleksfelipe/status/716270022394417152/",
-  "source": "twitter"
+  "source": "twitter",
+  "spam": false,
+  "reply_to": "https://twitter.com/aleksfelipe/status/716270022394417152/"
 }
