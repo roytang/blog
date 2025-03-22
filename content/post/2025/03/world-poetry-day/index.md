@@ -1,6 +1,5 @@
 ---
-title: "World Poetry Day"
-date: 2025-03-22T07:36:36+08:00
+date: 2025-03-21 23:36:36
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1108900757347012608/
@@ -8,9 +7,12 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1176820993546829824/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1164506207354159104/
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/114203146225844093
 tags:
 - poetry
 - worldpoetryday
+title: World Poetry Day
 ---
 
 Yesterday was [World Poetry Day](https://en.wikipedia.org/wiki/World_Poetry_Day). Here are some poems I've shared through the years:
