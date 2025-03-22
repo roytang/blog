@@ -23,7 +23,10 @@ syndicated:
 tags:
 - mtg
 - mtgdtk
+- prerelease
+- limited
 - europe2015
+- formernote
 title: Dragons of Tarkir Prerelease
 ---
 

@@ -49,3 +49,5 @@ Completion stats:
 - Played from Feb 14 to Feb 25.
 
 Overall a very cozy game, not too stressful, though some of those quests/achievements could have been less grindy. I do wish the character designs were a bit less goofy-looking but that's more a matter of style than a knock on the game. Happy to have played it!
+
+Edit Mar 22: I found out today that I had actually purchased this game during the Winter Steam Sale last December. Doh, should have played on Steam instead!

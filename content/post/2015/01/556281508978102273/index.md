@@ -15,6 +15,10 @@ syndicated:
 tags:
 - mtgfrf
 - mtg
+- prerelease
+- limited
+- formernote
+title: Fate Reforged Prerelease
 ---
 
 Well I'm already having fun #mtgfrf
