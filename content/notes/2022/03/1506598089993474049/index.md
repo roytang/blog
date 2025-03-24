@@ -9,6 +9,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1506641248190304265/
 tags:
 - gaming
+- twitch
 ---
 
 Streaming some https://itch.io/ bundle games! https://www.twitch.tv/twitchyroy #gaming

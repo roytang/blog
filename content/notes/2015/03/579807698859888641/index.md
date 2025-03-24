@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/579807698859888641/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153654939718912
+tags:
+- survey
 ---
 
 When you're a tourist in a foreign country, which one is worse: losing all your money or losing your passport?

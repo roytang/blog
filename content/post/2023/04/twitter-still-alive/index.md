@@ -17,7 +17,7 @@ Somehow in spite of EM's best efforts, Twitter is still alive, barely hobbling f
 
 ### New Tweetdeck
 
-On desktop/the web I use Twitter primarily via Tweetdeck and a selection of lists. A couple of weeks back I [got switched over to a new version of Tweetdeck](/2023/03/1639013551343026176/) and it is seriously annoying to use.
+On desktop/the web I use Twitter primarily via Tweetdeck and a selection of lists. A couple of weeks back I got switched over to a new version of Tweetdeck and it is seriously annoying to use.
 
 My main complaints are:
 

@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10153657159773912
 tags:
 - mobile-uploads
+- toys
 ---
 
 A surprise Cobra Commander appeared on my desk! Thanks [Jennylyn Sze](https://www.facebook.com/1209128946)!
