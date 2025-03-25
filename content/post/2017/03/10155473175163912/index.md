@@ -1,10 +1,12 @@
 ---
-date: 2017-03-24 18:19:00+00:00
+date: 2017-03-24 18:19:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155473175163912
-title: ''
+tags:
+- formernote
+title: Beast King GoLion
 ---
 
 The story of Beast King GoLion, which was heavily edited to become the US Voltron Lion Force, si waaaay trippier than I expected.

@@ -13,5 +13,7 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/103883460833383544
 - type: twitter
   url: https://twitter.com/roytang/statuses/1242775806306168837/
+tags:
+- movies
 title: Edgar Wright’s 100 Favorite Comedies
 ---

@@ -12,6 +12,7 @@ syndicated:
 tags:
 - fbreposts10
 - puns
+- phpuns
 ---
 
 hi Dang Quipse
