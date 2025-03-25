@@ -1,5 +1,5 @@
 ---
-date: 2017-03-26 20:30:00+08:00
+date: 2017-03-26 12:30:00
 dontinlinephotos: true
 source: facebook
 syndicated:
@@ -7,6 +7,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155477723743912
 tags:
 - fbreposts06
+- webcomics
 ---
 
 That's so crazy it might actually work!
