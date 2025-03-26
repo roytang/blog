@@ -25,16 +25,32 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/103904182530128602
 - type: twitter
   url: https://twitter.com/roytang/statuses/1244101994492473344/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1242853385331568641/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1242953238497751040/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1243114369921122304/
 tags:
 - weeknotes
 - watching-lately
 - movies
 title: Weeknotes 2020-03-29 Time Is Meaningless
+dontinlinephotos: true
 ---
 
 My [COVID19 Diary](/2020/03/covid19/) is still ongoing, although that TOC is starting to get unwieldy. Need to think of a better UX solution for that.
 
-{{< photo "2020/03/1242953238497751040/" >}}
+Some recent related social media posts:
+
+> <time id="1242853385331568641">[2020-03-26 00:38] </time> maybe this quarantine is how we finally catch up on our reading/watching/playing backlogs
+> 
+> <time id="1242953238497751040">[2020-03-26 07:15] </time> "Time is meaningless under extreme enhanced community quarantine"
+> 
+> {{< photos ET_bYDoUMAA8vty >}}
+> 
+> <time id="1243114369921122304">[2020-03-26 17:55] </time> It is  totally racist to call it to the China/Chinese/Wuhan virus, but I wouldn't object to the terms "CCP virus" or "Xi Jinping virus"
+> 
 
 I know it's probably unrealistic, but I'm hoping the lockdown somehow gets lifted sooner rather than later. It's not that I crave social interaction (I don't), but I miss going out for food. I miss pizza. And japanese curry. And fancy sandwiches with sesame seeds and such. The food at the house is fine and all, but tends to get repetitive. And during the last grocery run, the only mayonnaise they had was Best Foods Mayo Magic. Bleah. I'm so gonna eat at so many places after all of this is over.
 
@@ -85,3 +101,4 @@ Recent site changes:
 ---
 
 I don't have anything specific to look forward to in the coming week. Time under the lockdown moves at a different scale, we just take everything one day at a time.
+

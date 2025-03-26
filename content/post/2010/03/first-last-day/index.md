@@ -13,10 +13,19 @@ syndicated:
   url: https://twitter.com/roytang/statuses/10565843466/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/382401133040
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/375179553911
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/375179538911
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153661824833912:0
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153661824798912
 tags:
 - work
 - backpost
 title: First Last Day
+dontinlinephotos: true
 ---
 
 Today was my first last day at work, as I resigned from my first ever job after 7 years.
@@ -38,5 +47,13 @@ Today was my first last day at work, as I resigned from my first ever job after 
 <time id="10565843466">[2010-03-16 19:37] </time> why does everybody keep asking about the plan? Plans are overrated!
 
 [Comments](#comment-c2297e94-3d1e-4358-aa06-d8bba5e564dc)
+
+---
+
+<time id="375179553911">[2010-03-26 21:03] </time> The farewell gift from CICS teammates. :D
+
+{{< photos 26717_375179538911_7095855_n_375179538911 >}}
+
+[Comments](#comment-ff51897c-9e46-4af9-9467-38e855c7c0ee)
 
 ---

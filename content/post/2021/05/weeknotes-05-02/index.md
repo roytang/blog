@@ -13,7 +13,7 @@ tags:
 title: Weeknotes 2021-05-02
 ---
 
-It's already May? April felt like it came and went so quickly. But then again, [time has little meaning in this accursed pandemic](/2020/03/1242953238497751040).
+It's already May? April felt like it came and went so quickly. But then again, [time has little meaning in this accursed pandemic](/2020/03/weeknotes-2020-03-29/#1242953238497751040).
 
 ### The world:
 
