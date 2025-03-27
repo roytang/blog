@@ -1,6 +1,5 @@
 ---
 date: 2025-03-27T11:27:40+08:00
-draft: true
 dontinlinephotos: true
 tags:
 - comics
@@ -227,7 +226,7 @@ Current total (released) according to [the reference reading order](https://cmro
 
 Progress: 15.63% (14.54% last post). A > 1% jump!
 
-Also, the reference reading order lists 4,503 appearances of Spider-Man, so this is less than 10% of that!
+Also, Spider-Man is without a doubt one of the most popular Marvel characters; the reference reading order lists 4,503 appearances of Spider-Man, so this post covers less than 10% of that! (Wolverine is currently only at 3,356 appearances!)
 
 ### CMR Notes
 
