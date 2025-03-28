@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/581627112211095552/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153665627478912
+tags:
+- convos
 ---
 
 Words can be tough sometimes

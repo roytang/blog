@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/714106791919890434/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154484091568912
+tags:
+- halalan2016
 ---
 
 Sana pwedeng misdeal na lang yung elections tapos bibigyan tayo ng bagong candidates

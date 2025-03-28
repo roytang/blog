@@ -13,6 +13,7 @@ syndicated:
 tags:
 - mobile-uploads
 - sundaypunday
+- puns
 ---
 
 Easter Reflections

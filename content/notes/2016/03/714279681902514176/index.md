@@ -8,6 +8,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154486214363912
 tags:
 - LabanLeni
+- halalan2016
+- philippines
 ---
 
-Ang problema pala sa Daang Matuwid, dati wala silang ilaw #LabanLeni 
+Ang problema pala sa Daang Matuwid, dati wala silang ilaw #LabanLeni

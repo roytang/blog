@@ -7,6 +7,7 @@ syndicated:
 tags:
 - philippines
 - reddit_submission
+- survey
 ---
 
 #### Posted on r/Philippines: [Survey: Has the government made your life better or worse since 2010? How so?](https://reddit.com/r/Philippines/comments/4c3zw0/survey_has_the_government_made_your_life_better/)
