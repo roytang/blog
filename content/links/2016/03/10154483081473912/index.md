@@ -1,15 +1,21 @@
 ---
-date: 2016-03-27 08:58:00
+date: 2016-03-27 08:58:00+00:00
+link:
+  source: facebook
+  source_url: https://www.facebook.com/stephen.roy.tang/posts/10154483081473912
+  text: Voltron Legendary Defender - Forming a Legend | official trailer Wondercon (2016) Netflix
+  url: https://www.youtube.com/watch?v=MZ0uWpmfdOA
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154483081473912
 tags:
 - voltron
+- trailers
 title: ''
 ---
 
-Deadpool must be so excited right now: https://www.youtube.com/watch?v=MZ0uWpmfdOA
+Deadpool must be so excited right now: ?v=MZ0uWpmfdOA
 
 Some extra info from the reddit thread:
 
@@ -34,9 +40,6 @@ Kimberly Brooks (Mass Effect) as Princess Allura
 Rhys Darby (Flight of the Conchords) as Coran
 
 and Neil Kaplan (Transformers: Robots in Disguise, Digimon, Power Rangers: Lost Galaxy, Lightspeed Rescue, Time Force) as King Zarkon
-
-[Voltron Legendary Defender - Forming a Legend | official trailer Wondercon (2016) Netflix](https://www.youtube.com/watch?v=MZ0uWpmfdOA)
-
 
 
 {{% youtube MZ0uWpmfdOA %}}
