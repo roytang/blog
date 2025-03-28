@@ -1,59 +1,61 @@
 ---
-date: 2025-03-27T11:27:40+08:00
+date: 2025-03-27 03:27:40
 dontinlinephotos: true
+reviews:
+- description: ''
+  hashtag: spectacular-spider-man-magazine-1968
+  issues: 2
+  media: comics
+  title: Spectacular Spider-Man Magazine (1968)
+  year: 1968
+- description: ''
+  hashtag: peter-parker-the-spectacular-spider-man-1976
+  issues: 279
+  media: comics
+  title: Peter Parker, the Spectacular Spider-Man (1976)
+  year: 1976
+- description: ''
+  hashtag: spectacular-spider-man-v2-2003
+  issues: 27
+  media: comics
+  title: Spectacular Spider-Man v2 (2003)
+  year: 2003
+- description: ''
+  hashtag: spectacular-spider-man-1000-2011
+  issues: 1
+  media: comics
+  title: 'Spectacular Spider-Man #1000 (2011)'
+  year: 2011
+- description: ''
+  hashtag: peter-parker-the-spectacular-spider-man-v3-2017
+  issues: 24
+  media: comics
+  title: 'Peter Parker: The Spectacular Spider-Man v3 (2017)'
+  year: 2017
+- description: ''
+  hashtag: amazing-spider-man-v7-2022
+  issues: 74
+  media: comics
+  title: Amazing Spider-Man v7 (2022)
+  year: 2022
+- description: 'Amazing Spider-Man Gang War: First Strike, Luke Cage: Gang War #1-4,
+    Daredevil: Gang War #1-4, Deadly Hands of Kung Fu: Gang War #1-3'
+  hashtag: amazing-spider-man-gang-war
+  issues: 12
+  media: comics
+  title: Amazing Spider-Man Gang War
+  year: 2023
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/114232904855248342
 tags:
 - comics
 - complete-marvel-run
 - marvel
 - spider-man
-title: 'The Complete Marvel Run part 17: Spider-Man Part 1: Spectacular Spider-Man, Amazing Spider-Man v7, Gang War'
+title: 'The Complete Marvel Run part 17: Spider-Man Part 1: Spectacular Spider-Man,
+  Amazing Spider-Man v7, Gang War'
 toc: true
-reviews:
-- hashtag: spectacular-spider-man-magazine-1968
-  description: ''
-  media: comics
-  title: 'Spectacular Spider-Man Magazine (1968)'
-  issues: 2
-  year: 1968
-- hashtag: peter-parker-the-spectacular-spider-man-1976
-  description: ''
-  media: comics
-  title: 'Peter Parker, the Spectacular Spider-Man (1976)'
-  issues: 279
-  year: 1976
-- hashtag: spectacular-spider-man-v2-2003
-  description: ''
-  media: comics
-  title: 'Spectacular Spider-Man v2 (2003)'
-  issues: 27
-  year: 2003
-- hashtag: spectacular-spider-man-1000-2011
-  description: ''
-  media: comics
-  title: 'Spectacular Spider-Man #1000 (2011)'
-  issues: 1
-  year: 2011
-- hashtag: peter-parker-the-spectacular-spider-man-v3-2017
-  description: ''
-  media: comics
-  title: 'Peter Parker: The Spectacular Spider-Man v3 (2017)'
-  issues: 24
-  year: 2017
-- hashtag: amazing-spider-man-v7-2022
-  description: ''
-  media: comics
-  title: 'Amazing Spider-Man v7 (2022)'
-  issues: 74
-  year: 2022
-- hashtag: amazing-spider-man-gang-war
-  description: 'Amazing Spider-Man Gang War: First Strike,
-    Luke Cage: Gang War #1-4,
-    Daredevil: Gang War #1-4,
-    Deadly Hands of Kung Fu: Gang War #1-3'
-  media: comics
-  title: 'Amazing Spider-Man Gang War'
-  issues: 12
-  year: 2023
 ---
 
 ### Previously
