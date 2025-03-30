@@ -245,3 +245,4 @@ Okay, for real, the next entry should be focused on **Captain America** post-Her
 Soooo many words in this entry. I really doubt anyone else is reading these CMR posts, it is the epitome of "posts that I write for myself" lol.
 
 [^1]: I understand I am going to have read more Venom/Carnage/symbiote stuff eventually as I progress through this run and oh boy that may or may not be fun lol.
+
