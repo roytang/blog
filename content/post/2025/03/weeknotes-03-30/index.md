@@ -1,6 +1,9 @@
 ---
-date: 2025-03-30T20:32:51+08:00
+date: 2025-03-30 12:32:51
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/114251525874820965
 tags:
 - weeknotes
 title: Weeknotes 2025-03-30
