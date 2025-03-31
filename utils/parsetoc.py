@@ -9,6 +9,8 @@ var nodes = document.querySelectorAll("details li a");
 var outlist = [];
 for (let i=0; i<nodes.length; i++) { outlist.push({ "href": nodes[i].getAttribute("href"), "text": nodes[i].innerText }); } 
 
+outlist;
+
 
 """
 
