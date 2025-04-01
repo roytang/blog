@@ -1,7 +1,6 @@
 ---
 date: 2025-04-01
 dontinlinephotos: true
-toc: true
 resources:
 - src: spy-2015.jpg
   title: Spy (2015)
@@ -148,69 +147,69 @@ reviews:
   rating: 3.5
   title: Easy A
   year: '2010'
-- hashtag: penguin
+- date: 2025-02-06
   description: ''
+  hashtag: penguin
   media: tv
-  title: 'Penguin'
   rating: 5
+  title: Penguin
   year: 2024
-  date: 2025-02-06
-- hashtag: what-if-s3
+- date: 2025-02-08
   description: ''
+  hashtag: what-if-s3
   media: tv
-  title: 'What If S3'
   rating: 3.0
+  title: What If S3
   year: 2024
-  date: 2025-02-08
-- hashtag: pantheon-s1
+- date: 2025-02-18
   description: ''
+  hashtag: pantheon-s1
   media: tv
-  title: 'Pantheon S1'
   rating: 4.0
+  title: Pantheon S1
   year: 2022
-  date: 2025-02-18
-- hashtag: invincible-s3
+- date: 2025-03-13
   description: ''
+  hashtag: invincible-s3
   media: tv
-  title: 'Invincible S3'
   rating: 4.0
+  title: Invincible S3
   year: 2025
-  date: 2025-03-13
-- hashtag: high-potential-s1
+- date: 2025-03-01
   description: ''
+  hashtag: high-potential-s1
   media: tv
-  title: 'High Potential S1'
   rating: 4.0
+  title: High Potential S1
   year: 2024-2025
-  date: 2025-03-01
-- hashtag: elementary
+- date: 2025-03-27
   description: ''
+  hashtag: elementary
   media: tv
-  title: 'Elementary'
   rating: 4.0
+  title: Elementary
   year: 2012-2019
-  date: 2025-03-27
-- hashtag: dragon-ball-daima
+- date: 2025-03-11
   description: ''
+  hashtag: dragon-ball-daima
   media: tv
-  title: 'Dragon Ball Daima'
   rating: 3.5
+  title: Dragon Ball Daima
   year: 2024-2025
-  date: 2025-03-11
-- hashtag: sakamoto-days-s1-part-1
+- date: 2025-03-28
   description: ''
+  hashtag: sakamoto-days-s1-part-1
   media: tv
-  title: 'Sakamoto Days S1 Part 1'
   rating: 3.5
+  title: Sakamoto Days S1 Part 1
   year: 2025
-  date: 2025-03-28
-- hashtag: friendly-neighborhood-spider-man
+- date: 2025-03-31
   description: ''
+  hashtag: friendly-neighborhood-spider-man
   media: tv
-  title: 'Friendly Neighborhood Spider-Man'
   rating: 4.0
+  title: Friendly Neighborhood Spider-Man
   year: 2025
-  date: 2025-03-31
 source: letterboxd
 syndicated:
 - type: letterboxd
@@ -245,11 +244,14 @@ syndicated:
   url: https://letterboxd.com/hungryroy/film/twisters/
 - type: letterboxd
   url: https://letterboxd.com/hungryroy/film/easy-a/
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/114259980057187507
 tags:
 - movies
 - tv
 - watching-lately
 title: Movies / TV I Watched - Jan to Mar 2025
+toc: true
 ---
 
 I meant to publish some reviews at the end of Feb but life got in the way, so instead I am doing these every 3 months now apparently.
