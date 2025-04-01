@@ -1,11 +1,12 @@
 ---
-date: 2019-03-31 15:39:28+00:00
+date: 2019-03-31 15:39:28
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1112378885813854208/
 tags:
 - mtgwar
+- mtg
 title: ''
 ---
 

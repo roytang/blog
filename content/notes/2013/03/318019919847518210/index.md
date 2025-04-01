@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/318019919847518210/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152168616068912
+tags:
+- tv
 ---
 
 Well, I'm more excited about the return of Doctor Who than Game of Thrones

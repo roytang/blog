@@ -1,5 +1,5 @@
 ---
-date: 2016-04-01 13:19:02+00:00
+date: 2016-04-01 13:19:02
 source: reddit
 syndicated:
 - type: reddit
@@ -7,6 +7,7 @@ syndicated:
 tags:
 - Philippines
 - reddit_submission
+- halalan2016
 ---
 
 #### Posted on r/Philippines: [Some examples of cognitive dissonance I've observed in comment threads during the election period](https://www.reddit.com/r/Philippines/comments/4cvks2/some_examples_of_cognitive_dissonance_ive/)
