@@ -167,6 +167,10 @@ syndicated:
   url: https://twitter.com/roytang/statuses/2474330433/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/108051607406
+- type: twitter
+  url: https://twitter.com/roytang/statuses/3192160516/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/113045253245
 tags:
 - movies
 - backpost
@@ -206,6 +210,8 @@ toc: true
 ---
 
 #### GI Joe: The Rise of Cobra
+
+<time id="3192160516">[Sat, Aug. 8, 2009, 7:50 p.m.]</time> heading out to watch GI Joe @Trinoma
 
 <time>[Sun, Aug. 9, 2009, 3:32 p.m.]</time> Quick GI Joe review: Very predictable/cliched plot, but action-packed and required far less suspension of disbelief than Transformers 2.
 
@@ -308,3 +314,4 @@ toc: true
 #### Others
 
 <time>[2009-07-05 05:32] </time> The Practice season 5 marathon
+

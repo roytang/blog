@@ -139,6 +139,16 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10153347879353912
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153362647548912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/495705039197835265/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153127285928912
+- type: tumblr
+  url: https://roytang.tumblr.com/post/93678023165/gotg-spoilers-youre-welcome
+- type: twitter
+  url: https://twitter.com/roytang/statuses/495920050285838337/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153128432593912
 tags:
 - movies
 - backpost
@@ -209,6 +219,10 @@ Nitpicks from group chats:
 
 Guardians was a very funny and fun movie, but it's hard to say best Marvel movie so far, since I really liked Winter Soldier. And as a comic fan, I'm not that fond of how the Nova Corps was portrayed; I guess it's understandable since they're not the heroes here. There's a lot of stuff for comic fans to enjoy though
 
+<time id="93678023165">[2014-08-03 06:57] </time> <p>#GOTG spoilers. You&rsquo;re welcome.</p>
+
+{{< photos 93678023165 >}}
+
 #### Rurouni Kenshin: Kyoto Inferno (2014)
 
 <time>[2014-08-21 15:31] </time> I'm dissapointed! But let's see what happens in the third one
@@ -236,3 +250,4 @@ Interstellar spoiler-free review: Entertaining movie if you have a good suspensi
 #### Big Hero 6 (2014)
 
 <time>[2014-11-18 00:16] </time> Big Hero 6 spoiler-free review: Fun, light-hearted feel-good romp. Lots of good physical comedy with Baymax. Predictable plot (hey, it's a kid's movie, k?). There is a post-credits scene for some reason.
+

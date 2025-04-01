@@ -9,6 +9,7 @@ syndicated:
 tags:
 - weeknotes
 title: Weeknotes 2020-04-05
+dontinlinephotos: true
 ---
 
 My [COVID19 Diary](/2020/03/covid19/) is still ongoing, and I have yet to find a solution for the TOC.
@@ -26,6 +27,10 @@ I didn't get to write any new blog posts this week (other than the weeknotes). I
 Work has gotten a bit busier this week, as there are some things a client is asking me to do that he says are urgent, but really is little more than just saving them a bit of effort by automating stuff. I will say however that I'm amazed how strong his business still seems to be going, given they're an industry that I don't really consider essential. Still, more work is fine, as it helps distract me from the prevailing mood.
 
 We did two online quiz nights again. I even managed to win one of them! These are a fun distraction (even though there are no prizes!). 
+
+{{< photos geekfight >}}
+
+*(Photo c/o [Geekfight Trivia Night](https://www.facebook.com/photo/?fbid=10157324317988067&set=a.10157324317928067))**
 
 ---
 

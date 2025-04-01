@@ -10,6 +10,12 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/106709690975320093
 - type: twitter
   url: https://twitter.com/roytang/status/1423654534425944064/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/106708708900542133
+- type: twitter
+  url: https://twitter.com/roytang/status/1423591681861976066/
+- type: twitter
+  url: https://twitter.com/roytang/status/1423591683086688256/
 tags:
 - movies
 title: The Suicide Squad
@@ -17,7 +23,17 @@ title: The Suicide Squad
 
 First, the spoiler-free review:
 
-{{< note "2021/08/12cbfc5fe2bf124a832da481095c364b/" >}}
+On <time>[Aug. 6, 2021, 6:27 p.m.](https://twitter.com/roytang/status/1423654534425944064/)</time> I wrote: 
+
+> THE SUICIDE SQUAD spoiler-free review:
+> 
+> - great, fun, violent, hilarious, possibly best of DCEU so far
+> - trailers have spoiled waaaay too much of this movie
+> - first act was ok, second act felt a bit meh, third act was great
+> - hard to comment on actor performances without spoiling things, but Daniela Melchior was great and Idris Elba took the role seriously
+> - there is a post-credits scene
+> 
+> Full review on the blog later
 
 Second: I have to say, titling it "The Suicide Squad" is super annoying especially for anyone who does data processing/indexing, since "The" is what differentiates it from the 2016 word, and that's usually ignored in stuff like search engines and such. Oh well.
 

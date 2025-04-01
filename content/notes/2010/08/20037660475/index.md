@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/20037660475/
 - type: plurk
   url: https://plurk.com/p/6o8ddw
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/114908151894279
 tags:
 - sc2
 ---
