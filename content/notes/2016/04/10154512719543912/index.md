@@ -1,10 +1,11 @@
 ---
-date: 2016-04-05 19:06:00+08:00
+date: 2016-04-05 11:06:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154512719543912
-tags: []
+tags:
+- duterte
 ---
 
 By request, I did an informal survey among people in the neighborhood while I was out on my afternoon walk. Yes, nang-abala ako ng tao! Ang shy ko pa naman!
