@@ -15,6 +15,13 @@ syndicated:
   url: https://twitter.com/roytang/statuses/11543572743/
 tags:
 - mtg
+- standard
+- formernote
+title: GPT Manila
 ---
 
 Got my 3 byes for GP Manila in June! #mtg
+
+I went 6-0-1 in the Swiss with Jund, then won the semifinals after draft to clinch the byes!
+
+@ Studio Z Katipunan c/o Neutral Grounds
