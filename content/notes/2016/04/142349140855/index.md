@@ -12,6 +12,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/717709846678806529/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154515259443912
+tags:
+- threads
 ---
 
 <p><a class="tumblr_blog" href="http://unpretty.tumblr.com/post/142158892973">unpretty</a>:</p>

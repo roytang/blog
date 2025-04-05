@@ -10,6 +10,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10152880901788912
 tags:
 - mobile-uploads
+- gaming
+- psvita
 ---
 
 Last week's pickups (banana for scale)
