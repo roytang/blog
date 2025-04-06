@@ -1,6 +1,9 @@
 ---
-date: 2025-04-06T18:38:24+08:00
+date: 2025-04-06 10:38:24
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/114291306045049000
 tags:
 - weeknotes
 title: Weeknotes 2025-04-06 Switch 2 and Liberation Day
@@ -88,4 +91,3 @@ Upcoming/Recent releases of interest:
 - Apr30 Thunderbolts*
 
 Palm Sunday is next weekend!
-
