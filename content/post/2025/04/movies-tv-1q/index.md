@@ -603,3 +603,4 @@ The animation style and character design is a bit goofy (kinda reminds me of [Du
 ### What Next
 
 This entry turned out so long! I watched so much stuff! I need to think if this really needs to be a an every 3 months thing or just every 2 months so the posts don't get too long. Or maybe it depends on how much stuff I watched?
+
