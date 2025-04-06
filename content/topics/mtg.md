@@ -184,7 +184,7 @@ I know, I know this page layout could use a lot of work.
 | **Sep** | Theros | | |
 | **Jul** | Magic 2014 | | |
 | **May** | Dragon's Maze | | |
-| **Feb** | Gatecrash | [Prerelease](/2013/01/294968223756075009/) | [Apr WMCQ](/2013/04/320460449785204736/) |
+| **Feb** | Gatecrash | [Prerelease](/2013/01/294968223756075009/) | [Apr WMCQ](/2013/04/standard-wmcq-centris/) |
 | **2012** |
 | **Oct** | Return to Ravnica | | |
 | **Jul** | Magic 2013 | | |
@@ -203,7 +203,8 @@ I know, I know this page layout could use a lot of work.
 | **2009** |
 | **Oct** | Zendikar | [Prerelease](/2009/09/zendikar-prerelease-and-limited-impressions/) [Set Recap](/2009/12/zendikar/) | |
 | **Jul** | Magic 2010 | [Grand Prix Bangkok](/2009/08/grand-prix-bangkok/) [Set Recap](/2009/09/m10-set-recap/) | |
-| **Apr** | Alara Reborn | [Previews](/2009/04/alara-reborn-previews/) [Prerelease](/2009/05/alara-reborn-prerelease-for-real-this-time/) [Release](/2009/05/alara-reborn-release/) | [Regionals](/2009/05/regionals-2009-finest-hour-top-8/) (Standard - Finest Hour) |
+| **Jun** |  | | [Grand Prix Manila](/2010/06/grand-prix-manila/) |
+| **Apr** | Alara Reborn | [Previews](/2009/04/alara-reborn-previews/) [Prerelease](/2009/05/alara-reborn-prerelease-for-real-this-time/) [Release](/2009/05/alara-reborn-release/) | [GPT Manila](/2010/04/gpt-manila/) [Regionals](/2009/05/regionals-2009-finest-hour-top-8/) (Standard - Finest Hour) |
 | **Feb** | Conflux | [Prerelease](/2009/02/conflux-prerelease/) [Release](/2009/02/conflux-release-event/) | |
 | **2008** |
 | **Sep** | Shards of Alara | [Prerelease](/2008/09/shards-of-alara-prerelease/) [GPT Taipei I](/2008/10/gpt-taipei-i-top8/) [II](/2008/10/gpt-taipei-ii/) [Grand Prix Manila 2008](/2008/09/grand-prix-manila-day-one-report/) | |

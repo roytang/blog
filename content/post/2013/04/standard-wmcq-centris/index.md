@@ -1,6 +1,7 @@
 ---
-date: 2013-04-06 08:58:19+00:00
+date: 2013-04-06 08:58:19
 dontinlinephotos: true
+location: 4c529236384c76b0a0d0fc2a
 source: twitter
 syndicated:
 - type: twitter
@@ -14,7 +15,8 @@ syndicated:
 tags:
 - mtg
 - wmcq
-location: 4c529236384c76b0a0d0fc2a
+- formernote
+title: Standard WMCQ @ Centris
 ---
 
 Played a WMCQ at Neutral Grounds Eton Centris. Format was Standard. I was very unprepared, as I was only able to confirm I could play the day before. I put together a "weak junk reanimator" deck, I think it was something with Craterhoof Behemoth maybe? Probably similar to [this deck](https://mtgdecks.net/Standard/junk-reanimator-decklist-by-brad-nelson-47786) but issing some cards due to availability issues.

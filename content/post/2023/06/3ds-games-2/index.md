@@ -30,6 +30,10 @@ reviews:
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/110569637187545041
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10152879455218912:0
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10152879455098912
 tags:
 - gaming
 - 3ds
@@ -47,7 +51,7 @@ This is part 2 of reviewing every 3DS game I've played. Part 1 is [here](/2023/0
 
 Started playing: 2014/03/08
 
-Finished: [2014/04/06](/2014/04/10152879455218912-0/)
+Finished: 2014/04/06
 
 Total playtime: 74:04
 
@@ -55,9 +59,15 @@ Times played: 7
 
 Average Play Time: 10:34?!? WTH
 
+<time id="10152879455218912-0">[2014-04-06 01:50] </time> Finally! Pwede na mag move on lol
+
+{{< photos 10169375_10152879455098912_1744936552601517588_n_10152879455098912 >}}
+
+---
+
 Lol, I was surprised with that average playtime value when I was looking over the stats, but I assume it's because the 3DS sleep mode doesn't interrupt a session? Anyway, *Bravely Default* was a great old-school turn-based RPG that reminded me a lot of the earlier *Final Fantasy* games with it's job system and party of four protagonists you could shape as you will. I played the demo for this before it came out and enjoyed it. The game itself took a lot of time (I grinded to level 99!) and there is a bit of clever wordplay in the title screen once you've gotten far enough story-wise. 
 
-My only complaint is that most of the second half of the game (chapters 5-7) was unnecessarily and annoyingly repetitive. (["It's like if FF6 didn't have a World of Ruin"](/2014/05/ch967lj/)). I can understand why it was done story-wise, but wish it would have been implemented better.
+My only complaint is that most of the second half of the game (chapters 5-7) was unnecessarily and annoyingly repetitive. (["It's like if FF6 didn't have a World of Ruin"](https://www.reddit.com/r/3DS/comments/24oij1/comment/ch967lj/)). I can understand why it was done story-wise, but wish it would have been implemented better.
 
 {{% photos bravely %}}
 
@@ -154,3 +164,4 @@ Yes, the original game. This was [the first actual game I finished on the 3DS](/
 Whew, still a lot of words, but that should be it. My main takebacks from putting this together is (a) I really enjoyed the 3DS era even though I only spent [652 hours](/2022/02/1493818986571526146/resource/1493818986571526146_2_FLsbyVSUYAo3Xil.jpg/details/) total with it; and (b) there's a bunch of these games I wouldn't mind revisiting, if only I had more time. (The perpetual lament of those with too many backlogs.)
 
 I am thinking of doing a similar set of "retro review" posts for my PS3 games, which in theory I could reconstruct from achievement lists. The eventual goal would be to have my entire play history up on this site, although the SNES/PS1/PS2/NDS era would be challenging to find data on. We shall see!
+
