@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/717858118747557888/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154516310758912
+tags:
+- halalan2016
 ---
 
 If I were a presidential candidate, one of my promises would be to get rid of this summer heat. I can do it in 3-6 months!

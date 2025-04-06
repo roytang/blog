@@ -1,12 +1,13 @@
 ---
-date: 2016-04-07 13:11:00+08:00
-source: facebook
+date: 2016-04-07 05:11:00
 dontinlinephotos: true
+source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154516868733912
-tags: 
+tags:
 - bleah
+- duterte
 ---
 
 Ang sakit sa bangs. Not just yung posted na images, but even yung mga comments defending such behavior. Rampant examples of violent mentality, anti-intellectualism/smart-shaming, disrespect for women, and even poor grammar (sorry na, grammar nazi). To my pro-Duterte friends, please reassure me na hindi ganyan ang mga taga-Davao and that pinapaglitan nyo din ang mga supporters pag ganyan sila

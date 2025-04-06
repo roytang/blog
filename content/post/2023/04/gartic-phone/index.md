@@ -1,16 +1,17 @@
 ---
-date: 2023-04-07T22:40:02+08:00
+date: 2023-04-07 14:40:02
 resources:
 - src: cyclops.gif
-  title: 'Cyclops finding buried treasure (GIF)'
+  title: Cyclops finding buried treasure (GIF)
 - src: ducks.gif
-  title: 'Ten million ducks in a row visiting the queen (GIF)'
+  title: Ten million ducks in a row visiting the queen (GIF)
 - src: final_patch_of_the_dragon.gif
-  title: 'Final patch of the dragon (GIF)'
+  title: Final patch of the dragon (GIF)
 - src: mermaids.png
-  title: 'Lesbian mermaids having tea under a sakura tree'
+  title: Lesbian mermaids having tea under a sakura tree
 tags:
 - gaming
+- formernote
 title: Gartic Phone
 ---
 

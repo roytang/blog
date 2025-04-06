@@ -1,14 +1,15 @@
 ---
-title: "The Mandalorian S3"
-date: 2023-04-30T14:04:26+08:00
+date: 2023-04-30 06:04:26
+reviews:
+- description: So many Mandalorians
+  media: tv
+  rating: 4.0
+  title: The Mandalorian S3
 tags:
 - tv
 - starwars
-reviews:
-- title: The Mandalorian S3
-  description: So many Mandalorians
-  rating: 4.0
-  media: tv
+- formernote
+title: The Mandalorian S3
 ---
 
 This was an okay season with some interesting cameos. The ending brought Bo-Katan and Moff Gideon's story full circle and to a good conclusion and ending with Din Djarin and Grogu in a good spot for future adventures.
