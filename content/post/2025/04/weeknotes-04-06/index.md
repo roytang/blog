@@ -56,6 +56,12 @@ Google Fit tells me I walked 70,497 steps over the past week (Sunday to Saturday
 
 ### Links to Share
 
+- [What If We Made Advertising Illegal?](https://simone.org/advertising/)
+
+    > "I think there's a world where we'll look back on our advertising-saturated era with the same bewilderment with which we now regard cigarette smoke, child labor, or public executions: a barbaric practice that we allowed to continue far too long because we couldn't imagine an alternative."
+
+    I think outright making advertising illegal is obviously an exaggeration made for effect and unlikely to get anywhere and would be a nightmare to enforce. I could however imagine some limited form of regulation of things like targeted ads that might prove very useful
+    
 - [How to Change Your Meta Settings | Make yourself less valuable to Meta. Brought to you by Last Week Tonight with John Oliver.](https://johnoliverwantsyourraterotica.com/)
 
 - [I'm Tired of Pretending Tech is Making the World Better](https://www.joanwestenberg.com/im-tired-of-pretending-tech-is-making-the-world-better/)
