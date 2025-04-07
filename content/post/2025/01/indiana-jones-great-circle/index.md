@@ -10,7 +10,7 @@ resources:
 reviews:
 - description: ''
   media: games
-  platform: gamepass
+  platform: pcgamepass
   rating: 5.0
   title: Indiana Jones and the Great Circle
 syndicated:
