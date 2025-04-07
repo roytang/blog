@@ -1,7 +1,7 @@
 ---
 albums:
 - timeline
-date: 2016-04-08 12:23:00+08:00
+date: 2016-04-08 04:23:00
 source: facebook
 syndicated:
 - type: facebook
@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/718292020884844544/
 tags:
 - timeline-photos
+- webcomics
 ---
 
 Maybe people should try to discuss politics this way

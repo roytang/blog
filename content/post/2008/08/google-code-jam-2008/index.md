@@ -4,6 +4,7 @@ categories: []
 date: 2008-08-08 04:25:29
 tags:
 - Software Development
+- googlecodejam
 title: Google Code Jam 2008
 type: post
 url: /2008/08/google-code-jam-2008/

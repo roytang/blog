@@ -1,11 +1,12 @@
 ---
-date: 2020-04-07 19:40:46+00:00
+date: 2020-04-07 19:40:46
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1247610288272076800/
 tags:
 - avengersendgame
+- threads
 title: ''
 ---
 

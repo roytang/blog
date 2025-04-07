@@ -11,6 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155450133138912
 tags:
 - Software Development
+- googlecodejam
 title: Google Code Jam and Competitive Programming
 type: post
 url: /2017/03/google-code-jam-and-competitive-programming/
