@@ -2,18 +2,22 @@
 date: 2025-04-07 13:28:59
 resources:
 - src: Avowed 01_03_2025 2_39_01 pm.png
-  title: 'Each area has 3 of these of treasure map quests, I sometimes have a screenshot of one of these open on my second monitor when exploring.'
+  title: Each area has 3 of these of treasure map quests, I sometimes have a screenshot
+    of one of these open on my second monitor when exploring.
 - src: Avowed 20_03_2025 4_31_47 pm.png
-  title: 'Captain Tago!'
+  title: Captain Tago!
 - src: Avowed 28_03_2025 1_24_31 pm.png
-  title: 'Conversation'
+  title: Conversation
 - src: Screenshot 2025-04-07 225210.png
-  title: 'Game Pass stats'
+  title: Game Pass stats
 reviews:
 - media: games
   platform: pcgamepass
   rating: 4.0
   title: Avowed (PC Game Pass)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/114297391965427056
 tags:
 - gaming
 - games
