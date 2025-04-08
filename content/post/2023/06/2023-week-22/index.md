@@ -13,7 +13,7 @@ The first week of June was a little bit rainy, though not as much as a supertyph
 
 ### A Quote
 
-{{% note "2023/06/19c955ad22a67fda8f9e722d8a4547b2/" %}}
+{{% collections-embed quotes 19c955ad22a67fda8f9e722d8a4547b2 %}}
 
 ### My Week
 

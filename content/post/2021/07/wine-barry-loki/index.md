@@ -38,7 +38,13 @@ I started this late last week, and the season is only eight episodes but I only 
 
 Season finale ended earlier today. As noted above, there is a spoiler-free review: 
 
-{{% note "2021/07/1415238174377340930/" %}}
+On [<time>July 14, 2021, 5:14 p.m.</time>](https://twitter.com/roytang/status/1415238174377340930/) I wrote: 
+
+> Loki spoiler-free review:
+
+> - overall plot was fine, if not predictable, given what we knew about mcu phase 4 going in
+> - weak pacing and writing in most episodes; could have easily been a two hour movie instead of six one hour episodes
+> - good watch for mcu fans because of the larger phase 4 implications, but much weaker as a standalone series
 
 I think overall, the plot of Loki delving into the truth behind the TVA and eventually causing the return of the multiverse was entirely predictable given the series' premise and what we knew of the larger MCU even before the series aired. The whole thing is even telegraphed completely in the first episode: removing the TVA means multiversal war; we are told the stakes from the very beginning and nothing really changes in that regard even up to the final episode and the reveal of who was actually behind the TVA.
 

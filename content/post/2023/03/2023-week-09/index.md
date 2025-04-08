@@ -17,7 +17,7 @@ title: 2023 Week 09
 
 ### A Quote
 
-{{% note "2023/03/7ef1524a8832ef0ef67e55622cdfb33c/" %}}
+{{% collections-embed quotes 7ef1524a8832ef0ef67e55622cdfb33c %}}
 
 ### My Week
 
