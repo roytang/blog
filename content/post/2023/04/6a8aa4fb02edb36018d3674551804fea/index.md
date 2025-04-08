@@ -9,6 +9,7 @@ syndicated:
 tags:
 - flipboard
 - tech-life
+- formernote
 title: Twitter cuts off Flipboard
 ---
 

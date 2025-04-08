@@ -24,6 +24,8 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/103964519600784816
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/103964520894772473
+tags:
+- formernote
 title: I miss being able to set my status
 ---
 
