@@ -43,6 +43,8 @@
       "highlight": "default",
       "location": "Philippines",
       "locationlink": "/tags/philippines",
-      "rss": true
+      "rss": true,
+      "blogroll_url": "/blogroll/opml/",
+      "manifest_url": "/static/manifest.webmanifest"
     }
 }

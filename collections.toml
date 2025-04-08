@@ -80,6 +80,9 @@ canonifyURLs = true
     # Leave unset to fall back to default hugo highlighter instead of highlight.js
     highlight = "default"
 
+    fediverse = "@roytang@indieweb.social"
+    blogroll_url = "/blogroll/opml/"
+    manifest_url = "/static/manifest.webmanifest"
 
 [blackfriday]
     angledQuotes = false
