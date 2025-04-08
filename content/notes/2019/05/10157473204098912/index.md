@@ -1,5 +1,5 @@
 ---
-date: 2019-05-25 02:30:00+08:00
+date: 2019-05-24 18:30:00
 dontinlinephotos: true
 repost_source:
   name: Larry O'Brien
@@ -11,6 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10157473204098912
 tags:
 - fbreposts08
+- threads
 ---
 
 <div class="bp" data-ft='{"tn":"*s"}' style="">

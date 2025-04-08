@@ -121,7 +121,8 @@
         },
         {
             "Name": "Everything",
-            "URL_name": "posts_all"
+            "URL_name": "posts_all",
+            "login_required": true
         }
     ],
     "follows": [
