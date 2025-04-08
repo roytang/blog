@@ -8,6 +8,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1351056807565922304/
 tags:
 - survey
+- '2021'
 title: 2020 movie survey
 ---
 

@@ -12,6 +12,7 @@ syndicated:
   url: https://www.instagram.com/p/B-LITtKB_wO/
 tags:
 - survey
+- '2020'
 title: ''
 ---
 

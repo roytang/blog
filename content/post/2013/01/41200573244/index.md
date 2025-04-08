@@ -2,7 +2,7 @@
 date: 2013-01-22 16:29:10
 reviews:
 - media: books
-  title: A Memory of Time by Robert Jordan and Brandon Sanderson
+  title: A Memory of Light by Robert Jordan and Brandon Sanderson
 source: tumblr
 syndicated:
 - type: tumblr

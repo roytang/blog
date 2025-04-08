@@ -10,6 +10,7 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/104026359412824613
 tags:
 - survey
+- '2020'
 title: ''
 ---
 

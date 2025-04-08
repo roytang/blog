@@ -8,6 +8,7 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/101580239461673646
 tags:
 - survey
+- '2019'
 ---
 
 Stickers on your laptop: yay or nay?

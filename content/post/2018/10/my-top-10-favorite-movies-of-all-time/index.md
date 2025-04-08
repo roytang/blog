@@ -54,7 +54,9 @@ This started as one of those silly Facebook memes where you post one thing every
 
 2. **Star Wars**
 
-    {{% note "2016/05/BE_Nl5xMoD8/" %}}
+    {{% collections-embed sketchbook BE_Nl5xMoD8 %}}
+
+
 
     (I cheated a bit here by recycling a drawing I did from 2016)
 

@@ -30,6 +30,7 @@ syndicated:
 tags:
 - software-development
 - googlecodejam
+- backpost
 title: Google Code Jam 2010
 ---
 

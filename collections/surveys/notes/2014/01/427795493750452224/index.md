@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10152751380803912
 tags:
 - survey
+- '2014'
 ---
 
 Does anybody *not* skip Youtube ads as soon as possible?

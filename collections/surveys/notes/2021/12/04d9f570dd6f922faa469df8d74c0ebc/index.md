@@ -8,6 +8,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1475081632109367297/
 tags:
 - survey
+- '2021'
 title: ''
 ---
 

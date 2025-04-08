@@ -24,7 +24,7 @@ I also read that a privacy consultant has [brought charges against YT in Europe 
 
 I didn't used to have an adblocker, at least 10 years ago I didn't, I just immediately went for the skip button:
 
-{{% note "/2014/01/427795493750452224/" %}}
+{{% collections-embed surveys 427795493750452224 %}}
 
 But these days Youtube ads are super obnoxious, many of them are unskippable and you get so many, sometimes two ads for a video that's only a few minutes long. It's super annoying and no wonder that more and more people are using ad blockers. It's all part of the platform's enshittification!
 

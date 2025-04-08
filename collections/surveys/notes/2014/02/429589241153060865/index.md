@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10152761029183912
 tags:
 - survey
+- '2014'
 ---
 
 Survey: Have you already failed your New Year's Resolutions? PROTIP: You can make another one for Chinese New Year!
