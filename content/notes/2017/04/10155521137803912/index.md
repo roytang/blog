@@ -1,5 +1,5 @@
 ---
-date: 2017-04-10 16:15:00+08:00
+date: 2017-04-10 08:15:00
 dontinlinephotos: true
 source: facebook
 syndicated:
@@ -7,6 +7,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155521137803912
 tags:
 - fbreposts06
+- phpuns
 ---
 
 Natawa ako
