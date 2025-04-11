@@ -1,5 +1,5 @@
 ---
-date: 2025-04-12T00:43:04+08:00
+date: 2025-04-11 16:43:04
 dontinlinephotos: true
 resources:
 - src: blb-7-carrot-cake.jpg
@@ -10,13 +10,16 @@ resources:
   title: Bloomburrow Arena Stats Email
 - src: blbtrophy.jpg
   title: My one Bloomburrow draft trophy (BG)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/114320661515665568
 tags:
 - mtg
 - limited
 - magicarena
 - limitedrecap
 - mtgsetrecap
-title: "MTG: Aetherdrift"
+title: 'MTG: Aetherdrift'
 toc: true
 ---
 
