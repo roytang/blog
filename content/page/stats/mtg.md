@@ -78,8 +78,9 @@ In March 2022, I made a "limited recap" post for Kamigawa Neon Dynasty, collatin
 
 | Set | Recap Date | Events | Win | Loss | Total | Winrate |
 | --- | --- | --- | --- | --- | --- |  --- | 
-| ALL | Feb 2025  | 431 | 1418 | 1190 | 2608 | 0.5437 |
-| [Foundations](/2025/02/foundations/) | Feb 2025 | 12 | 35 | 33 | 68 | 0.5147 |
+| ALL | Apr 2025   | 452 | 1498 | 1251 | 2749 | 0.5449 |
+| [Aetherdrift](/2025/04/mtg-aetherdrift/) | Apr 2025 | 21 | 80 | 61 | 141 | 0.5674 |
+| [Foundations](/2025/02/mtg-foundations/) | Feb 2025 | 12 | 35 | 33 | 68 | 0.5147 |
 | [Duskmourn](/2024/11/duskmourn/) | Nov 2024 | 18 | 59 | 51 | 110 | 0.5364 |
 | [Bloomburrow](/2024/10/bloomburrow/) | Oct 2024 | 12 | 42 | 35 | 77 | 0.5455 |
 | [Modern Horizons 3](/2024/07/mtgmh3-set-recap/) | Jul 2024 | 13 | 42 | 36 | 78 | 0.5385 |

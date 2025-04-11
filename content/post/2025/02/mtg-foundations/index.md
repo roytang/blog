@@ -19,7 +19,7 @@ tags:
 - magicarena
 - limitedrecap
 - mtgsetrecap
-title: MTG Foundations
+title: "MTG: Foundations"
 toc: true
 ---
 

@@ -16,7 +16,7 @@ Monday weeknotes are here to stay apparently.
 
 ### A Quote
 
-{{% collections-embed quotes 216c2e4b3e9bcba532fda6abbb757197/ %}}
+{{< collections-embed quotes 216c2e4b3e9bcba532fda6abbb757197 >}}
 
 ### The World
 
