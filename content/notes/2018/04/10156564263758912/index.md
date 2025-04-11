@@ -1,5 +1,5 @@
 ---
-date: 2018-04-11 09:17:00+08:00
+date: 2018-04-11 01:17:00
 dontinlinephotos: true
 repost_source:
   name: The Artidote
@@ -11,6 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156564263758912
 tags:
 - fbreposts09
+- threads
 ---
 
 "Yesterday my dad told me something that I think maybe more people need to hear:

@@ -13,3 +13,14 @@ tags:
 ---
 
 I'm at Amici (San Juan, Metro Manila) http://4sq.com/IGLGRC
+
+Jason's misleading category names for the night:
+
+1. Hint Hint (Name the series grouping of the 3 given partial examples. (ex. Identity, Legacy, Supremacy = The Bourne Trilogy))
+2. For Real? (Reality shows)
+3. Everything Counts
+4. That's what she said!
+5. Made in Japan! (Pictures category)
+6. There's a Way
+7. One and Only (Audio category)
+8. Bad to the Bone

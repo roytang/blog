@@ -1,5 +1,6 @@
 ---
-date: 2020-04-11 10:59:03+00:00
+date: 2020-04-11 10:59:03
+dontinlinephotos: true
 source: twitter
 syndicated:
 - type: twitter
@@ -10,8 +11,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10158355714413912
 tags:
 - AI画伯
+- profilepics
 title: ''
-dontinlinephotos: true
 ---
 
 I had my portrait with AI Gahaku!

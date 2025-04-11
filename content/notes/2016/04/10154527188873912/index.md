@@ -1,12 +1,14 @@
 ---
-date: 2016-04-11 23:36:00+08:00
+date: 2016-04-11 15:36:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154527188873912
 - type: twitter
   url: https://twitter.com/roytang/statuses/719550276928012288/
-tags: []
+tags:
+- halalan2016
+- philippines
 ---
 
 A modern day parable for the Philippines:

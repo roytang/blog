@@ -1,10 +1,11 @@
 ---
-title: "Explorer Metagame Challenge"
-date: 2023-04-12T11:38:33+08:00
+date: 2023-04-12 03:38:33
 tags:
 - mtg
 - magicarena
 - explorer
+- formernote
+title: Explorer Metagame Challenge
 ---
 
 Did a few runs on the Explorer Metagame challenge on Arena with a couple of different decks:
