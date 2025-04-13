@@ -4,6 +4,8 @@ dontinlinephotos: true
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/114304706206109742
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/114329173622171562
 tags:
 - weeknotes
 title: Weeknotes 2025-04-13
