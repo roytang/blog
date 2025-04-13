@@ -15,7 +15,9 @@ tags:
 title: 2023 Week 17
 ---
 
-April is ending, [it's gonna be May](/2018/04/10156605440438912/), hopefully bringing us nearer to an end to this unforgiving summer heat. This month's Meralco bill is the highest since May 2020 (I have no idea what happened at that time), so some relief would be nice.
+{{< photos may >}}
+
+April is ending, it's gonna be May, hopefully bringing us nearer to an end to this unforgiving summer heat. This month's Meralco bill is the highest since May 2020 (I have no idea what happened at that time), so some relief would be nice.
 
 ### My Week
 

@@ -9,6 +9,8 @@ syndicated:
   url: https://indieweb.social/users/roytang/statuses/110192695536966167
 - type: twitter
   url: https://twitter.com/roytang/status/1646566830247653378/
+tags:
+- quizzes
 title: My PH Travel Level Map
 ---
 
