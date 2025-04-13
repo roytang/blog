@@ -26,7 +26,7 @@ tags:
 title: 'Reviews: Die Another Day, Army of the Dead, Valerian, Superstore, Omelas'
 ---
 
-I used to do these ["Watching Lately" posts](/tags/watching-lately) to talk about movies/tv/books I'd recently consumed, but for a while I folded up the reviews into the [weeknotes](/tags/weeknotes) and sometimes via short [notes](/notes) but the reviews have been getting longer so I guess I'm bring the "Watching Lately" tag and series of posts back.
+I used to do these ["Watching Lately" posts](/tags/watching-lately) to talk about movies/tv/books I'd recently consumed, but for a while I folded up the reviews into the [weeknotes](/blog/tags/weeknotes) and sometimes via short [notes](/notes) but the reviews have been getting longer so I guess I'm bring the "Watching Lately" tag and series of posts back.
 
 ### Die Another Day (2002)
 

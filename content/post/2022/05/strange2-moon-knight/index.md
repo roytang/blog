@@ -24,7 +24,7 @@ tags:
 title: 'MCU Reviews: Doctor Strange and the Multiverse of Madness, Moon Knight'
 ---
 
-I've been putting my media reviews in the [weeknotes](/tags/weeknotes/) but I felt like these two reviews would be long enough to justify a separate post.
+I've been putting my media reviews in the [weeknotes](/blog/tags/weeknotes/) but I felt like these two reviews would be long enough to justify a separate post.
 
 I posted spoiler-free reviews the other day, added them into this post below. This post will have unmarked spoilers.
 

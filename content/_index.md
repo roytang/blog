@@ -9,7 +9,7 @@ I'm a freelance software developer, solution architect, and technical consultant
 
 Posts: [blog](/blog/), [notes](/notes/), [links](/links/).
 
-Topics: [software development](/tags/software-development/), [Magic the Gathering](/tags/mtg/), [gaming](/tags/gaming), [tech life](/tags/tech-life/), [weeknotes](/tags/weeknotes/), and [more](/tags/).
+Topics: [software development](/tags/software-development/), [Magic the Gathering](/tags/mtg/), [gaming](/tags/gaming), [tech life](/tags/tech-life/), [weeknotes](/blog/tags/weeknotes/), and [more](/tags/).
 
 Media diet: [books](/reviews/books/), [movies](/reviews/movies), [tv](/reviews/tv), and [games](/reviews/games).
 

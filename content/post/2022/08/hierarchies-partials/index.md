@@ -84,7 +84,7 @@ I wasn't able to get this to work with Hugo because there's no way to access tho
 
 Another use case: In my current site, I often want to be able to handle "partial" posts, i.e. shorter posts that are individually addressable but are also part of larger posts. 
 
-For example: I often write reviews of movies, tv shows, books, games I've recently consumed, and I have [some media pages that index the reviews](/reviews/movies) and link to the individual review pages. But sometimes like in my [weeknotes](/tags/weeknotes) I'll have a bunch of short reviews at once. When that happens, the index points to the review in the larger weeknotes page, but it's a bit weird to be loading the entire page, when I could just be loading the part of the content that contains the specific review.
+For example: I often write reviews of movies, tv shows, books, games I've recently consumed, and I have [some media pages that index the reviews](/reviews/movies) and link to the individual review pages. But sometimes like in my [weeknotes](/blog/tags/weeknotes) I'll have a bunch of short reviews at once. When that happens, the index points to the review in the larger weeknotes page, but it's a bit weird to be loading the entire page, when I could just be loading the part of the content that contains the specific review.
 
 I also often want to be able to view partial content by tags: for example, if I wanted to view all posts tagged "movies", it would include many of the weeknotes (since many of them have movie reviews), but that increases the amount of text I need to look at and not all of it is relevant to the search. If I wanted to say, tag all the book posts by a specific author, I risk including in the tag other reviews in the same file.
 

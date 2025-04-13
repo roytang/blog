@@ -12,7 +12,7 @@ title: 2021 Year in Review
 toc: true
 ---
 
-This is a personal year in review. For a moment I thought about talking about events that happened this year, like sea shanties or stuck boats or the Olympics, but I guess that kind of thing doesn't belong in a year-in-review, so you can check [my weeknotes](/tags/weeknotes) for that kind of thing. You can also check the [yearnotes tag](/tags/yearnotes) for previous years-in-review.
+This is a personal year in review. For a moment I thought about talking about events that happened this year, like sea shanties or stuck boats or the Olympics, but I guess that kind of thing doesn't belong in a year-in-review, so you can check [my weeknotes](/blog/tags/weeknotes) for that kind of thing. You can also check the [yearnotes tag](/tags/yearnotes) for previous years-in-review.
 
 ### Essay-writing section
 

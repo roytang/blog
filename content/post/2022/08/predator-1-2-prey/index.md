@@ -36,7 +36,7 @@ tags:
 title: 'Movies: Predator (1987), Predator 2 (1990), Prey (2022)'
 ---
 
-This week I decided to be unproductive and just watch a bunch of movies. To avoid flooding the [weeknotes](/tags/weeknotes/), I'm writing the reviews as separate posts again!
+This week I decided to be unproductive and just watch a bunch of movies. To avoid flooding the [weeknotes](/blog/tags/weeknotes/), I'm writing the reviews as separate posts again!
 
 ### Predator (1987)
 

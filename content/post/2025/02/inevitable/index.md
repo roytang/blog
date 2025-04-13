@@ -6,7 +6,7 @@ syndicated:
 title: Inevitable
 ---
 
-A few days ago, someone in our household passed away. In the past couple of months of [weeknotes](/tags/weeknotes/) I have referred to her as "Patient#3" to avoid disclosing personal details. She is not a relative, but she has been working and living with our family for the better part of 30 years (estimated), so we pretty much grew up wtih her around the household, making her practically family. Needless to say she will be missed.
+A few days ago, someone in our household passed away. In the past couple of months of [weeknotes](/blog/tags/weeknotes/) I have referred to her as "Patient#3" to avoid disclosing personal details. She is not a relative, but she has been working and living with our family for the better part of 30 years (estimated), so we pretty much grew up wtih her around the household, making her practically family. Needless to say she will be missed.
 
 The disease came at her rapidly over the past few months, but her passing came as no surprise as she had surrendered to the disease a couple of weeks ago. When numerous consultations with doctors made it clear any treatment was only going to be palliative and not curative and that she wasn't even in any condition to travel home to the province, she refused further rounds of chemo. 
 

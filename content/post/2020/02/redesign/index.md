@@ -13,7 +13,7 @@ tags:
 title: Redesign
 ---
 
-During recent [weeknotes](/tags/weeknotes) I've mentioned that I've been working on a site redesign. The planned redesign had three objectives, more or less:
+During recent [weeknotes](/blog/tags/weeknotes) I've mentioned that I've been working on a site redesign. The planned redesign had three objectives, more or less:
 
 1. Rework the navigation links so that new pages like the blogroll etc were more easily accessible.
 2. Make the homepage less messy and highlight blog posts more. The previous "stream of everything" home page mixed the blog posts in with everything else like the notes, and photos and links.

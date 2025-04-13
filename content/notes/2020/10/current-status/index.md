@@ -28,4 +28,4 @@ tags:
 - I'm working on multiple personal projects, most of which I don't want to talk about. The only public one is this website/blog. I write as often as I can and am constantly trying to update this site to make it better or more to my liking.
 - I still do a lot of gaming
 - Quiz team does online [quiz nights](/2013/03/scenes-from-a-quiz-night/), a few times a month
-- Check the [weeknotes](/tags/weeknotes) for regular updates.
+- Check the [weeknotes](/blog/tags/weeknotes) for regular updates.

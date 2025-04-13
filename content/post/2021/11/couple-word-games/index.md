@@ -12,7 +12,7 @@ tags:
 title: A Couple Of Word Games
 ---
 
-I've mentioned this before on the [weeknotes](/tags/weeknotes/), but a couple of months ago I availed of a New York Times games subscription, mostly for access to the NYT crosswords, since the trivia team have been enjoying some coop crossword nights over Discord.
+I've mentioned this before on the [weeknotes](/blog/tags/weeknotes/), but a couple of months ago I availed of a New York Times games subscription, mostly for access to the NYT crosswords, since the trivia team have been enjoying some coop crossword nights over Discord.
 
 Aside from the NYT crossword, the subscription also gives us access to some other games. The other one we've been enjoying so far is the [NYT Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee).
 

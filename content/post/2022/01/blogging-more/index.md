@@ -10,7 +10,7 @@ tags:
 title: Blogging More
 ---
 
-I keep telling myself I should write on the blog more. Other than the regular [weeknotes](/tags/weeknotes/) and [reviews](/lists/media/movies/) that is. 
+I keep telling myself I should write on the blog more. Other than the regular [weeknotes](/blog/tags/weeknotes/) and [reviews](/lists/media/movies/) that is. 
 
 It's not like I don't have stuff to write about - I actually have a list of "blog post ideas" that's around 200+ items long. Not to mention random discussions and interesting things I run into throughout the day.
 

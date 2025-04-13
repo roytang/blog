@@ -9,7 +9,7 @@ tags:
 title: You Can Write About Anything
 ---
 
-I was thinking about how recently (other than the [weeknotes](/tags/weeknotes/)), my blog posts have been mostly reviews of stuff I've been watching/playing/reading/etc and I haven't made any posts about blogging or tech stuff or that sort of thing that I used to write about a decent amount. I was wondering if this was a problem, but then realized this was silly. It's my site and my blog and I can publish any kind of content that I want!
+I was thinking about how recently (other than the [weeknotes](/blog/tags/weeknotes/)), my blog posts have been mostly reviews of stuff I've been watching/playing/reading/etc and I haven't made any posts about blogging or tech stuff or that sort of thing that I used to write about a decent amount. I was wondering if this was a problem, but then realized this was silly. It's my site and my blog and I can publish any kind of content that I want!
 
 A common question when you suggest someone start blogging is "What would I even write about?" and the answer is simply "You can write anything you want!" 
 
