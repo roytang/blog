@@ -1,5 +1,5 @@
 ---
-date: 2017-11-22 15:17:00+08:00
+date: 2017-11-22 07:17:00
 dontinlinephotos: true
 source: facebook
 syndicated:
@@ -7,6 +7,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156204273068912
 tags:
 - fbreposts06
+- puns
 ---
 
 (Justice League spoilers)

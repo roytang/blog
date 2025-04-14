@@ -1,5 +1,5 @@
 ---
-date: 2017-09-12 11:30:00+08:00
+date: 2017-09-12 03:30:00
 dontinlinephotos: true
 source: facebook
 syndicated:
@@ -7,6 +7,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156026347328912
 tags:
 - fbreposts06
+- puns
 ---
 
 pang oldies na joke!
