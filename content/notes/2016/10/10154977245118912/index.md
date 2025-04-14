@@ -1,5 +1,5 @@
 ---
-date: 2016-10-09 06:31:00+08:00
+date: 2016-10-08 22:31:00
 dontinlinephotos: true
 source: facebook
 syndicated:
@@ -7,6 +7,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154977245118912
 tags:
 - fbreposts05
+- duterte
 ---
 
 This happened yesterday in broad daylight, just outside a friend's house. 

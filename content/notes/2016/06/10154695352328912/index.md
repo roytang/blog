@@ -1,5 +1,5 @@
 ---
-date: 2016-06-24 20:22:00+08:00
+date: 2016-06-24 12:22:00
 dontinlinephotos: true
 source: facebook
 syndicated:
@@ -7,6 +7,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154695352328912
 tags:
 - fbreposts05
+- brexit
 ---
 
 Basically: misguided electorate led to their doom by lies and propaganda. There's also been a hint of anti-intellectualism at play with some of the pro-Leave side claiming that Britain "has had enough of experts" Seems to be a trend lately. If the trend holds we'll also see Trump winning the US presidency later this year

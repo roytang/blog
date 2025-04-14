@@ -1,5 +1,5 @@
 ---
-date: 2016-05-01 15:30:00+08:00
+date: 2016-05-01 07:30:00
 dontinlinephotos: true
 source: facebook
 syndicated:
@@ -7,6 +7,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154570017683912
 tags:
 - fbreposts05
+- phpuns
 ---
 
 I'll be honest, kumanta ako haha

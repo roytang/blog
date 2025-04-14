@@ -1,5 +1,5 @@
 ---
-date: 2016-05-04 01:44:00+08:00
+date: 2016-05-03 17:44:00
 dontinlinephotos: true
 source: facebook
 syndicated:
@@ -7,6 +7,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154575246803912
 tags:
 - fbreposts05
+- halalan2016
+- philippines
 ---
 
 Any friends working in the education system who can give some insights as to why the martial law abuses are not highlighted in schools? 

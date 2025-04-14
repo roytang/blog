@@ -1,5 +1,5 @@
 ---
-date: 2016-06-16 00:04:00+08:00
+date: 2016-06-15 16:04:00
 dontinlinephotos: true
 source: facebook
 syndicated:
@@ -8,6 +8,7 @@ syndicated:
 tags:
 - fbreposts05
 - meritocracy
+- duterte
 ---
 
 #meritocracy

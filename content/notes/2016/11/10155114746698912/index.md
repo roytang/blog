@@ -1,5 +1,5 @@
 ---
-date: 2016-11-23 18:04:00+08:00
+date: 2016-11-23 10:04:00
 dontinlinephotos: true
 source: facebook
 syndicated:
@@ -8,6 +8,7 @@ syndicated:
 tags:
 - fbreposts05
 - fbclidcleanup
+- halalan2016
 ---
 
 Here's something that might interest Marcos supporters. At least those with an open mind. After all, we should at least be able to agree that reviewing the reliability of your sources is a good idea right?

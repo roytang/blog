@@ -1,5 +1,5 @@
 ---
-date: 2017-08-17 04:35:54+00:00
+date: 2017-08-17 04:35:54
 repost_source:
   name: SamHulick
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/898040668315987968/
+tags:
+- tolerance
 ---
 
 A handy dandy infographic explaining why tolerance has a limit. (it's kinda common sense)

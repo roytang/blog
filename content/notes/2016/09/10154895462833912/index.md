@@ -1,5 +1,5 @@
 ---
-date: 2016-09-10 10:17:00+08:00
+date: 2016-09-10 02:17:00
 dontinlinephotos: true
 source: facebook
 syndicated:
@@ -7,6 +7,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154895462833912
 tags:
 - fbreposts05
+- duterte
 ---
 
 Lol, Ok sana yung kinukutya ang accuracy ng media kasi dapat talaga nirerequire natin na maging accurate sila, pero sana naman maging accurate din yung pagkutya, otherwise lokohan lang e. 

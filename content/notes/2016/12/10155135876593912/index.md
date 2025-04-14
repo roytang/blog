@@ -1,5 +1,5 @@
 ---
-date: 2016-12-01 21:50:00+08:00
+date: 2016-12-01 13:50:00
 dontinlinephotos: true
 source: facebook
 syndicated:
@@ -7,6 +7,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155135876593912
 tags:
 - fbreposts05
+- duterte
 ---
 
 This would be so much more useful if we could actually trust the police to follow their own rules though. Am glad I don't drive, it's less of a hassle for me.

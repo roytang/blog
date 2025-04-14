@@ -1,5 +1,5 @@
 ---
-date: 2016-10-10 15:46:00+08:00
+date: 2016-10-10 07:46:00
 dontinlinephotos: true
 source: facebook
 syndicated:
@@ -7,6 +7,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154981258608912
 tags:
 - fbreposts05
+- duterte
 ---
 
 Looks like Rappler's series on social media manipulation has hit a nerve. Also some relevant text from another of Maria Ressa's posts: 

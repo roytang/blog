@@ -1,5 +1,5 @@
 ---
-date: 2016-05-04 13:50:00+08:00
+date: 2016-05-04 05:50:00
 dontinlinephotos: true
 source: facebook
 syndicated:
@@ -7,6 +7,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154576323798912
 tags:
 - fbreposts05
+- duterte
 ---
 
 I was going to post this together with the survey I just posted, but I thought it might be a good idea to separate it. This explains why I made the survey in the first place. (Link to the survey: https://www.facebook.com/stephen.roy.tang/posts/10154576312758912)

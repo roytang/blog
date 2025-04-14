@@ -1,5 +1,5 @@
 ---
-date: 2016-11-12 13:27:00+08:00
+date: 2016-11-12 05:27:00
 dontinlinephotos: true
 source: facebook
 syndicated:
@@ -8,6 +8,7 @@ syndicated:
 tags:
 - fbreposts05
 - fbclidcleanup
+- duterte
 ---
 
 Political horse trading is not one of the things that would change apparently

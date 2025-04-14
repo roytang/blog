@@ -1,5 +1,5 @@
 ---
-date: 2017-08-13 17:21:32+00:00
+date: 2017-08-13 17:21:32
 repost_source:
   name: RonJeffries
   type: twitter
@@ -10,6 +10,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/896783795419873281/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155950152938912
+tags:
+- tolerance
 title: ''
 ---
 

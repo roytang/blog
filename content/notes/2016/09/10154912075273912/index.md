@@ -1,5 +1,5 @@
 ---
-date: 2016-09-16 09:37:00+08:00
+date: 2016-09-16 01:37:00
 dontinlinephotos: true
 source: facebook
 syndicated:
@@ -7,6 +7,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154912075273912
 tags:
 - fbreposts05
+- duterte
 ---
 
 The image shared in the post below feels to me like it might be thinly-veiled propaganda designed to condition people into demonizing the press and suppressing freedom of expression (APC isn't the only one who can cite conspiracy theories)

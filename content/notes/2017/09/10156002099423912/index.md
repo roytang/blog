@@ -1,5 +1,5 @@
 ---
-date: 2017-09-02 23:19:00+08:00
+date: 2017-09-02 15:19:00
 dontinlinephotos: true
 repost_source:
   name: Ivan Lanuza
@@ -11,6 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156002099423912
 tags:
 - fbreposts09
+- duterte
 ---
 
 Sorry for an early week political post...but I just have to say that Duterte’s strategist is amazing after seeing this photo.

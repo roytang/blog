@@ -1,5 +1,5 @@
 ---
-date: 2016-08-18 15:55:00+08:00
+date: 2016-08-18 07:55:00
 dontinlinephotos: true
 source: facebook
 syndicated:
@@ -7,6 +7,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154831594428912
 tags:
 - fbreposts05
+- duterte
 ---
 
 Onga naman, sino ba naman ang may gusto ng pineapple sa pizza?!?
