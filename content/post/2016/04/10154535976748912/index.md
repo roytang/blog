@@ -5,7 +5,12 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154535976748912
-tags: []
+tags:
+- philippines
+- crime
+- statistics
+- formernote
+title: Comparing crime rates between US and PH
 ---
 
 I was viewing some speeches by presidential candidates for the US elections and one thing that struck me was that crime / law and order was not an election issue for them (it's never mentioned in the speeches) whereas here people seem to consider it to be really important (I personally don't; I mean, it would be better if there were less crime, but I think we have far more important concerns to address such as poverty, corruption, judicial reform, education, etc). I wondered if the United States had significantly less crime than we do such that it isn't a national concern. So I decided to check out some statistics.

@@ -6,4 +6,6 @@ syndicated:
   url: https://roytang.tumblr.com/post/4620407784
 - type: twitter
   url: https://twitter.com/roytang/statuses/58691174977904640/
+tags:
+- webcomics
 ---

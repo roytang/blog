@@ -8,6 +8,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1250134294392999936/
 tags:
 - indieweb
+- formernote
 title: Indieweb search
 ---
 

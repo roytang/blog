@@ -1,5 +1,5 @@
 ---
-date: 2023-04-16 15:43:16+00:00
+date: 2023-04-16 15:43:16
 dontinlinephotos: true
 repost_source:
   name: beatonna
@@ -12,6 +12,8 @@ syndicated:
 tags:
 - beatonna
 - reposts
+- webcomics
+- startrek
 ---
 
 My brother in law gets up early with the baby and has been going through Deep Space Nine so I also have 

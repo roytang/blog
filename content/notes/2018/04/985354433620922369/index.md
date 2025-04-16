@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/985354433620922369/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156573181588912
+tags:
+- gaming
 ---
 
 I started playing the Witcher 2 (obviously you have to play the series in reverse order). I got like 50 game overs in the prologue. A different age.

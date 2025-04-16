@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/191135846383091712/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10151450956173912
+tags:
+- onepiece
 ---
 
 One Piece marathon...though I wish I had a way to play PC games while watching
