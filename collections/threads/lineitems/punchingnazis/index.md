@@ -8,7 +8,9 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://roytang.tumblr.com/post/156344378580/wilwheaton-imathers-maxofs2d-sorry-about
-title: Anthony Oliveira on Punching Nazis
+title: 'Anthony Oliveira : Punching Nazis'
+tags:
+- nazis
 ---
 
 *(via [wilwheaton](https://wilwheaton.tumblr.com/post/156321126119/imathers-maxofs2d-sorry-about-this-being-in))*
