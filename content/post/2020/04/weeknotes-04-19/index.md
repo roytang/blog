@@ -15,11 +15,14 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/104024152750462417
 - type: twitter
   url: https://twitter.com/roytang/statuses/1251780089227825152/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1249619162491543552/
 tags:
 - weeknotes
 - movies
 - tv
 title: Weeknotes 2020-04-19
+dontinlinephotos: true
 ---
 
 This week went by quickly, for some reason. And despite the fact that it's summer, the rains have started coming in early, although only sporadically. inb4 "the world is healing"
@@ -60,6 +63,10 @@ I also thought about buying one of the Jackbox party packs so I could play onlin
 
 Divinity: Original Sin 2 is still my current ongoing RPG. Haven't been playing it too often, but making some progress. 
 
+<time id="1249619162491543552">[2020-04-13 16:43] </time> Gamer quarantine woes:
+
+{{< photos datablitz >}}
+
 ---
 
 Site updates: 
@@ -70,3 +77,4 @@ Site updates:
 ---
 
 I have no idea what to expect in the weeks to come. The future is so uncertain.
+

@@ -6,6 +6,8 @@ source: roywantsmeat
 syndicated:
 - type: blogger
   url: https://roywantsmeat.blogspot.com/2004/10/taxi-tales.html
+tags:
+- taxi-tales
 title: Taxi Tales
 type: post
 url: /2004/10/taxi-tales/

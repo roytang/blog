@@ -1,5 +1,5 @@
 ---
-date: 2022-04-17 11:05:53+00:00
+date: 2022-04-17 11:05:53
 dontinlinephotos: true
 repost_source:
   name: briancollins1
@@ -11,6 +11,8 @@ syndicated:
   url: https://twitter.com/roytang/status/1515647731209244679/
 tags:
 - briancollins1
+- threads
+- rules
 ---
 
 Nothing 

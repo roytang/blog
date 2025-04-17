@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/721705761965879296/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154539987528912
+tags:
+- halalan2016
 ---
 
 Guys, I decided na. I'm going to vote Binay for President and Leni for Vice President

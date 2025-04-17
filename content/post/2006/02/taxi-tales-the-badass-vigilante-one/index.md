@@ -2,6 +2,8 @@
 author: Roy
 categories: []
 date: 2006-02-22 06:37:28
+tags:
+- taxi-tales
 title: Taxi Tales -- The Badass Vigilante One
 type: post
 url: /2006/02/taxi-tales-the-badass-vigilante-one/

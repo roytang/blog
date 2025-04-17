@@ -1,10 +1,11 @@
 ---
-date: 2016-04-18 16:24:00+08:00
+date: 2016-04-18 08:24:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154541937978912
-tags: []
+tags:
+- duterte
 ---
 
 Yes, I watched the whole video. I know that he's a brave son of a bitch willing to let himself take the place of hostages and that he killed all the rapists. Hooray for him.

@@ -15,7 +15,7 @@ April is already halfway over, and I once again find myself overcome by the feel
 
 ### My Week
 
-Twitter emailed me to tell me one of my quote bots would get suspended, but somehow [it kept happily posting along](/2023/04/1647793479073042433/) so :shrug:
+Twitter emailed me to tell me one of my quote bots would get suspended, but somehow it kept happily posting along so :shrug:
 
 I wrote about my recent project of [scanning old photographs](/2023/04/old-photographs/).
 
