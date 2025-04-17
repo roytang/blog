@@ -8,8 +8,7 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://roytang.tumblr.com/post/183108730935/theres-nothing-purer-or-better-than-how-much-kids
-tags:
-- threads
+title: "turing-tested: Vestibular Sense"
 ---
 
 <p><a href="http://deanwinchesterisadorable.tumblr.com/post/182995970853/theres-nothing-purer-or-better-than-how-much-kids" class="tumblr_blog">deanwinchesterisadorable</a>:</p><blockquote>

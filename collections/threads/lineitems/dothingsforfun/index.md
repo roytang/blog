@@ -10,8 +10,8 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156564263758912
 tags:
-- fbreposts09
-- threads
+- leisure
+title: "The Artidote: You're allowed to just do things for fun"
 ---
 
 "Yesterday my dad told me something that I think maybe more people need to hear:

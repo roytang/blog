@@ -10,8 +10,10 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10157473204098912
 tags:
-- fbreposts08
-- threads
+- gameofthrones
+- fiction
+- fanfiction
+title: "Larry O'Brien: The 3-Eyed Raven"
 ---
 
 <div class="bp" data-ft='{"tn":"*s"}' style="">
