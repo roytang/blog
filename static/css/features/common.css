@@ -81,6 +81,13 @@ article table tr:nth-child(odd) {
 
 article table td.numeric {
     text-align: right;
+    vertical-align: top;
+}
+
+
+article table tr.grouper {
+    background: var(--main-color);
+    color: var(--inverse-text-color);
 }
 
 
