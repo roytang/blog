@@ -1,5 +1,5 @@
 ---
-date: 2020-04-25 05:25:52+00:00
+date: 2020-04-25 05:25:52
 repost_source:
   name: huhsmile
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1253918125004689408/
+tags:
+- webcomics
 title: ''
 ---
 

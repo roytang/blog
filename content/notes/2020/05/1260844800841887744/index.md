@@ -1,5 +1,5 @@
 ---
-date: 2020-05-14 08:10:00+00:00
+date: 2020-05-14 08:10:00
 repost_source:
   name: Delafina777
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1260844800841887744/
+tags:
+- fascism
 title: ''
 ---
 

@@ -1,5 +1,5 @@
 ---
-date: 2018-12-30 03:10:57+00:00
+date: 2018-12-30 03:10:57
 repost_source:
   name: TerribleMaps
   type: twitter
@@ -10,6 +10,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1079213223583215616/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10157159716328912
+tags:
+- puns
 title: ''
 ---
 

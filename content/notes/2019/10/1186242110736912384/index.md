@@ -10,6 +10,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1186242110736912384/
 tags:
 - threads
+- deeplore
 ---
 
 Feeling nostalgic: what are some articles, essays, blogposts etc that would go into a compilation called "the people's oral history of the internet"?

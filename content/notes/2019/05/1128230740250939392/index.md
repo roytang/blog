@@ -1,5 +1,5 @@
 ---
-date: 2019-05-14 09:29:04+00:00
+date: 2019-05-14 09:29:04
 repost_source:
   name: kevinalec
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1128230740250939392/
+tags:
+- threads
 title: ''
 ---
 

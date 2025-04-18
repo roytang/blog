@@ -10,6 +10,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/178183648235/details-from-disney-movies
 - type: twitter
   url: https://twitter.com/roytang/statuses/1041731962300497920/
+tags:
+- threads
 title: Details From Disney Movies
 ---
 

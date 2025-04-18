@@ -26,7 +26,9 @@ It was also a regular occurrence during the college years that I'd have a class 
 
 Another distance I regularly walked during those years would be the length of University Ave down to Philcoa. This was roughly a 1.8km walk from the College of Engineering. Often I would be walking an additional 0.5km or so into Teachers' Village to hang out at a friend's house in that area. (And later take a tricycle home).
 
-Students from the University are so used to walking, it's not uncommon [to joke that the term "walking distance" means something else coming from us](/2019/07/1151310954262487041/).
+Students from the University are so used to walking, it's not uncommon to joke that the term "walking distance" means something else coming from us (via [readysethrun](https://twitter.com/readysethrun/statuses/1150758504854016001/)):
+
+> wag kayo basta basta magtitiwala sa “walking distance” kapag ang nagsabi ay isang UP Student 
 
 Many years after college [I still enjoy walking around the University](/2020/01/saturday-morning-up/), though I seldom get to do it. 
 

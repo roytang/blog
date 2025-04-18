@@ -1,5 +1,5 @@
 ---
-date: 2020-03-02 10:55:04+00:00
+date: 2020-03-02 10:55:04
 repost_source:
   name: FreyjaErlings
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1234432027371290624/
+tags:
+- deeplore
 ---
 
 The only thing more terrifying than horses on Tumblr is mushrooms on Tumblr

@@ -1,5 +1,5 @@
 ---
-date: 2020-05-18 10:01:25+00:00
+date: 2020-05-18 10:01:25
 repost_source:
   name: mlq3
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1262322389880193025/
+tags:
+- threads
 title: ''
 ---
 
