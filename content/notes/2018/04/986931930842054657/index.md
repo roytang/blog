@@ -6,6 +6,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/986931930842054657/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156581958468912
+tags:
+- puns
+- phpuns
 ---
 
 Gagawa ako ng navigation app tapos iintegrate sa Hirna. I'll call it Werna

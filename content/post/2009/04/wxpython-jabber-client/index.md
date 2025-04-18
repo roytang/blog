@@ -18,6 +18,10 @@ syndicated:
 tags:
 - wxPython
 - xmpppy
+- sideprojects
+- programming
+- formernote
+title: Trying Out wxPython by building a Jabber client
 ---
 
 having trouble with automatic layouting in #wxPython

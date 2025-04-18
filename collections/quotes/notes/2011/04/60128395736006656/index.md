@@ -7,7 +7,8 @@ syndicated:
 - type: plurk
   url: https://plurk.com/p/brg0a4
 tags:
-- imprtance
+- importance
+- purpose
 ---
 
 Pursue something so important that even if you fail, the world is better off with you having tried.
