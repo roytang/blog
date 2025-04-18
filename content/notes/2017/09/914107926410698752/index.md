@@ -1,5 +1,5 @@
 ---
-date: 2017-09-30 12:41:27+00:00
+date: 2017-09-30 12:41:27
 repost_source:
   name: b0rk
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/914107926410698752/
+tags:
+- rules
 title: ''
 ---
 

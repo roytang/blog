@@ -10,5 +10,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1003149349654675457/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156679438083912
+tags:
+- webcomics
+- candh
 title: ''
 ---

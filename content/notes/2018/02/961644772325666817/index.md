@@ -10,6 +10,8 @@ syndicated:
   url: https://twitter.com/roytang/status/961644772325666817/
 tags:
 - listofadvice
+- threads
+- rules
 ---
 
 RIP John Perry Barlow. Print out his "Principles of Adult Behavior" and stick it on your fridge

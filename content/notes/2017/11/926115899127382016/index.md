@@ -1,5 +1,5 @@
 ---
-date: 2017-11-02 15:56:51+00:00
+date: 2017-11-02 15:56:51
 repost_source:
   name: juanelyas
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/926115899127382016/
+tags:
+- duterte
 title: ''
 ---
 

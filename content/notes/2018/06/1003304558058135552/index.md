@@ -1,5 +1,5 @@
 ---
-date: 2018-06-03 15:57:01+00:00
+date: 2018-06-03 15:57:01
 repost_source:
   name: williamlidwell
   type: twitter
@@ -11,11 +11,13 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1003304740904734721/
 - type: twitter
-  url: https://twitter.com/roytang/statuses/1003304936199938048/  
+  url: https://twitter.com/roytang/statuses/1003304936199938048/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156680511348912
 - type: tumblr
   url: https://roytang.tumblr.com/post/174533771995/william-lidwell-on-twitter
+tags:
+- webcomics
 ---
 
-This pretty much sums it 
+This pretty much sums it
