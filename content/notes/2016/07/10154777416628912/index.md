@@ -1,5 +1,5 @@
 ---
-date: 2016-07-28 07:07:00+08:00
+date: 2016-07-27 23:07:00
 dontinlinephotos: true
 repost_source:
   name: Renee Juliene M. Karunungan
@@ -11,9 +11,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154777416628912
 tags:
 - fbreposts10
+- duterte
 ---
-
-
 
 <div class="bp" data-ft='{"tn":"*s"}' style="">
  <p>
