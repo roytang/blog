@@ -10,7 +10,6 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152972334993912
 tags:
-- fbreposts07
 - puns
 - '2014'
 ---

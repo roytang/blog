@@ -5,7 +5,6 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155853747033912
 tags:
-- mobile-uploads
 - survey
 - '2017'
 ---

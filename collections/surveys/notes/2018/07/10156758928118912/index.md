@@ -7,7 +7,6 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156758928118912
 tags:
-- timeline-photos
 - survey
 - '2018'
 ---

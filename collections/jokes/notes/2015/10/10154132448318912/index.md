@@ -6,7 +6,6 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154132448318912
 tags:
-- fbreposts04
 - puns
 - '2015'
 ---

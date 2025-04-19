@@ -12,9 +12,7 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10150168099763912
 tags:
-- timeline-photos
 - '2011'
-- timeline
 title: Colorful train
 ---
 
