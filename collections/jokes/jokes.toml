@@ -1,0 +1,5 @@
+[params]
+    collection_name = "jokes"
+    collection_title = "Jokes/Puns"
+    collections_root = false
+    autoinlinephotos = false

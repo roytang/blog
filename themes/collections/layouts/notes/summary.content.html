@@ -4,7 +4,8 @@
 {{ .Content }}
 {{ if .Params.repost_source }}</blockquote>{{ end }}
 
-<div class="image-list">
+{{ if .Site.Params.autoinlinephotos }}
 {{ .Render "image_list" }}
-</div>
+{{ end }}
+
 </div>

@@ -58,5 +58,11 @@
         "label": "Albums",
         "descrip": "Misc Photo/Screenshot Albums",
         "feeds": false
+    },
+    {
+        "path": "jokes/",
+        "label": "Jokes/Puns",
+        "descrip": "Jokes/Puns",
+        "feeds": false
     }
 ]

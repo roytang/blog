@@ -9,4 +9,5 @@ hugo --contentDir collections/quora --config collections.toml,local.toml,collect
 hugo --contentDir collections/sketchbook --config collections.toml,local.toml,collections/sketchbook/sketchbook.toml --destination public/sketchbook
 hugo --contentDir collections/threads --config collections.toml,local.toml,collections/threads/threads.toml --destination public/threads
 hugo --contentDir collections/surveys --config collections.toml,local.toml,collections/surveys/surveys.toml --destination public/surveys
+hugo --contentDir collections/jokes --config collections.toml,local.toml,collections/jokes/jokes.toml --destination public/jokes
 
