@@ -3,12 +3,15 @@ date: 2025-04-21 14:20:01
 dontinlinephotos: true
 resources:
 - src: stats.png
-  title: 'Steam stats!'
+  title: Steam stats!
 reviews:
 - description: A worthy successor, if a bit same-y.
   media: games
   rating: 4.0
   title: 'Marvel''s Spider-Man: Miles Morales (Steam)'
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/114376709545964953
 tags:
 - gaming
 - steam
