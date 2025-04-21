@@ -63,6 +63,7 @@ small {
     color: var(--third-color);
     font-size: smaller;
     display: inline;
+    word-break: keep-all;
 }
 
 

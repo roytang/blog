@@ -10,6 +10,10 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/103826054875937754
 - type: indieweb.xyz
   url: https://indieweb.xyz/en/coronavirus
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1252018950247870464/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1252023128756125696/
 tags:
 - philippines
 - current events
@@ -589,6 +593,12 @@ I heard 6am mass via the TV. ABS-CBN broadcasts one, I think it's held in their 
 Two more weeks of this, at least. Some people are hoping for partial lifting of the ECQ in May, but there's also the possibility of tighter restrictions, as the president has threatened. Rumors and feelers point in either direction being possible. We'll see.
 
 As of tonight, we are at 6259 (+172 today, +381 since Friday) cases, 409 (+12 today, +22 since Friday) deaths and 572 (+56 today, +85 since Friday) recoveries. Recoveries growing faster than deaths for the past 3 days, and confirmed cases seemingly tapering off? Seems a bit too good to be true? Again, we'll see!
+
+### Monday, April the 20th
+
+So, how does this work: World hit 1M confirmed cases around Apr 3 (17 days ago). Should we expect at least 1M outcomes by now? Worldwide stats currently only have &lt; 900k deaths+recoveries. Is it just due to confirmatory testing delays? (The discrepancy is much worse in the PH)
+
+well, a doctor friend tells me that severe to critical cases may take much longer to recover, so I guess that's the source of the discrepancy? is it like 10% severe to critical cases?
 
 ### Friday, April the 24th
 

@@ -8,6 +8,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1384876164955713542/
 tags:
 - software-development
+- formernote
 title: Python's filter function
 ---
 

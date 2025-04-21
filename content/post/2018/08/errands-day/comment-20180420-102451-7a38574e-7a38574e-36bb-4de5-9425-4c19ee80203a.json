@@ -3,9 +3,11 @@
   "name": "Jonathan Tan",
   "url": "https://www.facebook.com/jonathan.tan.399041",
   "text": "Yung from minsan hirap. Pero destination nahuhulaan nya pattern ko",
-  "date": "2018-04-20 00:00:00",
+  "date": "2018-04-20 10:24:51 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10156583315323912#10156583478733912",
+  "source": "7a38574e",
+  "spam": false,
   "source_obj": {
     "id": "10156583478733912",
     "poster": "Jonathan Tan",
@@ -13,5 +15,6 @@
     "text": "Yung from minsan hirap. Pero destination nahuhulaan nya pattern ko",
     "attachments": [],
     "date": "Apr 20, 2018"
-  }
+  },
+  "reply_to": "https://twitter.com/roytang/statuses/987155099259514881/"
 }

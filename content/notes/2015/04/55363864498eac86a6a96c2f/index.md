@@ -11,3 +11,7 @@ tags:
 ---
 
 (@Mario's Kitchen Ortigas Center)
+
+This was our first quiz night at this venue which was conveniently near ; the quiz was "Jason-format", but the host this night was someone other than Jason. (Jason was on one of the teams).
+
+We finished tied for second, one point away from first. We missed the number of miles walked in the Proclaimers' song, Liz was disappointed at us lol.
