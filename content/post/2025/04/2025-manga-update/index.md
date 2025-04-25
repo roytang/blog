@@ -1,11 +1,6 @@
 ---
-title: "2025 Manga Update"
 date: 2025-04-25
-tags:
-- manga
-- comics
 dontinlinephotos: true
-toc: true
 reviews:
 - description: 2025 manga review
   hashtag: akane-banashi
@@ -43,26 +38,34 @@ reviews:
   hashtag: hajime-no-ippo
   media: comics
   title: Hajime no Ippo
-- hashtag: dragon-ball
-  description: '2025 manga review'
+- description: 2025 manga review
+  hashtag: dragon-ball
   media: comics
-  title: 'Dragon Ball'
-- hashtag: ranma-12
-  description: 'Re-read, 2025 manga review'
+  title: Dragon Ball
+- description: Re-read, 2025 manga review
+  hashtag: ranma-12
   media: comics
-  title: 'Ranma 1/2'
-- hashtag: maison-ikkoku
-  description: 'Re-read, 2025 manga review'
+  title: Ranma 1/2
+- description: Re-read, 2025 manga review
+  hashtag: maison-ikkoku
   media: comics
-  title: 'Maison Ikkoku'
-- hashtag: dandadan
-  description: '2025 manga review'
+  title: Maison Ikkoku
+- description: 2025 manga review
+  hashtag: dandadan
   media: comics
-  title: 'Dandadan'
-- hashtag: jujutsu-kaisen
-  description: '2025 manga review'
+  title: Dandadan
+- description: 2025 manga review
+  hashtag: jujutsu-kaisen
   media: comics
-  title: 'Jujutsu Kaisen'
+  title: Jujutsu Kaisen
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/114397137774774308
+tags:
+- manga
+- comics
+title: 2025 Manga Update
+toc: true
 ---
 
 Haven't done this in a while. Just an update of manga I've been reading.
