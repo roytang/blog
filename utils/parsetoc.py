@@ -11,6 +11,7 @@ for (let i=0; i<nodes.length; i++) { outlist.push({ "href": nodes[i].getAttribut
 
 outlist;
 
+* Make sure the TOC is open and visible when run!
 
 """
 

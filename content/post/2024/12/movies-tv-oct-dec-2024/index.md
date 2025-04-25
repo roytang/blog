@@ -63,7 +63,7 @@ reviews:
   year: '2024'
 - date: '2024-12-27'
   description: ''
-  hashtag: ranma-1-2
+  hashtag: ranma-12
   media: tv
   rating: 5.0
   title: Ranma 1/2 S1

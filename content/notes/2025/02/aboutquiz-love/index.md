@@ -1,10 +1,13 @@
 ---
-title: "AboutQuiz All About Love: A Quiz Night About Love Languages"
-date: 2025-02-24T23:26:41+08:00
+date: 2025-02-24 15:26:41
+location: saludos
+resources:
+- src: 486752924_640685785250866_3429675687639982692_n.jpg
+  title: Photo c/o About Quiz
 tags:
 - quiznight
 - aboutquiz
-location: saludos
+title: 'AboutQuiz All About Love: A Quiz Night About Love Languages'
 ---
 
 We attended an AboutQuiz quiz night at Saludo's! This is only their second quiz night after a post-pandemic comeback (we missed the first one). The theme for this one was about love languages.
