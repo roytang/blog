@@ -64,7 +64,7 @@ Google Fit tells me I walked 57,643 steps over the past week (Sunday to Saturday
 
     > "This isn’t a history lesson. It’s a warning. When people stop telling the truth because it might upset the boss, the collapse has already started."
 
-- [415 Unsupported Media Type](https://www.datagubbe.se/aficion/)
+- [Honest and Elitist Thoughts on Why Computers Were More Fun Before](https://www.datagubbe.se/aficion/)
 
     > "The dominant group of users were now people who didn't care about - or even actively disliked - computers. They'd just been put in front of one in order to perform a small repertoire of simple tasks - and still ran into problems. The experiment with giving everyone geeky power tools failed, because everyone didn't want to become geeky power tool users."
 
