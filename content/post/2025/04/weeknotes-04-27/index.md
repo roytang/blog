@@ -17,7 +17,7 @@ Pope Francis passed away last Monday, a day after meeting US Vice President JD V
 
 It has been a bit of an unproductive week; I am not sure where my time went, except that when the afternoon heat becomes unbearable, I tend to retreat to the aircon room and waste too much time just lying there reading or napping. I need to better schedule my day around this heat so I have more productive hours.
 
-On Tuesday night, a pipe burst in my bathroom late at night and I had to rush downstairs to turn off the main valve, and we had to make do without running water for almost a day, which is really bad in this scorching hot summer. Thankfully everything has been fixed by now.
+On Monday night, a pipe burst in my bathroom late at night and I had to rush downstairs to turn off the main valve, and we had to make do without running water for almost a day, which is really bad in this scorching hot summer. Thankfully everything has been fixed by now.
 
 Had a couple of birthdays in the extended fam this week, so we had a quick get-together at home this weekend.
 
