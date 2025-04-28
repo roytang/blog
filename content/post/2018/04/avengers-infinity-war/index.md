@@ -12,9 +12,21 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156599319718912
 - type: nedstarkdies
   url: http://nedstarkdies.roytang.net/avengers-infinity-war/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156599221698912
 tags:
 - movies
 title: Avengers Infinity War
+---
+
+<time id="10156599221698912">[2018-04-27 23:06] </time> Avengers Infinity War Spoiler Free Review:
+
+- I'm amazed that so little of this movie has been widely spoiled
+- movie was fantastic. the movie somehow managed to do everything it needed to do while not doing disservice to any of the bazillion characters involved.
+- the plot moves quickly. there is no good time to pee.
+- there is one post-credits scene.
+- very happy to have watched in imax
+
 ---
 
 *(Originally posted on [Nedstarkdies](http://nedstarkdies.roytang.net/avengers-infinity-war/))*
@@ -61,4 +73,3 @@ But the bad thing about all of these is that, it sets us up for something bigger
 
 This movie defied my expectations. But at the same time, it created even bigger expectations and leaves us looking forward to Avengers 4. Will they be able to execute the sequel well? We waited 10 years for this climax, and it’s not yet done. We have one more year to wait.
 
-Related: [Spoiler-free review](/2018/04/10156599221698912/)

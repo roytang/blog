@@ -6,7 +6,8 @@ source: foursquare
 syndicated:
 - type: foursquare
   url: https://www.swarmapp.com/roytang/checkin/58fc2b0560255e50ba0a3cf9
-tags: []
+tags:
+- japan2017
 ---
 
- (@新倉交差点 新倉)
+(@新倉交差点 新倉)

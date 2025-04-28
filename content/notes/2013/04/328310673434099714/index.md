@@ -9,7 +9,6 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152211154278912
 tags:
-- halalan2016
 - halalan2013
 ---
 

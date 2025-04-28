@@ -11,7 +11,9 @@ tags:
 title: ''
 ---
 
-As promised, here's a spreadsheet of compiled information on the senatorial candidates for 2016: https://docs.google.com/.../1aSEj5wnFbYKNhho8H0Ur.../edit...
+As promised, here's a spreadsheet of compiled information on the senatorial candidates for 2016: 
+
+[Senatoriables 2016](https://docs.google.com/spreadsheets/d/1aSEj5wnFbYKNhho8H0UrNnB4JMCzfQoa01SbYOrl4RI/edit)
 
 (Ang effort magcompile, I'll try to update it when I get new info or whatever, but I think it's more or less set na)
 
@@ -21,4 +23,3 @@ The link is publicly viewable feel free to share
 
 Edit 4/25 11:50pm: Added a few details for 5 candidates newly added to the UP Polsoc profiles last 4/20
 
-[Senatoriables 2016](https://docs.google.com/spreadsheets/d/1aSEj5wnFbYKNhho8H0UrNnB4JMCzfQoa01SbYOrl4RI/edit)

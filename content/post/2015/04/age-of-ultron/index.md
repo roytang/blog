@@ -20,7 +20,7 @@ title: Age of Ultron
 
 *(Originally posted on [Nedstarkdies](http://nedstarkdies.roytang.net/avengers-age-of-ultron-by-hunter))*
 
-Age of Ultron was great! Fun movie, very much more so for a Marvel fan. My brother and I watched in IMAX at SM North and they had an Avengers exhibit at The Block where we hung out while waiting for the movie. I swear from the start until the end I was LSS-ing on the Avengers Assemble opening theme. Spoilers after the break.
+Age of Ultron was great! Fun movie, very much more so for a Marvel fan. My brother and I watched in IMAX at SM North and [they had an Avengers exhibit at The Block where we hung out while waiting for the movie](2015/04/10153724471198912-0/). I swear from the start until the end I was LSS-ing on the Avengers Assemble opening theme. Spoilers after the break.
 
 {{% img src="age-of-ultron.jpg" %}}
 

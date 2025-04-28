@@ -18,7 +18,7 @@ It's already May? April felt like it came and went so quickly. But then again, [
 ### The world:
 
 - The brouhaha over community pantries (as [described last week](/2021/04/weeknotes-2021-04-25/)), seems to have calmed down and they are now generally coordinating with LGUs for assistance in maintaining health protocols
-- Meanwhile, the government has embarked on a [propaganda campaign to assert that we aren't the worst in terms of pandemic response in the world](/2021/04/1387324164910981121/)
+- Meanwhile, the government has embarked on a [propaganda campaign to assert that we aren't the worst in terms of pandemic response in the world](https://twitter.com/PhilstarNews/status/1387318318252445701)
 - Certain congress people continue to promote the usage of the drug Ivermectin, which has no known effect on Covid-19, as a Covid-19 cure or something. The [DOH/FDA keep saying there's no sufficient evidence](/2021/04/1388100027684331520/), but that has no effect when the people promoting it aren't motivated by evidence.
 - Looks like the Office of the Solicitor General of the Philippines [accidentally leaked a bunch of sensitive legal documents](https://restofworld.org/2021/philippines-data-exposure/) due to a misconfigured public directory on their web server.
 - Apparently last weekend was the Oscars, which just goes to show how irrelevant they are now that I didn't even know until I saw the tweets about it happening live. They tried to re-arrange the awards with Best Actor last, apparently with the hope of ending with a posthumous award to Chadwick Boseman, but the award went to Anthony Hopkins instead, who wasn't even at the ceremony. Awkward.

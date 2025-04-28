@@ -1,10 +1,6 @@
 ---
 backpost_date: 2024-01-13 01:56:40
 date: 2012-12-31
-tags:
-- movies
-- backpost
-title: Movies I Watched In 2012
 reviews:
 - date: '2012-04-05'
   description: ''
@@ -141,6 +137,14 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10151704387308912
 - type: twitter
   url: https://twitter.com/roytang/statuses/225848297615671296/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/195034553981747200/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/195035076705255425/
+tags:
+- movies
+- backpost
+title: Movies I Watched In 2012
 toc: true
 ---
 
@@ -152,6 +156,18 @@ toc: true
 
 
 #### Avengers (2012)
+
+<time id="195034553981747200">[2012-04-25 14:20] </time> [alvinjtang wrote](https://twitter.com/alvinjtang/statuses/195030523930882048/):
+
+> Dati iniimagine mo lang sa comics yung mga laban. Ang ganda mapanuod sa malaking screen.
+
+---
+
+<time id="195035076705255425">[2012-04-25 14:22] </time> Ganda ng #avengers! Pero ang lungkot nung namatay si Batman
+
+[Comments](#comment-e373625b-2302-4827-bdd4-10b1de319829)
+
+---
 
 <time>[2012-04-25 16:19] </time> Avengers was very enjoyable, funny and action-packed. Re-reading Ultimates v1 now lol
 

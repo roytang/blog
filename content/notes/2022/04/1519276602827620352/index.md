@@ -1,10 +1,12 @@
 ---
-date: 2022-04-27 11:25:43+00:00
+date: 2022-04-27 11:25:43
 dontinlinephotos: true
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/1519276602827620352/
+tags:
+- halalan2022
 ---
 
 I dont browse the main timeline that often anymore, mostly because there’s threads like this talking about how Marcos supporters think and the sheer disregard for the common good always depresses me.

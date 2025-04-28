@@ -74,7 +74,7 @@ A more robust and interesting online platform was the introduction of [Magic Are
 
 ### Stats and Competitiveness
 
-While I've played a lot of Magic through the years ([230th overall](/2020/04/1254830015717404674/) in lifetime PWPs in the country), I don't consider myself a particularly *good* player. Maybe slightly above average at best. My [paper MTG stats](/page/stats/mtg/) bear that out, with my overall win rate only being slightly higher than 50%. I wish I could get my stats for MTGO and Arena as well though - maybe that would improve things a bit.
+While I've played a lot of Magic through the years ([230th overall](/2020/04/wotc-sunsets-pwps-dcinos/) in lifetime PWPs in the country), I don't consider myself a particularly *good* player. Maybe slightly above average at best. My [paper MTG stats](/page/stats/mtg/) bear that out, with my overall win rate only being slightly higher than 50%. I wish I could get my stats for MTGO and Arena as well though - maybe that would improve things a bit.
 
 A lot of the old timey players in the local community do know me though, due to playing a lot in the 2000s and being around for so long. On occassion, some people may have also referred to me as a "limited specialist" for some reason. My draft and sealed win rates are slightly better than my constructed win rates, but not by much. I do enjoy limited a lot, and a an important reason for that is that I don't much like the "collectible" part of Magic. My favorite part of limited events is that I don't have to worry about finding singles and putting together a deck beforehand, I just get to show, build a deck, and play. 
 
