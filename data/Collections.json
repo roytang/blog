@@ -42,6 +42,12 @@
         "feeds": false
     },
     {
+        "path": "miiverse/",
+        "label": "MiiVerse",
+        "descrip": "Posts I have made to Nintendo's MiiVerse",
+        "feeds": false
+    },
+    {
         "path": "stackexchange/",
         "label": "Stack Exchange",
         "descrip": "Posts I have made to the Stack Exchange network of sites",

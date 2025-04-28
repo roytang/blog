@@ -1,0 +1,6 @@
+[params]
+    collection_name = "miiverse"
+    collection_title = "Miiverse"
+    collections_root = false
+    thumbnailsize = "600x"
+

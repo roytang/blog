@@ -10,3 +10,4 @@ hugo --contentDir collections/sketchbook --config collections.toml,collections/s
 hugo --contentDir collections/threads --config collections.toml,collections/threads/threads.toml --destination /var/www/collections/threads
 hugo --contentDir collections/surveys --config collections.toml,collections/surveys/surveys.toml --destination /var/www/collections/surveys
 hugo --contentDir collections/jokes --config collections.toml,collections/jokes/jokes.toml --destination /var/www/collections/jokes
+hugo --contentDir collections/miiverse --config collections.toml,collections/miiverse/miiverse.toml --destination /var/www/collections/miiverse
