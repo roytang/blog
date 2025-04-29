@@ -5,14 +5,22 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/106435570034557151
 - type: twitter
   url: https://twitter.com/roytang/status/1406110796162105344/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1297549927023652864/
 tags:
-- life philosophy
+- philosophy
 title: 'Life Philosophy: Wandering through life finding interesting things'
 ---
 
-Tagging this ["life philosophy"](/tags/life-philosophy) because I think people should have a declared life philosophy and it's something that should be reviewed and possibly revised on a regular basis so the tag will help me look back on this further down the line.
+Tagging this ["philosophy"](/tags/philosophy) because I think people should have a declared life philosophy and it's something that should be reviewed and possibly revised on a regular basis so the tag will help me look back on this further down the line.
 
-Anyway, TLDR the new declared life philosophy is based on [a tweet](https://twitter.com/ambernoelle/status/1297191195584663554) I [retweeted](https://roytang.net/2020/08/1297549927023652864/) a while back. So the new life philosophy is:
+Anyway, TLDR the new declared life philosophy is based on [a tweet](https://twitter.com/ambernoelle/status/1297191195584663554) I [retweeted](https://roytang.net/2020/08/1297549927023652864/) a while back. 
+
+[ambernoelle wrote](https://twitter.com/ambernoelle/statuses/1297191195584663554/):
+
+> Unpopular opinion: I don’t think your life has to have a purpose, or you a grand ambition; I think it’s okay to just wander through life finding interesting things until you die
+
+So the new life philosophy is:
 
 > I just want to wander through life finding interesting things
 
