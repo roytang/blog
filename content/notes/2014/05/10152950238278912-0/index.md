@@ -1,5 +1,6 @@
 ---
 date: 2014-05-10 08:21:00
+dontinlinephotos: true
 location: 4e4b8b0162e1ce23e5768812
 source: facebook
 syndicated:
@@ -15,8 +16,8 @@ syndicated:
   url: https://www.facebook.com/lissramgurl01/posts/10152155301266589
 tags:
 - books
+- foreverwatch
 title: Forever Watch book launch
-dontinlinephotos: true
 ---
 
 [David Ramirez](https://www.facebook.com/827533990)'s book launch

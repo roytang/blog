@@ -10,6 +10,7 @@ tags:
 - pickups
 - amiibo
 - gaming
+- toys
 ---
 
 Stuff cant make you happy, but natutuwa ako when I look at this

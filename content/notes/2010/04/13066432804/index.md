@@ -6,6 +6,10 @@ syndicated:
   url: https://twitter.com/roytang/statuses/13066432804/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/112933422075686
+tags:
+- convos
+- meralco
+title: Convo about rising Meralco bill
 ---
 
 Our Meralco bill for April went up around 40%. Consumption was up around 5-10%.

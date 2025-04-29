@@ -1,5 +1,5 @@
 ---
-date: 2014-05-05 21:37:00+08:00
+date: 2014-05-05 13:37:00
 dontinlinephotos: true
 repost_source:
   name: Powerbooks Store
@@ -11,6 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10152940640868912
 tags:
 - fbreposts07
+- foreverwatch
 ---
 
 #PBlikes THE FOREVER WATCH: A NOVEL by David Ramirez. Available for P999 (hardcover) in Powerbooks.
