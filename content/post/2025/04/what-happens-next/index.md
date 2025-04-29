@@ -1,8 +1,11 @@
 ---
-title: "I Just Want To See What Happens Next"
-date: 2025-04-29T14:26:40+08:00
+date: 2025-04-29 06:26:40
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/114419923051510914
 tags:
 - philosophy
+title: I Just Want To See What Happens Next
 ---
 
 There are people who get up in the morning with a clear and specific purpose in life, who go out into the world keen to take the next steps to realize their dreams. And then there are people who struggle through their life for their kids, trying to make a better world for them or just making sure they grow up safe and secure and as good people.
