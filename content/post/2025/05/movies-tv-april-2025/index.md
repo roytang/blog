@@ -128,10 +128,12 @@ syndicated:
   url: https://letterboxd.com/hungryroy/film/zootopia/
 - type: letterboxd
   url: https://letterboxd.com/hungryroy/film/ponyo/
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/114436829430034810
 tags:
 - movies
 - tv
-title: Movies / TV - April* 2024
+title: Movies / TV - April* 2025
 toc: true
 ---
 
