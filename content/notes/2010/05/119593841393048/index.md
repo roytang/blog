@@ -1,10 +1,11 @@
 ---
-date: 2010-05-03 22:19:00+08:00
+date: 2010-05-03 14:19:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/119593841393048
-tags: []
+tags:
+- family
 ---
 
 Tinawagan ung kapatid ko twice ng recruitment ng HP: 

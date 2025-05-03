@@ -20,9 +20,7 @@ This post is being published a day late. Things happen okay? Sometimes you get b
 - like the thug that he is, our dear president [claimed that the arbitral award ruling in the PH's favor was nothing more than a sheet of paper he could easily discard](/2021/05/1390134185222832132/). He also challenged former justice Antonio Carpio to a debate over the West Philippine Sea issue, a challenge the latter quickly accepted. As basically everyone expected, Duterte later chickened out, and offered his spokesman Roque as a distraction, er, proxy for the debate. 
 - debris from a Chinese rocket was expected to crash back into Earth sometime this weekend, but no one could predict when or where. Some of my chat groups remarked that if it hits the PH, we are well and truly cursed. It finally landed in the Indian Ocean yesterday.
 - Controversial billionaire Elon Musk hosted SNL this weekend and for some reason, this caused Dogecoin to crash.
-- Bill and Melinda Gates announced they are divorcing. The [timing is suspicious](/2021/05/1389349579091365888/).
-
-
+- Bill and Melinda Gates announced they are divorcing. Bill Gates separating from his wife right after Queen Elizabeth becomes single again. Coincidence? 
 
 ### Links of interest:
 

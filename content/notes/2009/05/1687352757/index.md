@@ -8,6 +8,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/35640569959
 tags:
 - openoffice
+- convos
+title: Convo about Open Office
 ---
 
 #openoffice -&gt; the filter in the spreadsheet is so crappy compared to excel's autofilter. can't even have separate autofilters per sheet!
