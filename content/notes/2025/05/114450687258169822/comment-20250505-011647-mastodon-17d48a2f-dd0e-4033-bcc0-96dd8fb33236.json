@@ -1,0 +1,11 @@
+{
+  "id": "17d48a2f-dd0e-4033-bcc0-96dd8fb33236",
+  "name": "randomgeek",
+  "url": "https://masto.hackers.town/@randomgeek",
+  "text": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@roytang\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>roytang</span></a></span> It depends on the context. List comprehension is my go-to.</p><p>One of the little loops was building a list based on unique ID fields, , then counted the number of elements and discarded the little list.</p><p>I replaced that with a set comprehension. and used *its* length. For readability, I opted not to just check the length of an inline set comprehension.</p><p>Cut execution time down by about half.</p>",
+  "date": "2025-05-05 01:16:47 +0800",
+  "photo": "https://cdn.masto.host/indiewebsocial/cache/accounts/avatars/114/326/313/503/306/574/original/bbf881b6a937a16c.jpeg",
+  "source_url": "https://masto.hackers.town/users/randomgeek/statuses/114450694619228925",
+  "source": "mastodon",
+  "spam": false
+}
