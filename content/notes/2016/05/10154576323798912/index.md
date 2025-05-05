@@ -8,6 +8,8 @@ syndicated:
 tags:
 - fbreposts05
 - duterte
+- halalan2016
+- philippines
 ---
 
 I was going to post this together with the survey I just posted, but I thought it might be a good idea to separate it. This explains why I made the survey in the first place. (Link to the survey: https://www.facebook.com/stephen.roy.tang/posts/10154576312758912)

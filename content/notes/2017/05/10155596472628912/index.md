@@ -4,7 +4,10 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155596472628912
-title: ''
+tags:
+- convos
+- uspol
+title: 'Convo about US Visa'
 ---
 
 I really should've applied for a US visa a while back =/ 

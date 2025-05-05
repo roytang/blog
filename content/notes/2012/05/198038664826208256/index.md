@@ -22,7 +22,7 @@ Categories for the quiz night were:
 - TV doctors
 - Geography
 - Relatives
-- Johnyy depp
+- Johnny Depp
 - Star Wars
 
 We were crushed with only 1 point in the Geography round!

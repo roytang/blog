@@ -15,4 +15,4 @@ tags:
 
 This was [Geekfight Classic: Career Day](https://www.facebook.com/events/801340323284980/)
 
-I think we finished 4th.
+4th out of 6 teams. hardcore questions. some of them we couldve gotten right if [Jaime] were there, i think. -- Cole

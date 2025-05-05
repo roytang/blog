@@ -17,6 +17,10 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/108254334455522232
 - type: twitter
   url: https://twitter.com/roytang/status/1522511732664528897/
+- type: twitter
+  url: https://twitter.com/roytang/status/1521854143673270273/
+- type: twitter
+  url: https://twitter.com/roytang/status/1521854144998371330/
 tags:
 - mcu
 - tv

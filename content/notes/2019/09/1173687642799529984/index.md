@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1173687642799529984/
+tags:
+- leggings
 ---
 
 Ursula K. Le Guin's writing schedule = best writing schedule

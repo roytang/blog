@@ -5,7 +5,9 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154573026948912
-tags: []
+tags:
+- halalan2016
+- philippines
 ---
 
 For the list of QC local candidates: https://en.wikipedia.org/wiki/Quezon_City_local_elections,_2016 Alvin Tang Brian Jeffrey Tang

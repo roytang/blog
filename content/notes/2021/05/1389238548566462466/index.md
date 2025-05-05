@@ -1,5 +1,5 @@
 ---
-date: 2021-05-03 15:20:55+00:00
+date: 2021-05-03 15:20:55
 repost_source:
   name: tauriqmoosa
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1389238548566462466/
+tags:
+- leggings
 ---
 
 Dan Harmon's amazing writers' advice

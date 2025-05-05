@@ -6,12 +6,17 @@ syndicated:
   url: https://twitter.com/roytang/statuses/992705141630320641/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156617136348912
+tags:
+- convos
+- movies
+title: Convo about an X-Men reboot
 ---
-
-If we ge an Xmen reboot in the mcu I hope its with Scott and Jean and everybody else as teenagers (same approach they did with Spiderman basically) 
 
 {{% quoted url="https://twitter.com/shadowandact/status/987693996364517377" label="shadowandact's tweet" %}}
 
 Report: 'X-Men: Dark Phoenix' to be the last Fox Marvel film before characters integrated into Disney's MCU for Phase 4 http://buff.ly/2K4ngJl 
 
 {{% /quoted %}}
+
+If we ge an Xmen reboot in the mcu I hope its with Scott and Jean and everybody else as teenagers (same approach they did with Spiderman basically) 
+
