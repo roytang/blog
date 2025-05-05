@@ -4,6 +4,10 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/64627577867870208/
+tags:
+- convos
+- mtg
+title: Convo with Alex about attending the New Phyrexia prerelease
 ---
 
 [@aleksfelipe](https://twitter.com/aleksfelipe/) magPR ka sa saturday?

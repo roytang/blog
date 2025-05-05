@@ -4,7 +4,9 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154571919103912
-tags: []
+tags: 
+- convos
+title: Convo about presumptuous comments
 ---
 
 Must. Resist. Replying. To. Presumptuous. Comments.

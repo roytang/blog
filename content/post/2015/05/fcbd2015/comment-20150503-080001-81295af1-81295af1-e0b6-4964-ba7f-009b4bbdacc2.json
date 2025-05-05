@@ -3,9 +3,11 @@
   "name": "Chiko Tiongson",
   "url": "https://www.facebook.com/chiko.tiongson",
   "text": "Ha?",
-  "date": "2015-05-03 00:00:01",
+  "date": "2015-05-03 08:00:01 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153749956618912#10153750269588912",
+  "source": "81295af1",
+  "spam": false,
   "source_obj": {
     "id": "10153750269588912",
     "poster": "Chiko Tiongson",
@@ -13,5 +15,6 @@
     "text": "Ha?",
     "attachments": [],
     "date": "May 3, 2015"
-  }
+  },
+  "reply_to": "https://twitter.com/roytang/statuses/594506049832423424/"
 }

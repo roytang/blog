@@ -3,9 +3,11 @@
   "name": "Cole Fabros",
   "url": "https://www.facebook.com/coledmole",
   "text": "kids",
-  "date": "2015-05-03 00:00:02",
+  "date": "2015-05-03 08:00:02 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153749956618912#10153751146693912",
+  "source": "372ad8c9",
+  "spam": false,
   "source_obj": {
     "id": "10153751146693912",
     "poster": "Cole Fabros",
@@ -13,5 +15,6 @@
     "text": "kids",
     "attachments": [],
     "date": "May 3, 2015"
-  }
+  },
+  "reply_to": "https://twitter.com/roytang/statuses/594506049832423424/"
 }

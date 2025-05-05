@@ -3,9 +3,11 @@
   "name": "Lamberto Corpulento",
   "url": "https://www.facebook.com/solar.archpope",
   "text": ":v",
-  "date": "2015-05-03 00:00:00",
+  "date": "2015-05-03 08:00:00 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153749956618912#10153750165918912",
+  "source": "80fca09a",
+  "spam": false,
   "source_obj": {
     "id": "10153750165918912",
     "poster": "Lamberto Corpulento",
@@ -13,5 +15,6 @@
     "text": ":v",
     "attachments": [],
     "date": "May 3, 2015"
-  }
+  },
+  "reply_to": "https://twitter.com/roytang/statuses/594506049832423424/"
 }
