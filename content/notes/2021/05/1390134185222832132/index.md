@@ -11,6 +11,8 @@ syndicated:
   url: https://twitter.com/roytang/status/1390136171120889860/
 - type: reddit
   url: https://www.reddit.com/r/Philippines/comments/n5tnoy/hindi_pa_ba_ito_treason_worthy_statement/gx3wfyz/
+tags:
+- duterte
 ---
 
 This mindset reflects someone who doesn't respect institutions or the law or civilized agreements, and basically respects only one thing: power. That's why he thinks people who oppose China wants war and why he doesn't want to offend them, power is all he sees, like thug he is 

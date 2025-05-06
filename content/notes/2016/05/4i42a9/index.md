@@ -7,6 +7,7 @@ syndicated:
 tags:
 - spikes
 - reddit_submission
+- mtg
 ---
 
 #### Posted on r/spikes: [[Modern] jeskai control or grixis control](https://reddit.com/r/spikes/comments/4i42a9/modern_jeskai_control_or_grixis_control/)

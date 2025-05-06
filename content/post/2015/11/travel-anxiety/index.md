@@ -31,3 +31,5 @@ The buffer time and arriving early is a form of risk management I suppose. Since
 6. Flight problems. Well, I don't have a fear of flying per se, but I can imagine some people might, especially given how there's a lot more incidents of flight problems, crashes or even disappearances happening latly. I would guess it's pretty much a product of the information age
   
 Well, worrying too much about all of these things isn't helpful of course. It's a habit I have to rid myself of -- I need to learn the right amount of worrying that's appropriate enough to manage the risks, but not enough to drive myself crazy. After all, one of the reasons for travelling is a sense of adventure and to anxiety so I should learn to let go of my worries and enjoy being out of my comfort zone for a while
+
+Previously: [Flying abroad](/2017/04/flying-abroad/)

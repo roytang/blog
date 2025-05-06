@@ -10,6 +10,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1123923502434791425/
 tags:
 - otsodiretso
+- halalan2019
+- philippines
 title: ''
 ---
 

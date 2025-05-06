@@ -6,6 +6,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/991336223724552193/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156607841943912
+tags:
+- convos
+title: Convo about emergency room cleanup
 ---
 
 Nothing like misplacing some cash to prompt an emergency room cleanup

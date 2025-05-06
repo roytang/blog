@@ -8,6 +8,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1652537958350868480/
 tags:
 - ldjam
+- gamedev
 title: ''
 ---
 

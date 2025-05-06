@@ -6,6 +6,10 @@ syndicated:
   url: https://twitter.com/roytang/statuses/992967827056353280/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156618819058912
+tags:
+- movies
+- convos
+title: Convo about upcoming movie releases
 ---
 
 Local movie release dates for the next few months:

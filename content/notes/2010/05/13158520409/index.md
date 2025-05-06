@@ -6,6 +6,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/13158520409/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/123410111007359
+tags:
+- convos
+title: Convo about being back on hiatus
 ---
 
 Currently back on hiatus.
