@@ -17,8 +17,6 @@ Middays are starting to get hotter, but the nights are still pretty brisk, makin
 
 Finished the last of this batch of start-of-year medical errands this week. A lighter load, mostly teleconsults and routine check-ups. After this, the medical errands should be sporadic until they all come together again in April.
 
-{{% note "2023/01/3414422438460bb615ddfdd102e37807/" %}}
-
 Thursday: I went in to be checked for new glasses. Apparently I am already of that age where progressives would be needed. I believe these are the most expensive I've ever paid for. Need to wait a week or so before they come in, hopefully there are no issues.
 
 Sunday: Chaos in the household as all the pamangkins were here. Our family celebrates three different birthdays this coming week, so we tend to have a combined celebration. Always enjoy playing with the kids. One of my nieces has a "favorite tree" right outside our house.
@@ -26,6 +24,12 @@ Sunday: Chaos in the household as all the pamangkins were here. Our family celeb
 **GameDev**: [Ludum Dare 52 results are out](/2023/01/ludum-dare-52-shooty-2/#109771294443061602)! My entry did relatively well in the "fun" category, but overall I have yet to beat the scores of my very first entry. (Though in terms of absolute ranking, this one is my best so far.) Will try to see where we can improve. Am planning to do some post-Jam work on this one.
 
 **Gaming**: Still playing **Witcher 3** (running around playing Gwent, hunting monsters). **Arena**, **Eternal**, **Marvel Snap** still ongoing. Haven't streamed in a while, will see if I can get something out this week.
+
+#### Jigsaw Puzzle No. 2
+
+After we finished the first jigsaw puzzle a while back, Ma started working on the new one, which is roughly twice as large. We have been at this one for two weeks now!
+
+{{< photos >}}
 
 ### Media Diet
 

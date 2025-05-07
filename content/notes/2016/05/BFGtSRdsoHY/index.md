@@ -12,6 +12,7 @@ tags:
 - instagram
 - amiibo
 - gaming
+- toys
 title: ''
 ---
 

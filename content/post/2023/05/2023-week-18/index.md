@@ -6,6 +6,8 @@ syndicated:
   url: https://indieweb.social/users/roytang/statuses/110329270566968488
 - type: twitter
   url: https://twitter.com/roytang/status/1655307627990245376/
+- type: twitter
+  url: https://twitter.com/roytang/status/1655071997142114305/
 tags:
 - weeknotes
 title: 2023 Week 18
@@ -18,7 +20,11 @@ title: 2023 Week 18
 
 ### A Photo I Took
 
-{{% note "/2023/05/3bfa2655f1d8bf6a94dc76be69d8d757" %}}
+My mom finally finished [Jigsaw puzzle no. 2](/2023/01/2023-week-04/#jigsaw-puzzle-no-2) after 4 months!
+
+I didn't help a lot with this one after the initial framing. Also, my mom insists the structures on top are ruined buildings, I can't convince her they're some kind of red rock formations.
+
+{{< photos >}}
 
 ### Media Diet
 
@@ -56,7 +62,7 @@ Check out the [linkblog](/links/) for past links!
 
 - The Writers Guild of America is on strike. If I had a nickel for every time the WGA has gone on strike, I would have 2 nickels, which isn't a lot but it's weird that it's happened twice in my lifetime. I still remember the 2007 strike and how badly it affected US TV shows. (Heroes had such potential!) Solidarity with the writers of course, but if it goes too long at least I get time to catch up with all my backlogs.
 
-- MTG: Steam version of Arena is released, [is unsurprisingly not available in SEA](/2023/05/1655071997142114305/). This past weekend there was a Pro Tour in Minneapolis; I haven't followed the competitive scene too closely since Grand Prixs stopped coming to SEA, but I will admit it was nice seeing old pros on Twitter posting about their Pro Tour adventures. The weekend also included some previews for upcoming sets, including [a LOTR "tempted by the ring" mechanic](https://twitter.com/wizards_magic/status/1654570664760852481) that's weirdly all-upside. Despite not being a Commander player, I will admit to being a bit tempted by [the Doctor Who commander decks](https://twitter.com/TCGplayer/status/1654570632561020929). Oh also apparently [Standard is becoming a 3-year format](https://magic.wizards.com/en/news/announcements/revitalizing-standard)!
+- MTG: [Steam version of Arena is released](https://twitter.com/MTG_Arena/status/1654599089022009344/), is unsurprisingly not available in SEA (make it available in SEA you cowards!). This past weekend there was a Pro Tour in Minneapolis; I haven't followed the competitive scene too closely since Grand Prixs stopped coming to SEA, but I will admit it was nice seeing old pros on Twitter posting about their Pro Tour adventures. The weekend also included some previews for upcoming sets, including [a LOTR "tempted by the ring" mechanic](https://twitter.com/wizards_magic/status/1654570664760852481) that's weirdly all-upside. Despite not being a Commander player, I will admit to being a bit tempted by [the Doctor Who commander decks](https://twitter.com/TCGplayer/status/1654570632561020929). Oh also apparently [Standard is becoming a 3-year format](https://magic.wizards.com/en/news/announcements/revitalizing-standard)!
 
 ### This coming week (and beyond)
 

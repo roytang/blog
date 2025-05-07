@@ -13,3 +13,10 @@ tags:
 ---
 
 I'm at Amici in San Juan, Metro Manila https://www.swarmapp.com/c/8l0d2Bl7yNj
+
+Known quiz night topics:
+
+- Know Fear (phobias)
+- All Aboard (pilots visual round)
+- Actors who played US presidents
+- Star Wars

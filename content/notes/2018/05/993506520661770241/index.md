@@ -1,5 +1,5 @@
 ---
-date: 2018-05-07 15:03:07+00:00
+date: 2018-05-07 15:03:07
 repost_source:
   name: ZoeYorkWrites
   type: twitter
@@ -10,6 +10,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/993506520661770241/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156622148328912
+tags:
+- puns
 title: ''
 ---
 

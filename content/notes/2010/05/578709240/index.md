@@ -9,6 +9,8 @@ source: tumblr
 syndicated:
 - type: tumblr
   url: https://roytang.tumblr.com/post/578709240/pinoytumblr-2010-philippine-presidentiables
+tags:
+- halalan2010
 ---
 
 <p><a href="http://www.pinoytumblr.com/post/576204389/2010-philippine-presidentiables-click-here-for">pinoytumblr</a>:</p>
