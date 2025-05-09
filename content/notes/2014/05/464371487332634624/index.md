@@ -13,3 +13,16 @@ tags:
 ---
 
 I'm at Amici (San Juan, Metro Manila) https://www.swarmapp.com/roytang/checkin/536b6f4411d2e88187f87984?s=kCi9OMJOUAWBc9eNlU9BpOdl5Wk&ref=tw
+
+We attended Jason quiz night at Amici. Categories:
+
+- Famous Jacks
+- Knight and Day
+- Pulp Comics
+- Sports
+- Transformers (Visual)
+- Star Wars
+- Songs with the same title but different artists
+- Current TV Series
+
+We finished dead last among 4 teams!

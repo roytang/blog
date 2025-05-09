@@ -17,6 +17,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1523573118932901889/
 tags:
 - Halalan2022
+- formernote
 title: Election Day 2022
 ---
 
