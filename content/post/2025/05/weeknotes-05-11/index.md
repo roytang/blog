@@ -73,3 +73,5 @@ Check the [linkblog](/links/) for past links.
 Elections tomorrow!
 
 Andor series finale this Wednesday! Last week's arc was great and I am probably going to rewatch Rogue One as soon as I finish the final ep.
+
+Trivia team might attend a quiz night this week.
