@@ -65,7 +65,7 @@ As for my actual ballot, I will admit I mostly only had Bam Aquino, Kiko P, Heid
 | **Party-List** |
 | 51 | Akbayan |
 
-Admittedly, most of these progressive candidates are unlikely to place; I have long since accepted that my tastes (which seemingly become even more progressive as time goes on) do not much the popular sentiment in our country where too many voters rely on name recall and tribal loyalties and conservative views.
+Admittedly, most of these progressive candidates are unlikely to place; I have long since accepted that my tastes (which seemingly become even more progressive as time goes on) do not match the popular sentiment in our country where too many voters rely on name recall and tribal loyalties and conservative views.
 
 (Also, I am mildly annoyed at anyone who posts their senatorial choices but doesn't sort them using the conveniently provided numeric key!)
 
