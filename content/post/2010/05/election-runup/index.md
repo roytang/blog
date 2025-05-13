@@ -1,6 +1,7 @@
 ---
 backpost_date: 2024-01-21 06:12:52
 date: 2010-05-09
+dontinlinephotos: true
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/7667151783/
@@ -97,8 +98,8 @@ tags:
 - halalan2010
 - halalan
 - backpost
+- phelections
 title: 'Halalan2010: The Run-up to the Elections'
-dontinlinephotos: true
 ---
 
 <time>[2010-01-12 20:29] </time> RT [@djmotwister](https://twitter.com/djmotwister/): This just texted to me, gave me a bit of a laugh. Villar: Sipag at Tiyaga, Gibo: Galing at Talino, Noynoy : Mama at Papa.
@@ -254,4 +255,3 @@ Got this comparative table of the major presidentiable candidates via Twitter an
 [Comments](#comment-52bdb355-7ec4-458e-ac06-44dc64693b0d)
 
 ---
-

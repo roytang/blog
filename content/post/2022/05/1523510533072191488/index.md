@@ -18,6 +18,7 @@ syndicated:
 tags:
 - Halalan2022
 - formernote
+- phelections
 title: Election Day 2022
 ---
 

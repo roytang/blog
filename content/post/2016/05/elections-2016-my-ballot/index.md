@@ -11,6 +11,7 @@ tags:
 - Philippines
 - election-ballot
 - halalan2016
+- phelections
 title: Elections 2016 -- My Ballot
 type: post
 url: /2016/05/elections-2016-my-ballot/

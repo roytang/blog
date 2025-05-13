@@ -226,6 +226,7 @@ tags:
 - philippines
 - phelection2016
 - halalan2016
+- phelections
 title: 2016 Senatorial Candidates Information Megathread
 ---
 

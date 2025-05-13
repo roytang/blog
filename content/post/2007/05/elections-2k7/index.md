@@ -5,6 +5,8 @@ date: 2007-05-12 06:33:35
 tags:
 - Philippines
 - halalan
+- phelections
+- halalan2007
 title: Elections 2k7
 type: post
 url: /2007/05/elections-2k7/

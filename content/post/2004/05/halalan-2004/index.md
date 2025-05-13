@@ -8,6 +8,8 @@ syndicated:
   url: https://roywantsmeat.blogspot.com/2004/05/halalan-2004.html
 tags:
 - Philippines
+- phelections
+- halalan2004
 title: Halalan 2004
 type: post
 url: /2004/05/halalan-2004/

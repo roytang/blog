@@ -4,6 +4,8 @@ categories: []
 date: 2007-05-14 05:09:01
 tags:
 - Philippines
+- phelections
+- halalan2007
 title: Some Simple Electoral Reforms
 type: post
 url: /2007/05/some-simple-electoral-reforms/

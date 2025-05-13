@@ -9,6 +9,8 @@ tags:
 - politics
 - current events
 - election-ballot
+- phelections
+- halalan2019
 title: 'PH Elections 2019: Otso Diretso, Compromises, Lesser Evils'
 type: post
 ---

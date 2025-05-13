@@ -82,7 +82,8 @@ tags:
 - halalan2010
 - halalan
 - backpost
-title: "Halalan2010: Election Day Liveblog"
+- phelections
+title: 'Halalan2010: Election Day Liveblog'
 ---
 
 <time>[00:57]</time> The Comelec's precinct finder broke down. Too many people checking their precincts at the last minute? http://tweetphoto.com/21754930

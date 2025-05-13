@@ -11,6 +11,7 @@ tags:
 - halalan2016
 - philippines
 - formernote
+- phelections
 title: Proposed Presidential Debate Questions
 ---
 

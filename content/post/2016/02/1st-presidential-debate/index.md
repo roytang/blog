@@ -15,6 +15,7 @@ tags:
 - philippines
 - halalan2016
 - formernote
+- phelections
 title: First Presidential Debate
 ---
 

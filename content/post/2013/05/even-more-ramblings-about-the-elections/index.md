@@ -11,6 +11,7 @@ tags:
 - Opinions
 - philippines
 - halalan2013
+- phelections
 title: Even more ramblings about the elections
 type: post
 url: /2013/05/even-more-ramblings-about-the-elections/
@@ -47,4 +48,3 @@ And we need to start thinking about these things even outside of the electoral c
 Okay, I complain a lot, but I'm still going to vote. I'm not one of those people who complains but won't vote. We should vote because (a) it's our responsibility and (b) it's an expression of what we as individuals desire to have in leaders of our country. And it's probably our responsibility to vote wisely too, though I'm not sure that's a rule encoded somewhere, the Comelec certainly doesn't emphasize it.
 
 To be honest, I'm still not sure of which senators I'll be voting for, most of my slots are up in the air (although there are many candidates I'm surely NOT voting for). I'll probably finalize my choices the weekend before the elections, and as has been my tradition, I will post my choices in this space. I'm registered in a different district than where I'm currently residing so I don't vote for congressman and councilors, so my only choices this time around are the 12 senators and mayor/vice mayor of QC.
-

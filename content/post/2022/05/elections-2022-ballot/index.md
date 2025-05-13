@@ -11,6 +11,7 @@ tags:
 - politics
 - halalan2022
 - election-ballot
+- phelections
 title: Elections 2022 Ballot
 ---
 

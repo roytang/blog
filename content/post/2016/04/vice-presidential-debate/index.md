@@ -1,5 +1,4 @@
 ---
-title: "Vice Presidential Debate"
 date: 2016-04-10 11:05:48
 source: twitter
 syndicated:
@@ -8,7 +7,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/719119181833052160/
 - type: facebook
-  url: https://www.facebook.com/stephen.roy.tang/posts/10154524285443912  
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154524285443912
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154524290078912
 - type: twitter
@@ -26,7 +25,7 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/719130924235907072/
 - type: facebook
-  url: https://www.facebook.com/stephen.roy.tang/posts/10154524349628912  
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154524349628912
 - type: twitter
   url: https://twitter.com/roytang/statuses/719136640547950593/
 - type: facebook
@@ -41,6 +40,8 @@ tags:
 - philippines
 - halalan2016
 - vpdebates
+- phelections
+title: Vice Presidential Debate
 ---
 
 Commentary thread for the vice presidential debate today

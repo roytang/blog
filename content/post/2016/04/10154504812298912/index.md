@@ -8,6 +8,7 @@ tags:
 - halalan2016
 - philippines
 - formernote
+- phelections
 title: 2016 Presidentiables Data
 ---
 

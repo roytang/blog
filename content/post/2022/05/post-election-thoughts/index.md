@@ -18,7 +18,9 @@ tags:
 - current-events
 - politics
 - halalan2022
+- phelections
 title: Post-Election Thoughts
+dontinlinephotos: true
 ---
 
 It has been a difficult week, particularly for supporters of VP Leni Robredo, given the outcome of the election last Monday. It's taken me a few days to gather my thoughts, and even then, some of these ideas may still seem raw and unrefined. Some were also the outcome of numerous conversations with fellow supporters both before and after the elections. Disclaimer: I am of course, not an expert of any kind, and these are just my personal thoughts (some refined by many conversations in the immediate 48-96hrs after the election. So very many active group chats!)

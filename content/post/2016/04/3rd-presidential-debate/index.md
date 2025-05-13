@@ -1,5 +1,5 @@
 ---
-date: 2016-04-24 19:17:00+08:00
+date: 2016-04-24 11:17:00
 source: facebook
 syndicated:
 - type: twitter
@@ -28,6 +28,7 @@ tags:
 - halalan2016
 - philippines
 - PiliPinasDebates2016
+- phelections
 title: Third Presidential Debate
 ---
 

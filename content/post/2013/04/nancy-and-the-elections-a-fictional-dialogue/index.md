@@ -10,7 +10,8 @@ syndicated:
 tags:
 - Opinions
 - philippines
-- halalan2016
+- halalan2013
+- phelections
 title: 'Nancy and the Elections: A Fictional Dialogue'
 type: post
 url: /2013/04/nancy-and-the-elections-a-fictional-dialogue/
