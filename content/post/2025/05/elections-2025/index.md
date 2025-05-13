@@ -1,17 +1,20 @@
 ---
-title: "PH Elections 2025"
-date: 2025-05-13T11:39:19+08:00
-tags:
-- philippines
-- politics
-- PHElections
-- halalan2025
+date: 2025-05-13 03:39:19
 dontinlinephotos: true
 resources:
 - src: precinctfinder.png
   title: The COMELEC precinct finder telling me I have duplicate records
 - src: 114491803741465724_1_363cd22652c37cc6.jpg
   title: A finger stained with indelible ink, an indicator of having voted
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/114498606042472369
+tags:
+- philippines
+- politics
+- PHElections
+- halalan2025
+title: PH Elections 2025
 ---
 
 Yesterday was mid-term elections here in the PH. At stake: 12 senatorial slots and the usual slate of local positions.
@@ -80,4 +83,3 @@ The results are mostly in (unofficial for now of course) and while my low expect
 The results do show how influential former president Duterte still is though, with Bong Go and Bato dela Rosa (who offers practically nothing else than his loyalty to Duts) in the top ranks. At least Quiboloy is languishing in the outside ranks and can't use the Senate to hide from the FBI!
 
 That's it for this year! I don't know if I will be a bit more invested in the presidentials in three years; it probably depends on who the opposition decides to field. It feels like Leni's energy in 2022 was hard to top yet the outcome was still disappointing, so we shall see.
-
