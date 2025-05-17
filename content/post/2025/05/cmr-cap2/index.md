@@ -1,7 +1,6 @@
 ---
 date: 2025-05-17 05:48:21
 dontinlinephotos: true
-draft: true
 resources:
 - src: IMG_1584.PNG
   title: '"Who the hell is Bucky?" -- Captain America (2004) #8'
