@@ -11,135 +11,139 @@ resources:
 - src: IMG_1587.PNG
   title: '"Hail Hydra." -- Captain America: Steve Rogers #1'
 reviews:
-- hashtag: captain-america-v4-1998
-  description: 'Mark Waid'
-  media: comics
-  title: 'Captain America v4'
+- description: Mark Waid
+  hashtag: captain-america-v4-1998
   issues: 50
+  media: comics
+  title: Captain America v4
   year: 1998
-- hashtag: captain-america-v5-2001
-  description: 'John Ney Rieber and Chuck Austen'
-  media: comics
-  title: 'Captain America v5'
+- description: John Ney Rieber and Chuck Austen
+  hashtag: captain-america-v5-2001
   issues: 32
+  media: comics
+  title: Captain America v5
   year: 2001
-- hashtag: captain-america-v6-2005
-  description: 'Brubaker'
-  media: comics
-  title: 'Captain America v6'
+- description: Brubaker
+  hashtag: captain-america-v6-2005
   issues: 71
-  year: 2005
-- hashtag: captain-america-reborn-2009
-  description: 'Brubaker bringing Steve back from the dead.'
   media: comics
-  title: 'Captain America Reborn'
+  title: Captain America v6
+  year: 2005
+- description: Brubaker bringing Steve back from the dead.
+  hashtag: captain-america-reborn-2009
   issues: 6
+  media: comics
+  title: Captain America Reborn
   year: 2009
-- hashtag: captain-america-who-will-wield-the-shield
-  description: 'One-shot'
+- description: One-shot
+  hashtag: captain-america-who-will-wield-the-shield
+  issues: 1
   media: comics
   title: 'Captain America: Who Will Wield the Shield'
-  issues: 1
   year: 2010
-- hashtag: captain-america-who-wont-wield-the-shield
-  description: 'Parody one-shot'
-  media: comics
-  title: "Captain America: Who Won't Wield the Shield"
+- description: Parody one-shot
+  hashtag: captain-america-who-wont-wield-the-shield
   issues: 1
+  media: comics
+  title: 'Captain America: Who Won''t Wield the Shield'
   year: 0
-- hashtag: captain-america-and-2011
-  description: 'Team-up series'
-  media: comics
-  title: 'Captain America and ...'
+- description: Team-up series
+  hashtag: captain-america-and-2011
   issues: 21
-  year: 2011
-- hashtag: captain-america-v7-2011
-  description: 'Brubaker 2nd vol'
   media: comics
-  title: 'Captain America v7'
-  issues: 19
+  title: Captain America and ...
   year: 2011
-- hashtag: captain-america-sam-wilson-2015
-  description: 'Spencer. First Sam Wilson series as Cap'
+- description: Brubaker 2nd vol
+  hashtag: captain-america-v7-2011
+  issues: 19
+  media: comics
+  title: Captain America v7
+  year: 2011
+- description: Spencer. First Sam Wilson series as Cap
+  hashtag: captain-america-sam-wilson-2015
+  issues: 24
   media: comics
   title: 'Captain America: Sam Wilson'
-  issues: 24
   year: 2015
-- hashtag: avengers-standoff-2016
-  description: '3 one-shots'
-  media: comics
-  title: 'Avengers Standoff'
+- description: 3 one-shots
+  hashtag: avengers-standoff-2016
   issues: 3
+  media: comics
+  title: Avengers Standoff
   year: 2016
-- hashtag: captain-america-steve-rogers-2016
-  description: "Spencer detailing Hydra Cap's background and rise to power"
+- description: Spencer detailing Hydra Cap's background and rise to power
+  hashtag: captain-america-steve-rogers-2016
+  issues: 19
   media: comics
   title: 'Captain America: Steve Rogers'
-  issues: 19
   year: 2016
-- hashtag: captain-america-v9-2017
-  description: "#25, following Sam's series"
-  media: comics
-  title: 'Captain America v9'
+- description: '#25, following Sam''s series'
+  hashtag: captain-america-v9-2017
   issues: 1
-  year: 2017
-- hashtag: secret-empire-2017
-  description: 'Crossover event by Spencer. 10 issues main title, 9 issues side titles and omega'
   media: comics
-  title: 'Secret Empire'
+  title: Captain America v9
+  year: 2017
+- description: Crossover event by Spencer. 10 issues main title, 9 issues side titles
+    and omega
+  hashtag: secret-empire-2017
   issues: 19
-  year: 2017
-- hashtag: captain-america-v10-2017
-  description: 'Short Mark Waid run.'
   media: comics
-  title: 'Captain America v10'
+  title: Secret Empire
+  year: 2017
+- description: Short Mark Waid run.
+  hashtag: captain-america-v10-2017
   issues: 10
+  media: comics
+  title: Captain America v10
   year: 2017
-- hashtag: captain-america-v11-2018
-  description: 'Addendum to previous coverage of this volume'
-  media: comics
-  title: 'Captain America v11'
+- description: Addendum to previous coverage of this volume
+  hashtag: captain-america-v11-2018
   issues: 5
-  year: 2018
-- hashtag: captain-america-v12-2022
-  description: '#0'
   media: comics
-  title: 'Captain America v12'
+  title: Captain America v11
+  year: 2018
+- description: '#0'
+  hashtag: captain-america-v12-2022
   issues: 1
+  media: comics
+  title: Captain America v12
   year: 2022
-- hashtag: captain-america-symbol-of-truth-2022
-  description: 'Sam Wilson focused book'
+- description: Sam Wilson focused book
+  hashtag: captain-america-symbol-of-truth-2022
+  issues: 14
   media: comics
   title: 'Captain America: Symbol of Truth'
-  issues: 14
   year: 2022
-- hashtag: captain-america-sentinel-of-liberty-v2-2022
-  description: 'Steve Rogers focused book'
+- description: Steve Rogers focused book
+  hashtag: captain-america-sentinel-of-liberty-v2-2022
+  issues: 13
   media: comics
   title: 'Captain America: Sentinel of Liberty v2'
-  issues: 13
   year: 2022
-- hashtag: one-shots
-  description: '3 one-shots related to Cold War crossover and finale for Sentinel of Liberty'
+- description: 3 one-shots related to Cold War crossover and finale for Sentinel of
+    Liberty
+  hashtag: one-shots
+  issues: 3
   media: comics
   title: 'Captain America: Cold War Alpha, Cold War Omega, Finale'
-  issues: 3
   year: 2022
-- hashtag: captain-america-v13-2023
-  description: '#750'
-  media: comics
-  title: 'Captain America v13'
+- description: '#750'
+  hashtag: captain-america-v13-2023
   issues: 1
-  year: 2023
-- hashtag: captain-america-v14-2023
-  description: 'Straczynski'
   media: comics
-  title: 'Captain America v14 (2023)'
+  title: Captain America v13
+  year: 2023
+- description: Straczynski
+  hashtag: captain-america-v14-2023
   issues: 16
+  media: comics
+  title: Captain America v14 (2023)
   year: 2023
 syndicated:
 - type: reddit
   url: https://www.reddit.com/r/comicbooks/comments/22jfmb/question_about_brubakers_winter_soldier_story_line/
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/114522414622050339
 tags:
 - comics
 - comicbooks
