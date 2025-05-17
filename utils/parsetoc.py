@@ -20,7 +20,7 @@ template = """- hashtag: %s
   media: comics
   title: '%s'
   issues: 0
-  year: 0`"""
+  year: 0"""
 
 tocfile = Path("d:\\temp\\toc.json")
 with tocfile.open(encoding='UTF-8') as f:

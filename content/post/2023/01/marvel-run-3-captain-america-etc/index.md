@@ -125,7 +125,7 @@ Volume length: 25 issues
 
 I didn't read this during this time, but I skimmed some of the issues recently to make sure I remembered it correctly. I remember really enjoying this volume and it was one of the few times I enjoyed John Romita Jr's pencils (he worked on the first arc).
 
-This volume is by writer Rick Remender and covers the time Captain America was stranded in an alternate reality called "Dimension Z" created by **Arnim Zola**. Time moves faster in Dimension Z, and I think Cap was trapped in there for around 10 years of his time and even raised a boy he rescued as his own son. Cap's eventual escape from Dimension Z spills over into real-world consequences; by the end of this volume, he has been re-aged and has lost his Super Solider powers. In the final issue he passes the mantle of Captain America to **Sam Wilson**. 
+This volume is by writer Rick Remender and covers the time Captain America was stranded in an alternate reality called "Dimension Z" created by **Arnim Zola**. Time moves faster in Dimension Z, and I think Cap was trapped in there for around 10 years of his time and even raised a boy he rescued as his own son. Cap's eventual escape from Dimension Z spills over into real-world consequences; by the end of this volume, he has been re-aged and has lost his Super Soldier powers. In the final issue he passes the mantle of Captain America to **Sam Wilson**. 
 
 #### Captain America v11 (2018-2021)
 
