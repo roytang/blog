@@ -1,7 +1,7 @@
 ---
 albums:
 - pickups
-date: 2015-05-19 21:30:00+08:00
+date: 2015-05-19 13:30:00
 source: facebook
 syndicated:
 - type: facebook
@@ -9,6 +9,7 @@ syndicated:
 tags:
 - pickups
 - consolepeasant
+- gaming
 ---
 
 Hyped much? I already own the first two games elsewhere but havent found time to play them yet. And now I get GOG copies too! #consolepeasant

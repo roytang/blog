@@ -6,7 +6,10 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155630936728912
 tags:
-- fbreposts06
+- tv
+- xmen
+- convos
+title: Convo about The Gifted
 ---
 
 Superhero show overload? I haven't even watched Legion yet! (Bonus points to this series for having Amy Acker though)

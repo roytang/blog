@@ -7,6 +7,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156647735988912
 tags:
 - fitbit
+- convos
+title: Convo about getting a fitbit strap replacement
 ---
 
 Where can I get my fitbit strap replaced and also get a new charging thingy?

@@ -1,5 +1,5 @@
 ---
-date: 2018-05-20 07:41:54+00:00
+date: 2018-05-20 07:41:54
 source: twitter
 syndicated:
 - type: twitter
@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156649281183912
 tags:
 - westphsea
+- duterte
 ---
 
 I have heard of literally no one that wants us to go to war. When a person thinks that any criticism or protest should immediately translate into violence, it says a lot about how he thinks. There are other options between war and treason. 

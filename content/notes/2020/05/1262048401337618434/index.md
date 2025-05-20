@@ -1,9 +1,12 @@
 ---
-date: 2020-05-17 15:52:41+00:00
+date: 2020-05-17 15:52:41
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1262048401337618434/
+tags:
+- covid
+- covid19
 title: ''
 ---
 

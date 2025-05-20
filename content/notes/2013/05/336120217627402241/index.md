@@ -6,6 +6,10 @@ syndicated:
   url: https://twitter.com/roytang/statuses/336120217627402241/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152243148318912
+tags:
+- gaming
+- convos
+title: Convo about Dota2 invites
 ---
 
 Steam gave me even more Dota2 invites. I literally can't give this stuff away fast enough. Anyone want one?

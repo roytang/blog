@@ -6,6 +6,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10152967729588912
 tags:
 - saglitlangpramis
+- convos
+title: Convo about aircon and pasong tamo
 ---
 
 Sige na nga magaaircon na (tapos aangal sa electric bill) #saglitlangpramis

@@ -4,6 +4,11 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/733234322543534081/
+tags:
+- globe
+- talk2globe
+- convos
+title: Convo with Globe about paybill
 ---
 
 [@talk2GLOBE](https://twitter.com/talk2GLOBE/) https://www.globe.com.ph/paybill.html no longer accepts my mobile number, what gives?

@@ -6,6 +6,10 @@ syndicated:
   url: https://twitter.com/roytang/statuses/733091090971025408/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154609096023912
+tags:
+- barcelona
+- convos
+title: Convo about Barcelona street design
 ---
 
 Barcelona easily has the best street design among the cities I've visited 

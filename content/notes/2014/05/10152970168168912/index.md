@@ -4,7 +4,9 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152970168168912
-title: ''
+title: 'Convo about complicated meralco meter setups'
+tags:
+- convos
 ---
 
 Sinong nakakita na ng ganito sa neighborhood nila? 
