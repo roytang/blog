@@ -8,7 +8,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/333929970357374977/
-title: ''
+title: 'Convo with KC about local resto review apps'
+tags:
+- convos
 ---
 
 Not gonna eat at Causeway Seafood Restaurant again. Sabi ng manager sa Libis branch, "Pangit pala service, ba't di kayo umalis." 

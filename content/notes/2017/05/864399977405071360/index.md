@@ -6,6 +6,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/864399977405071360/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155627480703912
+tags:
+- convos
+title: Convo about longest running PH television shows
 ---
 
 Im a bit amused that PH has six entries here https://en.m.wikipedia.org/wiki/List_of_longest-running_television_shows_by_category

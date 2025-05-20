@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/599104778816237568/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153776183268912
+tags:
+- sorting
 ---
 
 Sorting is the curse of all who collect

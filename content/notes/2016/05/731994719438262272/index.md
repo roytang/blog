@@ -11,6 +11,8 @@ syndicated:
   url: https://twitter.com/roytang/status/732186331242074113/
 tags:
 - iamcrystalene
+- convos
+title: Unknown convo with Crystal
 ---
 
 [@iamcrystalene](https://twitter.com/iamcrystalene/) I'm here. Joke lang, madali din ako maligaw :p

@@ -7,6 +7,7 @@ syndicated:
 tags:
 - philippines
 - politics
+- phelections
 title: Truth, Logic, and Elections
 type: post
 ---

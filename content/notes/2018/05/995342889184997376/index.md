@@ -6,6 +6,10 @@ syndicated:
   url: https://twitter.com/roytang/statuses/995342889184997376/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156633064968912
+tags:
+- convos
+- tv
+title: Convo about The Expanse
 ---
 
 Should i start watching The Expanse?

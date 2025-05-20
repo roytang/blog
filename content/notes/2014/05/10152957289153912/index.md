@@ -4,7 +4,10 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152957289153912
-tags: []
+tags: 
+- convos
+- books
+title: Convo about unread books
 ---
 
 The number of unread books in my room is too damn high

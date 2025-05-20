@@ -149,6 +149,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/495920050285838337/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153128432593912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153777943143912
 tags:
 - movies
 - backpost
@@ -170,6 +172,12 @@ title: Movies I Watched In 2014
 #### Captain America: Winter Soldier
 
 <time>[2014-03-27 14:03] </time> Cap America 2 snap judgment: fun movie, better than Iron Man 3/Thor 2. Great for comic fans! #fb
+
+---
+
+<time id="10153777943143912">[2015-05-16 10:04] </time> The scene with Agent 13 and Rumlow in the helicarrier launch control room in Winter Soldier was great. I hope she makes it back in Civil War
+
+[Comments](#comment-4ce647df-1405-4385-af25-5f1dacd5b05b)
 
 #### Olympus Has Fallen (2013)
 

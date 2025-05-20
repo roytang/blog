@@ -1,5 +1,5 @@
 ---
-date: 2020-05-13 09:39:50+00:00
+date: 2020-05-13 09:39:50
 repost_source:
   name: dumidyeypee
   type: twitter
@@ -8,6 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1260505021017255942/
+tags:
+- duterte
 title: ''
 ---
 

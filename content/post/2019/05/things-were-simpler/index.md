@@ -8,6 +8,8 @@ tags:
 - philippines
 - politics
 - current events
+- phelections
+- halalan2019
 title: Things were simpler before we were woke
 type: post
 ---

@@ -8,7 +8,9 @@ syndicated:
   url: https://www.facebook.com/barayantan/posts/10153254341598926?comment_id=10153254677008926
 tags:
 - arrowverse
-title: ''
+- convos
+- tv
+title: 'Convo about Arrowverse'
 ---
 
 Finally Atom is the Atom and not just Iron Man Luis Formilleza

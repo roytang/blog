@@ -4,6 +4,10 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/69333188866084864/
+tags:
+- convos
+- mtg
+title: Convo with Alex about a Karn deck
 ---
 
 [@aleksfelipe](https://twitter.com/aleksfelipe/) what about this list: http://www.starcitygames.com/decks/38304 I think we have all the pieces (then we can put stoneforge elsewhere)
