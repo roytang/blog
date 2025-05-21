@@ -1,5 +1,5 @@
 ---
-date: 2016-05-11 10:56:31+00:00
+date: 2016-05-11 10:56:31
 source: reddit
 syndicated:
 - type: reddit
@@ -7,6 +7,7 @@ syndicated:
 tags:
 - TheSimpsons
 - reddit_submission
+- simpsons
 ---
 
 #### Posted on r/TheSimpsons: [Looking for an episode where mr burns was trying to attack someone but all he could do was flail his arms weakly and deal no damage](https://www.reddit.com/r/TheSimpsons/comments/4iuczv/looking_for_an_episode_where_mr_burns_was_trying/)

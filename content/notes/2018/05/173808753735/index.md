@@ -10,6 +10,7 @@ syndicated:
   url: https://roytang.tumblr.com/post/173808753735/megmerilees-puppehgal-seiya234
 tags:
 - discworld
+- threads
 ---
 
 <p>To those trying to use my post to say Terry Pratchett would have been for the racist right wing rhetoric that resulted in Brexit…what’s it like being Lord Rust?<br/></p>

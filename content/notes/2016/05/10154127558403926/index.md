@@ -1,5 +1,5 @@
 ---
-date: 2016-05-11 12:55:00+08:00
+date: 2016-05-11 04:55:00
 dontinlinephotos: true
 source: facebook
 syndicated:
@@ -8,6 +8,7 @@ syndicated:
 tags:
 - labanleni
 - halalanresults
+- halalan2016
 ---
 
 Tagged in [a post by Brian Jefferson Tan](https://www.facebook.com/barayantan/posts/10154127558403926):

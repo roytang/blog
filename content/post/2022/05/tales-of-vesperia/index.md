@@ -11,6 +11,8 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/108310221327618116
 - type: twitter
   url: https://twitter.com/roytang/status/1526088487895650304/
+- type: twitter
+  url: https://twitter.com/roytang/status/1524748593227190272/
 tags:
 - gaming
 - talesof
@@ -19,6 +21,8 @@ title: 'Tales of Vesperia: Definitive Edition'
 resources:
 - src: steam-replay-vesperia.png
   title: Stats for this game from my 2022 Steam Replay
+- src: vesperia-completion.png
+  title: Took me 5.5 months and 193hrs of gameplay to finally complete Tales of Vesperia @_@ 
 ---
 
 I started playing Tales of Vesperia in January, since I had just finished [Tales of Symphonia](/2021/12/symphonia/) a couple of weeks prior. Vesperia is that rare PS3 era RPG that never got an English-language release on that system, so I've actually been wanting to play this for more than a decade now, though I actually bought the game only during last year's end-of-year Steam sales.
@@ -42,3 +46,7 @@ So far among the Steam-available Tales games, Symphonia is the only one I gave u
 I did of course take a lot of screenshots!
 
 {{< collections-embed albums vesperia >}}
+
+### Steam Replay Stats
+
+{{< photos replay >}}

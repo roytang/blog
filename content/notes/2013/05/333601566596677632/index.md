@@ -9,6 +9,8 @@ syndicated:
   url: https://twitter.com/roytang/status/333603489622142977/
 - type: twitter
   url: https://twitter.com/roytang/status/333612518016708608/
+tags:
+- meralco
 ---
 
 Power's out over here in tandang sora qc

@@ -6,7 +6,9 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10152232409298912
 - type: twitter
   url: https://twitter.com/roytang/statuses/333357385890541569/
-title: ''
+title: 'Convo about Tuberos'
+tags:
+- convos
 ---
 
 So, have any of you ever called a number from one of those Tubero signs posted all over? 
