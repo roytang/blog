@@ -1,5 +1,5 @@
 ---
-date: 2017-05-21 00:15:00+08:00
+date: 2017-05-20 16:15:00
 dontinlinephotos: true
 repost_source:
   name: Ezra Klein
@@ -11,9 +11,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155641067683912
 tags:
 - fbreposts09
+- barcelona
 ---
-
-
 
 [Watch video on Facebook](https://www.facebook.com/ezraklein/posts/676725529181719)
 

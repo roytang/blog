@@ -1,5 +1,5 @@
 ---
-date: 2017-05-21 00:22:00+08:00
+date: 2017-05-20 16:22:00
 dontinlinephotos: true
 source: facebook
 syndicated:
@@ -7,6 +7,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155641086273912
 tags:
 - fbreposts06
+- drugwar
 ---
 
 Well, the main problem with such an approach is that it requires a lot of money and effort and time, and we as a nation might be too short-sighted for this sort of thing to work. A lot of people here seem to think it's better to have a violent crackdown and have people shot in their homes for being casual drug users. Or something. I imagine this is the sort of thing EU countries would be happy to give aid for though.

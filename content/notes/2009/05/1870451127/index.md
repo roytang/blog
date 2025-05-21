@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1870451127/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/83411242231
+tags:
+- phpuns
 ---
 
 ano sa tagalog ang twitter?
