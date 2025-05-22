@@ -84,7 +84,11 @@ Started following this after watching and enjoying [the anime earlier this year]
 
 Latest chapter: 395
 
-My own notes say [I read and binged all of this back in 2019](/2019/05/1131160020920332288/) and I think I have been following it since then. It's okay and very standard Shonen fare, but I do find it a bit hard to enjoy some of the massive fight scenes because the drawings and layouts can be a bit hard to follow. I am a bit behind on the anime, but I am looking forward to seeing many of these fights animated. Also, the series has SOOO MANY CHARACTERS which is a problem for me because I have trouble keeping such large casts straight (see *One Piece* below). The series is on its final arc at the moment, it will likely finish late this year or early next year.
+[I read and binged all of this back in 2019](https://twitter.com/roytang/statuses/1131160020920332288/):
+
+> After reading all of My Hero Academia I kind of want a shonen style X-men book
+
+I think I have been following it since then. It's okay and very standard Shonen fare, but I do find it a bit hard to enjoy some of the massive fight scenes because the drawings and layouts can be a bit hard to follow. I am a bit behind on the anime, but I am looking forward to seeing many of these fights animated. Also, the series has SOOO MANY CHARACTERS which is a problem for me because I have trouble keeping such large casts straight (see *One Piece* below). The series is on its final arc at the moment, it will likely finish late this year or early next year.
 
 ### One-Punch Man
 

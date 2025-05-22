@@ -1,5 +1,5 @@
 ---
-date: 2015-05-22 12:44:00+08:00
+date: 2015-05-22 04:44:00
 source: facebook
 syndicated:
 - type: facebook
@@ -8,6 +8,8 @@ tags:
 - mobile-uploads
 - fridaythoughts
 - onepunchman
+- manga
+- panels
 ---
 
 #fridaythoughts #onepunchman

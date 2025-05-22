@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1872502526/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/83973142247
+tags:
+- phpuns
 ---
 
 RT [@roytang](https://twitter.com/roytang/): ano sa tagalog ang twitter? -&gt; A: "Mat matamit"
