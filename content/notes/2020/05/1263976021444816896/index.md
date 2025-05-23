@@ -14,6 +14,7 @@ syndicated:
 tags:
 - shadaloo
 - QUIZ_STREET_FIGHTER_ACADEMY
+- quizzes
 ---
 
 Put your knowledge to the test with the Street Fighter Quiz! My Score: 8848 https://game.capcom.com/cfn/sfv/ #shadaloo C.R.I. #QUIZ_STREET_FIGHTER_ACADEMY

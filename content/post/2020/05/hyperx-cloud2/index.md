@@ -1,14 +1,15 @@
 ---
-title: "HyperX Cloud II Gaming Headset"
+albums:
+- pickups
+date: 2020-05-23 11:30:30
 slug: hyperx-cloud2
-date: 2020-05-23T19:30:30+08:00
 syndicated:
 - type: instagram
   url: https://instagram.com/p/CAh_MROhkoH/
-albums: 
-- pickups
 tags:
 - tech life
+- formernote
+title: HyperX Cloud II Gaming Headset
 ---
 
 I ordered this HyperX Cloud II Gaming Headset off Lazada on the first day of MECQ. It's a bit expensive. Delivery came in Saturday morning, so around a week, not too bad.

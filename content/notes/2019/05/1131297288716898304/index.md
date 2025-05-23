@@ -1,11 +1,13 @@
 ---
-date: 2019-05-22 20:34:26+00:00
+date: 2019-05-22 20:34:26
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1131297288716898304/
 tags:
 - fb
+- halalan2019
+- philippines
 title: ''
 ---
 
