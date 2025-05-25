@@ -10,6 +10,7 @@ tags:
 - Gaming
 - games
 - aceattorney
+- nds
 title: 'Phoenix Wright: Ace Attorney (NDS)'
 type: post
 url: /2007/04/phoenix-wright-ace-attorney-nds/

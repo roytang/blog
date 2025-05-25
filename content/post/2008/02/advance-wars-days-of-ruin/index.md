@@ -10,6 +10,7 @@ reviews:
 tags:
 - Gaming
 - games
+- nds
 title: 'Advance Wars: Days of Ruin'
 type: post
 url: /2008/02/advance-wars-days-of-ruin/

@@ -3,6 +3,8 @@ categories: []
 date: 2008-12-31 09:22:06
 tags:
 - Gaming
+- nds
+- psp
 title: Gaming in 2009
 type: post
 url: /2008/12/gaming-in-2009/

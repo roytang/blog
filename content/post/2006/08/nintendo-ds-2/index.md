@@ -3,6 +3,7 @@ categories: []
 date: 2006-08-27 07:28:54
 tags:
 - Gaming
+- nds
 title: Nintendo DS
 type: post
 url: /2006/08/nintendo-ds-2/

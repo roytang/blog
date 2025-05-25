@@ -3,6 +3,7 @@ categories: []
 date: 2006-10-10 07:12:07
 tags:
 - Gaming
+- nds
 title: Quick Impressions on Some DS Games
 type: post
 url: /2006/10/quick-impressions-on-some-ds-games/

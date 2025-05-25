@@ -10,6 +10,7 @@ tags:
 - Gaming
 - zelda
 - games
+- nds
 title: Legend of Zelda -- Phantom Hourglass
 type: post
 url: /2007/10/legend-of-zelda-phantom-hourglass/

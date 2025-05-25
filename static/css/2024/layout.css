@@ -409,7 +409,12 @@ video {
 }
 
 article {
+    max-width: 96ch;
+}
+
+article .e-content {
     max-width: 80ch;
+    margin: auto;
 }
 
 article, .comment_body, .title {
@@ -448,7 +453,7 @@ iframe {
     max-width: 90%;
 }
 
-.pxgallery img, .pxgallery video {
+.pxgallery img, .pxgallery video, .pxgallery figcaption {
     max-width: 240px;
 }
 

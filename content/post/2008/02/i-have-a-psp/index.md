@@ -3,6 +3,7 @@ categories: []
 date: 2008-02-09 19:10:15
 tags:
 - Gaming
+- psp
 title: I have a PSP
 type: post
 url: /2008/02/i-have-a-psp/

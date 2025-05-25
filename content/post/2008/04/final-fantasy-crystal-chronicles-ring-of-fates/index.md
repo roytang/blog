@@ -8,6 +8,7 @@ reviews:
 tags:
 - Gaming
 - games
+- nds
 title: 'Final Fantasy Crystal Chronicles: Ring of Fates'
 type: post
 url: /2008/04/final-fantasy-crystal-chronicles-ring-of-fates/

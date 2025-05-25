@@ -3,6 +3,7 @@ categories: []
 date: 2007-02-25 06:41:46
 tags:
 - Gaming
+- nds
 title: State of the Gaming -- February 2007
 type: post
 url: /2007/02/state-of-the-gaming-february-2007/
