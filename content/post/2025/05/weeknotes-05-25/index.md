@@ -1,13 +1,15 @@
 ---
-date: 2025-05-25T20:18:12+08:00
+date: 2025-05-25 12:18:12
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/114559704904855903
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/114568573269313718
 tags:
 - weeknotes
 title: Weeknotes 2025-05-25
 toc: true
-syndicated:
-- type: mastodon
-  url: https://indieweb.social/users/roytang/statuses/114559704904855903
 ---
 
 ### The World
