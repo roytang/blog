@@ -21,10 +21,15 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/108385656918376887
 - type: twitter
   url: https://twitter.com/roytang/status/1530916356882767873/
+- type: twitter
+  url: https://twitter.com/roytang/status/1530046129353543680/
+- type: twitter
+  url: https://twitter.com/roytang/status/1530048491493347328/
 tags:
 - weeknotes
 - philippines
 - movies
+- covid19
 title: Weeknotes 2022-05-29
 ---
 
@@ -64,7 +69,11 @@ Visit the [Links page](/links/) for more links of interest.
 
 ### My Week
 
-- Friday morning: I accompanied my parents to get their 2nd covid booster at World Citi Medical Center. Supposedly only people in categories A1 (medical personnel) and A2 (seniors) are already allowed to get the 2nd booster, but when my dad asked if I could get one too, they agreed, so yay? I ended up getting Pfizer for my second booster (parents got Moderna), putting me one step closer to my goal of [getting every covid vaccine into my system](/2022/05/1530046129353543680/).
+- Friday morning: I accompanied my parents to get their 2nd covid booster at World Citi Medical Center. Supposedly only people in categories A1 (medical personnel) and A2 (seniors) are already allowed to get the 2nd booster, but when my dad asked if I could get one too, they agreed, so yay? I ended up getting Pfizer for my second booster (parents got Moderna), putting me one step closer to my goal of getting every covid vaccine into my system:.
+
+  > <time id="1530046129353543680">[2022-05-27 12:39]</time> Accidentally got 2nd booster today. Sinovac (may2021) -&gt; AstraZ (dec2021) -&gt; Pfizer (may2022). #covid19
+  > 
+  > <time id="1530048491493347328">[12:49]</time> Looking forward to whatever mutant power I develop if I ever manage to get Moderna and Jansenn doses as well.
 
 - Friday afternoon: I hadn't felt any side effects from the vaccine yet, so I go out for my usual afternoon walk plus a bunch of errands. Additional groceries, meds for the folks, picking up some stuff I had dropped off for repair, that kind of thing. Walked a lot more than I expected while carrying a heavy bag and I was dead tired by the end of it, ended up sleeping early.
 

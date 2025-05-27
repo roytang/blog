@@ -389,6 +389,8 @@ figcaption {
 
 .comments {
     font-size: var(--font-size-smaller);
+    max-width: 80ch;
+    margin: auto;
 }
 
 /* Something fun lol */

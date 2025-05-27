@@ -1,5 +1,5 @@
 ---
-date: 2014-05-27 10:46:00+08:00
+date: 2014-05-27 02:46:00
 dontinlinephotos: true
 repost_source:
   name: IFLScience
@@ -11,6 +11,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10152985452953912
 tags:
 - fbreposts07
+- rules
 ---
 
 These are pretty good rules for everyone else too.

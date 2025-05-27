@@ -8,6 +8,7 @@ syndicated:
 tags:
 - fbreposts06
 - arrowverse
+- tv
 ---
 
 This video is awesome, but I'll use it as an opportunity to talk about Arrow.

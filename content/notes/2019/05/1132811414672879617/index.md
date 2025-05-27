@@ -1,9 +1,13 @@
 ---
-date: 2019-05-27 00:51:02+00:00
+date: 2019-05-27 00:51:02
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1132811414672879617/
+tags:
+- tv
+- gameofthrones
+- parksandrec
 title: ''
 ---
 

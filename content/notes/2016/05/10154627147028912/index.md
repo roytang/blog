@@ -8,6 +8,7 @@ syndicated:
 tags:
 - fbreposts05
 - mtg
+- wmcq
 ---
 
 Amazing. Qualified ako somehow for WMCQs this year (despite being "inactive")! Counted pa pala yung last 2 GPs I played last year~
