@@ -39,6 +39,7 @@ tags:
 - 3ds
 - zelda
 - games
+- nintendo
 title: 3DS Games Part 2
 toc: true
 ---

@@ -46,6 +46,7 @@ tags:
 - zelda
 - talesof
 - games
+- nintendo
 title: 3DS Games Part 1
 toc: true
 ---
