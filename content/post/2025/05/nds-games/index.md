@@ -8,14 +8,14 @@ reviews:
   platforms:
   - nds
   rating: 4.5
-  title: 'Professor Layton and the Curious Village (NDS)'
+  title: Professor Layton and the Curious Village (NDS)
 - date: 2006-12-08
   hashtag: new-super-mario-bros
   media: games
   platforms:
   - nds
   rating: 4.0
-  title: 'New Super Mario Bros (NDS)'
+  title: New Super Mario Bros (NDS)
 - date: 2006-12-12
   hashtag: castlevania-dawn-of-sorrow
   media: games
@@ -63,6 +63,10 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/119317562911
 - type: twitter
   url: https://twitter.com/roytang/statuses/18084851998/
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/114580621244467913
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/114580631158733232
 tags:
 - gaming
 - nds
