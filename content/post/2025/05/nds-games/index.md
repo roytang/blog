@@ -80,13 +80,13 @@ Previously: [3DS Games Part 1](/2023/06/3ds-games/), [3DS Games Part 2](/2023/06
 
 A couple of years ago, I wrote some retro reviews of games I finished from my 3DS library. Today I'm going to talk about the predecessor system and its games: The Nintendo DS! 
 
-I first got a Nintendo DS around October of 2006 and around July 2008, the hinge broke!
+I first got a Nintendo DS around October of 2006 and around July 2010, the hinge broke!
 
 On <time>[7/9/2010, 10:49:23 AM]</time> [I wrote](https://roytang.net/files/twitter/roytang/status/18084851998/):
 
 > Terrific. I just broke the hinge off my DS, now the upper screen is tilted. When is the 3DS coming out?
 
-I still managed to keep playing with the system for another month or so until August 2008, when I appear to have abandoned it completely, presumably because it became unusable. I am kind of surprised the system only lasted me less than 2 years, considering my two 3DS systems have lasted for more than a decade now and still working fine (except for some stick issues I guess).
+I still managed to keep playing with the system for another month or so until August 2010, when I appear to have abandoned it completely, presumably because it became unusable. I am kind of surprised the system only lasted me less than 4 years, considering my two 3DS systems have lasted for more than a decade now and still working fine (except for some stick issues I guess).
 
 I dug the NDS out of storage a couple months ago and it was in terrible shape, you can easily see why I stopped using it:
 
