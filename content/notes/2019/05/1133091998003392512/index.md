@@ -7,6 +7,8 @@ syndicated:
   url: https://twitter.com/roytang/status/1133091998003392512/
 - type: twitter
   url: https://twitter.com/roytang/status/1133095150261948416/
+tags:
+- anxiety
 ---
 
 I envy people who, lying in bed at 3am, are able to avoid thinking about a work problem that they had all day. i need that level of compartmentalization
