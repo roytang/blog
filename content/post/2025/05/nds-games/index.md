@@ -64,8 +64,6 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/18084851998/
 - type: mastodon
-  url: https://indieweb.social/users/roytang/statuses/114580621244467913
-- type: mastodon
   url: https://indieweb.social/users/roytang/statuses/114580631158733232
 tags:
 - gaming
