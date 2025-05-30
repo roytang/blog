@@ -4,7 +4,10 @@ source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/151749024894799
-title: ''
+title: 'Convo about naming the quiz team'
+tags:
+- quiznight
+- convos
 ---
 
 Christian Cheng Ryan Sylam Liwanag Jaime L. Garcia Lizbeth Jane Garcia Josiah Habana Bimbo Bren Dy Tioco gusto ko ung mga ibang suggestion dito. Pwede ba natin gamitin sometime ung team name na "Hoof Hearted"?

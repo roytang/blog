@@ -5,6 +5,8 @@ date: 2019-05-30 05:56:56
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1134084884425842688/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1133406151507243009/
 tags:
 - magicarena
 - war of the spark
@@ -25,43 +27,49 @@ At the start of the month I was running an [Esper fun deck](/2019/05/war-of-spar
 
 Here's the list I took to Mythic:
 
-```
-1 Nissa, Who Shakes the World (WAR) 169
-5 Swamp (RIX) 194
-2 Vivien Reid (M19) 208
-1 Vraska, Golgari Queen (GRN) GR8
-7 Forest (RIX) 196
-2 Carnage Tyrant (XLN) 179
-4 Jadelight Ranger (RIX) 136
-4 Llanowar Elves (DAR) 168
-2 Casualties of War (WAR) 187
-1 Massacre Girl (WAR) 99
-4 Merfolk Branchwalker (XLN) 197
-2 Paradise Druid (WAR) 171
-2 Ravenous Chupacabra (RIX) 82
-4 Wildgrowth Walker (XLN) 216
-3 Assassin's Trophy (GRN) 152
-4 Field of Ruin (XLN) 254
-4 Overgrown Tomb (GRN) 253
-4 Woodland Cemetery (DAR) 248
-1 Vraska, Golgari Queen (GRN) 213
-2 Moment of Craving (RIX) 79
-1 Command the Dreadhorde (WAR) 82
-```
+{{< cardlist >}}
 
-Sideboard:
-```
-1 Crucible of Worlds (M19) 229
-2 Cast Down (DAR) 81
-4 Duress (M19) 94
-2 Thrashing Brontodon (RIX) 148
-1 Ob Nixilis's Cruelty (WAR) 101
-2 The Elderspell (WAR) 89
-1 Command the Dreadhorde (WAR) 82
-2 Kraul Harpooner (GRN) 136
-```
+{{< cardgroup title="Creatures" >}}
+2 Carnage Tyrant
+4 Jadelight Ranger
+4 Llanowar Elves
+1 Massacre Girl
+4 Merfolk Branchwalker
+2 Paradise Druid
+2 Ravenous Chupacabra
+4 Wildgrowth Walker
+{{< /cardgroup >}}
 
-(Someday I'll fix my hugo templating to make these decklists prettier and include Arena export.)
+{{< cardgroup title="Lands" >}}
+5 Swamp
+7 Forest
+4 Field of Ruin
+4 Overgrown Tomb
+4 Woodland Cemetery
+{{< /cardgroup >}}
+
+{{< cardgroup title="Other Spells" >}}
+1 Nissa, Who Shakes the World
+2 Vivien Reid
+2 Vraska, Golgari Queen
+2 Casualties of War
+3 Assassin's Trophy
+2 Moment of Craving
+1 Command the Dreadhorde
+{{< /cardgroup >}}
+
+{{< cardgroup title="Sideboard" >}}
+1 Crucible of Worlds
+2 Cast Down
+4 Duress
+2 Thrashing Brontodon
+1 Ob Nixilis's Cruelty
+2 The Elderspell
+1 Command the Dreadhorde
+2 Kraul Harpooner
+{{< /cardgroup >}}
+
+{{< /cardlist >}}
 
 As you can see, the list isn't optimal. I based it off SRXtheVG's 5-0 list at [this link](https://magic.wizards.com/en/articles/archive/mtgo-standings/competitive-standard-constructed-league-2019-05-27), but was missing quite a few rares, so I sort of played around with the list a bit. The Dreadhordes I just put in for fun, but I never got to play them.
 
@@ -75,4 +83,6 @@ I'm not sure how accurate these game counts are, it felt like I did more matches
 
 Anyway, I won't be able to play Arena again until July, probably the meta will be completely different again by that time lol. For now, a welcome respite from the tyranny of the shuffler.
 
-{{< note "2019/05/1133406151507243009/" >}}
+On [May 29, 2019, 12:14 a.m.](https://twitter.com/roytang/statuses/1133406151507243009/) I wrote:
+
+> It's great when I'm like "I'll try a few more games of magic arena before going to bed, surely I can get back to Diamond 1 quickly" and the shuffler decides to smite me for my insolence

@@ -1,10 +1,13 @@
 ---
-date: 2022-05-29 03:13:23+00:00
+date: 2022-05-29 03:13:23
 dontinlinephotos: true
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/1530749116178804737/
+tags:
+- philippines
+- marcos
 ---
 
 All-hands meeting sa BIR:

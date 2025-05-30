@@ -6,6 +6,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/472407067639025664/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152992772888912
+title: Convo about iTunes account w/o billing info
+tags:
+- convo
 ---
 
 Can I no longer create an iTunes account without billing information?
