@@ -3,9 +3,11 @@
   "name": "Karina Lipayon",
   "url": "https://www.facebook.com/krna82",
   "text": "I got confused by the soldiers too until I saw the explicit labels: &quot;are they telling me martial law is good but showing me that martial law is bad?&quot;",
-  "date": "2017-05-31 00:00:02",
+  "date": "2017-05-31 17:32:03 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155670973313912#10155671096813912",
+  "source": "cb76ae93",
+  "spam": false,
   "source_obj": {
     "id": "10155671096813912",
     "poster": "Karina Lipayon",
@@ -13,5 +15,6 @@
     "text": "I got confused by the soldiers too until I saw the explicit labels: \"are they telling me martial law is good but showing me that martial law is bad?\"",
     "attachments": [],
     "date": "May 31, 2017"
-  }
+  },
+  "reply_to": "https://www.facebook.com/stephen.roy.tang/posts/10155670973313912"
 }

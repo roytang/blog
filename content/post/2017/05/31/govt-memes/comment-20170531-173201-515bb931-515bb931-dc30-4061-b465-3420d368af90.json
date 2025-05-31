@@ -3,9 +3,11 @@
   "name": "Lorenz Ponce",
   "url": "https://www.facebook.com/lponce",
   "text": "Buti na lang nakalabel yung mga sundalo este extremist",
-  "date": "2017-05-31 00:00:00",
+  "date": "2017-05-31 17:32:01 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10155670973313912#10155670987448912",
+  "source": "515bb931",
+  "spam": false,
   "source_obj": {
     "id": "10155670987448912",
     "poster": "Lorenz Ponce",
@@ -13,5 +15,6 @@
     "text": "Buti na lang nakalabel yung mga sundalo este extremist",
     "attachments": [],
     "date": "May 31, 2017"
-  }
+  },
+  "reply_to": "https://www.facebook.com/stephen.roy.tang/posts/10155670973313912"
 }

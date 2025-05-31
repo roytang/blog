@@ -12,13 +12,23 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/104263621288147715
 - type: twitter
   url: https://twitter.com/roytang/statuses/1267106076966547462/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1266870420382179328/
 tags:
 - weeknotes
 - movies
+- TrumpIsAPieceOfShit
+- BlackLivesMatter
 title: Weeknotes 2020-05-31
 ---
 
 It seems difficult to write about stuff today, when the world seems like it is on fire. 
+
+On <time>[May 31, 2020, 7:13 a.m.](https://roytang.net/files/twitter/roytang/status/1266870420382179328/)</time> I wrote:
+
+> Not an American, but I considered writing out some of my thoughts on the current events there in a show of solidarity, but very hard to fit into a tweet. Probably need a blog post at some point.
+> 
+> For now: #BlackLivesMatter #TrumpIsAPieceOfShit
 
 For historical context, for the past few days the USA, presumably a first-world nation, has been in the grip of massive protests and riots and police brutality following the murder of a black man by four police officers was captured on video and went viral. Basically, many states are responding to protests against police brutality with... police brutality. Bold move Cotton. I'm not an American, but this resonates with me a lot because to see this kind of thing happening in a country that purports to champion human rights, how much worse can it be in a country like ours or a dictatorship like China where they don't even give lip service to the concept? (Spoiler: we already know police brutality and EJKs are a thing in my country.) I give my support to those protesting, and hope they achieve the reforms their country needs. 
 
