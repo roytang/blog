@@ -7,6 +7,7 @@ syndicated:
 tags:
 - arrowverse
 - legendsoftomorrow
+- tv
 ---
 
 How time travel works in Legends of Tomorrow:
