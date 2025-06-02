@@ -1,5 +1,5 @@
 ---
-date: 2016-06-03 12:37:26+00:00
+date: 2016-06-03 12:37:26
 source: instagram
 syndicated:
 - type: instagram
@@ -10,6 +10,9 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154644055973912
 tags:
 - instagram
+- comics
+- comicbooks
+- pickups
 title: ''
 ---
 

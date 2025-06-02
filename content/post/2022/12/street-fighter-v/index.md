@@ -79,6 +79,10 @@ syndicated:
   url: https://twitter.com/roytang/status/1591033088699961344/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156299200988912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1003165575634305024/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156679526198912
 tags:
 - gaming
 - streetfighterv
@@ -239,6 +243,10 @@ Now that I've written this blog post, I plan to uninstall the game! I had a lot 
 
 ---
 
+<time id="1003165575634305024">[2018-06-03 14:44] </time> I don't mean to brag, but I happen to be in the top 100,000 Street Fighter V players (in Asia)
+
+---
+
 <time id="1040619825096155136">[2018-09-14 23:14] </time> 7-2 tonight with Cody, which is much better than how I usually fare. Still annoyed that I could only find 4 opponents in an hour.
 
 ---
@@ -257,7 +265,7 @@ Now that I've written this blog post, I plan to uninstall the game! I had a lot 
 
 ---
 
-#### 2018
+#### 2019
 
 <time id="1156907046249234432">[2019-08-01 20:38] </time> I feel like I'm going to be tempted to get the 3 new SFV characters even though (a) SFV isn't in the best place right now; (b) I'm not very good at the game anyway; (c) I'm probably still gonna be using Ryu all the time lol
 
@@ -350,3 +358,4 @@ Now I'm ready to move on to SF6 next year!
 {{< photos 1591033088699961344 >}}
 
 ---
+

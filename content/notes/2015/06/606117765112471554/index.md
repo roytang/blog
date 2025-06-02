@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/606117765112471554/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153832951358912
+tags:
+- lifeprotips
 ---
 
 Have the courage to be silly every so often (at least)

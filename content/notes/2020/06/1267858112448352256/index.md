@@ -1,9 +1,11 @@
 ---
-date: 2020-06-02 16:38:24+00:00
+date: 2020-06-02 16:38:24
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1267858112448352256/
+tags:
+- duterte
 title: ''
 ---
 
