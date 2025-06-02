@@ -72,8 +72,8 @@ Google Fit tells me I walked 55,074 steps over the past week (Sunday to Saturday
 - [You Can Choose Tools That Make You Happy](https://borretti.me/article/you-can-choose-tools-that-make-you-happy)
 
     > "Because people make technical decisions, in part, for affective reasons. They choose a technology because it feels good, or comfortable, or because it’s what they know. They choose obscure tech as a form of sympathetic magic...
-
-    But many people can’t admit this to themselves! Because it is contrary to their identity: that they are unfeeling Cartesian rationalist automata. And so they invent rationalizations. Once you read enough of these posts, you see the patterns."
+    > 
+    > But many people can’t admit this to themselves! Because it is contrary to their identity: that they are unfeeling Cartesian rationalist automata. And so they invent rationalizations. Once you read enough of these posts, you see the patterns."
 
 - [Clair Obscur: Expedition 33 didn’t invent Final Frenchtasy or the J'RPG: the newly dubbed subgenre has a long and complicated history | PC Gamer](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-didnt-invent-final-frenchtasy-or-the-jrpg-the-newly-dubbed-subgenre-has-a-long-and-complicated-history/)
 

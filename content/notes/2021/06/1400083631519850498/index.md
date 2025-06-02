@@ -1,9 +1,11 @@
 ---
-date: 2021-06-02 13:35:24+00:00
+date: 2021-06-02 13:35:24
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/1400083631519850498/
+tags:
+- covid19
 ---
 
 Would love to be proven wrong, but I dont think they would withdraw the face shield mandate because that would involve admitting to a mistake. 
