@@ -1,0 +1,38 @@
+{
+  "id": "26237dff-c58c-457b-b22e-21d2c698688e",
+  "name": "Dominik Schwind",
+  "url": "https://dominikschwind.com/",
+  "text": "Mentioned by https://lostfocus.de/2025/06/02/weeknotes-in-other-places/\n\n> Gyford James Van Dyne Jeff Bridgforth Joel Chrono Robb Knight Roy Tang Walknotes And I\u2019m pretty sure that\u2019s just the tiny little",
+  "date": "2025-06-03 03:28:35 +0800",
+  "photo": "https://avatars.webmention.io/lostfocus.de/5991d3c4d5d47cd951ef8dbb0ded753c894f802534d223e7ba0d033c14fb7152.jpg",
+  "source_url": "https://lostfocus.de/2025/06/02/weeknotes-in-other-places/",
+  "source": "webmention",
+  "spam": false,
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Dominik Schwind",
+      "photo": "https://avatars.webmention.io/lostfocus.de/5991d3c4d5d47cd951ef8dbb0ded753c894f802534d223e7ba0d033c14fb7152.jpg",
+      "url": "https://dominikschwind.com/"
+    },
+    "url": "https://lostfocus.de/2025/06/02/weeknotes-in-other-places/",
+    "published": "2025-06-02T19:28:35+02:00",
+    "wm-received": "2025-06-02T17:29:13Z",
+    "wm-id": 1915379,
+    "wm-source": "https://lostfocus.de/2025/06/02/weeknotes-in-other-places/",
+    "wm-target": "https://roytang.net/2025/06/weeknotes-06-01/",
+    "wm-protocol": "webmention",
+    "name": "Weeknotes in other places",
+    "content": {
+      "html": "<p>When talking to a friend today about weeknotes I mentioned that besides me and my friends over at <a href=\"https://weeknotes.cafe/\">weeknotes.cafe</a> it\u2019s is actually <em>a thing</em> on quite a few personal blogs out there.</p>\n\n\n\n<p>Just searching for the terms \u201cweek\u201d and \u201cweeknotes\u201d in my feed reader already gives me these blogs, sorted alphabetically:</p>\n\n\n\n<ul><li><a href=\"https://alicebartlett.co.uk/blog/weaknotes-352\">Alice Bartlett</a></li>\n\n\n\n<li><a href=\"https://anhvn.com/posts/2025/weeknotes-32/\">Anh</a></li>\n\n\n\n<li><a href=\"https://barryfrost.com/2025/06/week-197-elbow\">Barry Frost</a></li>\n\n\n\n<li><a href=\"https://www.gyford.com/phil/writing/2025/06/01/weeknotes/\">Phil Gyford</a></li>\n\n\n\n<li><a href=\"https://jamesvandyne.com/742bbc08-a485-4855-8d88-4e45b6de7028\">James Van Dyne</a></li>\n\n\n\n<li><a href=\"https://jeffbridgforth.com/weeknotes-may-26-2025/\">Jeff Bridgforth</a></li>\n\n\n\n<li><a href=\"https://joelchrono.xyz/blog/2025-w21/\">Joel Chrono</a></li>\n\n\n\n<li><a href=\"https://rknight.me/blog/weeknote-1949/\">Robb Knight</a></li>\n\n\n\n<li><a href=\"https://roytang.net/2025/06/weeknotes-06-01/\">Roy Tang</a></li>\n\n\n\n<li><a href=\"https://walknotes.com/2025/05/31/26-30-may-2025/\">Walknotes</a></li>\n</ul><p>And I\u2019m pretty sure that\u2019s just the tiny little tip of an iceberg of bloggers publishing (semi)regular updates on their life. I\u2019m absolutely open to following more personal blogs, so if you know someone who writes weeknotes, let me know. (You can reply to this post on Mastodon, which is pretty handy. Or send me a Webmention, which is maybe even nerdier.)</p>",
+      "text": "When talking to a friend today about weeknotes I mentioned that besides me and my friends over at weeknotes.cafe it\u2019s is actually a thing on quite a few personal blogs out there.\n\n\n\nJust searching for the terms \u201cweek\u201d and \u201cweeknotes\u201d in my feed reader already gives me these blogs, sorted alphabetically:\n\n\n\nAlice Bartlett\n\n\n\nAnh\n\n\n\nBarry Frost\n\n\n\nPhil Gyford\n\n\n\nJames Van Dyne\n\n\n\nJeff Bridgforth\n\n\n\nJoel Chrono\n\n\n\nRobb Knight\n\n\n\nRoy Tang\n\n\n\nWalknotes\nAnd I\u2019m pretty sure that\u2019s just the tiny little tip of an iceberg of bloggers publishing (semi)regular updates on their life. I\u2019m absolutely open to following more personal blogs, so if you know someone who writes weeknotes, let me know. (You can reply to this post on Mastodon, which is pretty handy. Or send me a Webmention, which is maybe even nerdier.)"
+    },
+    "mention-of": "https://roytang.net/2025/06/weeknotes-06-01/",
+    "wm-property": "mention-of",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://lostfocus.de/2025/06/02/weeknotes-in-other-places/"
+    }
+  }
+}
