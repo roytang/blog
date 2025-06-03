@@ -1,0 +1,13 @@
+---
+addr: " \u65B0\u50092654"
+city: Yamanashi
+country: Japan
+description: "\u65B0\u50092654 \u5BCC\u58EB\u5409\u7530\u5E02, \u5C71\u68A8\u770C
+  403-0011 \u65E5\u672C"
+id: 5849ebc0d8f3e90bf976933f
+lat: 35.49168493352169
+lng: 138.780090100717
+title: "Hotel Mystays Fujisan (\u30DB\u30C6\u30EB\u30DE\u30A4\u30B9\u30C6\u30A4\u30BA\u5BCC\u58EB\u5C71\u5C55\u671B\u6E29\u6CC9)
+  \u65B0\u50092654"
+venue: "Hotel Mystays Fujisan (\u30DB\u30C6\u30EB\u30DE\u30A4\u30B9\u30C6\u30A4\u30BA\u5BCC\u58EB\u5C71\u5C55\u671B\u6E29\u6CC9)"
+---

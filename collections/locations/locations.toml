@@ -1,0 +1,5 @@
+[params]
+    collection_name = "locations"
+    collection_title = "locations"
+    collections_root = false
+    home_template = "locations"

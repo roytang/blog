@@ -1,0 +1,49 @@
+LOCATIONS HOME
+
+<div id="mapid"></div>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+crossorigin=""></script>
+<script src="/js/map.js"></script>
+<script>
+    createMap([
+{{ range .Pages }}        
+    {
+        "id": "{{ .Params.id }}",
+        "title": "{{ .Title | safeJS }}",
+        "lat": {{ .Params.lat }},
+        "lng": {{ .Params.lng }}
+    },
+{{ end }}
+    ]);
+</script>
+
+<ul>
+{{ range .Pages.GroupByParam "country" }}
+<li>
+    {{ .Key }}
+    {{ if eq .Key "Philippines" }}
+    <ul>
+        {{ range .Pages.GroupByParam "city" }}
+        {{ .Key }}
+        <ul>
+            {{ range .Pages }}
+                <li><a href="{{ .RelPermalink }}">{{ .Name }}</a></li>
+            {{ end }}
+        </ul>
+        {{ end }}
+    </ul>
+    {{ else }}
+    <ul>
+        {{ range .Pages }}
+            <li><a href="{{ .RelPermalink }}">{{ .Name }}</a></li>
+        {{ end }}
+    </ul>
+    {{ end }}
+</li>
+{{ end }}
+</ul>
+

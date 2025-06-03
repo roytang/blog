@@ -44,6 +44,7 @@ canonifyURLs = true
     "albums" = "/:filename/"
     "sketches" = "/:filename/"
     "cards" = "/:filename/"
+    "locations" = "/:filename/"
 
 #
 # All parameters below here are optional and can be mixed and matched.
@@ -51,6 +52,7 @@ canonifyURLs = true
 [params]
     collections = true
     collections_root = true
+    home_template = "home"
     rootPath = "collections/"
     mainRoot = "https://roytang.net/"
     staticRoot = "https://roytang.net/media/"

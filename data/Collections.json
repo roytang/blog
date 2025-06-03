@@ -70,5 +70,11 @@
         "label": "Jokes/Puns",
         "descrip": "Jokes/Puns",
         "feeds": false
+    },
+    {
+        "path": "locations/",
+        "label": "Locations",
+        "descrip": "Tagged locations",
+        "feeds": false
     }
 ]

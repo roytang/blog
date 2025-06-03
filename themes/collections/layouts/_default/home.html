@@ -1,0 +1,20 @@
+DEFAULT HOME
+<article>
+
+    {{ .Content }}
+
+    <details>
+        <summary>Tags</summary>
+        <ul class="tags_list">
+    {{ range .Site.Taxonomies.tags.ByCount }}
+        <li><a href="/tags/{{ .Name | urlize  }}">{{ .Name }} ({{ .Count }})</a> </li>
+    {{ end }}
+    </ul>
+    </details>
+    
+    <ol class="entry_list {{ .Site.Params.list_class }}">
+    {{ range .Site.RegularPages }}
+        {{ .Render "list_item" }}
+    {{ end }}
+    </ol>
+</article>

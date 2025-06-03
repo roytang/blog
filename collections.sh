@@ -11,3 +11,4 @@ hugo --contentDir collections/threads --config collections.toml,collections/thre
 hugo --contentDir collections/surveys --config collections.toml,collections/surveys/surveys.toml --destination /var/www/collections/surveys
 hugo --contentDir collections/jokes --config collections.toml,collections/jokes/jokes.toml --destination /var/www/collections/jokes
 hugo --contentDir collections/miiverse --config collections.toml,collections/miiverse/miiverse.toml --destination /var/www/collections/miiverse
+hugo --contentDir collections/locations --config collections.toml,collections/locations/locations.toml --destination /var/www/collections/locations
