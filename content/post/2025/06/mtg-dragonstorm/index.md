@@ -1,6 +1,9 @@
 ---
-date: 2025-06-04T21:33:55+08:00
+date: 2025-06-04 13:33:55
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/114625493494852767
 tags:
 - mtg
 - limited
