@@ -78,7 +78,8 @@ In March 2022, I made a "limited recap" post for Kamigawa Neon Dynasty, collatin
 
 | Set | Recap Date | Events | Win | Loss | Total | Winrate |
 | --- | --- | --- | --- | --- | --- |  --- | 
-| ALL | Apr 2025   | 452 | 1498 | 1251 | 2749 | 0.5449 |
+| ALL | Jun 2025    | 487 | 1594 | 1354 | 2948 | 0.5407 |
+| [Tarkir Dragonstorm](/2025/06/mtg-dragonstorm/) | Jun 2025 | 35 | 96 | 103 | 199 | 0.4824 |
 | [Aetherdrift](/2025/04/mtg-aetherdrift/) | Apr 2025 | 21 | 80 | 61 | 141 | 0.5674 |
 | [Foundations](/2025/02/mtg-foundations/) | Feb 2025 | 12 | 35 | 33 | 68 | 0.5147 |
 | [Duskmourn](/2024/11/duskmourn/) | Nov 2024 | 18 | 59 | 51 | 110 | 0.5364 |
@@ -114,7 +115,8 @@ These are compiled from the stats emails Arena sends out per set ([mtgarenastats
 
 | Set | Date | Boosters Opened | Fave Color | Fave Format | Mastery Level | Const. Rank | Limited Rank | Games | Quest Gold | Wins Gold |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
-| [Foundations](/2025/02/foundations/#magic-arena-stats) | Feb 2025 | 30 | Red | Quick Draft | 79 | Plat4 | Plat4 | 195 | 38,250 | 24,250 |
+| [Aetherdrift](/2025/04/mtg-aetherdrift/#magic-arena-stats) | Apr 2025 | 168 | White | Quick Draft | 71 | Plat1 | Plat2 | 306 | 35,750 | 28,950 |
+| [Foundations](/2025/02/mtg-foundations/#magic-arena-stats) | Feb 2025 | 30 | Red | Quick Draft | 79 | Plat4 | Plat4 | 195 | 38,250 | 24,250 |
 | [Duskmourn](/2024/11/duskmourn/#magic-arena-stats) | Nov 2024 | 162 | Red | Quick Draft | 63 | Plat1 | Plat2 | 235 | 28,000 | 19,225 |
 | [Bloomburrow](/2024/10/bloomburrow/#magic-arena-stats) | Oct 2024 | 0 | Red | Quick Draft | 56 | Plat1 | Plat2 | 177 | 27,000 | 18,675 |
 | [Outlaws of Thunder Junction](/2024/07/mtgotj-set-recap/#magic-arena-stats) | Jul 2024 | 13 | Green | Quick Draft | 115 | Plat3 | Plat3 | 223 | 32,500 | 21,700 |

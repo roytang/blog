@@ -1,15 +1,6 @@
 ---
 date: 2025-04-11 16:43:04
 dontinlinephotos: true
-resources:
-- src: blb-7-carrot-cake.jpg
-  title: 'Carrot Cake: One of the best limited commons in the set.'
-- src: blbpaperdraft.jpg
-  title: My paper draft deck (RW)
-- src: blbstatsemail.png
-  title: Bloomburrow Arena Stats Email
-- src: blbtrophy.jpg
-  title: My one Bloomburrow draft trophy (BG)
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/114320661515665568
@@ -88,7 +79,7 @@ Didn't get a trophy until my 7th draft in. Managed another one with draft #19, a
 
 ### Magic Arena Stats
 
-To be added here when they get around to emailing me.
+{{< photos arenastats >}}
 
 ### Streaming videos
 
