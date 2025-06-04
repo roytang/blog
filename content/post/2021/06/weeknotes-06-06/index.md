@@ -6,9 +6,14 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/106363903405475600
 - type: twitter
   url: https://twitter.com/roytang/status/1401524131942658049/
+- type: twitter
+  url: https://twitter.com/roytang/status/1400620815381524480/
+- type: twitter
+  url: https://twitter.com/roytang/status/1401523549496430593/
 tags:
 - weeknotes
 title: Weeknotes 2021-06-06 Anything and Everything All Of The Time
+dontinlinephotos: true
 ---
 
 ### A quote
@@ -19,7 +24,16 @@ title: Weeknotes 2021-06-06 Anything and Everything All Of The Time
 
 - This week was the anniversary of the 1989 Tiananmen Square massacre, and [a recent tweet](https://twitter.com/JeromeTaylor/status/1400791730685845511) highlighted how the HK government, which used to freely allow commemorating the event, is now cracking down on the former colony's freedoms.
 - [StackOverflow](https://stackoverflow.com/) has [been sold to an investment company](https://www.joelonsoftware.com/2021/06/02/kinda-a-big-announcement/). The Q&A site founded by Joel Spolsky and Jeff ["@codinghorror"](https://twitter.com/codinghorror/) Atwood completely changed everyday software development when it launched in 2008. To this day, there are numerous programmer memes about how programmers can't get anything done without Stackoverflow (and also the corresponding memes about how hostile Stackoverflow responses can be). Hopefully the founders selling the site doesn't cause any major negative changes.
-- [New version of Firefox released](https://www.mozilla.org/en-US/firefox/89.0/releasenotes/), which came with [a UI refresh I'm not fond of](/2021/06/1400620815381524480/).
+- [New version of Firefox released](https://www.mozilla.org/en-US/firefox/89.0/releasenotes/), which came with [a UI refresh I'm not fond of](https://twitter.com/roytang/status/1400620815381524480/):
+
+    > <time id="1400620815381524480">[2021-06-04 09:09] </time> Not a fan of the how the active tab renders in the new version of Firefox. that doesn't look like a tab! 
+    > 
+    > {{< photos 1400620815381524480 >}}
+    > 
+    > <time>[2021-06-06 20:57] </time> It's much worse when you have a tab that's in an isolated container. Now it always looks like Messenger is the active tab! 
+    > 
+    > {{< photos 1401523549496430593 >}}
+
 - Local fast food giant Jollibee [found itself in trouble this past week](https://news.tv5.com.ph/breaking/read/latest-buzz-netizens-react-to-fried-towel-from-fast-food-chain-company-apologizes1) as a post complaining about a woman's order of fried chicken instead being replaced with a fried... towel?? went viral. Hard to imagine how that could have happened. A friend says the woman who ordered is a friend of his sister's (chismis-chain much) and he says the family was approached by several lawyers and even by local hustler-trying-to-replace-the-justice-system Tulfo hoping to cash in on the phenomenon. A second post that said "our competitor threw in the towel" went viral and [McDonald's had to deny it was them](https://twitter.com/ABSCBNNews/status/1400686251834028042).
 - Manila Mayor Isko Moreno [urged the gov't to scrap the face shield requirement](https://www.cnnphilippines.com/news/2021/6/2/Isko-urges-government-to-drop-use-of-face-shield.html). I feel like it's the sort of the thing this admin wouldn't rollback [out of pride](/2021/06/1400083631519850498/). I did get [a kind of funny story about the face shield requirement](/2021/06/1400719659335229441/) early in the pandemic though.
 - "Isolated cases": A local policeman [to face murder charges after he was caught on video killing a 52-year old woman while he was drunk](https://www.cnnphilippines.com/news/2021/6/1/Police-shooting-Hensie-Zinampan.html). The New PNP chief [made a whole show of berating the cop](https://www.rappler.com/nation/pnp-chief-eleazar-berates-cop-killed-lilybeth-zinampan). Not 6 months ago, the same cop posted that [he was "proud to be a good cop"](https://www.gmanetwork.com/news/news/metro/789809/police-who-shot-52-year-old-woman-in-qc-i-m-proud-to-be-a-good-cop/story/) following a case of another cop shooting his neighbors. While the PNP were busy saying people shouldn't judge all cops for the sins of the few, [another cop kills a different cop in a drunk shootout](https://twitter.com/manilabulletin/status/1399663750781669378). I think they just [shouldn't be allowed to drink while carrying firearms](/2021/06/1399693989582835713/).
@@ -70,3 +84,4 @@ Visit the [Links page](/links/) for more links of interest.
 - Guilty Gear Strive releases June 11! Still trying to convince myself to get it lol.
 - Trese is also out on Netflix this weekend. I'm not sure I'd watch it, but a lot of my friends are fans and are looking forward to it.
 - Am planning to join the [GMTK Game Jam](https://itch.io/jam/gmtk-2021) next weekend (Jun 11). Same as [last time](/2021/04/ludum-dare-48-diver/) I have low expectations. I recently rewatched the [video of the top games from last year's version of this jam](https://www.youtube.com/watch?v=RGeAkU2wu4o) and everything seems so great, hopefully I can come up with some innovative idea too!
+
