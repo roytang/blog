@@ -37,6 +37,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/787326693195321346/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154997728858912:3
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155002102543912
 tags:
 - quiznight
 - popquiz
@@ -46,3 +48,9 @@ title: Game Night @ Hungry Meeples
 Game night + quiz night @ Hungry Meeples
 
 Flash Point, Dead of Winter, Nosferatu
+
+<time id="10155002102543912">[21:19]</time> See, bow talaga! [Jaime L. Garcia](https://www.facebook.com/662763386) [Christian Cheng](https://www.facebook.com/575098816) [Josiah Tendero Habana](https://www.facebook.com/567765241) lol. Parang walang kneel!
+
+[Comments](#comment-b0f2ede6-350c-4b21-aa68-c854729b5936)
+
+---

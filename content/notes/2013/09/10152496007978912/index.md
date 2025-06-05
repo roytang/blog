@@ -8,6 +8,8 @@ tags:
 - quiznight
 ---
 
+This was [GeekFight Special Event: KAPOW!](https://www.facebook.com/events/418064921638682/) at Glorietta 5
+
 Result of geekfight special earlier with Dens Alave and Luis Formilleza:  
 
 MARVEL CINEMATIC UNIVERSE - 6/10 

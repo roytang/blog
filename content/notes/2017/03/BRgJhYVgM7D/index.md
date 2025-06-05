@@ -13,6 +13,10 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155435235983912:1
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155437553038912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/840567622924038145/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10155437454538912
 tags:
 - popquiz
 - hungrymeeples
@@ -20,3 +24,9 @@ tags:
 ---
 
 2nd place at #popquiz #hungrymeeples (and random pickup of classic dc crossover)
+
+<time id="840567622924038145">[22:18]</time> Ugh I flubbed the Final Fantasy MVP round :( #popquiz
+
+[Comments](#comment-adf3d658-8f9c-4bb1-b282-88c0af158923)
+
+---

@@ -8,7 +8,7 @@ tags:
 - backpost
 ---
 
-We attend quiz night at Murphy's.
+We attended quiz night at Murphy's.
 
 From the journal:
 

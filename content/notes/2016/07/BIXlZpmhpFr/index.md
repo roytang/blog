@@ -33,9 +33,9 @@ tags:
 - popquiz
 - quiznight
 - instagram
-title: ''
+title: 'Back to the 90s PopQuiz @ Borough'
+location: 4c6c07711fb2a143fe44fae6
 ---
 
 We won! #popquiz
 
-Back to the 90s PopQuiz

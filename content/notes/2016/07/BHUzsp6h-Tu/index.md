@@ -14,6 +14,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154713441653912:0
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154713441683912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154715396113912
 tags:
 - geekfightph
 - quiznight
@@ -23,3 +25,11 @@ title: ''
 ---
 
 2nd place Bottle of win #geekfightph
+
+<time id="10154715396113912">[20:41]</time> From last night's Geekfight, identify this song: 
+
+[Mystery Song #1](https://soundcloud.com/roy-tang/mystery-song-1)
+
+[Comments](#comment-82f1b515-2e5d-4e7f-9aa2-4a04c94d576b)
+
+---
