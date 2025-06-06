@@ -1,6 +1,6 @@
 ---
 date: 2023-07-28T15:05:52+08:00
-location: intext
+location: intbarextcafe
 resources:
 - src: 20230727_193704.jpg
   title: 'The cards used for voting for the 7th anniversary gimmick'
@@ -27,3 +27,4 @@ Rounds were:
 We were surprised we qualified for HM. That got our total to 41pts by our count, but in the final tally they listed us in 4th place with 45pts. We did not contest as it did not affect the rankings.
 
 [Event Page](https://www.facebook.com/events/658571665779298/)
+
