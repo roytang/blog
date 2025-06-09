@@ -72,9 +72,9 @@
         "feeds": false
     },
     {
-        "path": "locations/",
-        "label": "Locations",
-        "descrip": "Tagged locations",
+        "path": "quiznights/",
+        "label": "Quiz Nights",
+        "descrip": "A log of quiz nights I have attended.",
         "feeds": false
     }
 ]

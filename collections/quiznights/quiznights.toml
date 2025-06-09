@@ -1,0 +1,4 @@
+[params]
+    collection_name = "quiznights"
+    collection_title = "quiznights"
+    collections_root = false

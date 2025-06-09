@@ -30,6 +30,7 @@ canonifyURLs = true
 
 [taxonomies]
     tags = "tags"
+    locations = "locations"
 
 
 [author]
@@ -44,7 +45,6 @@ canonifyURLs = true
     "albums" = "/:filename/"
     "sketches" = "/:filename/"
     "cards" = "/:filename/"
-    "locations" = "/:filename/"
 
 #
 # All parameters below here are optional and can be mixed and matched.

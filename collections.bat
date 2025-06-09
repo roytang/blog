@@ -11,4 +11,4 @@ hugo --contentDir collections/threads --config collections.toml,local.toml,colle
 hugo --contentDir collections/surveys --config collections.toml,local.toml,collections/surveys/surveys.toml --destination public/surveys
 hugo --contentDir collections/jokes --config collections.toml,local.toml,collections/jokes/jokes.toml --destination public/jokes
 hugo --contentDir collections/miiverse --config collections.toml,local.toml,collections/miiverse/miiverse.toml --destination public/miiverse
-hugo --contentDir collections/locations --config collections.toml,local.toml,collections/locations/locations.toml --destination public/locations
+hugo --contentDir collections/quiznights --config collections.toml,local.toml,collections/quiznights/quiznights.toml --destination public/quiznights

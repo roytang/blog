@@ -1,4 +1,4 @@
-{{ $loc := .Params.locations }}
+{{ $loc := index (.Params.locations) 0 }}
 {{ range .Site.Taxonomies.locations }}
   {{ if eq .Page.Params.id $loc }}
     Location: <a rel="location" href="/locations/{{ $loc }}">{{ .Page.Params.venue }}</a>

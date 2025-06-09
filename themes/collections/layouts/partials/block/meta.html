@@ -5,6 +5,11 @@
     {{ if .Params.via }}
         via <a href="{{ .Params.via.url }}">{{ .Params.via.name }}</a>
     {{ end }}
+
+    {{ if .Params.locations }}
+    {{ partialCached "block/locations" . .Params.locations }}
+    {{ end }}
+
     {{ $comments := len (.Resources.Match "comment-*.json") }}
     {{ if gt $comments 0 }}
     <a href="{{.RelPermalink}}">

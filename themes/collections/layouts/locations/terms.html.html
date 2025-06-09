@@ -1,4 +1,4 @@
-LOCATIONS HOME
+{{ define "main" }}
 
 <div id="mapid"></div>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
@@ -31,7 +31,7 @@ crossorigin=""></script>
         {{ .Key }}
         <ul>
             {{ range .Pages }}
-                <li><a href="{{ .RelPermalink }}">{{ .Name }}</a></li>
+                <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
             {{ end }}
         </ul>
         {{ end }}
@@ -39,7 +39,7 @@ crossorigin=""></script>
     {{ else }}
     <ul>
         {{ range .Pages }}
-            <li><a href="{{ .RelPermalink }}">{{ .Name }}</a></li>
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
         {{ end }}
     </ul>
     {{ end }}
@@ -47,3 +47,4 @@ crossorigin=""></script>
 {{ end }}
 </ul>
 
+{{ end }}
