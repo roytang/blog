@@ -1,10 +1,12 @@
 ---
-date: 2020-06-07 10:58:06+00:00
+date: 2020-06-07 10:58:06
 dontinlinephotos: true
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1269584411730698240/
+tags:
+- duterte
 title: ''
 ---
 

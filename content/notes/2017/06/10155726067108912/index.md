@@ -1,5 +1,5 @@
 ---
-date: 2017-06-08 19:45:00+08:00
+date: 2017-06-08 11:45:00
 dontinlinephotos: true
 source: facebook
 syndicated:
@@ -7,6 +7,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10155726067108912
 tags:
 - fbreposts06
+- duterte
 ---
 
 "Kasing safe na tayo ng singapore"

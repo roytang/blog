@@ -11,6 +11,7 @@ syndicated:
 tags:
 - comics
 - foxtrot
+- webcomics
 ---
 
 I should make these apps http://www.foxtrot.com/comics/2013-06-09-0c904dc1.png
