@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "roytang.net"
 theme = "collections"
 staticDir = "collections_root"
-
+paginate = 50
 
 relativeURLs = true
 
@@ -40,6 +40,7 @@ canonifyURLs = true
 
 [permalinks]
     "notes" = "/:filename/"
+    "events" = "/:filename/"
     "lineitems" = "/:filename/"
     "comics" = "/:filename/"
     "albums" = "/:filename/"
@@ -53,6 +54,7 @@ canonifyURLs = true
     collections = true
     collections_root = true
     home_template = "home"
+    locations = false
     rootPath = "collections/"
     mainRoot = "https://roytang.net/"
     staticRoot = "https://roytang.net/media/"

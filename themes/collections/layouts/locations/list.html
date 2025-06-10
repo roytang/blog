@@ -1,8 +1,12 @@
 {{ define "main" }}
+
+<div class="breadcrumb">
+    <a href="../../../">Collections</a><a href="../../">{{ .Site.Params.collection_title }}</a><a href="#">{{ .Title | default "This location" }}</a>
+</div>
+
   <section class="h-feed">
     <a class="u-url p-name" href="{{ .Permalink }}">{{ .Title }}</a>
 
-    <p>You can subscribe to an <a href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}">RSS feed</a> of this list.</p>
     <div id="mapid"></div>
 
     {{ partial "block/paged-list" . }}

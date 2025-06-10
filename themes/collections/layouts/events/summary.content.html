@@ -1,0 +1,11 @@
+
+<div class="content e-content">
+{{ if .Params.repost_source }}<blockquote>{{ end }}
+{{ .Content }}
+{{ if .Params.repost_source }}</blockquote>{{ end }}
+
+{{ if .Site.Params.autoinlinephotos }}
+{{ .Render "image_list" }}
+{{ end }}
+
+</div>

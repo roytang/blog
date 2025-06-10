@@ -1,4 +1,3 @@
-DEFAULT HOME
 <article>
 
     {{ .Content }}
@@ -11,6 +10,17 @@ DEFAULT HOME
     {{ end }}
     </ul>
     </details>
+
+    {{ if .Site.Params.locations }}
+    <details>
+        <summary>Locations</summary>
+        <ul class="tags_list">
+    {{ range .Site.Taxonomies.locations.ByCount }}
+        <li><a href="/locations/{{ .Name | urlize  }}">{{ .Page.Params.venue }} ({{ .Count }})</a> </li>
+    {{ end }}
+        </ul>
+    </details>
+    {{ end }}
     
     <ol class="entry_list {{ .Site.Params.list_class }}">
     {{ range .Site.RegularPages }}

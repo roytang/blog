@@ -34,6 +34,12 @@ def clean_tags():
                         newtags.append(tag)
                 if has_changes:
                     post["tags"] = newtags
+            
+            location = post.get("location", "")
+            locations = post.get("locations", [])
+            if len(location) > 0 and len(locations) == 0:
+                post["locations"] = [location]
+                has_changes = True
 
             # Save the file.
             if has_changes:

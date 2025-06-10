@@ -129,3 +129,8 @@ blockquote.embed {
     grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
     gap: 24px;
 }
+
+body.collections_quiznights .list_item .title {
+    display: grid;
+    grid-template-columns: 6em 1fr;
+}
