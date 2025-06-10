@@ -7,6 +7,9 @@ syndicated:
   url: https://twitter.com/roytang/status/476353556467814400/
 - type: twitter
   url: https://twitter.com/roytang/status/476354079761768448/
+tags:
+- formernote
+title: I got an Instagram account!
 ---
 
 This is hilarious. I found out that someone had used my email to create an instagram acct. I reset the password and now control the account.
