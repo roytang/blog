@@ -1,5 +1,8 @@
 ---
 date: 2025-06-10
+related_posts:
+- text: Game Review
+  url: /2025/06/clair-obscur-expedition-33/
 resources:
 - src: Clair Obscur_ Expedition 33 05_05_2025 12_33_34 pm.png
   title: ''

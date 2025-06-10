@@ -39,7 +39,7 @@ Not a lot this week:
 
 - Ongoing: **The Simpsons**. Disney+ only got the back half of the current season this week I think, so I can finally finish it.
 - Started Watching: **Rick and Morty S8**
-- Finished Watching: **Doctor Who**. The internet managed to immediately spoiled me about the surprise at the end of the season even while I was still halfway through. 
+- Finished Watching: **Doctor Who**. The internet immediately spoiled me about the surprise at the end of the season even while I was still halfway through. 
 - Movies: I didn't watch a lot of movies in May, so I'm hoping to watch a lot this month. I kicked this off with Edgar Wright's Cornetto trilogy: [Hot Fuzz (2007)](https://letterboxd.com/hungryroy/film/hot-fuzz/), [The World's End (2013)](https://letterboxd.com/hungryroy/film/the-worlds-end/), and [Shaun of the Dead (2004)](https://letterboxd.com/hungryroy/film/shaun-of-the-dead/), in that order. I've watched two of these before, but watching all three of them in succession was fun.
 
 #### Gaming

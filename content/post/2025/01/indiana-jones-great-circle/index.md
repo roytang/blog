@@ -12,7 +12,7 @@ reviews:
   media: games
   platform: pcgamepass
   rating: 5.0
-  title: Indiana Jones and the Great Circle
+  title: Indiana Jones and the Great Circle (PC Game Pass)
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/113858793927433733
