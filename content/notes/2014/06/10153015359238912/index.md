@@ -9,6 +9,7 @@ syndicated:
   url: https://www.reddit.com/r/gaming/comments/27s2o0/would_this_video_make_you_interested_in_getting_a/
 tags:
 - gaming
+- survey
 ---
 
 Survey: Would this video make you interested in a Vita?
