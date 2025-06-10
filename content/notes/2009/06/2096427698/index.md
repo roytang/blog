@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/2096427698/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/107359852603
+tags:
+- dreams
 ---
 
 had a dream that I bought an Iphone. Then I found out Apple just announced a new Iphone model @_@
