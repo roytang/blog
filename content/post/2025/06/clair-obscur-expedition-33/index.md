@@ -1,19 +1,23 @@
 ---
-title: "Clair Obscur: Expedition 33"
-date: 2025-06-10T21:36:12+08:00
+date: 2025-06-10 13:36:12
 dontinlinephotos: true
 resources:
 - src: stats.png
   title: Completion stats!
 reviews:
-- description: 'A masterpiece of a JRPG, though I could have done without some of the annoying minigames'
+- description: A masterpiece of a JRPG, though I could have done without some of the
+    annoying minigames
   media: games
   platform: pcgamepass
   rating: 5.0
-  title: "Clair Obscur: Expedition 33 (PC Game Pass)"
+  title: 'Clair Obscur: Expedition 33 (PC Game Pass)'
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/114659535676629294
 tags:
 - gaming
 - games
+title: 'Clair Obscur: Expedition 33'
 ---
 
 When I saw a preview of **Clair Obscur: Expedition 33** earlier this year, I initially dismissed it as a game that wasn't for me because of the whole dodge/parry mechanic which a lot of hardcore soulslike players enjoy and that I know I am terrible at. But then it was available on PC Game Pass at launch and I was like "Okay, I'll try it out." I am glad I did.
