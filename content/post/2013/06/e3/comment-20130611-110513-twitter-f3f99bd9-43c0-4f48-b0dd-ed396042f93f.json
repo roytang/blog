@@ -3,8 +3,10 @@
   "name": "Alvin Tang",
   "url": "https://twitter.com/alvinjtang",
   "text": "[@roytang](https://twitter.com/roytang/) bili na tayo $399 lang",
-  "date": "2013-06-11 03:05:13",
+  "date": "2013-06-11 11:05:13 +0800",
   "photo": "https://pbs.twimg.com/profile_images/855567778211708928/F8SfP_gf_normal.jpg",
   "source_url": "https://twitter.com/alvinjtang/status/344289188650303488/",
-  "source": "twitter"
+  "source": "twitter",
+  "spam": false,
+  "reply_to": "https://twitter.com/roytang/statuses/344289060531085315/"
 }
