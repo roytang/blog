@@ -9,6 +9,8 @@ syndicated:
   url: https://twitter.com/roytang/status/874448379014594560/
 tags:
 - SonyE3
+- e3
+- gaming
 ---
 
 Spider-Man game reminds me of Arkham Asylum #SonyE3

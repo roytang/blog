@@ -6,6 +6,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1006359141495988226/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156699668438912
+tags:
+- e3
+- gaming
 ---
 
 E3 2018:

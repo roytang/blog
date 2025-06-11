@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/344719338588233728/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152282277403912
+tags:
+- movies
 ---
 
 Quick Man of Steel review: it's a very good action movie. Better than TDK? No.

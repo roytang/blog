@@ -1,5 +1,5 @@
 ---
-date: 2017-06-12 07:48:57+00:00
+date: 2017-06-12 07:48:57
 dontinlinephotos: true
 repost_source:
   name: _dpiddy
@@ -11,6 +11,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/874171650270416897/
 tags:
 - E32017
+- e3
+- gaming
 title: ''
 ---
 

@@ -15,6 +15,8 @@ syndicated:
   url: https://twitter.com/roytang/status/874035604513726464/
 tags:
 - XBoxE3
+- e3
+- gaming
 ---
 
 I woke up and thought about watching the #XBoxE3 conf just to see how the other side lives...and 

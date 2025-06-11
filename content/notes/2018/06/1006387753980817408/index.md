@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156699797568912
 tags:
 - IndependenceDay2018
+- philippines
 ---
 
 A work in progress still after 120yrs. We'll get there someday, despite the current bumps along the way #IndependenceDay2018
