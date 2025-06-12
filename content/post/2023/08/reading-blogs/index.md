@@ -3,6 +3,8 @@ date: 2023-08-14 16:19:47
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/110888887500329757
+- type: mastodon
+  url: https://floss.social/users/alcinnz/statuses/110888971959167715
 tags:
 - blogging
 title: How to Read a Blog

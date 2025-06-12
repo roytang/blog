@@ -4,6 +4,8 @@ dontinlinephotos: true
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111911073792678445
+- type: mastodon
+  url: https://coywolf.social/users/smallweb/statuses/111932858775064502
 tags:
 - weeknotes
 title: 'Weeknotes 2024-02-11: Gong XI Fa Cai'

@@ -14,6 +14,8 @@ reviews:
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111877184444947679
+- type: mastodon
+  url: https://coywolf.social/users/smallweb/statuses/111890824013939227
 tags:
 - gaming
 - games
