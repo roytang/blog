@@ -12,6 +12,8 @@ syndicated:
   url: https://www.swarmapp.com/roytang/checkin/515d6d1ce4b0422aca4a8de1
 tags:
 - quiznight
+- '2013'
+title: Amici Quiz Night
 ---
 
 Quiz night! (@ Amici Greenhills) http://4sq.com/14PWZXi

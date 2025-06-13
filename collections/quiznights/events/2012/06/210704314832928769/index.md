@@ -11,6 +11,7 @@ syndicated:
 tags:
 - quiznight
 - '2012'
+title: Amici Quiz Night
 ---
 
 I'm at Amici (San Juan, Metro Manila) http://4sq.com/KR1DtC

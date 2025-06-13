@@ -10,6 +10,8 @@ syndicated:
   url: https://www.swarmapp.com/roytang/checkin/527b849811d250b725b9b4a2
 tags:
 - quiznight
+- '2013'
+title: Amici Quiz Night
 ---
 
 I'm at Amici (Mandaluyong City, Metro Manila) http://4sq.com/1iORvP0

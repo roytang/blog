@@ -1,5 +1,6 @@
 ---
 date: 2013-04-17 17:12:13
+location: 4c07a0af8b4520a172258797
 source: twitter
 syndicated:
 - type: twitter
@@ -7,8 +8,11 @@ syndicated:
 tags:
 - quiznight
 - geekfight
-location: 4c07a0af8b4520a172258797
+- '2013'
+title: "GeekFight April 2013: Bad to the Bone!"
 ---
+
+This was [GeekFight April 2013: Bad to the Bone!](https://www.facebook.com/events/235021759976369/)
 
 Quite possibly worst team camote geekfight ever. 0 in joker round, 0/5 comics questions, 1/4 dr who questions, etc.
 

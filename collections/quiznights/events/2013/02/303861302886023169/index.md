@@ -10,6 +10,8 @@ syndicated:
   url: https://www.swarmapp.com/roytang/checkin/51238082e4b064b5c2d77627
 tags:
 - quiznight
+- '2013'
+title: Quiz Night at Murphy's
 ---
 
 I'm at Murphy's Irish Pub http://4sq.com/WU1gnZ

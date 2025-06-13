@@ -13,6 +13,8 @@ syndicated:
   url: https://www.swarmapp.com/roytang/checkin/524d5e3711d2cc36fd8de0d8
 tags:
 - quiznight
+- '2013'
+title: Amici Quiz Night
 ---
 
 I'm at Amici (San Juan, Metro Manila) http://4sq.com/17waUSy
