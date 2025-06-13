@@ -2,6 +2,8 @@
 checkin_id: 527b849811d250b725b9b4a2
 date: 2013-11-07 12:16:25
 location: 4cbea79719ceb1f7f2ba1ecd
+locations:
+- 4cbea79719ceb1f7f2ba1ecd
 source: twitter
 syndicated:
 - type: twitter

@@ -2,6 +2,8 @@
 checkin_id: 524d5e3711d2cc36fd8de0d8
 date: 2013-10-03 12:08:24
 location: 4cbea79719ceb1f7f2ba1ecd
+locations:
+- 4cbea79719ceb1f7f2ba1ecd
 resources:
 - src: khaaaaaan.png
   title: We jokered the Star Trek round and got 0!

@@ -1,6 +1,8 @@
 ---
 date: 2013-04-17 17:12:13
 location: 4c07a0af8b4520a172258797
+locations:
+- 4c07a0af8b4520a172258797
 source: twitter
 syndicated:
 - type: twitter
@@ -9,7 +11,7 @@ tags:
 - quiznight
 - geekfight
 - '2013'
-title: "GeekFight April 2013: Bad to the Bone!"
+title: 'GeekFight April 2013: Bad to the Bone!'
 ---
 
 This was [GeekFight April 2013: Bad to the Bone!](https://www.facebook.com/events/235021759976369/)

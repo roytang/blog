@@ -482,3 +482,8 @@ iframe {
 .list_item.post, .list_item.blog {
     border-color: var(--main-color);
 }
+
+article p {
+    margin-left: 1em;
+    margin-right: 1em;
+}

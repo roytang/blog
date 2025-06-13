@@ -2,6 +2,8 @@
 checkin_id: 515d6d1ce4b0422aca4a8de1
 date: 2013-04-04 15:40:00
 location: 4cbea79719ceb1f7f2ba1ecd
+locations:
+- 4cbea79719ceb1f7f2ba1ecd
 source: facebook
 syndicated:
 - type: facebook
