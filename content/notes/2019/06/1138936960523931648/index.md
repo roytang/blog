@@ -1,10 +1,12 @@
 ---
-date: 2019-06-12 22:31:46+00:00
+date: 2019-06-12 22:31:46
 dontinlinephotos: true
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1138936960523931648/
+tags:
+- threads
 title: ''
 ---
 

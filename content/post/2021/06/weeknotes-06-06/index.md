@@ -42,7 +42,7 @@ dontinlinephotos: true
 
 - Youtube: ["Welcome to the Internet" by Bo Burnham](https://www.youtube.com/watch?v=k1BneeJTDcU). Anything and everything, all of the time.
 - Youtube: [New Disaster, a new Barenaked Ladies single](https://www.youtube.com/watch?v=66c4Si7_FA8). Glad to see they are still going strong.
-- [Indie Bundle for Palestinian Aid on itch.io](https://itch.io/b/902/indie-bundle-for-palestinian-aid). More than a thousand games, for a good cause, reminiscent of the [bundle for racial equality](/2020/06/1271554046923440128/) last year.
+- [Indie Bundle for Palestinian Aid on itch.io](https://itch.io/b/902/indie-bundle-for-palestinian-aid). More than a thousand games, for a good cause, reminiscent of the [bundle for racial equality](/2020/06/weeknotes-06-14/#blmbundle) last year.
 - [The everyday racism of offshore call centers](https://restofworld.org/2021/call-centers-racism/) talks about what it's like working in a call center here in the Philippines.
 - [Why Emotionally Intelligent Minds Embrace the Rule of 'Writing in Reverse'](https://www.inc.com/justin-bariso/why-emotionally-intelligent-minds-embrace-rule-of-writing-in-reverse.html?ref=refind) 
 - [How We Brought the Online Collections into the Modern Age using Web Technology of the Past](https://www.vam.ac.uk/blog/digital/how-we-brought-the-online-collections-into-the-modern-age-using-web-technology-of-the-past). My interest in this is purely because they used Hugo to generate more than a million static pages, and it looks their performance was much better than anything I ever got with the 20k+ pages on this site. I think it's because they're strictly generating a single page per record - while this site has stuff like listing pages, group pages, tag pages, archive lists and so on.

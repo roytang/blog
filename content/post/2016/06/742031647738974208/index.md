@@ -6,6 +6,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/742031647738974208/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154666529583912
+tags:
+- formernote
+title: Not Enough Time
 ---
 
 Despite all my free time, somehow there's still far too much stuff to read, learn, watch, play, create, and write

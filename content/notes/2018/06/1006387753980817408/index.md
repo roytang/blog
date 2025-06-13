@@ -9,6 +9,7 @@ syndicated:
 tags:
 - IndependenceDay2018
 - philippines
+- independenceday
 ---
 
 A work in progress still after 120yrs. We'll get there someday, despite the current bumps along the way #IndependenceDay2018

@@ -6,6 +6,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/476861410882752512/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153018420823912
+tags:
+- philippines
+- independenceday
 ---
 
 Kalayaan = freedom; Kasarinlan = independence

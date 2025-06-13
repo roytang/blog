@@ -8,6 +8,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10151663282668912
 tags:
 - arawngkalayaan
+- philippines
+- independenceday
 ---
 
 Today's Google Doodle: http://i.imgur.com/tt1eR.png #arawngkalayaan
