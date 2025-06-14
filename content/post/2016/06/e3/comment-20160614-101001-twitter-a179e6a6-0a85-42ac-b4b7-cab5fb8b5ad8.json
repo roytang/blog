@@ -3,9 +3,10 @@
   "name": "Alvin Tang",
   "url": "https://twitter.com/alvinjtang",
   "text": "[@roytang](https://twitter.com/roytang/) parang yung spider-man sa playstation lol",
-  "date": "2016-06-14 02:10:01",
+  "date": "2016-06-14 10:10:01 +0800",
   "photo": "https://pbs.twimg.com/profile_images/855567778211708928/F8SfP_gf_normal.jpg",
   "source_url": "https://twitter.com/alvinjtang/statuses/742539560341536769/",
-  "reply_to": "https://twitter.com/alvinjtang/statuses/742539487629082624/",
-  "source": "twitter"
+  "source": "twitter",
+  "spam": false,
+  "reply_to": "https://twitter.com/alvinjtang/statuses/742539487629082624/"
 }

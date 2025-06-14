@@ -3,8 +3,10 @@
   "name": "Alvin Tang",
   "url": "https://twitter.com/alvinjtang",
   "text": "[@roytang](https://twitter.com/roytang/) are you streaming?",
-  "date": "2016-06-14 01:02:22",
+  "date": "2016-06-14 09:02:22 +0800",
   "photo": "https://pbs.twimg.com/profile_images/855567778211708928/F8SfP_gf_normal.jpg",
   "source_url": "https://twitter.com/alvinjtang/statuses/742522536852742144/",
-  "source": "twitter"
+  "source": "twitter",
+  "spam": false,
+  "reply_to": "https://twitter.com/roytang/status/742521714265853952/"
 }

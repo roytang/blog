@@ -3,9 +3,10 @@
   "name": "Alvin Tang",
   "url": "https://twitter.com/alvinjtang",
   "text": "[@roytang](https://twitter.com/roytang/) oo ata haha. yung may picture siya in different clothes pero meron pa ring helmet.",
-  "date": "2016-06-14 02:33:14",
+  "date": "2016-06-14 10:33:14 +0800",
   "photo": "https://pbs.twimg.com/profile_images/855567778211708928/F8SfP_gf_normal.jpg",
   "source_url": "https://twitter.com/alvinjtang/statuses/742545401459277825/",
-  "reply_to": "https://twitter.com/alvinjtang/statuses/742539487629082624/",
-  "source": "twitter"
+  "source": "twitter",
+  "spam": false,
+  "reply_to": "https://twitter.com/alvinjtang/statuses/742539487629082624/"
 }
