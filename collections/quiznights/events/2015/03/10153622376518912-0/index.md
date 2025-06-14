@@ -2,6 +2,8 @@
 checkin_id: 54fc8ce5498ee62d68bfd100
 date: 2015-03-08 20:50:00
 location: 4b12a802f964a520ec8b23e3
+locations:
+- 4b12a802f964a520ec8b23e3
 source: facebook
 syndicated:
 - type: facebook
@@ -15,9 +17,10 @@ syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153631254198912
 tags:
-- mobile-uploads
 - quiznight
 - europe2015
+- '2015'
+title: Team Camote plays a Quiz Night in Europe!
 ---
 
 We did not win.

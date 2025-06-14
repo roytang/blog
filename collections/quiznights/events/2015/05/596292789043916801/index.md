@@ -2,6 +2,8 @@
 checkin_id: 554b5c8d498e259198cd3a0f
 date: 2015-05-07 12:37:34
 location: 4cbea79719ceb1f7f2ba1ecd
+locations:
+- 4cbea79719ceb1f7f2ba1ecd
 source: twitter
 syndicated:
 - type: twitter
@@ -10,6 +12,8 @@ syndicated:
   url: https://www.swarmapp.com/roytang/checkin/554b5c8d498e259198cd3a0f
 tags:
 - quiznight
+- '2015'
+title: Amici Quiz Night
 ---
 
 I'm at Amici in San Juan, Metro Manila https://www.swarmapp.com/c/8l0d2Bl7yNj

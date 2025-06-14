@@ -1,7 +1,9 @@
 ---
 checkin_id: 55a4fdff498e8b173df7aed5
+date: 2015-07-14 14:59:00
 location: 5142a5d6e4b09f4569cdff61
-date: 2015-07-14 22:59:00+08:00
+locations:
+- 5142a5d6e4b09f4569cdff61
 source: facebook
 syndicated:
 - type: facebook
@@ -9,10 +11,11 @@ syndicated:
 - type: foursquare
   url: https://www.swarmapp.com/roytang/checkin/55a4fdff498e8b173df7aed5
 tags:
-- mobile-uploads
 - quiznight
+- '2015'
+title: Quiz Night at Mario's Kitchen
 ---
 
 (@Mario's Kitchen Ortigas Center)
 
-By one point!
+This was our first time to win a Jason quiz night! By one point!
