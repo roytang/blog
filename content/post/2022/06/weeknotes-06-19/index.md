@@ -19,6 +19,8 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/108504459743465901
 - type: twitter
   url: https://twitter.com/roytang/status/1538519739504349184/
+- type: twitter
+  url: https://twitter.com/roytang/status/1537408267332091905/
 tags:
 - weeknotes
 - movies
@@ -40,6 +42,12 @@ title: Weeknotes 2022-06-19
     {{% img src="cyberlibel.jpg" %}}
 
     ... which seems ridiculous on its face, given that in theory "cyberlibel" as a crime should only be applicable to things that are proven to be maliciously false. I mean, recording other patients is obviously problematic for medical privacy reasons, and it would be fine if the warning just said it was against hospital policy, but to threaten "cyberlibel"? I think there was some sort of scandal a while back about a video captured of nurses/doctors making fun of a patient or something like that? So I suspect these warnings are a bit of an overreaction to that.
+
+- <time id="1537408267332091905">[2022-06-16 20:14] </time> I have once again won my annual game of chicken with $CREDITCARDCOMPANY$ 
+
+    {{< photos 1537408267332091905 >}}
+
+
 
 ### Links of Interest
 
@@ -86,3 +94,4 @@ The Flash season 8, The Boys season 3, Star Trek: Strange New Worlds, The Orvill
 ### This coming week:
 
 Yet another bunch of errands to do, such is life. Then there's an Eternal open next weekend, but it's Expedition format, and I don't have a deck for that yet, so IDK if I'm playing. I think Obiwan is ending next week. Hoping the Covid cases don't go up too quickly or maybe even start trending down?!? I want to write more on this blog! (There are a lot of things I want to do more of!)
+

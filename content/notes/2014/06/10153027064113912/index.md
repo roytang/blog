@@ -7,4 +7,4 @@ syndicated:
 tags: []
 ---
 
-Mission complete!
+Mission complete! (Got my student permit at LTO.)
