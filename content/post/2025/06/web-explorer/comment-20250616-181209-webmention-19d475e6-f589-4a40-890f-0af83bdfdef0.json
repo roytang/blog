@@ -1,0 +1,34 @@
+{
+  "id": "19d475e6-f589-4a40-890f-0af83bdfdef0",
+  "name": "Dominik Schwind",
+  "url": "https://dominikschwind.com/",
+  "text": "Bookmarked by https://dominikschwind.com/link/the-web-as-a-space-to-be-explored\n\n> Just like Roy says: that's the kind of web that is actually interesting. Not the couple of big social media sites.",
+  "date": "2025-06-16 18:12:09 +0800",
+  "photo": "https://avatars.webmention.io/dominikschwind.com/0f61dbc16078dfde6f5a0f4d0c9bc3d7ca76df14e7d9c12f290309a307bbdf4a.jpg",
+  "source_url": "https://dominikschwind.com/link/the-web-as-a-space-to-be-explored",
+  "source": "webmention",
+  "spam": false,
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Dominik Schwind",
+      "photo": "https://avatars.webmention.io/dominikschwind.com/0f61dbc16078dfde6f5a0f4d0c9bc3d7ca76df14e7d9c12f290309a307bbdf4a.jpg",
+      "url": "https://dominikschwind.com/"
+    },
+    "url": "https://dominikschwind.com/link/the-web-as-a-space-to-be-explored",
+    "published": "2025-06-16T10:12:09+00:00",
+    "wm-received": "2025-06-16T11:00:07Z",
+    "wm-id": 1918930,
+    "wm-source": "https://dominikschwind.com/link/the-web-as-a-space-to-be-explored",
+    "wm-target": "https://roytang.net/2025/06/web-explorer/",
+    "wm-protocol": "webmention",
+    "content": {
+      "html": "<p>Just like Roy says: that's the kind of web that is actually interesting. Not the couple of big social media sites.</p>",
+      "text": "Just like Roy says: that's the kind of web that is actually interesting. Not the couple of big social media sites."
+    },
+    "bookmark-of": "https://roytang.net/2025/06/web-explorer/",
+    "wm-property": "bookmark-of",
+    "wm-private": false
+  }
+}
