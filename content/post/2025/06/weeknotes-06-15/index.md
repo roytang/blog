@@ -1,6 +1,9 @@
 ---
-date: 2025-06-15T16:23:56+08:00
+date: 2025-06-15 08:23:56
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/114686579067989689
 tags:
 - weeknotes
 title: Weeknotes 2025-06-15
@@ -122,4 +125,3 @@ Upcoming releases I am looking forward to:
 With Clair Obscur done, I'm hoping to start playing Final Fantasy XVI, which I picked up on Steam sale a few months ago, in anticipation of playing it in parallel with the MTG set.
 
 Still have so many things I want to get done, and I just keep adding more things to that list!
-
