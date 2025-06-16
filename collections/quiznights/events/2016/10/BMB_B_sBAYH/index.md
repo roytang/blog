@@ -1,5 +1,8 @@
 ---
 date: 2016-10-26 15:22:59
+location: 4c6c07711fb2a143fe44fae6
+locations:
+- 4c6c07711fb2a143fe44fae6
 resources:
 - src: 14889960_555193498012403_8280869796410917233_o.jpg
   title: Photo c/o PopQuiz
@@ -27,8 +30,8 @@ tags:
 - quiznight
 - instagram
 - popquiz
-title: ''
-location: 4c6c07711fb2a143fe44fae6
+- '2016'
+title: 'Spellbound: A Mystics and Magic PopQuiz'
 ---
 
 And still the reigning Pop Quiz champion...

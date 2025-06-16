@@ -2,6 +2,8 @@
 checkin_id: 5802003f498ecf3452511f10
 date: 2016-10-15 18:09:03
 location: 57f8cba4498e0e9079df51f1
+locations:
+- 57f8cba4498e0e9079df51f1
 resources:
 - src: nosferatu.jpg
   title: Nosferatu, a French game that's a bit like werewolf. Helpful French guy claims
@@ -42,15 +44,14 @@ syndicated:
 tags:
 - quiznight
 - popquiz
-title: Game Night @ Hungry Meeples
+- '2016'
+title: Battle of the Hungry Meeples Quiz Night
 ---
 
 Game night + quiz night @ Hungry Meeples
 
 Flash Point, Dead of Winter, Nosferatu
 
+This was [Battle of the Hungry Meeples Quiz Night | Facebook](https://www.facebook.com/events/1769071279971993/). Hosts were the PQ team, but not an official PQ event.
+
 <time id="10155002102543912">[21:19]</time> See, bow talaga! [Jaime L. Garcia](https://www.facebook.com/662763386) [Christian Cheng](https://www.facebook.com/575098816) [Josiah Tendero Habana](https://www.facebook.com/567765241) lol. Parang walang kneel!
-
-[Comments](#comment-b0f2ede6-350c-4b21-aa68-c854729b5936)
-
----

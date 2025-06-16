@@ -1,6 +1,8 @@
 ---
 date: 2016-07-01 16:12:33
 location: 5579775a498e1dcc65578f9a
+locations:
+- 5579775a498e1dcc65578f9a
 resources:
 - src: 13584724_10153753738578067_508574269180903848_o.jpg
   title: 'Image source: Geekfight Trivia Night'
@@ -21,10 +23,13 @@ tags:
 - quiznight
 - instagram
 - geekfight
-title: ''
+- '2016'
+title: 'GeekFight: It''s High Noon Somewhere!'
 ---
 
 2nd place Bottle of win #geekfightph
+
+This was [GeekFight: It's High Noon Somewhere!](https://www.facebook.com/events/254030111628117/)
 
 <time id="10154715396113912">[20:41]</time> From last night's Geekfight, identify this song: 
 

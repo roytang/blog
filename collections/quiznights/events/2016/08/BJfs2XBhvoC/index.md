@@ -1,6 +1,8 @@
 ---
 date: 2016-08-24 14:47:09
 location: 4c6c07711fb2a143fe44fae6
+locations:
+- 4c6c07711fb2a143fe44fae6
 resources:
 - src: 14053716_526294890902264_5354146960858723378_o.jpg
   title: Photo c/o PopQuiz
@@ -38,7 +40,10 @@ tags:
 - instagram
 - popquiz
 - instacomments
-title: ''
+- '2016'
+title: 'PopQuiz!: Tale as Old as Time'
 ---
 
 Back to back Pop Quiz champions!
+
+This was [PopQuiz!: Tale as Old as Time](https://www.facebook.com/events/1565890090382103)

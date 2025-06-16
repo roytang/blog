@@ -1,6 +1,8 @@
 ---
 date: 2016-08-05 16:27:20
 location: 5579775a498e1dcc65578f9a
+locations:
+- 5579775a498e1dcc65578f9a
 resources:
 - src: 13920407_10153822456578067_2243781691554152474_o.jpg
   title: Photo c/o GeekFight! Trivia Night
@@ -20,7 +22,10 @@ tags:
 - quiznight
 - instagram
 - geekfight
-title: ''
+- '2016'
+title: 'GeekFight: The Butler Did It!'
 ---
 
 Third place! May six pack na ko! #geekfightph
+
+This was [GeekFight: The Butler Did It!](https://www.facebook.com/events/110808292686656/)

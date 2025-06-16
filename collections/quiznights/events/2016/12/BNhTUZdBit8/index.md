@@ -4,6 +4,8 @@ albums:
 checkin_id: 58416a5076b8b2595e647376
 date: 2016-12-02 15:48:07
 location: 5579775a498e1dcc65578f9a
+locations:
+- 5579775a498e1dcc65578f9a
 resources:
 - src: 15384548_10154165456473067_2234650605896647050_o.jpg
   title: Photo c/o GeekFight! Trivia Night
@@ -25,8 +27,12 @@ tags:
 - bottleofwin
 - quiznight
 - geekfight
+- '2016'
+title: 'GeekFight: Yippee Ki Yay!'
 ---
 
 Geekfight! (@Splice Greenfield District)
 
 Somehow we won Geekfight! #bottleofwin
+
+This was [GeekFight: Yippee Ki Yay!](https://www.facebook.com/events/1320512244639262/)

@@ -1,5 +1,8 @@
 ---
 date: 2016-07-27 14:36:45
+location: 4c6c07711fb2a143fe44fae6
+locations:
+- 4c6c07711fb2a143fe44fae6
 resources:
 - src: 13735096_514057722125981_5941366666206828005_o.jpg
   title: Photo c/o PopQuiz
@@ -33,9 +36,10 @@ tags:
 - popquiz
 - quiznight
 - instagram
-title: 'Back to the 90s PopQuiz @ Borough'
-location: 4c6c07711fb2a143fe44fae6
+- '2016'
+title: Back to the 90s PopQuiz @ Borough
 ---
 
 We won! #popquiz
 
+This was the first ever PopQuiz!
