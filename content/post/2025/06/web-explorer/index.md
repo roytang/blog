@@ -1,9 +1,12 @@
 ---
-title: "the web as a space to be explored"
-date: 2025-06-16T15:41:35+08:00
+date: 2025-06-16 07:41:35
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/114692139902145559
 tags:
 - tech
 - web
+title: the web as a space to be explored
 ---
 
 A couple of articles I read recently about the doom of "the web":
