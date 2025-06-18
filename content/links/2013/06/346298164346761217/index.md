@@ -1,5 +1,5 @@
 ---
-date: 2013-06-16 16:08:10+00:00
+date: 2013-06-16 16:08:10
 link:
   source: twitter
   source_url: https://twitter.com/roytang/statuses/346298164346761217/
@@ -9,6 +9,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/346298164346761217/
+tags:
+- webcomics
 title: ''
 ---
 

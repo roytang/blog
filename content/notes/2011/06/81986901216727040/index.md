@@ -12,6 +12,7 @@ tags:
 location: eton_cyberpod
 tags:
 - mtg
+title: "2011 Nationals Qualifier (Standard) @ Eton Cyberpod Mall"
 ---
 
 Did somethng i havent done in a while: scrubbed out of a tournament at 0-2 drop
