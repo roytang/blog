@@ -487,3 +487,8 @@ article p {
     margin-left: 1em;
     margin-right: 1em;
 }
+
+:target {
+    border: 1px var(--main-color) dotted;
+    background-color: var(--second-container-color);
+}

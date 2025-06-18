@@ -12,6 +12,19 @@ tags:
 - ptq
 - modern
 - constructed
+- formernote
+title: Modern PTQ @ Got Game Makati
+dontinlinephotos: true
 ---
 
+I played a Modern PTQ @ Got Game Makati:
+
+{{< photos IMG_2033 >}}
+
+I ran Modern Jeskai Control:
+
+{{< photos 20150613 >}}
+
 Olats =/ #somanybadplays
+
+Only went 1-3!

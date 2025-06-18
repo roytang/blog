@@ -1,4 +1,4 @@
 <div class="title">
     <time class="dt-published" datetime="{{ .Date.Format .Site.Data.Formats.timestamp }}">{{ .Date.Format .Site.Data.Formats.date }}</time>
-    <a class="u-url post-title p-name" href="{{ .RelPermalink }}">{{ .Title }}</a>
+    <a class="u-url post-title p-name" id="{{ .Date.Format "2006-01-02" }}-{{ .File.ContentBaseName }}" href="{{ .RelPermalink }}">{{ .Title }}</a>
 </div>

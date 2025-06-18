@@ -1,3 +1,11 @@
 {
-    "count": {{ len .Site.RegularPages }}
+    "count": {{ len .Site.RegularPages }},
+    "dateindex": {
+        {{ range .Site.RegularPages.GroupByDate "2006-01-02" }}"{{ .Key }}": [
+            {{ range .Pages }}"{{ .File.ContentBaseName }}",{{ end }}
+            ""
+        ],
+        {{ end }}
+        "": []
+    }
 }

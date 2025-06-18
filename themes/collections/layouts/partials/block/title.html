@@ -1,6 +1,6 @@
 <div class="title">
 {{ if .Title }}
-    <a class="u-url post-title" href="{{ .RelPermalink }}"><h3 class="p-name">{{ .Title }}</h3></a>
+    <a class="u-url post-title" id="{{ .Date.Format "2006-01-02" }}-{{ .File.ContentBaseName }}" href="{{ .RelPermalink }}"><h3 class="p-name">{{ .Title }}</h3></a>
     <time class="dt-published" datetime="{{ .Date.Format .Site.Data.Formats.timestamp }}">{{ .Date.Format .Site.Data.Formats.datetime }}</time>
 {{ end }}
 </div>

@@ -1,4 +1,4 @@
-<div class="galleryitemwithpostlink">
+<div class="galleryitemwithpostlink" id="{{ .Date.Format "2006-01-02" }}-{{ .File.ContentBaseName }}">
 {{ $mainPermalink := .RelPermalink }}
 {{ $rootPath := .Site.Params.rootPath }}
 {{ $collectionName := .Site.Params.collection_name }}
