@@ -6,6 +6,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/744537132157435904/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154683056378912
+tags:
+- convos
+title: Convo about plugging into a USB slot
 ---
 
 Why does it take an average of 3 tries to plug something into a USB slot?

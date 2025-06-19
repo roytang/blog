@@ -1,6 +1,7 @@
 ---
 date: 2011-06-18 07:29:35
 dontinlinephotos: true
+location: eton_cyberpod
 source: twitter
 syndicated:
 - type: twitter
@@ -8,11 +9,9 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roy_mtg/status/81987063980896256/
 tags:
-- itsokillbeinanothertourneynextweek
-location: eton_cyberpod
-tags:
 - mtg
-title: "2011 Nationals Qualifier (Standard) @ Eton Cyberpod Mall"
+- formernote
+title: 2011 Nationals Qualifier (Standard) @ Eton Cyberpod Mall
 ---
 
 Did somethng i havent done in a while: scrubbed out of a tournament at 0-2 drop

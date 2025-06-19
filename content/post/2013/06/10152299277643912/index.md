@@ -1,5 +1,5 @@
 ---
-date: 2013-06-20 13:59:00+00:00
+date: 2013-06-20 13:59:00
 source: facebook
 syndicated:
 - type: facebook
@@ -11,7 +11,8 @@ tags:
 - throwbackthursday
 - amidoingitrite
 - timeline
-title: ''
+- formernote
+title: A Javier Family Tradition
 ---
 
 This is a photo of me and my grandfather shortly after I was born, in what was once (still is?) a Javier family tradition. #throwbackthursday #amidoingitrite

@@ -8,6 +8,8 @@ syndicated:
   url: https://reddit.com/r/Philippines/comments/4oredt/considering_changing_our_internet_to_sky/
 tags:
 - philippines
+- convos
+title: Convo about Sky Broadband
 ---
 
 #### Posted on r/Philippines: [Considering changing our internet to Sky Broadband 16mbs. Anyone have any feedback on speed, reliability, customer service, etc?](https://reddit.com/r/Philippines/comments/4oredt/considering_changing_our_internet_to_sky/)
