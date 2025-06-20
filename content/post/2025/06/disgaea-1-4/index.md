@@ -33,6 +33,9 @@ reviews:
   - psvita
   rating: 4.5
   title: 'Disgaea 4: A Promise Revisited (PS Vita)'
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/114716929138243659
 tags:
 - gaming
 - psp
