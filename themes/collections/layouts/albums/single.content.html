@@ -1,6 +1,8 @@
 <div class="e-content">
 {{ .Content }}
 
+{{ if .Params.dontinlinephotos }}
+{{ else }}
 <div class="pxgallery">
     {{ $mainPermalink := .RelPermalink }}
     {{ $postDate := .Date.Format .Site.Data.Formats.datetime }}
@@ -23,5 +25,6 @@
     </div>
     {{ end }}
 </div>
+{{ end }}
 
 </div>

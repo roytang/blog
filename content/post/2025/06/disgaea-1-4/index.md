@@ -42,7 +42,7 @@ In addition to the original game's story, the PSP version adds an "Etna mode" st
 ### Disgaea 2: Dark Hero Days (PSP)
 
 - Main story completed: 2012-06-30
-- Axel mode completed: UNFINISHED
+- Axel mode: UNFINISHED
 - Total playtime: 60.75hrs
 - Last played: 2012-07-07
 - Number of cycles: 1.5
@@ -63,15 +63,18 @@ In addition to the original game's story, the PSP version adds an "Etna mode" st
 - Collection level: 31.51%
 - Max item world level: 100
 - Enemies killed: 9,670
+- Achievements: 28 out of 54
 
 ### Disgaea 4: A Promise Revisited (PS Vita)
 
 - Main story completed: 2015-08-12
-- Total playtime: 54.5hrs
+- Total playtime: 54.5hrs before 2025
 - Last played: ONGOING
 - Number of cycles: 1
-- Max level: 3,281 (so far)
-- Max damage: 164,348 (so far)
-- Collection level: 34.14% (so far)
-- Max item world level: 40 (so far)
-- Enemies killed: 6,487 (so far)
+- Max level: 3,281
+- Max damage: 164,348
+- Collection level: 34.14%
+- Max item world level: 40
+- Enemies killed: 6,487
+- Achievements: 20 out of 51
+
