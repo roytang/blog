@@ -9,6 +9,7 @@ related_posts:
 - text: Game Reviews
   url: /2025/06/disgaea-1-4/
 dontinlinephotos: true
+content_embed: "Disgaea 1-4"
 ---
 
 ### Disgaea: Afternoon of Darkness (PSP)

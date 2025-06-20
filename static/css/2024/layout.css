@@ -492,3 +492,7 @@ article p {
     border: 1px var(--main-color) dotted;
     background-color: var(--second-container-color);
 }
+
+h2, h3 {
+    max-width: 40ch;
+}
