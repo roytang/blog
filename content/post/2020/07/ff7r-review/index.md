@@ -4,7 +4,7 @@ dontinlinephotos: true
 reviews:
 - description: ''
   media: games
-  rating: 0.0
+  rating: 4.5
   title: Final Fantasy VII Remake (PS4)
   platforms:
   - ps4
@@ -18,6 +18,12 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1269810841899003905/
 - type: twitter
   url: https://twitter.com/roytang/statuses/1285149646650671105/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/612482409594904576/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153892215413912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1274376857874399237/
 tags:
 - gaming
 - games
@@ -85,11 +91,20 @@ I also understand the limited number of summons we get. But we have Shiva and If
 
 At least I got to see the only enemy I really wanted to see in the remake: THE HELL HOUSE! (Now promoted to boss fight!)
 
+On [June 21, 2015, 12:49 p.m.](https://twitter.com/roytang/statuses/612482409594904576/) I wrote:
+
+> I wonder if the FF7 remake will have that enemy who's like an animated house
+
+On [June 21, 2020, 12:21 a.m.](https://twitter.com/roytang/statuses/1274376857874399237/) I wrote:
+
+> Update: YES
+> 
+
 {{< collections-embed albums ff7r REMAKE_20200615125524_1 >}}
 
 ### Hard mode
 
-Hard mode is... appropriately hard. Even normal encounters can be troublesome if you're not careful. And boss fights are much more dangerous, and it's much more imperative that you prepare before hand with the appropriate materia for eevery fight. The most crippling factor here is the fact that you can't use items and can't recover MP within a chapter. Which is a bit weird since quests and loot boxes still award you items. I understand the mode is balanced around not having items, it's just weird. And I feel like the game could have used an intermediate difficulty step where the enemies are on hard mode difficulty but you can still use items. In fact, I wouldn't have minded if that was what Normal mode was like, and Easy becomes what the actual Normal mode was. 
+Hard mode is... appropriately hard. Even normal encounters can be troublesome if you're not careful. And boss fights are much more dangerous, and it's much more imperative that you prepare before hand with the appropriate materia for every fight. The most crippling factor here is the fact that you can't use items and can't recover MP within a chapter. Which is a bit weird since quests and loot boxes still award you items. I understand the mode is balanced around not having items, it's just weird. And I feel like the game could have used an intermediate difficulty step where the enemies are on hard mode difficulty but you can still use items. In fact, I wouldn't have minded if that was what Normal mode was like, and Easy becomes what the actual Normal mode was. 
 
 None of the hard mode fights are frustratingly difficult though, as long as you are sufficiently prepared. I did have to repeat some boss fights a few times, but hard mode didn't really feel too tedious. I guess it helped that I enjoyed the combat system?
 

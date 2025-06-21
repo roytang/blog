@@ -25,6 +25,8 @@ syndicated:
   url: https://twitter.com/roytang/status/745015662154649600/
 tags:
 - iamcrystalene
+- convos
+title: One-side convo with Crystal
 ---
 
 [@iamcrystalene](https://twitter.com/iamcrystalene/) parang madami ka na namang problema :p
