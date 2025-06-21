@@ -34,7 +34,7 @@ My stuff:
 - **Gaming:**
     - I finished Final Fantasy VII Remake (before the internet outage)! So I spent a lot of the outage (including my time on hold with tech support) playing through hard mode, already about half-way through. Still not sure I'm going to do achievement completion, but we'll see. Hard mode is actually an enjoyable challenge, nothing too insane.
     - Divinity OS2 inched along slightly as well
-    - won my [first Trivia Royale](/2020/06/1274581114628108289/), I can quit now lol.
+    - won my [first Trivia Royale](/2020/06/weeknotes-06-21/#1274581114628108289), I can quit now lol.
     - the internet outage coincided with the start of this week's Steam Summer Sale. There's some games/DLC I'm considering buying, but realistically in terms of backlog I shouldn't lol. Let's see if willpower holds out.
     - the new MTG core set also came out on Magic Arena during the outage. Maybe I'll get back into regular streaming for M21 limited.
 - **Quiz:** 

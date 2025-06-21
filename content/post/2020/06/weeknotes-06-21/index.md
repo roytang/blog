@@ -6,14 +6,17 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/104381310843338289
 - type: twitter
   url: https://twitter.com/roytang/statuses/1274638206026174464/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1274581114628108289/
 tags:
 - weeknotes
 - current events
 - philippines
 title: 'Weeknotes 2020-06-21: There''s no gettin'' off this train we''re on'
+dontinlinephotos: true
 ---
 
-My stuff:
+### My stuff
 
 - [This week's pandemic notes](/2020/06/covid19-06-21/).
 - Some days still hot, but weather beginning to turn for the better. Sleep kind of better and a bit more regular too.
@@ -35,9 +38,32 @@ My stuff:
 - I should probably write more.
 
 
-Recent links:
+### Recent links
 
 - I've been reading a lot of posts off [lobste.rs](https://lobste.rs) lately, so I finally pulled the trigger and asked around for an invite to the site. A [helpful person](https://mastodon.gamedev.place/@ignaloidas) provided me one via Mastodon. It's an interesting site, basically an invite-only reddit-like site, mostly focused on tech stuff, so in theory the discussion quality should be fairly high. The chain of invites is public too, each user's profile shows you who invited him, so in that way it's kind of similar to a certificate chain of trust? We'll see if this scales up well.
 - I enjoyed this [recent article about the 90s web](https://mxb.dev/blog/the-return-of-the-90s-web/). I will easily admit that I am an easy sucker for any post that appeals to my nostalgia for how the web was better "back in the doy", rose-tinted glasses or no. 
 - I've always enjoyed the song Fast Car, so it was interesting to read about [its origins and its surprising popularity](https://www.rollingstone.com/music/music-features/tracy-chapman-fast-car-revival-luke-combs-khalid-1014843/).
 - The founders of BaseCamp recently released [Hey](https://hey.com), a new email service that has [some interesting ideas about new features](https://hey.com/features/) to support the typical email workflow. I don't nearly use email enough on a personal basis to pay for it (though I do have an invite!), but I'm glad someone is innovating in this space, although they don't seem to be using open standards. They promptly [got into a fight with Apple over App Store policies](https://www.theverge.com/2020/6/18/21296180/apple-hey-email-app-basecamp-rejection-response-controversy-antitrust-regulation) which has sparked some debate in the tech community on the value of curated app stores. So maybe they're actually going to push for innovation in two different areas?
+
+### Other Nonsense
+
+On <time id="foot-dispenser">Jun 21, 2020, 08:00 AM</time> I wrote:
+
+> #### Foot Dispenser
+> A foot-powered alcohol/hand sanitizer dispenser. You step on the bottom part and the tubes push down on the dispenser so it can... dispense.
+>
+> {{< photos 20200616 >}}
+
+
+---
+
+On <time id="1274581114628108289">Jun 21, 2020, 08:00 AM</time> [I wrote](https://twitter.com/roytang/statuses/1274581114628108289/):
+
+> Finally managed to win at Trivia Royale, now I can quit playing it lol 
+> 
+> {{< video width="320" height="568" src="https://roytang.net/files/twitter/roytang/tweets_media/1274581114628108289-GYj59NBRSVGKIwfc.mp4?tag=10" >}}
+> 
+
+
+
+---
