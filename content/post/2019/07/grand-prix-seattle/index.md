@@ -6,21 +6,33 @@ featuredImage: https://i.imgur.com/Wi48Efw.png
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1145575114370629633/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1141892322671546368/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1142241468095946752/
+- type: instagram
+  url: https://instagram.com/p/By_z6ZEh0e9/
 tags:
 - grand prix
 - limited
 - mtg
 - mfseattle
 title: Grand Prix Seattle 2019
+toc: true
 type: post
 ---
 
-Grand Prix / MagicFest Seattle Photo Dump:
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/Z0fXkeI"><a href="//imgur.com/a/Z0fXkeI"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+### Grand Prix / MagicFest Seattle Photo Dump
+
+{{< collections-embed albums mfseattle2019 >}}
+
+### Before the Trip
 
 I wasn't actually planning to play much competitive Magic this year, at least [not on paper](https://roytang.net/2019/05/magic-arena-first-time-mythic-i-did-it/), but when the family [planned a US trip](/2019/04/us-visa/) in June, I figured I'd take a short side trip to attend and experience a US GP. I had the choices of Washington DC on the 14th-16th (Limited), Seattle on 20th-23rd (Limited), or Dallas on 28th-30th (Modern). After some wrangling with the family's schedule, Seattle was the one most convenient to go to, and Limited meant I didn't have to try and put together a decent deck. (IDK how GP Dallas is going to go next weekend, given the problem in Modern that is Hogaak, so I guess I'm lucky I didn't choose Dallas). Seattle was split over four days because instead of the regular day 1 and 2 for the main event, they had day 1A and 1B, and you could join either event or both to qualify for day 2. I chose to register for Saturday, Day 1A.
 
 It turns out the limited format for GP Seattle was Modern Horizons, a set which was released on the weekend the US trip started. This meant I had no chance for any sort of practice beforehand, since the laptop I had was a Mac, which could not run MTGO. (Had the format been War of the Spark limited, I could have simply practiced at home during the trip).
+
+### Last Chance Trials
 
 So my first taste of Modern Horizons limited was the first Last-Chance Trial on Thursday. Before that all I had was reading and research and theorycrafting. I knew from all of that MH1 limited was a tough format with a lot of synergies to consider. With perhaps a bit too much arrogance, I assumed my basic limited skills and prep work could push me through. 
 
@@ -187,6 +199,14 @@ This sealed pool, like all the other MH1 pools I played, tends to pull you in di
 
 It was a decent choice; I won the first three rounds of the single-elimination trial, losing only at the finals to a quick blue-black ninja deck that had really good draws. Still, that was a satisfying first outing with MH1 limited, which boosted my confidence and gave me higher hopes for the main event. 
 
+On <time id="1141892322671546368">Jul 01, 2019, 01:56 PM</time> [I wrote](https://twitter.com/roytang/statuses/1141892322671546368/):
+
+> Lost in the finals of a trial today at GP seattle. Here's the deck I built from my mediocre pool, if that interests you. Hopefully I have better luck in the main event #mtg #MFSeattle
+>
+> {{< collections-embed albums mfseattle2019 1141892322671546368 >}}
+
+### Friday Swiss Sealed
+
 I opted not to do a second trial, as I did not want to stay out too late. Instead I went back the next day (Friday the 21st), and played some Swiss Sealed. Here's my pool:
 
 {{< cardlist title="GP Seattle 2019 Friday Sealed Pool" >}}
@@ -290,6 +310,22 @@ I opted not to do a second trial, as I did not want to stay out too late. Instea
 {{< /cardlist >}}
 
 I think the only real bomb here was the sword. For this limited format, I tended to prefer color pairs where I had one of the indicative uncommons or rares, so I decided to go G/W this time since I had Good-Fortune Unicorn. I don't have a record of my decklist for this pool, but I do remember my curve wasn't that good on the low end; I won the first round on the back of a Scale Up overrun, but lost the next 2 rounds due to being aggro'ed out and a bit of color screw. A bit discouraging, but I chalked it up to bad beats and kept my confidence for the main event.
+
+On <time id="1142241468095946752">Jul 01, 2019, 01:56 PM</time> [I wrote](https://twitter.com/roytang/statuses/1142241468095946752/):
+
+> Did another sealed today at #MFSeattle for practice. Deck felt better than yesterday, but did not go as well, finishing 1-2 on some bad draws #mtg
+>
+> {{< collections-embed albums mfseattle2019 1142241468095946752 >}}
+
+### Rob Alexander Painting Demo
+
+On <time id="By_z6ZEh0e9">Jul 01, 2019, 01:56 PM</time> [I wrote](https://instagram.com/p/By_z6ZEh0e9/):
+
+> Rob Alexander painting demo earlier at MagicFest Seattle. He did this in about 2 hours; "I can't do it in 30 minutes so I don't have a TV show." Pretty great! #mfseattle #mtg
+>
+> {{< collections-embed albums mfseattle2019 robalex >}}
+
+### Main Event
 
 Finally, the main event! I arrived on Saturday early, ready to face the challenge. Here's the pool I opened:
 
@@ -439,6 +475,8 @@ Not too spectacular. Another sword (the better one, actually, since it stops bla
 Unfortunately, things did not go well for our hero. I won a quick round 1, which got me time for a quick lunch. Unfortunately, the low creature count bit me in round 2, where I was unable to close out the third game despite having the sword and Answered Prayers out. Round 3 was against an aggressive Mardu deck; I lost a quick game one, and I almost stabilized in game two but lost to a 2/2 I couldn't remove. I realized only after signing the match slip that I had two Lava Darts in the yard that I could flashback to stay alive. I beat myself up for a while over it, and had some food to psych myself up and avoid going on tilt, still hoping I could win the rest of the day. Unfortunately, my deck didn't come to play in Round 4, giving me 14 lands drawn in the 3rd game, leading to an easy defeat. I sadly dropped out of the main event at 1-3.
 
 Doing poorly at a GP always bums me out, especially when I had to travel for it. But I only had myself to blame for this one, since I came in with minimal experience with the format. I'm pretty sure my sealed deck build could have been more optimized too. I probably should have tempered my expectations and remind myself that Magic is a game of variance - skill only comes into play over a large number of events, and it's unwise to expect to be able to spike any single given event. I decided to just leave early and come back the next day for my traditional post-GP drop Chaos Sealed.
+
+### Aftermath
 
 Unfortunately, when I came back the next day, I found out Chaos Sealed was cancelled due to lack of products. Perfect end to an unfortunate weekend. Not to be undone, I decided to just do a MH1 draft, and I managed to win 2 rounds and split the finals to win a few more packs and at least end the weekend on a high note.
 
