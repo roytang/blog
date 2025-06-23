@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/status/1409018870111768584/
 - type: twitter
   url: https://twitter.com/roytang/status/1409019030720057345/
+tags:
+- tv
 ---
 
 Catching up with Boku No Hero Academia season 5:

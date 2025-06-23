@@ -9,6 +9,9 @@ syndicated:
   url: https://twitter.com/roytang/status/348839156773965824/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10152305344073912
+tags:
+- movies
+- starwars
 ---
 
 Just watched the Battle of Yavin (ending of Star Wars ep 4) on GMA. I should probably be glad it wasn't tagalized.

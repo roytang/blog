@@ -12,6 +12,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1010728043353202689/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156726595793912
+tags:
+- threads
 ---
 
 <p><a class="tumblr_blog" href="http://thranduilland.tumblr.com/post/146789207918">thranduilland</a>:</p>
