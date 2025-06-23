@@ -12,6 +12,18 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1142241468095946752/
 - type: instagram
   url: https://instagram.com/p/By_z6ZEh0e9/
+- type: twitter
+  url: https://twitter.com/roytang/status/1142519183269216257/
+- type: twitter
+  url: https://twitter.com/roytang/status/1142522972252434432/
+- type: twitter
+  url: https://twitter.com/roytang/status/1142538262130634754/
+- type: twitter
+  url: https://twitter.com/roytang/status/1142615183698927616/
+- type: twitter
+  url: https://twitter.com/roytang/status/1142622292221943808/
+- type: mastodon
+  url: https://mastodon.technology/users/roytang/statuses/102318424055630352
 tags:
 - grand prix
 - limited
@@ -474,6 +486,28 @@ Not too spectacular. Another sword (the better one, actually, since it stops bla
 
 Unfortunately, things did not go well for our hero. I won a quick round 1, which got me time for a quick lunch. Unfortunately, the low creature count bit me in round 2, where I was unable to close out the third game despite having the sword and Answered Prayers out. Round 3 was against an aggressive Mardu deck; I lost a quick game one, and I almost stabilized in game two but lost to a 2/2 I couldn't remove. I realized only after signing the match slip that I had two Lava Darts in the yard that I could flashback to stay alive. I beat myself up for a while over it, and had some food to psych myself up and avoid going on tilt, still hoping I could win the rest of the day. Unfortunately, my deck didn't come to play in Round 4, giving me 14 lands drawn in the 3rd game, leading to an easy defeat. I sadly dropped out of the main event at 1-3.
 
+On <time id="1142519183269216257">Jul 01, 2019, 01:56 PM</time> [I wrote](https://twitter.com/roytang/status/1142519183269216257/):
+
+> Ugh started out 1-2 at #mtgseattle. Time for the mythical 6-0 run!
+> 
+> <time>[04:01]</time> Damn it I forgot my own rules! 
+> 
+> On <time>Dec. 15, 2017, 11:46 p.m.</time> [I wrote](/2017/12/941696039941111808/):
+> 
+> > 1.  read the cards
+> > 2.  mulligan well
+> > 3.  think before scooping
+> > 4.  life is unfair
+> 
+> 
+> <time>[05:02]</time> Sigh. Dropped out of the #mtgseattle main event at 1-3. D: Deck didnt even want to play this time gave me 15 lands drawn in one game. Sad face
+> 
+> <time>[10:07]</time> It's okay to mess up. Don't dwell on it, learn what you can, and move on
+> 
+> <time>[10:35]</time> Very humbling that as i was dropping out of #MTGSeattle, Kai Budde, who's about the same age as me and started playing #MTG around the same time, made top 4 of the Mythic Championship, after having been semiretired for almost a decade!
+> 
+
+
 Doing poorly at a GP always bums me out, especially when I had to travel for it. But I only had myself to blame for this one, since I came in with minimal experience with the format. I'm pretty sure my sealed deck build could have been more optimized too. I probably should have tempered my expectations and remind myself that Magic is a game of variance - skill only comes into play over a large number of events, and it's unwise to expect to be able to spike any single given event. I decided to just leave early and come back the next day for my traditional post-GP drop Chaos Sealed.
 
 ### Aftermath
@@ -485,3 +519,7 @@ That was it for me playing Magic. I did enjoy the rest of the MagicFest though, 
 This is the 2nd time I've played a CFB GP, the first one was [GP London back in 2015](https://roytang.net/2015/08/grand-prix-london-2015/), but this is the first time since they've been given a monopoly on GPs worldwide. I will admit to being a bit annoyrd at the higher entry fees for the events, and the fact that the prize wall items seem to be more expensive now too. The GP playmat used to be complimentary with main event entry too, this time I had to pay a bit extra for it. I guess there are a lot of expenses, but the costs are discouraging me from considering travel to future GPs. Also, I miss that system by ChainLinks (who used to manage the SEA GPs) where they give each player a lanyard for the weekend which could be used to enter events and tracks your dci number and prize points. For this GP, they gave out physical cards to represent your prize points, and this almost got me in trouble because I accidentally left them at the AirBNB when I headed out on Sunday and had to double back to get them. CFB also had online pairings, but I wish they did that thing where you could subscribe to an FB messenger bot that would message you automatically with your pairings. They did have some nice tech usage like having restaurant-style buzzers for on-demand events though.
 
 After very time I do poorly at a GP, I ask myself whether I should quit playing Magic competitively. Or at least the travelling for GPs part. It is kind of a young man's game after all. Anyway, Magic Arena gives me a good outlet for playing Magic competitively without leaving the comfort of home, so that helps. But it's hard to say for sure, we'll see where the future takes us.
+
+
+
+---

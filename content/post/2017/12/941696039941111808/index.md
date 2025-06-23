@@ -8,6 +8,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156264236028912
 tags:
 - mtg
+- formernote
+title: Rules of Playing Magic
 ---
 
 1. read the cards

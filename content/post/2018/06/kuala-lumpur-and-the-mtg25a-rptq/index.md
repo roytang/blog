@@ -170,7 +170,12 @@ So much for "laying low". Ah Magic, you are such a hard game to quit.
 
 <time id="1005355157024960512">[2018-06-09 15:45] </time> Remember 
 
-{{% note "2017/12/941696039941111808/" %}}
+On <time>Dec. 15, 2017, 11:46 p.m.</time> [I wrote](/2017/12/941696039941111808/):
+ 
+> 1.  read the cards
+> 2.  mulligan well
+> 3.  think before scooping
+> 4.  life is unfair
 
 ---
 
