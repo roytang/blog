@@ -1,17 +1,16 @@
 ---
 date: 2017-06-14 15:00:27
 dontinlinephotos: true
-source: twitter
-syndicated:
-- type: twitter
-  url: https://twitter.com/roytang/statuses/875005017391902720/
-tags:
-- threads
-title: "d_m_elms on Twitter's bot counts, salesmen, and bigots"
 repost_source:
   name: viragoergosum
   type: twitter
   url: https://twitter.com/d_m_elms/status/874770622202560512
+source: twitter
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/875005017391902720/
+tags: []
+title: d_m_elms on Twitter's bot counts, salesmen, and bigots
 ---
 
 The primary reason twitter works so hard to protect racists and meninists and such is cuz their bot counts are staggering,

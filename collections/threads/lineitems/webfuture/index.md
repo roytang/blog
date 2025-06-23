@@ -8,9 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/976692775180689408/
-tags:
-- threads
-title: "Tim Berners-Lee: The Web's Future"
+tags: []
+title: 'Tim Berners-Lee: The Web''s Future'
 ---
 
 This is a serious moment for the web’s future. But I want us to remain hopeful. The problems we see today are bugs in the system. Bugs can cause damage, but bugs are created by people, and can be fixed by people. 1/9

@@ -1,20 +1,18 @@
 ---
 date: 2018-04-25 04:48:10
+repost_source:
+  name: jensenharris
+  type: twitter
+  url: https://twitter.com/jensenharris/status/988967889330819072
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/989003108159184896/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156594248423912
-tags:
-- threads
+tags: []
 title: 'jensenharris: Startup interview questions'
-repost_source:
-  name: jensenharris
-  type: twitter
-  url: https://twitter.com/jensenharris/status/988967889330819072
 ---
-
 
 When you're leaving a big company to interview at a startup, there are some hidden questions you might not know to ask.
 

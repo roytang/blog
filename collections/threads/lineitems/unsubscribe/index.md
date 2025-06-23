@@ -8,8 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1156532855171760128/
-tags:
-- threads
+tags: []
 title: 'Joe Pettersson: Unsubscribe'
 ---
 

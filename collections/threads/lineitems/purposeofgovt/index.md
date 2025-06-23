@@ -13,8 +13,7 @@ tags:
 - Teri_Kanefield
 - government
 - usa
-- threads
-title: "Teri_Kanefield: Purpose of Government"
+title: 'Teri_Kanefield: Purpose of Government'
 ---
 
 [JoyceWhiteVance wrote](https://twitter.com/JoyceWhiteVance/status/1556372038008332290): 

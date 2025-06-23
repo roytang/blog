@@ -1,15 +1,14 @@
 ---
 date: 2021-07-27 06:23:01
-source: twitter
-syndicated:
-- type: twitter
-  url: https://twitter.com/roytang/status/1419906150078697473/
-tags:
-- threads
 repost_source:
   name: ErynnBrook
   type: twitter
   url: https://twitter.com/ErynnBrook/status/1046055387617775616/
+source: twitter
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/status/1419906150078697473/
+tags: []
 title: You are allowed to leave an uncomfortable situation
 ---
 

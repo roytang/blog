@@ -8,8 +8,7 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/933865414748078080/
-tags:
-- threads
+tags: []
 title: 'Patrick McKenzie: Choose SaaS over videogames when starting a business'
 ---
 

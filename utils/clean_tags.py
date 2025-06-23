@@ -3,7 +3,7 @@ from pathlib import Path
 import frontmatter
 import io
 
-TAGS_TO_REMOVE = ["mobile-uploads", "timeline-photos", "timeline",
+TAGS_TO_REMOVE = ["mobile-uploads", "timeline-photos", "timeline", "threads",
     "fbreposts01", "fbreposts02", 
     "fbreposts03", "fbreposts04", "fbreposts05", "fbreposts06", 
     "fbreposts07", "fbreposts08", "fbreposts09", "fbreposts10" ]

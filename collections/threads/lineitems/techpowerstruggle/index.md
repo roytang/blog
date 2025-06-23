@@ -1,19 +1,18 @@
 ---
 date: 2022-02-06 16:02:21
 dontinlinephotos: true
+repost_source:
+  name: MrAlanCooper
+  type: twitter
+  url: https://twitter.com/MrAlanCooper/status/1488226372854050817/
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/status/1490355191140339715/
 tags:
-- threads
 - MrAlanCooper
 - tech
-title: Alan Cooper on the power struggle in modern tech companies 
-repost_source:
-  name: MrAlanCooper
-  type: twitter
-  url: https://twitter.com/MrAlanCooper/status/1488226372854050817/
+title: Alan Cooper on the power struggle in modern tech companies
 ---
 
 Creating good user interactions with technology is not a design problem. It’s a power struggle. 1
@@ -85,4 +84,3 @@ So, as a tech practitioner, you know that the best and most important step that 
 ---
 
 Today’s power struggle is with the 800-pound gorilla of the inescapable imperative of late-stage, unconstrained capitalism. Making software easy to use is child’s play compared to that. 18
-

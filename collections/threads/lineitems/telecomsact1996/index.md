@@ -11,7 +11,6 @@ syndicated:
   url: https://twitter.com/roytang/status/1460363252236386305/
 tags:
 - patchdj
-- threads
 title: The Telecommunication Act of 1996 and how it ruined music
 ---
 

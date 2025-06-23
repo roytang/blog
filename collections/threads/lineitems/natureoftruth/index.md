@@ -1,15 +1,14 @@
 ---
 date: 2019-12-05 19:20:08
-source: twitter
-syndicated:
-- type: twitter
-  url: https://twitter.com/roytang/statuses/1202668999030394880/
 repost_source:
   name: miniver
   type: twitter
   url: https://twitter.com/miniver/status/1202661118595891200
-tags:
-- threads
+source: twitter
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1202668999030394880/
+tags: []
 title: 'Jonathan Korman: The Nature of Truth'
 ---
 

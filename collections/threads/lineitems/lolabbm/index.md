@@ -11,10 +11,9 @@ syndicated:
   url: https://twitter.com/roytang/status/1514141710569275395/
 tags:
 - AuDonTon191201
-- threads
 - philippines
 - halalan2022
-title: "AuDonTon191201's Lola on BBM"
+title: AuDonTon191201's Lola on BBM
 ---
 
 Me and my 80 year old Lola talking about the successful rallies of VP Leni, then my aunt who's Marcos loyalist passed by and overheard our convo.
@@ -94,4 +93,4 @@ Naluha ako saga sinabi ni Lola
 
 ---
 
-*sa mga" 
+*sa mga"

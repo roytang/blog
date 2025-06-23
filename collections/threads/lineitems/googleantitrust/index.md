@@ -11,7 +11,6 @@ syndicated:
   url: https://twitter.com/roytang/status/1452157717808771074/
 tags:
 - fasterthanlime
-- threads
 title: Google antitrust filing
 ---
 

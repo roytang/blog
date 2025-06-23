@@ -11,8 +11,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1454688355153690624/
 tags:
 - G_S_Bhogal
-- threads
-title: "G_S_Bhogal: 40 concepts megathread"
+title: 'G_S_Bhogal: 40 concepts megathread'
 ---
 
 My peoples, the time has come for a MEGATHREAD.

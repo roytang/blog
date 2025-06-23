@@ -11,8 +11,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1006522419115245568/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156700373338912
-tags:
-- threads
+tags: []
 title: 'valerievaldes: Smart kids'
 ---
 

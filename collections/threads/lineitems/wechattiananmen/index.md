@@ -8,9 +8,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1268824196706037761/
-tags:
-- threads
-title: 'WeChat & Tiananmen'
+tags: []
+title: WeChat & Tiananmen
 ---
 
 My WeChat &amp; Tiananmen: A thread.
