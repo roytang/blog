@@ -1,6 +1,11 @@
 ---
-title: "My Magic 2021 Limited Recap"
 date: 2020-07-04
+dontinlinephotos: true
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1277206902431244289/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1277247649255583744/
 tags:
 - mtg
 - m21
@@ -8,7 +13,7 @@ tags:
 - magicarena
 - limitedrecap
 - mtgsetrecap
-dontinlinephotos: true
+title: My Magic 2021 Limited Recap
 ---
 
 *(Note: This post was written April 15th, 2022 after I did the Neon Dynasty Limited Recap, but the publish date is back-dated to right after the last [M21](/tags/m21) post)*
@@ -61,9 +66,23 @@ dontinlinephotos: true
 
 - Not a lot of drafts played.
 
+
+### Random Posts
+
+
+On <time id="1277206902431244289">Jul 04, 2020, 08:00 AM</time> [I wrote](https://twitter.com/roytang/statuses/1277206902431244289/):
+> Casual M21 draft https://www.twitch.tv/twitchyroy #twitch #mtgarena #mtg
+> 
+> Draft went reasonably well, all things considered. Lost 2 games to mana flood/screw, but that's fine.
+> 
+> 
+> 
+> YT: https://www.youtube.com/watch?v=kXZO7Ukg5Xk
+
 ### 7-x Drafts
 
 {{% photos trophy %}}
+
 
 ### Related 
 
