@@ -1,6 +1,9 @@
 ---
-date: 2025-06-30T14:54:06+08:00
+date: 2025-06-30 06:54:06
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/114771181245734555
 tags:
 - weeknotes
 title: Weeknotes 2025-06-29
@@ -70,4 +73,3 @@ Upcoming releases I am looking forward to:
 - Jul 11 Superman
 - Jul 17 Strange New Worlds S3 
 - Jul 25 Fantastic Four: First Steps
-
