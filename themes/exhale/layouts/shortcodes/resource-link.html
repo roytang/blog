@@ -1,0 +1,3 @@
+{{/* get file that matches the filename as specified as src="" in shortcode */}}
+{{ $src := .Page.Resources.GetMatch (printf "*%s*" (.Get "src")) }}
+<a class="resource-link" href="{{ $src.permalink }}" download="{{ $src.filename }}">Download file</a>
