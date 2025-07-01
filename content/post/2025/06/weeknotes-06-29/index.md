@@ -18,7 +18,7 @@ Tomorrow is July! I am looking forward to July mostly because of the movies bein
 
 ### The World
 
-Iran and Israel have entered a ceasefire. Everyone is claiming victory. Trump si mad because intel leaks suggest they haven't wiped out Iran's nuclear program like he announced.
+Iran and Israel have entered a ceasefire. Everyone is claiming victory. Trump is mad because intel leaks suggest they haven't wiped out Iran's nuclear program like he announced.
 
 ### My Week
 

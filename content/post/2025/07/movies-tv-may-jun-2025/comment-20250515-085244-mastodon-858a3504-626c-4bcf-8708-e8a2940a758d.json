@@ -7,5 +7,6 @@
   "photo": "https://cdn.masto.host/indiewebsocial/cache/accounts/avatars/109/317/041/690/453/869/original/ea56114d1324bf06.png",
   "source_url": "https://thecanadian.social/users/mike/statuses/114509110639771874",
   "source": "mastodon",
-  "spam": false
+  "spam": false,
+  "reply_to": "https://indieweb.social/users/roytang/statuses/114507324383988787"
 }

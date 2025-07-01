@@ -491,6 +491,7 @@ article p {
 :target {
     border: 1px var(--main-color) dotted;
     background-color: var(--second-container-color);
+    color: var(--text-color);
 }
 
 h2, h3 {
