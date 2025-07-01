@@ -85,14 +85,14 @@ reviews:
   title: The Burial
   year: '2023'
 - date: '2025-05-15'
-  description: 'The best that Star Wars has to offer.'
+  description: The best that Star Wars has to offer.
   hashtag: andor-s2
   media: tv
   rating: 5.0
   title: Andor S2
   year: '2025'
 - date: '2025-05-15'
-  description: 'So good and so tragic.'
+  description: So good and so tragic.
   hashtag: the-pitt
   media: tv
   rating: 5.0
@@ -113,7 +113,7 @@ reviews:
   title: The Simpsons S35-S36
   year: '2025'
 - date: '2025-06-15'
-  description: 'So good!'
+  description: So good!
   hashtag: dept-q
   media: tv
   rating: 5.0
@@ -141,6 +141,8 @@ syndicated:
   url: https://letterboxd.com/hungryroy/film/the-burial/
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/114507324383988787
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/114777221081658480
 tags:
 - movies
 - tv
@@ -346,4 +348,3 @@ I doubt people will ever see The Simpsons as returning to the quality levels of 
 Finished watching on 2025-06-22: ★★★★★
 
 Surprisingly good for a cold case detective story. At first I thought it was going to be a procedural case-per-episode kind of thing, but nope, a single case from start to end, brought to a satisfying conclusion (though they left the initial shooting unresolved, presumably for a season 2?). Matthew Goode's grumpy detective Carl Morck is a good lead, but my favorite character was the quiet yet mysteriously menacing assistant Akram.
-
