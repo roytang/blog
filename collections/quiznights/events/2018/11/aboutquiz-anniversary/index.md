@@ -1,9 +1,13 @@
 ---
-date: 2018-11-17T22:28:08+08:00
+date: 2018-11-17 14:28:08
+location: worldsend
+locations:
+- worldsend
 tags:
 - aboutquiz
 - quiznight
-location: worldsend
+- '2018'
+title: 'About Quiz Turns One!: #AboutQuizFirstAnniv'
 ---
 
 We attended [About Quiz Turns One!: #AboutQuizFirstAnniv](https://www.facebook.com/events/1943297629098210/)

@@ -1,9 +1,13 @@
 ---
-date: 2018-02-24T22:28:08+08:00
+date: 2018-02-24 14:28:08
+location: worldsend
+locations:
+- worldsend
 tags:
 - aboutquiz
 - quiznight
-location: worldsend
+- '2018'
+title: 'To Do List: #QuizAboutAdulting!'
 ---
 
 We attended [To Do List: #QuizAboutAdulting!](https://www.facebook.com/events/194893837757682/) 

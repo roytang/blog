@@ -1,10 +1,13 @@
 ---
-title: "Popquiz: Buwan ng aGhosto"
-date: 2018-08-31T23:29:44+08:00
+date: 2018-08-31 15:29:44
 location: bluesmith
+locations:
+- bluesmith
 tags:
 - quiznight
 - popquiz
+- '2018'
+title: 'Popquiz: Buwan ng aGhosto'
 ---
 
 We attended PopQuiz at Bluesmith Coffee & Kitchen, Ayala Malls the 30th.

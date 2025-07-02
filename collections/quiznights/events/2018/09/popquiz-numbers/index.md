@@ -1,9 +1,13 @@
 ---
-date: 2018-09-20T23:24:05+08:00
+date: 2018-09-20 15:24:05
+location: bluesmith
+locations:
+- bluesmith
 tags:
 - popquiz
 - quiznight
-location: bluesmith
+- '2018'
+title: 'PopQuiz: Play By Numbers'
 ---
 
 We attended [PopQuiz: Play By Numbers](https://www.facebook.com/events/329095024315486).
@@ -16,4 +20,3 @@ We attended [PopQuiz: Play By Numbers](https://www.facebook.com/events/329095024
 - Round 6: 90210
 - Round 7: Agent X
 - Round 8: Mathematical!
-

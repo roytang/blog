@@ -1,9 +1,13 @@
 ---
-date: 2018-07-28T22:28:08+08:00
+date: 2018-07-28 14:28:08
+location: worldsend
+locations:
+- worldsend
 tags:
 - aboutquiz
 - quiznight
-location: worldsend
+- '2018'
+title: 'I''ll Be There For You: #QuizAboutFriends!'
 ---
 
 We attended [I'll Be There For You: #QuizAboutFriends!](https://www.facebook.com/events/286348658802202/) 
