@@ -1,11 +1,13 @@
 ---
-date: 2020-06-28 13:51:25+00:00
+date: 2020-06-28 13:51:25
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1277238175526576129/
 tags:
 - JusticeForJeremiah
+- netflix
+- tv
 title: ''
 ---
 

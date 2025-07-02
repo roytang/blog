@@ -6,6 +6,9 @@ syndicated:
   url: https://twitter.com/roytang/statuses/2435237143/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/87474567394
+tags:
+- convos
+title: Convo about having a cold
 ---
 
 has a cold

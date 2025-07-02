@@ -39,8 +39,8 @@ Visit the [Links page](/links/) for more links of interest.
 ### From the archives, this week in history:
 
 - 2020: It's been one year since I deactivated my Facebook account! Here's the [corresponding essay](/2020/06/quitting-facebook/).
-- 2013: Google [shut down Google Reader](/2013/06/351351791226589187/), forever changing the adoption trajectory of RSS.
-- 2011: Google launched [Google Plus](/2011/07/86804113995730945/)
+- 2013: Google [shut down Google Reader](/2013/07/google-reader/), forever changing the adoption trajectory of RSS.
+- 2011: Google launched [Google Plus](/2011/07/86804113995730945/
 
 ### My stuff:
 

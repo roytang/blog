@@ -40,6 +40,8 @@ reviews:
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/110537372273165897
+- type: twitter
+  url: https://twitter.com/roytang/statuses/84972007556517888/
 tags:
 - gaming
 - 3ds
@@ -65,7 +67,12 @@ Finished: 2012/02/17
 
 Total playtime: 44:52
 
-This was my first time playing a 3D Zelda, and this was a classic, one of the highest-rated games of all time. I did not love the experience. [I fell asleep the first time I played it](/2011/06/84972007556517888/). My main issue with the game is that camera control is horrible, which is everything in a 3D game. (I had camera issues with [Super Mario 64](/2020/10/mario-3d-all-stars/) as well, so I guess this is typical of early console 3D games...) In first person mode, you had to aim using the left stick (the 3DS had no right stick) **and** moving the 3DS adjusted your aim as well, which meant things were so unsteady. This made aiming weapons like the bow and hookshot in the middle of combat very tricky. Also, the water temple was so tedious in this game, but at least in this version you could instantly remove/equip the needed item via the touchscreen (in the original, you had to open the menu every time!) Somehow I powered through and finished the game, but as you can see from my save file, I did not bother with completion. 
+This was my first time playing a 3D Zelda, and this was a classic, one of the highest-rated games of all time. I did not love the experience. I fell asleep the first time I played it. 
+
+On <time id="84972007556517888">Jun 13, 2023, 08:42 PM</time> [I wrote](https://twitter.com/roytang/statuses/84972007556517888/):
+> I fell asleep my first time playing Zelda: Ocarina of Time. True story!
+
+My main issue with the game is that camera control is horrible, which is everything in a 3D game. (I had camera issues with [Super Mario 64](/2020/10/mario-3d-all-stars/) as well, so I guess this is typical of early console 3D games...) In first person mode, you had to aim using the left stick (the 3DS had no right stick) **and** moving the 3DS adjusted your aim as well, which meant things were so unsteady. This made aiming weapons like the bow and hookshot in the middle of combat very tricky. Also, the water temple was so tedious in this game, but at least in this version you could instantly remove/equip the needed item via the touchscreen (in the original, you had to open the menu every time!) Somehow I powered through and finished the game, but as you can see from my save file, I did not bother with completion. 
 
 {{% photos ocarina %}}
 
@@ -152,3 +159,4 @@ A spiritual sequel to the SNES classic *A Link to the Past*! I didn't realize ho
 ### To Be Continued
 
 I felt like the NES post was a bit too long, and this one ended up about the same length, so I am splitting it into two. The second part of the list will be published next week!
+

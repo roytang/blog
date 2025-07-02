@@ -29,6 +29,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/311987415457857537/
 - type: twitter
   url: https://twitter.com/roytang/statuses/347364993144074241/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/351351791226589187/
 tags:
 - rss
 - backpost
@@ -70,5 +72,9 @@ On this day, the 7th of July, 2013, Google Reader was shut down.
 ---
 
 <time id="347364993144074241">[2013-06-19 22:47] </time> Yes, Google Reader, I understand you're leaving in July. No need to rub it in every time
+
+---
+
+<time id="351351791226589187">[2013-06-30 22:49] </time> Since October 7, 2005 I have read a total of 222,280 items on [@googlereader](https://twitter.com/googlereader/) Time to move on. #ripgooglereader
 
 ---
