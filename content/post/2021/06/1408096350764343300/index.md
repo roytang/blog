@@ -6,6 +6,9 @@ syndicated:
   url: https://twitter.com/roytang/status/1408096350764343300/
 - type: twitter
   url: https://twitter.com/roytang/status/1408265854601494531/
+tags:
+- formernote
+title: Windows 11 Update
 ---
 
 Oh Windows 11 will be a free update, yay!

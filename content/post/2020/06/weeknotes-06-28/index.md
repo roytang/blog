@@ -17,6 +17,12 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/104420711066955531
 - type: twitter
   url: https://twitter.com/roytang/statuses/1277159822022963200/
+- type: twitter
+  url: https://twitter.com/roytang/status/1275830505372438529/
+- type: twitter
+  url: https://twitter.com/roytang/status/1275849098139176962/
+- type: twitter
+  url: https://twitter.com/roytang/status/1275907442186940416/
 tags:
 - weeknotes
 - current events
@@ -29,7 +35,20 @@ title: 'Weeknotes 2020-06-28: Internet Outage Edition'
 My stuff:
 
 - [This week's pandemic notes](/2020/06/covid19-06-28/).
-- Easily the most annoying thing this week: our broadband modem conked out Wednesday night. Customer support isn't super responsive for local telcos: I called their support line the next day (support line is not even available 24/7!), got put on hold for 45 minutes TWICE before they agreed to send a repair crew over the next day (Friday). Friday morning I got a text that the technician visit was actually scheduled for SATURDAY morning. They arrive Saturday AFTERNOON, due to traffic apparently. And unluckily, they are out of spare modems for the replacement. They promise to come back first thing in the morning SUNDAY. They come back Sunday LUNCHTIME. And I finally have internet back. An annoying experience, and I'm also worried that my mobile plan might be charged for the two one-hour calls I had to do to their support line (hopefully I can clear that up), and I'm told I can also call them up to ask for a rebate for their days we had no service, but eh, I'd have to sit through another long on-hold period!
+- Easily the most annoying thing this week: 
+  
+    Our broadband modem conked out Wednesday night. Customer support isn't super responsive for local telcos: I called their support line the next day (support line is not even available 24/7!), got put on hold for 45 minutes TWICE before they agreed to send a repair crew over the next day (Friday). Friday morning I got a text that the technician visit was actually scheduled for SATURDAY morning. They arrive Saturday AFTERNOON, due to traffic apparently. And unluckily, they are out of spare modems for the replacement. They promise to come back first thing in the morning SUNDAY. They come back Sunday LUNCHTIME. And I finally have internet back. An annoying experience, and I'm also worried that my mobile plan might be charged for the two one-hour calls I had to do to their support line (hopefully I can clear that up), and I'm told I can also call them up to ask for a rebate for their days we had no service, but eh, I'd have to sit through another long on-hold period!
+
+    This is what my typical interaction with Globe's twitter account looks like:
+
+    On <time id="1275830505372438529">Jun 28, 2020, 08:00 AM</time> [I wrote](https://twitter.com/roytang/status/1275830505372438529/):
+  
+    > [@talk2GLOBE](https://twitter.com/talk2GLOBE/) is there a phone numbet i can call for globe fiber tech support rn
+    > 
+    > <time>[01:51]</time> Any update? Did you slide into my dms then ghost me?
+    > 
+    > <time>[05:43]</time> [@talk2GLOBE](https://twitter.com/talk2GLOBE/) any update? If youre just gonna ignore my dm at least give me a support number i can call
+
 - One would think that being offline for half a week would lead to some kind of gigantic productivity boost, but no such luck. I still had my mobile internet for my doomscrolling after all. I did manage to read/write/watch a few more things than usual I guess?
 - **Gaming:**
     - I finished Final Fantasy VII Remake (before the internet outage)! So I spent a lot of the outage (including my time on hold with tech support) playing through hard mode, already about half-way through. Still not sure I'm going to do achievement completion, but we'll see. Hard mode is actually an enjoyable challenge, nothing too insane.
@@ -54,3 +73,7 @@ Recent links:
 - The [NYT threatened to doxx Scott Alexander of Slate Star Codex](https://slatestarcodex.com/2020/06/22/nyt-is-threatening-my-safety-by-revealing-my-real-name-so-i-am-deleting-the-blog/). I don't really follow SSC too strictly, but that seemed like a bad thing. I also read up some more on [Scott Alexander / SSC](https://rationalwiki.org/wiki/Scott_Alexander) because of this, and it looks like he had a lot of problematic views, so I don't really think I want to support him lol. 
 - Great essay from Ankit Shah about [Being Alone](https://www.ankit.fyi/being-alone).
 - [Always Bet on HTML](https://gomakethings.com/always-bet-on-html/)
+
+
+
+

@@ -4,7 +4,7 @@
         "section-alt": "blog",
         "showprevnext": true, 
         "cache_feed": true,
-        "page_count": 100,
+        "page_count": 500,
         "compact": true,
         "descrip": "A blog is a website consisting of discrete, often informal diary-style text entries, typically displayed in reverse chronlogical order. A single entry is called a blog post."
     },
