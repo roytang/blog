@@ -9,6 +9,7 @@ syndicated:
 tags:
 - netflix
 - sc2
+- startrek
 ---
 
 OMG... Star Trek TOS, TNG, DS9, Voyager and Enterprise on Netflix PH!
