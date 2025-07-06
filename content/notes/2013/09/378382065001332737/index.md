@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/378382065001332737/
 - type: foursquare
   url: https://www.swarmapp.com/roytang/checkin/52329b6011d2beb088f6a9f9
+tags:
+- quiznight
 ---
 
 I'm at Amici (Mandaluyong City, Metro Manila) http://4sq.com/17uSPU2

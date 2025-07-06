@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/375590790950846464/
 - type: foursquare
   url: https://www.swarmapp.com/roytang/checkin/522873cd11d212dead9f3fe6
+tags:
+- quiznight
 ---
 
 I'm at Amici (San Juan, Metro Manila) http://4sq.com/1cJULtG
