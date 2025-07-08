@@ -3,9 +3,11 @@
   "name": "Roy Tang",
   "url": "https://www.facebook.com/stephen.roy.tang",
   "text": "Kerwin Tang  di na ko magwork, supportahan mo na lang ako  :p",
-  "date": "2015-08-16 00:00:05",
+  "date": "2015-08-16 08:00:05 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154019050968912#10154019970153912",
+  "source": "2f155248",
+  "spam": false,
   "source_obj": {
     "id": "10154019970153912",
     "poster": "Roy Tang",
@@ -13,5 +15,6 @@
     "text": "Kerwin Tang  di na ko magwork, supportahan mo na lang ako  :p",
     "attachments": [],
     "date": "Aug 16, 2015"
-  }
+  },
+  "reply_to": "https://twitter.com/roytang/statuses/632477268724609024/"
 }

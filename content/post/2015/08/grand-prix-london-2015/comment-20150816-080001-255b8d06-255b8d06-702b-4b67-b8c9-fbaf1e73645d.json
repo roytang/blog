@@ -3,9 +3,11 @@
   "name": "Roy Tang",
   "url": "https://www.facebook.com/stephen.roy.tang",
   "text": "Aint nobody got time for that! Lol",
-  "date": "2015-08-16 00:00:01",
+  "date": "2015-08-16 08:00:01 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154019050968912#10154019282783912",
+  "source": "255b8d06",
+  "spam": false,
   "source_obj": {
     "id": "10154019282783912",
     "poster": "Roy Tang",
@@ -13,5 +15,6 @@
     "text": "Aint nobody got time for that! Lol",
     "attachments": [],
     "date": "Aug 16, 2015"
-  }
+  },
+  "reply_to": "https://twitter.com/roytang/statuses/632477268724609024/"
 }

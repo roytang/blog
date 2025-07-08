@@ -15,6 +15,7 @@ tags:
 - gaming
 - games
 - formernote
+title: Ori and the Blind Forest
 ---
 
 <time>[06-28]</time> The jumps in Ori and the Blind Forest are so have such a weird arc I find myself missing my landings a lot

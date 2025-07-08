@@ -3,9 +3,11 @@
   "name": "Leonard Alba",
   "url": "https://www.facebook.com/lei.alba",
   "text": "Laban...",
-  "date": "2015-08-16 00:00:06",
+  "date": "2015-08-16 08:00:06 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154019050968912#10154020816203912",
+  "source": "eceaccdd",
+  "spam": false,
   "source_obj": {
     "id": "10154020816203912",
     "poster": "Leonard Alba",
@@ -13,5 +15,6 @@
     "text": "Laban...",
     "attachments": [],
     "date": "Aug 16, 2015"
-  }
+  },
+  "reply_to": "https://twitter.com/roytang/statuses/632477268724609024/"
 }

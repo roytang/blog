@@ -3,9 +3,11 @@
   "name": "Roy Tang",
   "url": "https://www.facebook.com/stephen.roy.tang",
   "text": "I totally wont!",
-  "date": "2015-08-02 00:00:01",
+  "date": "2015-08-02 08:00:01 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10153985585853912#10153987101443912",
+  "source": "32a6ecfb",
+  "spam": false,
   "source_obj": {
     "id": "10153987101443912",
     "poster": "Roy Tang",
@@ -13,5 +15,6 @@
     "text": "I totally wont!",
     "attachments": [],
     "date": "Aug 2, 2015"
-  }
+  },
+  "reply_to": "https://www.facebook.com/stephen.roy.tang/posts/10153985585853912"
 }

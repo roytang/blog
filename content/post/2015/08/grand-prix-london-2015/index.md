@@ -2,6 +2,7 @@
 author: roy
 categories: []
 date: 2015-08-31 13:36:12
+dontinlinephotos: true
 featuredResource:
   filename: 11889502_10154022099223912_6484358864581399871_n.jpg
 syndicated:
@@ -11,6 +12,44 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10154054033683912
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153560245613912
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10153985585853912
+- type: instagram
+  url: https://instagram.com/p/6XpTrsMoAK/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/632217964964675584/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154016606693912:0
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154016606703912
+- type: instagram
+  url: https://instagram.com/p/6X4ZhnsoAN/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/632251151040299008/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154016606693912:1
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154016851668912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/632477268724609024/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/632497943136870400/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/632524437611507712/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/632538724535017472/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/632556536263483392/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/632563386686013440/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/632575443204501504/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154019050968912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/633026404398067712/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10154022099223912:0
 tags:
 - grand-prix
 - standard
@@ -105,6 +144,8 @@ I was sent to London for work for a few months, which meant an opportunity to pl
   
 {{< /cardlist >}}
 
+{{< photos decklist >}}
+
 I was really hoping to run into a lot of monored or UR Artifacts -- basically the PT Origins metagame. Unfortunately the metagame had already reacted the week before. Here's how my day 1 shook out:
 
 - R1 0-2 LOSS vs Abzan Control (mull to 6 and mull to 5)
@@ -123,5 +164,61 @@ Losing at competitive Magic is a downer. Well, competitive anything really. It's
 
 I played a sealed after dropping out of the main event, but only managed to win 4 boosters. I also played the SSS on Sunday, but scrubbed out again. I quit the weekend after that, since it felt like I was on tilt and was dead tired. So the GP was a bust, but at least there was swag!
 
+### Social Media Archive
+
+On <time id="10153985585853912">Aug 31, 2015, 09:36 PM</time> [I wrote](https://www.facebook.com/stephen.roy.tang/posts/10153985585853912):
+
+> Welp, I preregistered for #GPLondon. Bahala na if makabuo ng deck in time lol
+
+[Comments](#comment-c60cdf75-8718-4c76-af65-52707e9f8f89)
+
+---
+
+On <time id="6XpTrsMoAK">Aug 31, 2015, 09:36 PM</time> [I wrote](https://instagram.com/p/6XpTrsMoAK/):
+> #gplondon
+> {{< photos b239a44b811007519b9ad3f73a084ed3 >}}
+
+
+
+---
+
+On <time id="6X4ZhnsoAN">Aug 31, 2015, 09:36 PM</time> [I wrote](https://instagram.com/p/6X4ZhnsoAN/):
+> Rich Hagon's magic game show was pretty fun lol #gplondon
+> {{< photos 4e4acc4720d6b504f4e77655d055e973 >}}
+
+
+---
+
+On <time id="632477268724609024">Aug 31, 2015, 09:36 PM</time> [I wrote](https://twitter.com/roytang/statuses/632477268724609024/):
+> Rd 1 0-2 loss vs abzan (mull to 6 and mull to 5) #GPLondon
+> 
+> <time>[18:23]</time> Rd 2-0 win vs rg monsters (mull to 6 g1) #GPLondon
+> 
+> <time>[20:09]</time> R3 2-1 vs abzan control (almost went to time) #gplondo
+> 
+> <time>[21:05]</time> R4 2-1 win vs abzan megamorph (mull6 in g2) 3-1 overall #GPLondon
+> 
+> <time>[22:16]</time> R5 0-2 vs abzan megamorph 3-2 overall on the bubble again =/ #GPLondon
+> 
+> <time>[22:43]</time> LOSS WIN WIN WIN LOSS CRIPPLING SELF-DOUBT #GPLondon #fb
+> 
+> <time>[23:31]</time> R6 0-2 loss vs temur dragons in close games. And I'm out :( #gplondon
+> 
+> <time>[23:33]</time> I'm out of #gplondon at 3-3. Sigh, too rusty and too many bad plays. Performance getting worse at each succeeding gp!
+
+[Comments](#comment-f546babe-c45e-450e-b9a6-9a8922176159)
+
+---
+
+On <time id="633026404398067712">Aug 31, 2015, 09:36 PM</time> [I wrote](https://twitter.com/roytang/statuses/633026404398067712/):
+> Well #gplondon was a bust, I scrubbed out of the SSS as well. But at least there's swag!
+>
+> {{< photos 11889502_10154022099223912_6484358864581399871_n >}}
+
+
+
+---
+
  [1]: /2015/02/grand-prix-manila-2015/
  [2]: /2015/06/gp-singapore-2015/
+

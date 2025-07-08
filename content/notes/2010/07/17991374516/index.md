@@ -8,6 +8,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/130903120279386
 tags:
 - dropbox
+- convos
+title: Convo about Dropbox and referral links
 ---
 
 I love [@Dropbox](https://twitter.com/Dropbox/)! So useful (and free too). https://www.dropbox.com/referrals/NTg4NTkzNzQ5?tw=7

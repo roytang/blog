@@ -21,6 +21,7 @@ syndicated:
 tags:
 - gplondon
 - fb
+- merged
 ---
 
 Rd 1 0-2 loss vs abzan (mull to 6 and mull to 5) #GPLondon

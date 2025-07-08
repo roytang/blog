@@ -36,7 +36,7 @@ Visit the [Links page](/links/) for more links of interest.
 
 ### From the archives, this week in history:
 
-- 2015: I [crashed out](/2015/08/632477268724609024/) of [GP London](/tags/gplondon/)
+- 2015: [I crashed out of GP London](/2015/08/grand-prix-london-2015/)
 - 2014: [RIP Robin Williams](/2014/08/499025938282074113/)
 - 1965: [Singapore was established](https://en.wikipedia.org/wiki/Singapore).
   

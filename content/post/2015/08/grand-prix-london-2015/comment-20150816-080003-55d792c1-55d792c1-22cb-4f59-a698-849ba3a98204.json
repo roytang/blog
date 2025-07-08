@@ -3,9 +3,11 @@
   "name": "Kerwin Tang",
   "url": "https://www.facebook.com/kerwin.j.tang",
   "text": "Maybe it&#x27;s time to retire",
-  "date": "2015-08-16 00:00:03",
+  "date": "2015-08-16 08:00:03 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154019050968912#10154019921918912",
+  "source": "55d792c1",
+  "spam": false,
   "source_obj": {
     "id": "10154019921918912",
     "poster": "Kerwin Tang",
@@ -13,5 +15,6 @@
     "text": "Maybe it's time to retire",
     "attachments": [],
     "date": "Aug 16, 2015"
-  }
+  },
+  "reply_to": "https://twitter.com/roytang/statuses/632477268724609024/"
 }

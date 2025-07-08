@@ -3,8 +3,10 @@
   "name": "Ritchie",
   "url": "https://twitter.com/Woerlan",
   "text": "[@roytang](https://twitter.com/roytang/) Abzan's not very forgiving to mulligans",
-  "date": "2015-08-15 09:29:51",
+  "date": "2015-08-15 17:29:51 +0800",
   "photo": "https://pbs.twimg.com/profile_images/1339277038725697536/Gj-CKyFG_normal.jpg",
   "source_url": "https://twitter.com/Woerlan/statuses/632484337875685376/",
-  "source": "twitter"
+  "source": "twitter",
+  "spam": false,
+  "reply_to": "https://twitter.com/roytang/statuses/632477268724609024/"
 }

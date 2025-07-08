@@ -17,7 +17,11 @@ tags:
 - mobile-uploads
 - impulsebuy
 - pickups
+- wiiu
+- nintendo
 - gaming
+- formernote
+title: Purchased a WiiU!
 ---
 
 Almost 2 decades after our last Nintendo console... #impulsebuy

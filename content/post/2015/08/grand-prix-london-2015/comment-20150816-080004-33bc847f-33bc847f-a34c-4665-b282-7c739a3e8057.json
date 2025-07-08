@@ -3,9 +3,11 @@
   "name": "Roy Tang",
   "url": "https://www.facebook.com/stephen.roy.tang",
   "text": "...retire from work and train to be a champion? lol",
-  "date": "2015-08-16 00:00:04",
+  "date": "2015-08-16 08:00:04 +0800",
   "photo": null,
   "source_url": "https://www.facebook.com/stephen.roy.tang/posts/10154019050968912#10154019958423912",
+  "source": "33bc847f",
+  "spam": false,
   "source_obj": {
     "id": "10154019958423912",
     "poster": "Roy Tang",
@@ -13,5 +15,6 @@
     "text": "...retire from work and train to be a champion? lol",
     "attachments": [],
     "date": "Aug 16, 2015"
-  }
+  },
+  "reply_to": "https://twitter.com/roytang/statuses/632477268724609024/"
 }
