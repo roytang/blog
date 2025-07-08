@@ -6,6 +6,8 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/105461790298758334
 - type: twitter
   url: https://twitter.com/roytang/statuses/1343788891644383235/
+tags:
+- formernote
 title: The circle of life
 ---
 
