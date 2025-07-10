@@ -7,6 +7,8 @@ syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1356985891558805507/
 title: ''
+tag:
+- blorp
 ---
 
 Please write more. 

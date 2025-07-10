@@ -8,6 +8,7 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/102412232260511586
 tags:
 - travels
+- us2019
 ---
 
 Day before flight: load up movies, tv eps, ebooks, etc on tablet for entertainment while travelling

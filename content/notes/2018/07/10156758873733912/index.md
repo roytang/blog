@@ -1,5 +1,5 @@
 ---
-date: 2018-07-08 18:13:00+08:00
+date: 2018-07-08 10:13:00
 source: facebook
 syndicated:
 - type: facebook
@@ -7,6 +7,7 @@ syndicated:
 tags:
 - endtyranny
 - oustduterte
+- duterte
 ---
 
 Retweeted Jam Pinpin ([@jamcaholic](https://twitter.com/jamcaholic)):  So may nationwide martial law na pala di kami na-inform pero ang sigurado ay kahit sino pwedeng maging biktima. #EndTyranny #OustDuterte

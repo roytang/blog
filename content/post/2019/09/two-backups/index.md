@@ -7,11 +7,18 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1175052600951103491/
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/102825183681016495
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1172359392714358784/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1174123501470408704/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1174542202560598016/
 tags:
 - tech life
 - gaming
 title: A Tale of Two Backups
 type: post
+dontinlinephotos: true
 ---
 
 Despite my desktop PC being generally more stable after the events of the [Great Memory Scare of 2019](/2019/08/great-memory-scare/), I was still encountering occasionally crashes when playing games. And by crash I mean the displays dying although the PC continues to run for a short while thereafter and after which they proceed to apparently stop operating completely. It only happens when playing games, and most often when playing Magic Arena and sometimes (rarely) when playing Starcraft 2 or Borderlands 2.
@@ -22,13 +29,20 @@ I say "extreme" even though reinstalling my OS is not something I wasn't used to
 
 I did the research first, and apparently Windows 10 provides the reset option itself, I didn't need to make an install USB or anything like that. And the reset happens "in place", theoretically without needing to reformat your partitions or displacing your user files, which was good. But I didn't put much stock in theory, so of course for safety, I had to make a backup first. If I had needed to reset Windows 10 two weeks ago I would have been out of luck because I wouldn't have had any space to backup critical stuff. Luckily, there was a bit of coincidental foresight.
 
-{{< note "2019/09/1172359392714358784/" >}}
+On <time id="1172359392714358784">Sep 20, 2019, 08:00 PM</time> [I wrote](https://twitter.com/roytang/statuses/1172359392714358784/):
+> I had been waffling on getting a new external HD for a while, but a couple of days ago one of my friends posted about her backup drive failing at 6yo and I was like "all my drives are older than that" lol
+
+On <time id="1174542202560598016">Sep 19, 2019, 12:34 PM</time> [I wrote](https://twitter.com/roytang/statuses/1174542202560598016/):
+> This was less than a week ago. Today I found out my secondary hdd had a bunch of errors and might be failing. Psychic much? 
 
 So around last week I purchased a 2TB Seagate Backup Plus, so I had a bunch of space available for backups. Now, there is a generally recognized backup rule where any critical data should be backed up using a "3-2-1" rule; that is: 3 different places, 2 different media types, and 1 offsite. This is a bit too much for a home-based setup where my critical backups consist mostly of documents, family photos, mail archives, old chat logs and such, so I figured having two copies of the stuff I wanted backed up would be sufficient. One copy would remain on my secondary HDD on the desktop, and a second copy on my new Backup Plus. (And yes, that means I was living without the second copy before, which spoiler alert for the end of this story, was very dangerous.) In theory for anything that I didn't mind backing up to the cloud for privacy reasons, I already had a third copy there via Google Drive and/or Dropbox, but I haven't been too religious with that.
 
 So, backups created, we proceed with Operation Fresh Start:
 
-{{< photo "2019/09/1174123501470408704/" >}}
+On <time id="1174123501470408704">Sep 20, 2019, 08:00 PM</time> [I wrote](https://twitter.com/roytang/statuses/1174123501470408704/):
+> I am almost certainly going to regret this lol
+>
+> {{< photos EEtTGYIUwAAu1jV >}}
 
 "20 minutes or longer" was pretty much a lie (or a programmer's estimate, as you will), and it took more like half a day. But it went smoothly more or less. Afterwards I had to reinstall a bunch of software (more on that in the next post!). And then I tried using the PC for a while.
 
@@ -53,3 +67,5 @@ In summary:
 - backups good
 - gonna try out an SSHD
 - pc might be dying. Well, we're all dying I guess
+
+

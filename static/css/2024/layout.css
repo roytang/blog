@@ -387,6 +387,10 @@ figcaption {
     grid-template-columns: 40px auto;
 }
 
+.comment img {
+    max-width: 100%;
+}
+
 .comments {
     font-size: var(--font-size-smaller);
     max-width: 80ch;

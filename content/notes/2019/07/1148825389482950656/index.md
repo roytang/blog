@@ -1,9 +1,12 @@
 ---
-date: 2019-07-10 05:24:51+00:00
+date: 2019-07-10 05:24:51
 source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1148825389482950656/
+tags:
+- us2019
+- travels
 title: ''
 ---
 

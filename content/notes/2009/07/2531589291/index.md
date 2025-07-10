@@ -10,6 +10,9 @@ syndicated:
   url: https://twitter.com/roytang/status/2531653049/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/106263936015
+tags:
+- twitter
+- tweetdeck
 ---
 
 I updated tweetdeck and now it has a blink182 background, and I'm not sure how to get rid of it

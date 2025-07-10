@@ -5,13 +5,23 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/105701693917437500
 - type: twitter
   url: https://twitter.com/roytang/statuses/1359142724826370056/
+- type: twitter
+  url: https://twitter.com/roytang/status/1547147705876500480/
 tags:
 - tech-life
 - blogging
 title: Sincere Blogging
 ---
 
-{{< note "2021/02/23ef43058c482c829265e01e331d53c2/" >}}
+
+On <time id="1547147705876500480">Feb 09, 2021, 09:53 PM</time> [I wrote](https://twitter.com/roytang/status/1547147705876500480/):
+> Reminder that there is absolutely nothing stopping you from blogging this way still. 
+> 
+> {{% quoted url="https://twitter.com/emkey/status/1547019072260280320" label="emkey's tweet" %}}
+> 
+> Does anyone remember blogging when it was really just you talking about your day and what interesting thing happened? Before sponsored posts and photo dumps. Before people cared about it being "content" and it was seriously just something you wanted to share.
+> 
+> {{% /quoted %}}
 
 The above was written mostly as a response to finding [so many of my friends' old and inactive blogs in my RSS reader](/2021/02/link-rot/#2).
 

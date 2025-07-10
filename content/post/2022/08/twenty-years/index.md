@@ -5,6 +5,8 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/108754476167961421
 - type: twitter
   url: https://twitter.com/roytang/status/1554520786936901634/
+- type: twitter
+  url: https://twitter.com/roytang/status/1547147705876500480/
 tags:
 - blogging
 title: Twenty Years of Blogging (More or Less)
@@ -50,7 +52,15 @@ When I started writing on the internet back in 2002, I couldn't have predicted I
 
 ### The Future
 
-{{< note "2022/07/1547147705876500480/" >}}
+On <time id="1547147705876500480">Aug 03, 2022, 12:00 AM</time> [I wrote](https://twitter.com/roytang/status/1547147705876500480/):
+> Reminder that there is absolutely nothing stopping you from blogging this way still. 
+> 
+> {{% quoted url="https://twitter.com/emkey/status/1547019072260280320" label="emkey's tweet" %}}
+> 
+> Does anyone remember blogging when it was really just you talking about your day and what interesting thing happened? Before sponsored posts and photo dumps. Before people cared about it being "content" and it was seriously just something you wanted to share.
+> 
+> {{% /quoted %}}
+
 
 My hypotheses is that in the 2000s, a higher percentage of the people who were online a lot back then were inclined to blogging as a personal activity or hobby. I think there actually are still a lot of people doing "real" blogging these days still, as services like [blogroll.org](https://blogroll.org/) certainly have a lot of blogs listed. And I have a long backlog of blogs and blogrolls to check out, so it kind of feels like blogging is almost as strong as in the 2000s. I think the main difference is that these days almost everybody is on the internet, but most people are either passive consumers or posting only on the big social media platforms, so while there are still a lot of bloggers, the percentage of bloggers on the internet is much lower. It's even possible there are a lot more active bloggers these days in terms of absolute numbers! For this reason I think the future of blogging is strong, while not necessarily as mainstream as it once was.
 
@@ -59,3 +69,4 @@ My own writing has been going steady over the pandemic years. I've started the w
 As for the site, I have honestly been wanting to do a bit of a redesign on the blog, and was hoping I could do it before doing this 20-year anniversary post (yet another excuse for the delay!), maybe that's something I'll get done before the year ends. There's a lot of other things I want to do in terms of organizing the content on the site, things I write about, and so on and so forth. I like to think of this site as like the web itself: perpetually changing, growing and evolving.
 
 I hope to be blogging for another 20 years to come if not more!
+
