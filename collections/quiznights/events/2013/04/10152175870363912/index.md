@@ -21,3 +21,5 @@ title: Amici Quiz Night
 Quiz night! (@ Amici Greenhills) http://4sq.com/14PWZXi
 
 Jaime L. Garcia I was not able to answer tonight's Dr Who q, had to steal. :p It was the home planet of the Daleks
+
+> Amici quiz night last Thursday, had a few good cats but unfortunately only managed fifth. As usual lol.

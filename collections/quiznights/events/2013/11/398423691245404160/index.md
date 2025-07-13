@@ -19,3 +19,7 @@ title: Amici Quiz Night
 I'm at Amici (Mandaluyong City, Metro Manila) http://4sq.com/1iORvP0
 
 *(Foursquare location originally mistagged as Amici Megamall)*
+
+> Amici quiz night with Chry, Liz, Jaime and Faith. Had a good run with the Thor category which we Jokered, missed only 2 questions, one of which was because I didn't know Kenneth Brannagh didn't direct Thor 2. There was also a slow rock audio round that I was very useful in lol. We finished middle of the pack as usual.
+
+There was also a PBA round and we were feeding the questions to Bimbo on Twitter!

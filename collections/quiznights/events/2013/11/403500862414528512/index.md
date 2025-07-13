@@ -11,7 +11,6 @@ syndicated:
 - type: foursquare
   url: https://www.swarmapp.com/roytang/checkin/528dfd14498ed54997c80714
 tags:
-- qui
 - quiznight
 - '2013'
 ---

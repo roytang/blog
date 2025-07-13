@@ -20,3 +20,5 @@ title: Amici Quiz Night
 ---
 
 I'm at Amici (San Juan, Metro Manila) http://4sq.com/17waUSy
+
+> Quiz night at Amici on Thursday. We had a surprisingly good first half but proceeded to crash and burn second half due to poor joker choice (Star Trek). Attendees: Me, Liz, Chry, Dens, Karlo, Cole, Jaime+Faith, Ace+GF
