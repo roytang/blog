@@ -1,8 +1,11 @@
 ---
-title: "It's 2025, Why Is HP's Printer and Scanner Software Still Terrible?"
-date: 2025-07-12T12:58:10+08:00
+date: 2025-07-12 04:58:10
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/114838578019817611
 tags:
 - printer
+title: It's 2025, Why Is HP's Printer and Scanner Software Still Terrible?
 ---
 
 I have an HP3635 printer/scanner I've been using for the past 9 years. All this time I've been using their old "print and scan" software which wasn't very modern UX-wise but was at least functional and good for doing batches of scans. But during the past couple of weeks, the software would often fail saying "An error occured while scanning" without any further details.
