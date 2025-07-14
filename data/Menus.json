@@ -155,17 +155,14 @@
     "sidebars": [
         {
             "key": "main",
-            "title": "Look Around",
             "class": "collapsing"
         },
         {
             "key": "elsewhere",
-            "title": "Elsewhere",
             "class": "collapsing"
         },
         {
             "key": "webrings",
-            "title": "Webrings",
             "class": ""
         }
     ]

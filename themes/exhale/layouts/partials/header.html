@@ -3,6 +3,6 @@
         {{ .Site.Title }}
     </a>
     {{ range .Site.Data.Menus.main_header }}
-    <a href="{{ .URL | absURL }}">{{ .Name }}</a>
+    <a href="{{ .URL }}">{{ .Name }}</a>
     {{ end }}
 </div>

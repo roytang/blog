@@ -3,7 +3,6 @@ title: Stephen Roy J. Tang
 author: roy
 type: page
 date: 2018-04-15T05:26:37+00:00
-url: /resume
 comments_enabled: false
 submenu: "about"
 ---

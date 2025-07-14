@@ -4,14 +4,14 @@ title = "Roy Tang"
 theme = "exhale"
 
 # ignoreFiles = [".jpg", ".png", ".gif"]
-ignoreFiles = ["notes/", "photos/"]
-# ignoreFiles = ["2002/", "2003/", "2004/","2005/","2006/","2007/","2008/","2009/","2010/","2011/","2012/","2013/","2014/","2015/", "2016/", "2017/", "2018/", "2019/"]
+# ignoreFiles = ["notes/", "photos/"]
+ignoreFiles = ["notes/", "photos/", "2002/", "2003/", "2004/","2005/","2006/","2007/","2008/","2009/","2010/","2011/","2012/","2013/","2014/","2015/", "2016/", "2017/", "2018/", "2019/", "2020/", "2021/", "2022/"]
 
 ignoreErrors = ["error-output-taxonomy"]
 
 rssLimit = 50
 enableGitInfo = true
-canonifyURLs = true
+relativeURLs = true
 
 [mediaTypes]
   [mediaTypes."application/ld+json"]
@@ -77,17 +77,11 @@ canonifyURLs = true
     brand = "Roy Tang"
     topimage = "![Wearing dice on my head since 2008](/img/profile.jpg \"Wearing dice on my head since 2008\")"
     topline = "Programmer, engineer, scientist, critic, gamer, dreamer, and kid-at-heart."
-    featuredImage = "https://roytang.net/img/profile.jpg"
-    staticRoot = "http://localhost/blog/public/"
+    featuredImage = "https://roytang.net/static/img/profile.jpg"
+    staticRoot = "http://localhost/blog/public/root/"
     description = "Roy Tang's blog. Programmer, engineer, scientist, critic, gamer, dreamer, and kid-at-heart. Randomly amazed."
     mainColor = "#57cc8a"
-    footline = """
-Webrings:
-
-- [←](https://xn--sr8hvo.ws/%F0%9F%8D%B3%F0%9F%91%AB%E2%9E%95/previous)🕸💍[→](https://xn--sr8hvo.ws/%F0%9F%8D%B3%F0%9F%91%AB%E2%9E%95/next)
-- <a href='https://webring.xxiivv.com/#random' target='_blank'><img class='link' src='https://webring.xxiivv.com/icon.black.svg'/></a>
-- **Geekring:** <a href='http://geekring.net/site/91/previous'>Previous</a> :: <a href='http://geekring.net/site/91/random'>Random</a> :: <a href='http://geekring.net/site/91/next'>Next</a>
-"""
+    footline = ""
     comments_enabled = true
     webmention_username = 'roytang.net'
     search_action = 'https://apps.roytang.net/blog/search'

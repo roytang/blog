@@ -3,7 +3,11 @@
         {{ if .Raw }}
         <li>{{ .Raw | safeHTML }}</li>
         {{ else }}
-        <li><a href="{{ .URL | absURL }}"  {{ if .rel }}rel="{{ .rel }}"{{ end }}>{{ .Name }}</a></li>
+        {{ if .URL }}
+        <li {{ if .class }}class="{{ .class }}"{{ end }}><a href="{{ .URL }}"  {{ if .rel }}rel="{{ .rel }}"{{ end }}>{{ .Name }}</a></li>
+        {{ else }}
+        <li {{ if .class }}class="{{ .class }}"{{ end }}><b>{{ .Name }}</b></li>
+        {{ end }}
         {{ end }}
     {{ end }}
 </ul>

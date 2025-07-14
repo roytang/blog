@@ -1,6 +1,9 @@
 {
     "main": [
         {
+            "Raw": "<span class='menu_title'>Look Around</span>"
+        },
+        {
             "Name": "Search",
             "URL": "/search"
         },
@@ -77,6 +80,9 @@
     ],
     "elsewhere": [
         {
+            "Raw": "<span class='menu_title'>Elsewhere</span>"
+        },
+        {
             "Name": "Mastodon",
             "URL": "https://indieweb.social/@roytang",
             "rel": "me"
@@ -145,6 +151,9 @@
         }
     ],
     "webrings": [
+        {
+            "Raw": "<span class='menu_title'>Webrings</span>"
+        },
         {
             "Raw": "<b>Indieweb Webring</b>: <a href='https://xn--sr8hvo.ws/%F0%9F%8D%B3%F0%9F%91%AB%E2%9E%95/previous'>[←]</a> 🕸💍 <a href='https://xn--sr8hvo.ws/%F0%9F%8D%B3%F0%9F%91%AB%E2%9E%95/next'>[→]</a>"
         },

@@ -1,4 +1,11 @@
 {{ define "main" }}
+
+{{ if .Params.submenu }}
+<div class="second_menu">
+    {{ partial "submenu" (index .Site.Data.Menus .Params.submenu) }}
+</div>
+{{ end }}
+
 <div class="title">
 {{ if .Title }}
     <a class="u-url post-title" href="{{ .Permalink }}"><h3 class="p-name">{{ .Title }}</h3></a>
