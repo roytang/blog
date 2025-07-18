@@ -7,6 +7,7 @@ reviews:
   title: Spy X Family
 tags:
 - tv
+- formernote
 title: Spy X Family
 ---
 

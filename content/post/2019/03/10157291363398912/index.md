@@ -1,5 +1,8 @@
 ---
-date: 2019-03-01 12:58:26+00:00
+date: 2019-03-01 12:58:26
+reviews:
+- media: tv
+  title: The Orville
 source: facebook
 syndicated:
 - type: twitter
@@ -8,10 +11,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10157291363398912
 tags:
 - tv
+- formernote
 title: The Orville
-reviews:
-- media: tv
-  title: The Orville
 ---
 
 So many chills from the amazing latest episode of #TheOrville, the series is great
