@@ -44,7 +44,7 @@ There was a Steam sale the past couple of weeks but these days it's easy to avoi
 
 - Regular ongoing live-service games: 
     - **Marvel Snap**: I was thinking of quitting Snap, but I still mostly enjoy the games (just not the tedious grind for new cards), so now I am still playing it, just a bit more casually I guess.
-    - **Magic Arena**:I am doing a bit better in Final Fantasy quick drafts in July and got my 3rd trophy last night! 
+    - **Magic Arena**: I am doing a bit better in Final Fantasy quick drafts in July and got my 3rd trophy last night! 
 - Single-player games: 
     - Ongoing: **Final Fantasy XVI** on Steam. 
     - Ongoing: Trawling through my backlog made me load up my **Borderlands 2** save again. I actually also own *Pre-Sequel* and *Borderlands 3* on Steam, but I don't want to move forward with those games until I "complete" B2, and I haven't actually finished most of the DLC for this one (despite having played through the main campaign at least twice already)
