@@ -1,14 +1,17 @@
 ---
-title: "Project Hail Mary by Andy Weir"
-date: 2025-07-21T13:30:56+08:00
+date: 2025-07-21 05:30:56
+dontinlinephotos: true
 reviews:
-- description: ""
+- description: ''
   media: books
   rating: 5.0
   title: Project Hail Mary by Andy Weir
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/114889795946711137
 tags:
 - books
-dontinlinephotos: true
+title: Project Hail Mary by Andy Weir
 ---
 
 (If you are reading this via RSS, I apologize if your feed reader doesn't support the `<summary>/<details>` spoiler tag >.>)
