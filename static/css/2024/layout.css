@@ -427,6 +427,11 @@ article, .comment_body, .title {
     word-break: break-word;
 }
 
+.title h1 {
+    max-width: 60ch;
+    text-wrap: unset;
+}
+
 td {
     word-break: normal;
 }
