@@ -14,7 +14,7 @@ toc: true
 
 ### My Week
 
-The week was busy. We had gotten patient #2's test results last Monday that confirmed our fears and set off a flurry of activity like scheduling chemo sessions and further tests and consultations and working out financial assistance and such, all of which were complicated by all the holidays making it difficult to schedule things. 24 and 25 were reserved for family events, but the rest of the week I had to worry about all these other things. While they didn't take up too much time I did find that I didn't have the energy to work on other things I wanted to do and so I didn't do much else.
+The week was busy. We had gotten patient #3's test results last Monday that confirmed our fears and set off a flurry of activity like scheduling chemo sessions and further tests and consultations and working out financial assistance and such, all of which were complicated by all the holidays making it difficult to schedule things. 24 and 25 were reserved for family events, but the rest of the week I had to worry about all these other things. While they didn't take up too much time I did find that I didn't have the energy to work on other things I wanted to do and so I didn't do much else.
 
 We did manage to do our extended family celebrations on the 24th and 25th. Both the immediate family and extended family get-togethers were good and fun and chaotic with all the kids and everything. I gave out a lot of the stuff I brought back from Japan! Goodbyes were kind of bittersweet this year as one of our family units is migrating to another country, so this is the last we will see of them for a while. Tears were definitely shed. 
 
@@ -48,6 +48,6 @@ My feed reader backlog is still above 300 items.
 
 Everything through Wednesday is a holiday, though we are still doing some labs and teleconsult. 
 
-Patient #2 is scheduled for chemo on Thu and Fri, and we expect to be there all day. Sigh.
+Patient #3 is scheduled for chemo on Thu and Fri, and we expect to be there all day. Sigh.
 
 I wish you all a happy new year. May 2025 treat us better than 2024 did.
