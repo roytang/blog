@@ -22,7 +22,7 @@ Usually I wait until I have "completed" single-player games before writing about
 
 There are no actual instructions for how to get to room 46, you have to figure it out as you go. As you navigate the house you have to find clues and figure out secrets and solve puzzles and as you go kind of find out that BASICALLY EVERYTHING IS A CLUE. Or might be a clue. It's all kind of maddening. Taking notes is highly encouraged. I included in this post a couple of photos of my posts and honestly a lot of my notes look insane! Anyway, don't zoom in on the notes photos in case you don't want to be spoiled.
 
-{{< photos 2025 >}}
+{{< photos 20250 >}}
 
 It's so hard to write about the game (or even to talk about it really) because of the urge to avoid spoilers. Like a couple of people at one of the quiz nights I attended were talking about the game and I tried to discuss it with them a bit but couldn't figure out what to say (because we did not know exactly how far each of us was into the game) except that it was kind of driving me insane; and I ended up learning about a secret room I hadn't found yet, which I would rather not have.
 
