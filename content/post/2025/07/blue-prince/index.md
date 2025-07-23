@@ -22,6 +22,8 @@ Usually I wait until I have "completed" single-player games before writing about
 
 There are no actual instructions for how to get to room 46, you have to figure it out as you go. As you navigate the house you have to find clues and figure out secrets and solve puzzles and as you go kind of find out that BASICALLY EVERYTHING IS A CLUE. Or might be a clue. It's all kind of maddening. Taking notes is highly encouraged. I included in this post a couple of photos of my posts and honestly a lot of my notes look insane! Anyway, don't zoom in on the notes photos in case you don't want to be spoiled.
 
+{{< photos 2025 >}}
+
 It's so hard to write about the game (or even to talk about it really) because of the urge to avoid spoilers. Like a couple of people at one of the quiz nights I attended were talking about the game and I tried to discuss it with them a bit but couldn't figure out what to say (because we did not know exactly how far each of us was into the game) except that it was kind of driving me insane; and I ended up learning about a secret room I hadn't found yet, which I would rather not have.
 
 The game is all about figuring out secrets, and annoyingly whenever you feel like you have figured something out it feels like you just uncover even more things to figure out. If you love puzzles, digging up clues and solving mysteries, you'll love it, but also it might make you dangerously obsessive, IDK.
@@ -47,7 +49,7 @@ I am kind of proud that I was able to do all of the above with very minimal spoi
 
 I have taken many, many screenshots. Somewhere on the order of 200. Most of them are in lieu of notes and I had to organize my screenshots into subfolders and everything to make it easy to find things! It is however a bit difficult to share many of the screenshots, because I consider the vast majority of them to be spoilers. So not a lot here.
 
-{{< photos >}}
+{{< photos Blue >}}
 
 ### Moving Forward
 
