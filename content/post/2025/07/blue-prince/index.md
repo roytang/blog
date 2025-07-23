@@ -1,16 +1,19 @@
 ---
-title: "Blue Prince"
-date: 2025-07-23T15:17:29+08:00
+date: 2025-07-23 07:17:29
 dontinlinephotos: true
 reviews:
 - description: An excellent yet maddeningly frustrating roguelike puzzle game
   media: games
   platform: pcgamepass
   rating: 5.0
-  title: 'Blue Prince (PC Game Pass)'
+  title: Blue Prince (PC Game Pass)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/114902386637878256
 tags:
 - gaming
 - games
+title: Blue Prince
 ---
 
 Usually I wait until I have "completed" single-player games before writing about them, but I started playing **Blue Prince** back in April and have kind of been ignoring it for almost two months already, so it's probably time to write about it already before I lose all context.
