@@ -506,3 +506,7 @@ article p {
 h2, h3 {
     max-width: 40ch;
 }
+
+strong, em {
+    color: var(--main-color);
+}
