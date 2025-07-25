@@ -1,9 +1,12 @@
 ---
-title: "The Limit Does Not Exist!: A Quiz Night About Mathematics"
-date: 2025-07-19T23:03:57+08:00
+date: 2025-07-19 15:03:57
+resources:
+- src: 522744774_18313880605209685_2514114082787646463_n.jpg
+  title: Photo c/o About Quiz
 tags:
 - quiznight
 - aboutquiz
+title: 'The Limit Does Not Exist!: A Quiz Night About Mathematics'
 ---
 
 We attended [The Limit Does Not Exist!: A Quiz Night About Mathematics](https://www.facebook.com/events/1258315569035064) at a new location, Kyodo Lounge at Robison's Magnolia.
