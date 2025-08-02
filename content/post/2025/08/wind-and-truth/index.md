@@ -1,14 +1,18 @@
 ---
-date: 2025-08-02T18:31:20+08:00
+date: 2025-08-02 10:31:20
 reviews:
 - media: books
-  title: Wind and Truth by Sanderson, Brandon
   rating: 4.0
+  title: Wind and Truth by Sanderson, Brandon
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/114959529205837355
 tags:
 - books
 - stormlight archive
 - sanderson
-title: 'Book Review: Wind and Truth by Sanderson, Brandon (Stormlight Archive book 5)'
+title: 'Book Review: Wind and Truth by Sanderson, Brandon (Stormlight Archive book
+  5)'
 ---
 
 Rhythm of War is book four in Sanderson's epic fantasy Stormlight Archive series. Goodreads tells me I read the prior book Oathbringer back in Nov 2017, but didn't bother writing a review, so I had to make sure I'd write one now.
