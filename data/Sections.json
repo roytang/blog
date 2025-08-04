@@ -7,7 +7,26 @@
         "page_count": 500,
         "compact": true,
         "descrip": "A blog is a website consisting of discrete, often informal diary-style text entries, typically displayed in reverse chronlogical order. A single entry is called a blog post.",
-        "generator_options": ["single_posts", "year_lists", "index"]
+        "generator_options": ["tags_lists", "single_posts", "year_lists", "index"]
+    },
+    "links": {
+        "label": "Links",
+        "page_count": 50,
+        "cache_feed": true,
+        "descrip": "Shared links. Related: <a href='/page/links/unprocessed'>Unprocessed Links</a>",
+        "generator_options": ["tags_lists", "year_lists", "index"]
+    },
+    "page": {
+        "label": "Other Pages",
+        "descrip": "Standalone pages not belonging to the other sections.",
+        "feeds": false,
+        "exclude_feed": true,
+        "permalink_view": "single_post_by_path_page",
+        "page_count": 1000,
+        "permalink_view_params": ["path"],
+        "order_by": "title",
+        "list_template": "blog/page/post_list_ungrouped.html",
+        "generator_options": ["single_posts", "index"]
     },
     "photos": {
         "label": "Photos",
@@ -42,13 +61,6 @@
         "label": "Fiction",
         "descrip": "Some works of fiction I have written."
     },
-    "links": {
-        "label": "Links",
-        "page_count": 50,
-        "cache_feed": true,
-        "descrip": "Shared links. Related: <a href='/page/links/unprocessed'>Unprocessed Links</a>",
-        "generator_options": ["year_lists", "index"]
-    },
     "topics": {
         "label": "Topics",
         "descrip": "Topic indexes",
@@ -64,18 +76,6 @@
         "submenu": "follows",
         "feeds": false,
         "list_template": "blog/sections/river/list.html"
-    },
-    "page": {
-        "label": "Other Pages",
-        "descrip": "Standalone pages not belonging to the other sections.",
-        "feeds": false,
-        "exclude_feed": true,
-        "permalink_view": "single_post_by_path_page",
-        "page_count": 1000,
-        "permalink_view_params": ["path"],
-        "order_by": "title",
-        "list_template": "blog/page/post_list_ungrouped.html",
-        "generator_options": ["single_posts", "index"]
     },
     "logs": {
         "showprevnext": true,
