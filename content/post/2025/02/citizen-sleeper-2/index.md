@@ -11,6 +11,7 @@ syndicated:
   url: https://indieweb.social/users/roytang/statuses/113989224992990727
 tags:
 - gaming
+- games
 title: 'Citizen Sleeper 2: Starward Vector'
 ---
 

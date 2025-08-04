@@ -6,7 +6,8 @@
         "cache_feed": true,
         "page_count": 500,
         "compact": true,
-        "descrip": "A blog is a website consisting of discrete, often informal diary-style text entries, typically displayed in reverse chronlogical order. A single entry is called a blog post."
+        "descrip": "A blog is a website consisting of discrete, often informal diary-style text entries, typically displayed in reverse chronlogical order. A single entry is called a blog post.",
+        "generator_options": ["single_posts", "year_lists", "index"]
     },
     "photos": {
         "label": "Photos",
@@ -45,7 +46,8 @@
         "label": "Links",
         "page_count": 50,
         "cache_feed": true,
-        "descrip": "Shared links. Related: <a href='/page/links/unprocessed'>Unprocessed Links</a>"
+        "descrip": "Shared links. Related: <a href='/page/links/unprocessed'>Unprocessed Links</a>",
+        "generator_options": ["year_lists", "index"]
     },
     "topics": {
         "label": "Topics",
@@ -66,9 +68,14 @@
     "page": {
         "label": "Other Pages",
         "descrip": "Standalone pages not belonging to the other sections.",
+        "feeds": false,
         "exclude_feed": true,
         "permalink_view": "single_post_by_path_page",
-        "permalink_view_params": ["path"]
+        "page_count": 1000,
+        "permalink_view_params": ["path"],
+        "order_by": "title",
+        "list_template": "blog/page/post_list_ungrouped.html",
+        "generator_options": ["single_posts", "index"]
     },
     "logs": {
         "showprevnext": true,
