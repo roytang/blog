@@ -3,7 +3,7 @@ date: 2025-02-12 05:01:01
 reviews:
 - description: Harder than the first game, but less on-rails and lots of difficult
     decisions to be made.
-  media: gaming
+  media: games
   rating: 4.0
   title: 'Citizen Sleeper 2: Starward Vector (PC Game Pass)'
 syndicated:
