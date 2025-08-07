@@ -241,6 +241,12 @@ blockquote {
 	font-weight: 700;
 }
 
+.badge.tag {
+    text-transform: lowercase;
+    font-size: smaller;
+    border: 0;
+}
+
 .badge.location {
 	color: var(--main-color);
 	border: 1px solid var(--main-color);
