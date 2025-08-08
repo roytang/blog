@@ -1,7 +1,6 @@
 ---
 title: "Forty-Seven"
 date: 2025-08-09
-draft: true
 tags:
 - birthday
 - lifeprotips
