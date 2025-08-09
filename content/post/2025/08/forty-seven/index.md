@@ -1,9 +1,12 @@
 ---
-title: "Forty-Seven"
 date: 2025-08-09
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/114996079860246551
 tags:
 - birthday
 - lifeprotips
+title: Forty-Seven
 ---
 
 When I sit down to write one of these, typically I will first trawl through some of [the past birthday posts](/blog/tags/birthday/) so that past me can inform what I write. This year I decided not to be too introspective (and also be a bit lazy) and instead rely on past me's wisdom. Here is a list of forty-seven nuggets of wisdom and advice I have posted or shared on social media over the years. (I last did something like this back in [year thirty-eight](/2016/08/thirty-eight/); I did not check to see if there were duplicates.)
