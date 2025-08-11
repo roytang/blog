@@ -7,6 +7,7 @@ resources:
 tags:
 - quiznight
 - geekfight
+- '2020'
 title: Geekfight Jan21
 ---
 

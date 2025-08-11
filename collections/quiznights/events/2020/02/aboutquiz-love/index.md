@@ -1,10 +1,11 @@
 ---
-date: 2020-02-22T23:43:11+08:00
+date: 2020-02-22 15:43:11
+location: ribrage
 tags:
 - quiznight
 - aboutquiz
 - bleah
-location: ribrage
+- '2020'
 ---
 
 We attended [Love on Track: #QuizAboutMoreLoveSongs](https://www.facebook.com/events/2206454469662879)

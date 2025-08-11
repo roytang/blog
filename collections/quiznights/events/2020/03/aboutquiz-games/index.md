@@ -1,10 +1,11 @@
 ---
-date: 2020-03-02T23:43:11+08:00
+date: 2020-03-02 15:43:11
+location: saludos
 tags:
 - quiznight
 - aboutquiz
 - bleah
-location: saludos
+- '2020'
 ---
 
 We attended [Quiz Playing Games: #QuizAboutMoreGames](https://www.facebook.com/events/3319117848117123)
