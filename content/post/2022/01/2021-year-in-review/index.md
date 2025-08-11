@@ -163,7 +163,7 @@ This is a new section! Does that make me a content creator now? Maybe we're all 
         - hit Master rank in Throne 3 times and in Expedition once
         - highest rank: [21st in Throne](/2021/09/1433260717772214272/)!
 - Fighting games
-    - [Street Fighter V](/tags/streetfighterv/)
+    - [Street Fighter V](/2022/12/street-fighter-v/)
         - After five years of playing this game on and off, I actually [managed to hit silver rank this year!](/2022/12/street-fighter-v#1374367400276025345) T_T
     - [GUILTY GEAR -STRIVE-](/2021/06/fg-complex-ggs/)
         - Played this one a lot this year as well, and surprisingly managed to reach ranked floor 8, despite being not very good at it!

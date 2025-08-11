@@ -30,7 +30,7 @@ This week was busy and honestly a bit exhausting for me. A lot of going out, med
 
 [GMTK Game Jam 2023](https://itch.io/jam/gmtk-2023) is this weekend; I had been planning to join, but it's just been a bit too busy this week and I didn't have the energy for it when the weekend rolled around.
 
-We did two quiz nights this week! [Geekfight](/2023/07/geekfight-fandom/) and [PopQuiz](/collections/quiznights/popquiz-90s), though sadly we failed to win either of them.
+We did two quiz nights this week! [Geekfight](/collections/quiznights/geekfight-fandom/) and [PopQuiz](/collections/quiznights/popquiz-90s), though sadly we failed to win either of them.
 
 ### Previously
 

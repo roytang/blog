@@ -4,6 +4,8 @@ dontinlinephotos: true
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111358384305093979
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/111332281464991970
 tags:
 - weeknotes
 title: 2023 Week 44
@@ -13,7 +15,12 @@ It is November! Time marches inexorably forward, despite our protests. The sun i
 
 ### A Photo I took
 
-{{% note "/2023/11/111332281464991970/" %}}
+On <time id="111332281464991970">Nov 05, 2023, 07:02 PM</time> [I wrote](https://indieweb.social/users/roytang/statuses/111332281464991970):
+
+> <p>We are ready for Mortal Kombat</p>
+> 
+> {{< photos 111332281464991970 >}}
+
 
 ### My Week
 

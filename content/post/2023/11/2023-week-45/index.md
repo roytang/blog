@@ -17,7 +17,7 @@ War crimes continue in Gaza. Ukraine still trying to repel the Russian invasion.
 
 This week was kinda busy. For me, busy generally means "I had to go out a lot and that made me miss a bunch of daily stuff I usually do." 
 
-Attend two quiz nights this week: [did terribly at the first one](/2023/11/geekfight-league-5/) but [won the second one](/collections/quiznights/popquiz-marvels). Winning the second one let me [watch a movie](/2023/11/loki-s2-marvels/#the-marvels-2023) for free! Any time I go out to things like this I always leave the house early so I can spend some of the extra time taking my steps (excuse me, my "daily constitutionals") at the malls, so it takes out a good chunk of my day.
+Attend two quiz nights this week: [did terribly at the first one](/collections/quiznights/geekfight-league-5/) but [won the second one](/collections/quiznights/popquiz-marvels). Winning the second one let me [watch a movie](/2023/11/loki-s2-marvels/#the-marvels-2023) for free! Any time I go out to things like this I always leave the house early so I can spend some of the extra time taking my steps (excuse me, my "daily constitutionals") at the malls, so it takes out a good chunk of my day.
 
 On the blog: I wrote a bit about [Old folks and tech](/2023/11/old-folks-and-tech/) and also shared some links about [Words](/2023/11/words/).
 

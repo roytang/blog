@@ -17,7 +17,7 @@ Sigh. Ukraine war isn't over and now we have this whole Israel-Hamas conflict es
 
 Now that I'm out of isolation, happy to be able to go out of the house again, if only to do some errands I had to put off for before. This week was mostly trying to get back into the grooves of my regular routine.
 
-That, and trivia team also attend two quiz nights this week! We won [both](/2023/10/geekfight-noisy-standing/) of [them](/collections/quiznights/popquiz-magic-mystics)!
+That, and trivia team also attend two quiz nights this week! We won [both](/collections/quiznights/geekfight-noisy-standing/) of [them](/collections/quiznights/popquiz-magic-mystics)!
 
 Still keeping up with [Inktober 2023](/tags/inktober2023/)!
 
