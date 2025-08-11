@@ -171,7 +171,7 @@ I did my gaming writeup separately and ahead of time this year: [my 2024 gaming 
 
 #### Trivia Team
 
-- In 2024, we attended 16 [quiz nights](/tags/quiznight/), down from 18 last year. The highlight was probably winning the [Geekfight League Final](/2024/01/geekfight-league-final/) at the start of the year!
+- In 2024, we attended 16 [quiz nights](/tags/quiznight/), down from 18 last year. The highlight was probably winning the [Geekfight League Final](/collections/quiznights/geekfight-league-final) at the start of the year!
 - Win rate: 8 wins, a solid 50% win rate, compared to 33% the previous year.
 - By host:
     - Popquiz: 6

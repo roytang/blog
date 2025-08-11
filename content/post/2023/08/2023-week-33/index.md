@@ -15,7 +15,7 @@ This past week, Tweetdeck (I refuse to call it "XPro") became inaccessible unles
 
 ### My Week
 
-This week was a bit mid. My recent streak of bad luck with hardware continued and we're still waiting on medical updates, but on the other hand the trivia team [crushed a quiz night last Wednesday](/2023/08/geekfight-select/) and I did get some work done on side projects.
+This week was a bit mid. My recent streak of bad luck with hardware continued and we're still waiting on medical updates, but on the other hand the trivia team [crushed a quiz night last Wednesday](/collections/quiznights/geekfight-select) and I did get some work done on side projects.
 
 I got a permanent replacement phone via plan renewal from Globe, got the unit last Thursday. It's a Samsung A54; should be a slight upgrade over the phone I was using before the incident, a Samsung A50.
 

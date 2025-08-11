@@ -28,7 +28,7 @@ The weather is starting to calm dawn a little. Some days are more cloudy/overcas
 
 I did try to start some new Activities that I can't really talk about yet until they are done. These new Activities are on top of all the other ongoing Activities that I started months, years or maybe decades ago and have still yet to bear fruit (and thus also can't talk about). We just throw all these Activities at the wall and see what sticks, eh?
 
-Thursday night [the trivia team attended a quiz night](/2024/05/don-conejos-2/).
+Thursday night [the trivia team attended a quiz night](/collections/quiznights/don-conejos-2).
 
 On the blog: Added [a new entry in the complete Marvel run](/2024/05/cmr-gotg/), and also about [a rare PH boardgame we found](/2024/05/song-begins/).
 

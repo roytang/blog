@@ -36,7 +36,7 @@ Also, there is some form of Groundhog Day time looping in there, and I love Grou
 
 ### The Marvels (2023)
 
-Somehow managed to [win two tickets for a screening of the film last night](/2023/11/popquiz-marvels/), so we got to watch for free. Luckily we hadn't bought tickets for our planned Saturday IMAX viewing yet, I don't think IMAX would have been worth it.
+Somehow managed to [win two tickets for a screening of the film last night](/collections/quiznights/popquiz-marvels), so we got to watch for free. Luckily we hadn't bought tickets for our planned Saturday IMAX viewing yet, I don't think IMAX would have been worth it.
 
 Overall, I enjoyed the movie and it was fun but it definitely had it's flaws and I understand the mixed reviews. 
 

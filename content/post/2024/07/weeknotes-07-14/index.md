@@ -20,7 +20,7 @@ A mere hours ago, shots were fired at a rally in Pennsylvania and Donald Trump w
 
 One of the most exhausting weeks I've had in a while, though most of it was the first three days. I was out most of the day Sunday, and had to go out early in the morning Monday for a government bureaucracy thing that I had been dreading all week. As expected, it took all day and all told I was out of the house more than 10 hours running on very little sleep. It's actually a bit concerning that this exhausted me so much, since that's much less hours than I used to do on a regular basis back when I was working full time, but then again, maybe being in hours-long queues just has that kind of effect on me. Tuesday had more errands to do that took longer than expected, and that just piled on from the previous days. Wednesday was a bit lighter, and I took the opportunity to get some extra sleep.
 
-By Thursday I was ready to do something a bit more relaxing, so the trivia team went out [for a last minute quiz night](/2024/07/don-conejos-04/). 
+By Thursday I was ready to do something a bit more relaxing, so the trivia team went out [for a last minute quiz night](/collections/quiznights/don-conejos-04). 
 
 Friday was rest. I also managed to hit the 2000 day streak on Duolingo:
 

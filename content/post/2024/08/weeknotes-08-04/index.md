@@ -22,7 +22,7 @@ I had kind of lax week, though there were still the usual things to do as prep f
 
 A few months ago we switched to Cignal TV from SkyCable, mostly because Sky pulled a "we are quitting the business" bait and switch and later said "actually we are not", but by then we had already signed up for Cignal TV. I am mentioning this because I have wrangled my first rebate from Cignal TV due to an extended outage over the bad weather last week. Well, I assume it, they say the rebate will be reflected in my next bill. I have also learned that I should just report outages as soon as possible instead of waiting to see if it gets better when the weather clears up, to maximize any potential rebates.
 
-We [won a quiz night last Wednesday](/2024/07/popquiz-8-friendship/)!
+We [won a quiz night last Wednesday](/collections/quiznights/popquiz-8-friendship)!
 
 On the blog: I wrote [a bunch of movie/TV reviews](/2024/08/movies-tv-jun-jul-2024/), [a book review](/2024/08/wind-up-bird/) and [a new Complete Marvel Run post](/2024/08/cmr-heroes-for-hire/)!
 

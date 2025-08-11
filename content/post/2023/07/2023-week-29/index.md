@@ -22,7 +22,7 @@ The week was unexpectedly busy. Had some family medical issues that had to be at
 
 [Wrote about government bureaucracy](/2023/07/bureaucracy/).
 
-Trivia team [attended a quiz night last Wednesday](/2023/07/geekfight-triskaidekaphilia/).
+Trivia team [attended a quiz night last Wednesday](/collections/quiznights/geekfight-triskaidekaphilia).
 
 Started working on some frontend/UI changes for the site and am committing them incrementally, so don't be surprised if something suddenly breaks for a while on the site.
 

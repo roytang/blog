@@ -22,7 +22,7 @@ This was a hot week still.
 
 Got together with family yesterday to celebrate one of the *pamangkins*'s life events. Discussions among the me and my brothers centered around how careers were going, good banks to use, the kids' achievements, and comparing electric bills. Such adults!
 
-Trivia team went back to Don Conejos for [another quiz night last Thursday and crushed it](/2024/06/don-conejos-03/)!
+Trivia team went back to Don Conejos for [another quiz night last Thursday and crushed it](/collections/quiznights/don-conejos-03)!
 
 On the blog: [Wrote about Slam Dunk](/2024/06/slam-dunk/)! Wish I had the time and energy to write more.
 

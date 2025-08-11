@@ -15,7 +15,7 @@ The weather has been so cold recently. Even midday with the sun bearing down, th
 
 I had a bit of a more relaxing week this time. In fact, I suspect I slept too much during the first few days of the week, probably as an overreaction to how exhausting the past couple of weeks were. The free time mostly went to catching up with some reading, gaming, watching and some archival/cleanup work I've been putting off. 
 
-Trivia team didn't do too well in the last Geekfight league game, but [we still won the league](/2024/01/geekfight-league-final/)!
+Trivia team didn't do too well in the last Geekfight league game, but [we still won the league](/collections/quiznights/geekfight-league-final)!
 
 On the blog: I wrote about [2000s manga](/2024/01/2000s-manga/), and also [a book review](/2024/01/reaper-man/).
 

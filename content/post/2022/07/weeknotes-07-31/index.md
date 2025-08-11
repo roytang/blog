@@ -55,7 +55,7 @@ Visit the [Links page](/links/) for more links of interest.
 - Honestly not sure where most of this week went. I did spend a bunch of time working on some projects and maybe reading too many comic books though. And the usual end of month errands etc. I guess I was kind of in a holding pattern waiting for the new month? My notes from this week seem mostly about food lol.
 - Spent a lot of time grinding the CCGs this week, hoping to finish in the higher ranks for the month. Played in the Eternal and Arena limited opens this weekend, did poorly in both. The [sealed event in Arena went terribly](/2022/09/mtghbg-limited-recap/#arena-open) and somehow I find it so difficult to get the hang of the Eternal draft format. I'm saddened that I still can't win cash on these things, but we soldier on. At least [I managed to hit Masters in Eternal this month](/2022/07/1553059411068723200/)! Arena didn't get there though.
 - Still playing: **Shin Megami Tensei V** and **Witcher 2**. Sometimes **Street Fighter V**.
-- We [played in a quiz night last Thursday and won](/2022/07/popquiz-6seasons/)!
+- We [played in a quiz night last Thursday and won](/collections/quiznights/popquiz-6seasons)!
 
 ### Media Diet
 

@@ -46,7 +46,7 @@ It is now [Throw Short People month](/2022/10/1576916824968814593/). Three month
 
 - It's been a busy week for me actually. I had medical stuff to do (routine tests and doctor's appointments), and family errands to run (mostly accompanying older people to their tests and doctor's appointments), and some relatives were visiting from overseas, so we had meetups and were regaled with stories from faraway places like Houston, Canada and Australia.
 
-- Also, [trivia team managed to win an in-person quiz night last week](/2022/09/treeline/)! We'd been attending this particular host's quizzes for a long while and his crowd was always challenging competition, so it was nice to hold our own against them on his first quiz back since the pandemic.
+- Also, [trivia team managed to win an in-person quiz night last week](/collections/quiznights/treeline)! We'd been attending this particular host's quizzes for a long while and his crowd was always challenging competition, so it was nice to hold our own against them on his first quiz back since the pandemic.
 
 - This past weekend [I participated](/2022/10/1576911381135519745/) in [Ludum Dare 51](https://ldjam.com/events/ludum-dare/51)! A full blog post is probably coming in a day or so, but you can go ahead and play my submission at https://hungryroy.itch.io/10-second-pizza-delivery (It might be a bit hard)
 

@@ -18,7 +18,7 @@ The USA has once again failed an IQ test. Donald Trump will be their next presid
 
 We had another immunotherapy session early in the week, it went well. Just a few more sessions to go! Also had my own regularly scheduled checkup this week (was mostly fine), and had to run some errands and get some things done before my travels later in the month.
 
-We managed to [attend a Disney-themed quiz night this week](/2024/11/popquiz-disney/), but didn't do well.
+We managed to [attend a Disney-themed quiz night this week](/collections/quiznights/popquiz-disney), but didn't do well.
 
 On the blog: I wrote about [a well-known PH comic strip](/2024/11/pugad-baboy/), [my reactions to the world news](/2024/11/the-world-turns/) and [a review of a game I've just finished](/2024/11/starfield/).
 

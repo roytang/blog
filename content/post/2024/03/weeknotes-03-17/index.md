@@ -20,7 +20,7 @@ Our fourth infusion session went well last Monday, actually a bit better than ex
 
 This week I wanted to do a lot more work on some side projects like the UI refresh for this website, but that was kind of derailed because (a) gaming; and (b) I found out middle of the week that we were going to do some repair work on our second floor ceiling and that meant I couldn't use my room for at least a couple of days. I was only told about it the day before it was originally supposed to start! I said I needed at least a couple of days to figure out if I could move my desktop elsewhere in the house and also move out some stuff that I didn't want to leave in the room while strangers were doing repair work, so the start of the work was rescheduled to tomorrow (Monday) instead. I ended up deciding to just leave my desktop PC in the room as I didn't have any other good place for it elsewhere in the house, which means I might not be able to use it for a few days. Hopefully the repairs/renovations finish quickly!
 
-Monday evening [we attended a Disney/Pixar quiz night at a new venue](/2024/03/cinema76-disney/). We did well, but due to various reasons I was unable to avail of the free cinema ticket I got as part of the prize (they were NOT transferable which was annoying).
+Monday evening [we attended a Disney/Pixar quiz night at a new venue](/collections/quiznights/cinema76-disney). We did well, but due to various reasons I was unable to avail of the free cinema ticket I got as part of the prize (they were NOT transferable which was annoying).
 
 On the blog: Wrote about [my app that does nothing](/2024/03/does-nothing/).
 

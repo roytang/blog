@@ -29,7 +29,7 @@ For me personally it was a bit of an exhausting week physically. Had to go out a
 
 For some reason or another I found myself reading through my own [blog archives](/archives/) from the early aughts (around 2002-2008 or so) and I found myself really missing that era of blogging. All my posts seemed so earnest and open and unfiltered, especially in the early years. I wrote long movie and game reviews and commented on current events and shared links and all that. I still do all of those things but I think to a lesser degree these days. I kind of want to see if I can find my way back to where I was back then, blogging-wise?
 
-Trivia team [attended another quiz night this past week](/2023/06/popquiz-pride/). We almost won!
+Trivia team [attended another quiz night this past week](/collections/quiznights/popquiz-pride). We almost won!
 
 The site's backend has never been super performant - I often get alerts about using too much memory. But it has been happening more frequently during the past few months for some reason. It doesn't look like I am getting any unusual traffic, so my main suspect at the moment is the git integration, since [the backing git repo](https://github.com/roytang/blog) is actually quite large and has a lot of files. As a stopgap measure I have reduced the frequency of how often the backend syncs and updates git and that seems to have helped for now at least. (The only real effect is that I will have to wait longer for updates to reflect on the site.) I really should allot some time to dig into the site's performance issues at some point though.
 

@@ -25,7 +25,7 @@ Note that my average times might be a bit skewed low as I often do the crossword
 
 Online trading company **eToro** announced they are pulling back PH operations and that I have to close my account. I assume this is because [the SEC issued an advisory against them earlier this year](https://www.sec.gov.ph/wp-content/uploads/2024/04/2024Advisory-Against-eTORO.pdf). I've been using it in small amounts over the past few years to do some day trading which I've discovered I am very bad at; I jokingly say I can predict when markets will rise because it happens whenever I close my positions. Anyway, the shutdown comes at an inconvenient time as I'm pretty sure I'm still net negative overall. I basically paid money to learn I am bad at this. They said I can keep my account open until the first of December, but I decided to just start the withdrawal procedure already so I don't have to think of it later. 
 
-We [attended a quiz night last Tuesday](/2024/10/triviadown-videogames/) on short notice, but did not win.
+We [attended a quiz night last Tuesday](/collections/quiznights/triviadown-videogames) on short notice, but did not win.
 
 On the blog: wrote [my much-delayed Bloomburrow set recap](/2024/10/bloomburrow/). Hoping to write more this coming week!
 

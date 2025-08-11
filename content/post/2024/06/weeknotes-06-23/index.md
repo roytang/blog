@@ -18,7 +18,7 @@ Lots of nonsense happening in local politics, as usual. "Let them fight," I whis
 
 This week was exhausting, most of it prep for next week's immunotherapy and follow-ups for the surgery last week. It felt like most of my errands were concentrated in the middle of the week, so for the last few days I mostly just vegged out and played Hades. 
 
-On Wednesday I spent most of the morning and afternoon on errands and when that was done I spent some time [wandering around Fisher Mall](/2024/06/lego-star-wars/) before heading to [a quiz night](/2024/06/smartypants-tinybar/). My feet were aching by the end of the day.
+On Wednesday I spent most of the morning and afternoon on errands and when that was done I spent some time [wandering around Fisher Mall](/2024/06/lego-star-wars/) before heading to [a quiz night](/collections/quiznights/smartypants-tinybar). My feet were aching by the end of the day.
 
 On the blog: [Wrote about How I Process Links](/2024/06/processing-links/) and [User Agents, Bots, and Scrapers](/2024/06/bots-scrapers/).
 

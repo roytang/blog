@@ -25,7 +25,7 @@ This week was a bit busy, with nonmedical stuff this time, and I even managed to
 
 Wednesday I took my parents to a passport renewal appointment I had set up, mostly because my brother has been pestering us to take them on a trip. When I did my passport renewal in late 2022 I think I had an afternoon appointment and spent like half an hour or more in the queue, but this time we had an 11am appointment and there were practically no other people there and they were done in 10 minutes. Just need to wait for the passport delivery! We had lunch at the mall, bought some CNY stuff, and after that I left them to go complain about something at the Globe store.
 
-Thursday [we attended a quiz night and won](/2024/02/geekfight-hobby-stadium/)!
+Thursday [we attended a quiz night and won](/collections/quiznights/geekfight-hobby-stadium)!
 
 For some reason PLDT has decided to end Sky's cable service by Feb 27. If it were just me I would just not have cable TV, but the parents watch a lot of it (even though most programs they watch are actually also up on Youtube, etc), so I had to shop around for a new one. Cignal finally called me back last Friday and so later this week we're expecting an installation team to come over. Looks like the cost might end up cheaper than what we were paying for SkyCable, so that's a plus.
 

@@ -39,7 +39,7 @@ Monday weeknotes again, very late this time because I was away most of Sunday an
     - Still trying to power through **SMT5** and **Paradise Killer**.
     - Had a good week in **Street Fighter V** and [managed to rank up](/2022/12/street-fighter-v/#1582700303526531073q)! One rank to go!
 
-- Trivia team attended [another in-person quiz night last Thursday](/2022/10/popquiz-stage/) and it went reasonably well.
+- Trivia team attended [another in-person quiz night last Thursday](/collections/quiznights/popquiz-stage) and it went reasonably well.
 
 - Media Diet: Watched [Bullet Train (2022)](/notes/2022/10/bullet-train/) last Saturday, and snuck in a cinema viewing of [Black Adam (2022)](/notes/2022/10/black-adam/) during Sunday's staycation. Finished reading [Shadows of Self](/2022/10/shadows-of-self/) as well!
 

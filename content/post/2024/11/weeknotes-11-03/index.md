@@ -22,7 +22,7 @@ A friend's mom passed away late last week and we went ahead and we attended the 
 
 Got the news last week that Mastodon server [botsin.space](https://botsin.space) is shutting down, sadly. This is where [my triviabot](https://botsin.space/@triviastorm) is currently running. The server goes read-only on Dec 15th, but I might not be able to have time to look for a new host before then, so probably the bot will be gone for a while and I'll just bring it back up on a different server sometime early in 2025.
 
-We managed to [attend a quiz night this week](/2024/10/popquiz-halloween/), but didn't do well.
+We managed to [attend a quiz night this week](/collections/quiznights/popquiz-halloween), but didn't do well.
 
 On the blog: Nothing much this week, other than the weeknotes. Hoping to get some other posts in this week.
 

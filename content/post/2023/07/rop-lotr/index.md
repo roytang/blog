@@ -23,7 +23,7 @@ title: Rings of Power + LOTR trilogy rewatch
 
 ### Rings of Power
 
-We had a Lord of the Rings category for [one of our quiz nights this week](/2023/07/geekfight-fandom/), so as a bit of prep I decided to finally watch **Rings of Power** on Prime Video. The first season was overall fine but definitely far too slow-paced in the first half, and gave me a better appreciation of the backstory of LOTR. Some of it doesn't match exactly with what we know from Tolkien's notes, but as an adaptation / interpretation, I think that's fine. The setting and the scenes and the shots and the CGI are pretty good, the only real problem is the pacing; very little of consequence happens during the first half of the 8-episode season. I think the first two episodes are dedicated entirely to setting up the status quo. I figure they could cut 1-2 episodes and it might still be fine. Still, I will probably be watching the second season.
+We had a Lord of the Rings category for [one of our quiz nights this week](/collections/quiznights/geekfight-fandom), so as a bit of prep I decided to finally watch **Rings of Power** on Prime Video. The first season was overall fine but definitely far too slow-paced in the first half, and gave me a better appreciation of the backstory of LOTR. Some of it doesn't match exactly with what we know from Tolkien's notes, but as an adaptation / interpretation, I think that's fine. The setting and the scenes and the shots and the CGI are pretty good, the only real problem is the pacing; very little of consequence happens during the first half of the 8-episode season. I think the first two episodes are dedicated entirely to setting up the status quo. I figure they could cut 1-2 episodes and it might still be fine. Still, I will probably be watching the second season.
 
 ### Lord of the Rings trilogy
 
@@ -49,4 +49,4 @@ That's it! I love this trilogy and movies and this will certainly not be the las
 
 ### Epilogue
 
-Sadly, we did not do so well in the LOTR category [in the relevant quiz night](/2023/07/geekfight-fandom/) lol.
+Sadly, we did not do so well in the LOTR category [in the relevant quiz night](/collections/quiznights/geekfight-fandom) lol.

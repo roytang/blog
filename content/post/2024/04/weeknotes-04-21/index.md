@@ -17,7 +17,7 @@ Trump's criminal trial is proceeding apace, finishing jury selection just as a m
 
 ### My Week
 
-This week was another exhausting one, as I was out and about most days. Things to attend to included prep for the next immunotherapy session, an optha appointment, meeting up with relatives who were about to fly back to the US, finishing up the boardgame sessions with friends. Thursday night we attended [a comedy-themed quiz night](/2024/04/popquiz-comedy/). 
+This week was another exhausting one, as I was out and about most days. Things to attend to included prep for the next immunotherapy session, an optha appointment, meeting up with relatives who were about to fly back to the US, finishing up the boardgame sessions with friends. Thursday night we attended [a comedy-themed quiz night](/collections/quiznights/popquiz-comedy). 
 
 The weather continues to be punishingly hot, especially since I was moving about during the day. I may or may not have used the term "sea of fire" to describe my commute to a friend's house. 
 

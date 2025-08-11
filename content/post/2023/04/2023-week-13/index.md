@@ -21,7 +21,7 @@ Had to deal with some [webmention spam](/2023/04/webmention-spam/).
 
 The rest of my week was spent catching up with errands and backlogs piled up over the four days I was gone, and trying to get back into my daily rhythms. Those rhythms are easily disrupted! Errands included bank stuff, buying meds, and various end-of-month responsibilities.
 
-Trivia team [attended a quiz night last Thursday and CRUSHED IT](/2023/03/popquiz-lastwoman/)!
+Trivia team [attended a quiz night last Thursday and CRUSHED IT](/collections/quiznights/popquiz-lastwoman)!
 
 ### Media Diet
 

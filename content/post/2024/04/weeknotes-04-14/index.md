@@ -25,7 +25,7 @@ Household spring cleaning is still going strong, and I have begrudingly agreed t
 
 Later in the week we visited with one of my brothers and their storage room was much more crammed than our extra room and I was like, see, we didn't really need to throw out so much stuff!
 
-Thursday night we attended [quiz night at a new venue](/2024/04/don-conejos-jason-quiz/). 
+Thursday night we attended [quiz night at a new venue](/collections/quiznights/don-conejos-jason-quiz). 
 
 Spent most of Saturday travelling to and from the south side of the Metro to visit with mother's side relatives. It is so far away and we had to take a Grab both ways which turned out really expensive. Good to see that side of the family again though (a rare occurence since the pandemic), lots of catching up and stories about the olden days, Canada, and all of us getting older.
 

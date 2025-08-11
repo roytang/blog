@@ -17,7 +17,7 @@ Sigh, the world continues to be terrible. Let's check back next week.
 
 ### My Week
 
-This week was mostly chill. Some errands as usual. A family celebration or two. Went out for [a quiz night](/2023/10/geekfight-league-4/) in the middle of the week.
+This week was mostly chill. Some errands as usual. A family celebration or two. Went out for [a quiz night](/collections/quiznights/geekfight-league-4) in the middle of the week.
 
 My weeks are starting to feel very same-y again; that's not really a bad thing?
 

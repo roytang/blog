@@ -19,7 +19,7 @@ This past Wednesday was [my fourty-fifth](/2023/08/forty-five/). A couple of day
 
 I am ready to move on from [the incident a couple of weeks ago](/2023/08/110847244216804146/), as it looks like there is nothing more worth pursuing (I have been talked down from seeking vengeance), though I might have a bit more to write about platform security, etc.
 
-Trivia team attended [a Geekfight last Wednesday](/2023/08/geekfight-nonbeliever/); was hoping some birthday luck would get us to first place but no dice. I knew as soon as this event was scheduled that I would be paying for dinner.
+Trivia team attended [a Geekfight last Wednesday](/collections/quiznights/geekfight-nonbeliever); was hoping some birthday luck would get us to first place but no dice. I knew as soon as this event was scheduled that I would be paying for dinner.
 
 A few medical errands this week still, a consequence of earlier bad news. Buying meds, getting test results, having follow-up tests done. Might be busy with this sort of thing for the few weeks or so.
 

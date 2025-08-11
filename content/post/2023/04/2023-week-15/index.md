@@ -19,7 +19,7 @@ Twitter emailed me to tell me one of my quote bots would get suspended, but some
 
 I wrote about my recent project of [scanning old photographs](/2023/04/old-photographs/).
 
-Trivia team [headed out to GeekFight last Wednesday](/2023/04/geekfight-then-now-forever/), but we fell short and finished first loser.
+Trivia team [headed out to GeekFight last Wednesday](/collections/quiznights/geekfight-then-now-forever), but we fell short and finished first loser.
 
 NYT added a new "Digits" puzzle which reminds me a lot of Countdown from British TV, except with infinite time and tries so it's not especially challenging.
 

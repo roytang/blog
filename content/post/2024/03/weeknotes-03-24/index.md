@@ -21,7 +21,7 @@ For some reason when I turned on my computer again after a few days of not using
 
 Still had a bunch of errands to do this week; basically lost a couple of weekdays to them.
 
-Thursday night the trivia team attended [the first PopQuiz of the year](/2024/03/popquiz-errors/), but we didn't win.
+Thursday night the trivia team attended [the first PopQuiz of the year](/collections/quiznights/popquiz-errors), but we didn't win.
 
 On the blog: wrote about [User Agents](/2024/03/user-agents/) and [Do A Powerbomb](/2024/03/powerbomb/).
 

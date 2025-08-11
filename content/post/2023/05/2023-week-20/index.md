@@ -17,7 +17,7 @@ As May streaks to the end, the rains start coming more often, though mostly in t
 
 - The week wasn't especially busy, but also not very productive, mostly because of Zelda (see below)
 - Some remnant errands this week, mostly involving waiting around in doctor's offices. 
-- Trivia team [attended another quiz night last Thursday](/2023/05/popquiz-hot/). It was a challenging set and a low-scoring game and we thought we were doing terribly, but actually ended up 1pt away from first place!
+- Trivia team [attended another quiz night last Thursday](/collections/quiznights/popquiz-hot). It was a challenging set and a low-scoring game and we thought we were doing terribly, but actually ended up 1pt away from first place!
 
 ### Media Diet
 

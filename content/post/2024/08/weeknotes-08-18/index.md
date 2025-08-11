@@ -18,7 +18,7 @@ Sunday: Some of the *pamangkins* came over to visit. They continue to be bad at 
 
 Monday: Teleconsult for one of the parents; his numbers weren't very good and we had to do increased monitoring and another follow-up teleconsult next week.
 
-Wednesday: I had to get a Grab to bring the parents to a meet-up dinner they had in Cubao; luckily I happened to be going to the same area as well. [We won a quiz night](/2024/08/popquiz-sports/)! Our Grab driver lived nearby and said he recognized me from all my walkabouts. I'm famous!
+Wednesday: I had to get a Grab to bring the parents to a meet-up dinner they had in Cubao; luckily I happened to be going to the same area as well. [We won a quiz night](/collections/quiznights/popquiz-sports)! Our Grab driver lived nearby and said he recognized me from all my walkabouts. I'm famous!
 
 Thursday: Grocery day. Mildly annoyed at our *suking* grocery because the past few weeks they have been renovating some sections and re-arranging things and that just makes things harder to find!
 

@@ -15,7 +15,7 @@ title: 2023 Week 18
 
 ### My Week
 
-- This week was a bit better for me than before. Managed to move the needle on some side projects. [Hung out with some friends](/2023/05/gameday/). [Went to a quiz night](/2023/05/popquiz-may-4th/). Wrote [a new Marvel run blog post](/2023/05/marvel-run-4-thor-etc/). Entertained some new family members dropping in from abroad. 
+- This week was a bit better for me than before. Managed to move the needle on some side projects. [Hung out with some friends](/2023/05/gameday/). [Went to a quiz night](/collections/quiznights/popquiz-may-4th). Wrote [a new Marvel run blog post](/2023/05/marvel-run-4-thor-etc/). Entertained some new family members dropping in from abroad. 
 - However, I did receive a bit of family-related bad news, nothing super serious, but it made me a bit sad.
 
 ### A Photo I Took

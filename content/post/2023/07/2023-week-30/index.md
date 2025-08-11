@@ -23,7 +23,7 @@ My week felt super routine and I was getting some stuff done that I had been mea
 
 Wrote [my own State of the Nation](/2023/07/sona2023/).
 
-Trivia team [attended a quiz night last Thursday](/2023/07/popquiz-seven-years-later/); I was able to attend despite my misfortunes.
+Trivia team [attended a quiz night last Thursday](/collections/quiznights/popquiz-seven-years-later); I was able to attend despite my misfortunes.
 
 I feel a bit lost, but hopefully things start picking up. Unfortunately, we are still waiting on some potentially bad news.
 

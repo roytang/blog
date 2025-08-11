@@ -25,7 +25,7 @@ I think my last surviving external hard drives has died, Windows has stopped rec
 
 It's December, so Spotify Wrapped is out, though [mine is unusual this year](/2023/12/111509729930849977/).
 
-Trivia team attended [the final quiz night for the year](/2023/11/popquiz-bang/), but we only placed second! I'm thinking of adding a quiz night section to my [stats page](/page/stats/live/) because why not?!?
+Trivia team attended [the final quiz night for the year](/collections/quiznights/popquiz-bang), but we only placed second! I'm thinking of adding a quiz night section to my [stats page](/page/stats/live/) because why not?!?
 
 On the blog: I wrote about [my everday carry](/2023/11/everyday-carry/). 
 

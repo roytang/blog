@@ -36,7 +36,7 @@ Tuesday: My dad asked me to help with some printing, and that was how I found ou
 
 Wednesday: Trudged over to the barangay hall to get some papers.
 
-Thursday: Groceries, buying new printer ink, and in the evening I managed to sneak off and do [a quiz night](/2024/06/popquiz-rainbow/).
+Thursday: Groceries, buying new printer ink, and in the evening I managed to sneak off and do [a quiz night](/collections/quiznights/popquiz-rainbow).
 
 Friday: Back to the hospital, visiting 4 different departments to get papers.
 

@@ -17,7 +17,7 @@ I've started taking the shorter walks without my phone, which is helpful for thi
 
 I did start picking up an old gamedev project again and worked on some improvements I wanted to get in and am kind of hoping it would feel good enough to release/sell on itch.io maybe? We shall see, but it may take a while.
 
-After a long while, the Geekfight face-to-face quiz nights are back! [We attended last Wednesday, but didn't do so well](/2023/02/geekfight-hobby-stadium/).
+After a long while, the Geekfight face-to-face quiz nights are back! [We attended last Wednesday, but didn't do so well](/collections/quiznights/geekfight-hobby-stadium).
 
 ### Media Diet
 

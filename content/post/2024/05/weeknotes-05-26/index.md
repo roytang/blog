@@ -30,7 +30,7 @@ This week I finally got started on a long-standing thing I wanted to do, which i
 
 I was also happily able to progress some archival work that I don't want to talk about yet.
 
-Attended [an unplanned quiz night last Wednesday]( /2024/05/225-bistro-90s-quiz/)!
+Attended [an unplanned quiz night last Wednesday]( /collections/quiznights/225-bistro-90s-quiz)!
 
 ### Media Diet
 
