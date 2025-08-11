@@ -230,4 +230,3 @@ I know, I know this page layout could use a lot of work.
 | **Oct** | Champions of Kamigawa | [Team Sealed](/2004/12/team-sealed/) | |
 
 Related: [MTG Stats](/page/stats/mtg/)
-

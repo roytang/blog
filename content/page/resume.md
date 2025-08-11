@@ -5,6 +5,8 @@ type: page
 date: 2018-04-15T05:26:37+00:00
 comments_enabled: false
 submenu: "about"
+aliases:
+- /resume/
 ---
 [work@roytang.net](work@roytang.net) | [https://roytang.net](https://roytang.net) | [https://www.linkedin.com/in/roytang](https://www.linkedin.com/in/roytang)
 
