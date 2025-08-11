@@ -45,7 +45,7 @@ Visit the [Links page](/links/) for more links of interest.
 - **Gaming**:
     - Still trying to power through **Tales of Symphonia** and **Great Ace Attorney**, the former more than the latter. Still hoping to finish both games before the end of the year!
     - Fighting games still ongoing: **Guilty Gear Strive** and **Street Fighter V**.
-    - Running a new expedition deck on **Eternal**. Was tempted to try my hand at the Draft Open this weekend, but given I haven't drafted [since 2018](/2018/11/9yqj5i/), it didn't seem like a good idea! 
+    - Running a new expedition deck on **Eternal**. Was tempted to try my hand at the Draft Open this weekend, but given I haven't drafted [since 2018](https://www.reddit.com/r/EternalCardGame/comments/9yqj5i/please_indulge_me_after_one_year_and_400_f2p/), it didn't seem like a good idea! 
     - Started streaming Crimson Vow drafts on **Magic Arena**! Managed my first 7-x early even! You can follow along via the [MTGCrimson tag](/tags/mtgcrimson/) or via [the Youtube playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXgokNsq0i3ejpcLJ0zkrZbE).
 - **Watching:**
     - **Movies:** Watched [No Time To Die!](/2021/11/no-time-to-die/).

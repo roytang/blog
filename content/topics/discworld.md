@@ -19,7 +19,7 @@ Current read count: 21/41 (as of Apr 6, 2024)
 | 1 | The Colour of Magic  | 1983 | Rincewind  | Y | |
 | 2 | The Light Fantastic  | 1986 | Rincewind  | Y | |
 | 3 | Equal Rites  | 1987 | Witches  | Y | [2006](/2006/03/recent-reading-2006-03-12/), [2016](/2016/08/equal-rites/) |
-| 4 | Mort  | 1987 | Death  | Y | [2014](/2014/04/10152904609773912/) |
+| 4 | Mort  | 1987 | Death  | Y | [2014](/2014/04/mort/) |
 | 5 | Sourcery  | 1988 | Rincewind | Y | |
 | 6 | Wyrd Sisters  | 1988 | Witches  | Y | [2022](/2022/04/weeknotes-04-17/#wyrd-sisters-by-terry-pratchett) |
 | 7 | Pyramids  | 1989 | Djelibeybi | Y | [2023](/2023/06/pyramids/) |

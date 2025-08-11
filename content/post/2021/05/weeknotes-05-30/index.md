@@ -43,7 +43,6 @@ This year feels like it's passing by very quickly.
 - 2006: [X-Men III: The Last Stand](/2006/05/x-men-iii-the-last-stand/)
 - 2005: [Revenge of the Sith](/2005/05/movies-revenge-of-the-sith/)
 
-
 ### My stuff:
 
 - The [DIY fix for my fitbit strap](/2021/05/1396076491021058050/) didn't even last an entire week! I ordered a new one as soon as it broke last Friday. The package arrived today! And... I accidentally ordered a small size when I needed a large lol. I can still use it by pairing with the unbroken half of my old strap, but still, pretty dumb of me. =/

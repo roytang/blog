@@ -11,3 +11,4 @@ title: DuckDuckGo
 ---
 
 I think I'll try setting my default search engine to https://duckduckgo.com/ for a while.
+
