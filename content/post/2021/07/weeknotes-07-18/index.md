@@ -38,7 +38,7 @@ Visit the [Links page](/links/) for more links of interest.
 ### From the archives, this week in history:
 
 - 2015: I [travelled to London](/2015/07/10153949288558912-0/) for work for 3 months!
-- 2015: [The first time we won a quiz night](/2015/07/10153944244358912-0/)?
+- 2015: [The first time we won a quiz night](/collections/quiznights/10153944244358912-0/)?
 - 2015: [RIP Satoru Iwata](/collections/quotes/620417640591331328/)
   
 ### My stuff:

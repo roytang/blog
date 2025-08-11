@@ -89,7 +89,7 @@ These are the boardgames I played in 2016
 
 <time id="BOeOxFVBgQe">[2016-10-16 14:09] </time>
 
-Played Flash Point, Dead of Winter, Nosferatu [during a quiz night](/2016/10/5802003f498ecf3452511f10/).
+Played Flash Point, Dead of Winter, Nosferatu [during a quiz night](/collections/quiznights/5802003f498ecf3452511f10/).
 
 ---
 

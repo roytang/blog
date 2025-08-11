@@ -36,7 +36,7 @@ This year feels like it's passing by very quickly.
 ### From the archives, this week in history:
 
 - 2017: [Donald Trump plays with a weird orb](/2017/05/10155648742978912/)
-- 2013: [Overly sensitive PH officials call out Dan Brown for calling Manila 'gates of hell'](/2013/05/338258720603664384/)
+- 2013: [Overly sensitive PH officials call out Dan Brown for calling Manila 'gates of hell'](https://roytang.net/files/twitter/roytang/status/338258720603664384/)
 - 2012: [Philippine Chief Justice Corona impeached](/2012/05/cj-corona-impeached/)
 - 2011: [Modern format introduced to MTG](/2011/05/74697171097759745/)
 - 2010: [I started using DuckDuckGo!](/2010/05/14628258919/)

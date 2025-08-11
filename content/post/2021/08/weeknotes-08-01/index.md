@@ -44,7 +44,7 @@ Visit the [Links page](/links/) for more links of interest.
 
 ### From the archives, this week in history:
 
-- 2016: Our trivia team [won the inaugural Pop Quiz](/2016/07/BIXlZpmhpFr/)!
+- 2016: Our trivia team [won the inaugural Pop Quiz](/collections/quiznights/BIXlZpmhpFr/)!
 - 2008: I bought a cellphone with my own money for the first time. It was a [Nokia 5800](/2009/08/3067225022/)
 
 ### My stuff:

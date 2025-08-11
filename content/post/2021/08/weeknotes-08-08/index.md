@@ -55,7 +55,7 @@ Visit the [Links page](/links/) for more links of interest.
 
 - **Watching:**
     - Movies: 
-        - James Gunn's The Suicide Squad was fairly good. [Spoiler-free review.](/2021/08/12cbfc5fe2bf124a832da481095c364b/) [Full review.](/2021/08/the-suicide-squad/)
+        - James Gunn's The Suicide Squad was fairly good. [Review.](/2021/08/the-suicide-squad/)
         - James Bond run continued this week with [Quantum of Solace](/2021/08/quantum-of-solace/).
     - TV: No new series watched this week, but I have started a new **Parks and Recreation** rewatch as my background noise. Series is still great.
 - **Gaming**:
