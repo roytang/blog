@@ -17,7 +17,7 @@ Alexis Madrigal writes on [Twitter](https://twitter.com/alexismadrigal/status/15
 >  
 > TikTok may be exciting and engaging, but it’s not about words.
 
-The whole thread is pretty good, go read it. [Local backup here](/2022/11/1588031749342183424/) in case birdsite goes kaput.
+The whole thread is pretty good, go read it. [Local backup here](/collections/threads/wordpersons/) in case birdsite goes kaput.
 
 Only somewhat related, Meg Hourihan wrote (in the year 2000!!) [about web persons](https://megnut.com/2000/04/14/ive-been-thinking-a-lot/):
 
