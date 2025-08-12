@@ -1,5 +1,9 @@
 ---
 date: 2019-10-04 11:44:35
+reviews:
+- description: Spoiler-free review
+  media: movies
+  title: Joker (2019)
 source: twitter
 syndicated:
 - type: twitter
@@ -19,13 +23,9 @@ syndicated:
 tags:
 - movies
 - spoiler-free-review
-reviews:
-- media: movies
-  title: "Joker (2019)"
-  description: Spoiler-free review
+- formernote
+title: JOKER spoiler-free review
 ---
-
-JOKER spoiler-free review:
 
 - very dark movie, not like any previous superhero movies at all; don't bring your kids
 - it is violent and potentially disturbing, but strangely not as much as the hype made it out to be

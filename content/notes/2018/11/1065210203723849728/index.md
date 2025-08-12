@@ -9,6 +9,7 @@ syndicated:
 tags:
 - tv
 - backtothefuture
+- arrowverse
 ---
 
 OMG Biff Tannen did the "make like a tree" quote on LoT, I LOLed

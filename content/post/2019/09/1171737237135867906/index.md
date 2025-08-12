@@ -14,6 +14,8 @@ syndicated:
 tags:
 - xmen
 - movies
+- formernote
+title: 'X-Men: Dark Phoenix (2019)'
 ---
 
 I finally watched Dark Phoenix today. It was not as bad as I thought it would be, but the #xmen jet did have a port where Cyclops could put his head so they can use him as a cannon, and apparently Nightcrawler can teleport 4 people across an entire city so there's that

@@ -11,6 +11,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1094154242846220289/
 tags:
 - movies
+- formernote
+title: The Usual Suspects (1995)
 ---
 
 I watched The Usual Suspects for the first time today. Holds up surprisingly well, despite the internet having spoiled Keyser Soze's identity for me many years ago. I can see why Kevin Spacey won an Oscar for his performance here

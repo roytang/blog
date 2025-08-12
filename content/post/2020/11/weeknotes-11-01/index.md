@@ -1,5 +1,11 @@
 ---
 date: 2020-11-01
+reviews:
+- media: movies
+  title: Girl Next Door (2004)
+- media: tv
+  title: The Expanse Season 4
+  hashtag: expanse-s4
 slug: weeknotes-2020-11-01
 syndicated:
 - type: mastodon
@@ -8,6 +14,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1322815182301614080/
 tags:
 - weeknotes
+- movies
+- tv
 title: Weeknotes 2020-11-01 Storm's comin'
 ---
 
@@ -23,7 +31,16 @@ title: Weeknotes 2020-11-01 Storm's comin'
 
 **Done:** [the Inktober thing](/tags/inktober2020)! I managed to get through the whole thing without missing a day! Doing daily drawings with a pen are hard for me, given my poor manual dexterity at this age (and it was never that good in the first place). My hands got tired so easily, and a lot of my lines were shaky. Still, I enjoyed doing a lot of the sketches, and while I don't want to [commit to daily drawings](/2016/03/sketching-daily/) again (at least for now), maybe I'll warm up the old Apple Pencil every so often and do some digital stuff? Maybe?
 
-**Watching lately:** I finished Season 4 of The Expanse. I didn't enjoy it as much as the first 3 seasons, though the second half was better than the first. Things were ramping up too slowly, and a lot of things didn't seem relevant to the what was going on with the Roci crew (and turned out to be mostly geared towards next season's big crisis apparently?). As I said to a friend, "I'm here for the scifi protomolecule stuff not OPA terrorist or earth politics BS." Still, looking forward to the next season. Also: Finished five seasons of NCIS (that's all they had on Prime Video). In the queue: The Boys S2, Star Trek Discovery S3, Mandalorian S2. Where's my Orville?
+**Watching lately:** 
+
+  - I finished <em id="expanse-s4">Season 4 of The Expanse</em>. I didn't enjoy it as much as the first 3 seasons, though the second half was better than the first. Things were ramping up too slowly, and a lot of things didn't seem relevant to the what was going on with the Roci crew (and turned out to be mostly geared towards next season's big crisis apparently?). As I said to a friend, "I'm here for the scifi protomolecule stuff not OPA terrorist or earth politics BS." Still, looking forward to the next season. 
+  - On <time id="girl-next-door">Oct 31, 2020, 08:00 AM</time> I wrote:
+
+      > #### Girl Next Door
+      > I watched Girl Next Door (2004) on Prime Video. Mostly for Elisha Cuthbert lol.
+
+  - Also: Finished five seasons of NCIS (that's all they had on Prime Video). 
+  - In the queue: The Boys S2, Star Trek Discovery S3, Mandalorian S2. Where's my Orville?
 
 **Skipped:** Hacktoberfest. Oh well.
 

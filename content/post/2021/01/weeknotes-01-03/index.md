@@ -6,6 +6,8 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/105490298866647800
 - type: twitter
   url: https://twitter.com/roytang/statuses/1345613440023367681/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1344191049963425795/
 tags:
 - weeknotes
 title: Weeknotes 2021-01-03 Every New Beginning Is Some Other Beginning's End
@@ -26,6 +28,13 @@ I don't really believe in New Year's resolutions anymore, but I did decide to tr
 
 **Watching**: I finally watched Wonder Woman 1984. Kind of meh. First one was definitely better.
 
+On <time id="1344191049963425795">Dec. 30, 2020, 7:58 a.m.</time> [I wrote](https://twitter.com/roytang/statuses/1344191049963425795/):
+
+> Finally watched #WonderWoman1984. Maybe don't think too much about what's going on in the movie. My headcanon is that the only reason it takes place in 1984 is because it's pre-crisis
+
+[Comments](#comment-3d72d497-156f-477e-be18-ca8dbb8128c9)
+
+
 **Books**: I purchased Katie Mack's book "The End of Everything" on Kindle because it was on sale, hopefully to restart the book reading habit for the New Year!
 
 Looking forward to this coming week:
@@ -33,3 +42,4 @@ Looking forward to this coming week:
 - Star Trek Discovery season finale
 - MTG Kaldheim preview season kicking off!
 - shenanigans in the US congress/senate when they try to certify the EC results. Also Georgia elections determine whether Biden will have Senate support!
+

@@ -10,16 +10,26 @@ reviews:
     the RPG episode!
   media: tv
   title: High Score (Netflix)
+- date: 2020-08-29
+  description: A most excellent sequel, echoing the earlier two movies. A midlife
+    crisis journey full of heart and time travel nonsense. Little Billie and Theda
+    are great!
+  media: movies
+  rating: 5
+  title: Bill and Ted Face the Music (2020)
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/104777554648802517
 - type: twitter
   url: https://twitter.com/roytang/statuses/1299997811367227393/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1299644349643255808/
 tags:
 - weeknotes
 - movies
 - tv
 title: Weeknotes 2020-08-30
+dontinlinephotos: true
 ---
 
 This last week was weird. I feel like I didn't really get much done in terms of productivity, yet I don't feel I was unproductive. A very relaxed and chill week.
@@ -41,7 +51,10 @@ Here are the things I've been watching and playing the past week:
 - Huh, I guess I kind of paused Uncharted 4 for most of the week, not sure why. I should get back to it.
 - I started re-playing Super Mario 3D Land (on the 3DS) lately, mostly to stave off my desire to get a Nintendo Switch (prices are still inflated here due to supply issues!). I had forgotten a lot about this game, so even when I finished the first 8 worlds and rescued Princess Peach, I was pleasantly surprised to find there were another 8 "special" worlds to play!
 - watched the video game history documentary **High Score** on Netflix. Pretty good, although there's some Dragon Quest erasure going on in the RPG episode!
-- watched **Bill and Ted Face the Music**, this was a most excellent sequel. I found the start a bit clunky (I always find it awkward watching characters be awkward), but the rest of it was a fun and sweet adventure that echoed elements of both of the first two movies. A lot of the time travel stuff didn't make any sense if you sat down and thought about it, but I was smiling through a lot of it. Little Billie and Theda are great!
+- watched **Bill and Ted Face the Music**, this was a most excellent sequel. I found the start a bit clunky (I always find it awkward watching characters be awkward), but the rest of it was a fun and sweet adventure that echoed elements of both of the first two movies. A lot of the time travel stuff didn't make any sense if you sat down and thought about it, but I was smiling through a lot of it. Little Billie and Theda were great!
+
+    {{< photos >}}
+
 - also watched **Superman: Man of Tomorrow**, the first entry in the new DC animated universe (following the reboot at the end of Justice League Dark: Apokolips). Yet another Superman origin story here. Not too happy with this one. Not fond of the animated style, and the writing and plot seemed weird at many points. I felt like there could have been a better way to resolve the whole situation with the big bad that felt more "Superman"-like, and the movie doesn't seem to earn the monicker "Man of Tomorrow" for the hero.
 - for one reason or another, I also ended up watching a few standup specials on Amazon Prime. A couple from Craig Ferguson, and one from Jimmy Yang.
 - Cobra Kai is now on Netflix! Yet another thing to add to the ever-increasing backlog.
