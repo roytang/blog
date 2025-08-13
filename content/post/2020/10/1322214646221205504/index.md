@@ -14,7 +14,8 @@ tags:
 - NintendoSwitch
 - games
 - zelda
-title: "The Legend of Zelda: Link's Awakening"
+- formernote
+title: 'The Legend of Zelda: Link''s Awakening'
 ---
 
 I finished #LinksAwakening ! #NintendoSwitch

@@ -12,7 +12,8 @@ syndicated:
 tags:
 - PS4share
 - games
-title: ''
+- formernote
+title: Fall Guys (PS4)
 ---
 
 Tried out Fall Guys. Battle royale elim w Takeshi castle style minigames. Chaotic fun,kinda frustrating. #PS4share

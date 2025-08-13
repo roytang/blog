@@ -14,7 +14,8 @@ syndicated:
 tags:
 - gaming
 - games
-title: ''
+- formernote
+title: Disco Elysium (Steam)
 ---
 
 Just finished Disco Elysium. This game is fantastic
