@@ -12,6 +12,7 @@ syndicated:
 tags:
 - games
 - ff13
+- final-fantasy
 ---
 
 finally finished final fantasy xiii

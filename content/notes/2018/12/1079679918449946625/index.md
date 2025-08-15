@@ -12,6 +12,7 @@ syndicated:
 tags:
 - PS4share
 - games
+- final-fantasy
 title: ''
 ---
 

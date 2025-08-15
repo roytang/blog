@@ -32,7 +32,8 @@ It is August! Where did July go?
 
 #### Watching
 
-- Ongoing: **Rick and Morty S8**, **Dandadan S2**, **Sakamoto Days S2**, **Star Trek: Strange New Worlds S3**
+- Ongoing: **Dandadan S2**, **Sakamoto Days S2**, **Star Trek: Strange New Worlds S3**
+- Finished: **Rick and Morty S8** 
 - Movies: This week I watched [Companion (2025)](https://letterboxd.com/hungryroy/film/companion-2025/) and [Aliens (1986)](https://letterboxd.com/hungryroy/film/aliens/).
 
 #### Gaming

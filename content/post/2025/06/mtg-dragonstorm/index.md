@@ -74,7 +74,7 @@ If you check the last 2 4c dragons archetypes listed above, each of those corres
 
 ### Magic Arena Stats
 
-To be added here when they get around to emailing me.
+{{< photos arenastats >}}
 
 ### Streaming videos
 

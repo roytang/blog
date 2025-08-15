@@ -6,20 +6,20 @@ albums:
 author: roy
 categories: []
 date: 2017-03-18 01:30:41
+resources:
+- src: ut2O7YQ.jpg
+  title: The journey begins lol
+- src: MDiYsIS.jpg
+  title: This is the weirdest product placement I've seen so far
+- src: pHZnD4C.jpg
+  title: '"Bitch I''m fabulous" - Gladio probably'
 reviews:
 - description: ''
   media: games
-  rating: 0.0
-  title: Final Fantasy XV (PS4)
   platforms:
   - ps4
-resources:
-- src: ut2O7YQ.jpg
-  title: "The journey begins lol"
-- src: MDiYsIS.jpg
-  title: "This is the weirdest product placement I've seen so far"
-- src: pHZnD4C.jpg
-  title: "\"Bitch I'm fabulous\" - Gladio probably"
+  rating: 0.0
+  title: Final Fantasy XV (PS4)
 syndicated:
 - type: tumblr
   url: https://roytang.tumblr.com/post/158531276530/review-final-fantasy-xv
@@ -48,6 +48,7 @@ tags:
 - Gaming
 - games
 - ps4
+- final-fantasy
 title: 'Review: Final Fantasy XV'
 type: post
 url: /2017/03/review-final-fantasy-xv/

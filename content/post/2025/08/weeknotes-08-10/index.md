@@ -28,7 +28,7 @@ toc: true
 
 #### Watching
 
-- Ongoing: **Rick and Morty S8**, **Dandadan S2**, **Sakamoto Days S2**, **Star Trek: Strange New Worlds S3**
+- Ongoing: **Dandadan S2**, **Sakamoto Days S2**, **Star Trek: Strange New Worlds S3**
 - Started: **Superman The Animated Series** on HBO Max. I've never watched this series before despite enjoying the same-universe *Batman TAS* and *Justice League/Unlimited* series.
 - Movies: None this week!
 
