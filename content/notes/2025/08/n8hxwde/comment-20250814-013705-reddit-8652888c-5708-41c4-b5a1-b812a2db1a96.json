@@ -1,0 +1,11 @@
+{
+  "id": "8652888c-5708-41c4-b5a1-b812a2db1a96",
+  "name": "idle-tea",
+  "url": "https://www.reddit.com/u/idle-tea",
+  "text": "> Does each device get its own keypair?\n\nThat's the simplest way to do it, yes.\n\n>  But that means you would still need a traditional password as well, in order to do the initial auth\n\nNope, or at least: you don't have to do it this way. At a bit of a usability cost you can insist that users can only auth new devices by having them also sign in with an existing device. \n\nSignal, for example, requires this. If you try to set up a second device using signal it'll prompt you to generate a QR code from your already authed device, and scan it on the new device you wish to auth. That QR code contains proof you have access to the private key from the already authed device.\n\n>  doesnt that mean someone else will now have access to all your accounts\n\nNot if the passkey handling app is anywhere close to properly implemented. Simplest decent implementation: require a password to decrypt all the passkeys on the device. That's how a password manager like 1Password works.\n\nUsing a password purely locally just to decrypt the passkeys still confers a security advantage because 1) people are way more likely to commit to a good password if they only need to remember 1 to decrypt passkeys and 2) that password never has to be transmitted to the remote service you're authenticating to, which is something traditional password logins require, and it's a lot harder to phish.",
+  "date": "2025-08-14 01:37:05 +0800",
+  "photo": null,
+  "source_url": "https://www.reddit.com/r/explainlikeimfive/comments/1mp7unf/eli5_what_are_passkeys_and_howwhy_are_they/n8i5l3p/",
+  "source": "reddit",
+  "spam": false
+}

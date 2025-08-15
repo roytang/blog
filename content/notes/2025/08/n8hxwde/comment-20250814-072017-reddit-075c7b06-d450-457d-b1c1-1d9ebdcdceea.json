@@ -1,0 +1,12 @@
+{
+  "id": "075c7b06-d450-457d-b1c1-1d9ebdcdceea",
+  "name": "hungryroy",
+  "url": "https://www.reddit.com/u/hungryroy",
+  "text": "> Signal, for example, requires this. If you try to set up a second device using signal it'll prompt you to generate a QR code from your already authed device, and scan it on the new device you wish to auth. That QR code contains proof you have access to the private key from the already authed device. \n\nWhat happens if you lose access to the first device? \n\n> Not if the passkey handling app is anywhere close to properly implemented. Simplest decent implementation: require a password to decrypt all the passkeys on the device. That's how a password manager like 1Password works. \n\nDoes that mean you would still need to input a password every time to access the passkeys on the device?",
+  "date": "2025-08-14 07:20:17 +0800",
+  "photo": null,
+  "source_url": "https://www.reddit.com/r/explainlikeimfive/comments/1mp7unf/eli5_what_are_passkeys_and_howwhy_are_they/n8k39pw/",
+  "source": "reddit",
+  "spam": false,
+  "reply_to": "https://www.reddit.com/r/explainlikeimfive/comments/1mp7unf/eli5_what_are_passkeys_and_howwhy_are_they/n8i5l3p/"
+}
