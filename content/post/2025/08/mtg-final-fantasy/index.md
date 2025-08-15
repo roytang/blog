@@ -3,13 +3,16 @@ date: 2025-08-15 12:13:05
 dontinlinephotos: true
 resources:
 - src: qd0624-trophy.png
-  title: 'Quick Draft 06/24 Trophy (UG)'
+  title: Quick Draft 06/24 Trophy (UG)
 - src: qd0629-trophy.png
-  title: 'Quick Draft 06/29 Trophy (WG)'
+  title: Quick Draft 06/29 Trophy (WG)
 - src: qd0712-trophy.png
-  title: 'Quick Draft 07/12 Trophy (WR)'
+  title: Quick Draft 07/12 Trophy (WR)
 - src: qd0716-trophy.png
-  title: 'Quick Draft 07/16 Trophy (WB)'
+  title: Quick Draft 07/16 Trophy (WB)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/115033381868399810
 tags:
 - mtg
 - limited
