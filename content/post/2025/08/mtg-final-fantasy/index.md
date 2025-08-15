@@ -1,7 +1,6 @@
 ---
-date: 2025-08-13 12:13:05
+date: 2025-08-15 12:13:05
 dontinlinephotos: true
-draft: true
 resources:
 - src: qd0624-trophy.png
   title: 'Quick Draft 06/24 Trophy (UG)'
