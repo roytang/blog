@@ -116,6 +116,7 @@ These are compiled from the stats emails Arena sends out per set ([mtgarenastats
 
 | Set | Date | Boosters Opened | Fave Color | Fave Format | Mastery Level | Const. Rank | Limited Rank | Games | Quest Gold | Wins Gold |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
+| [Final Fantasy](/2025/08/mtg-final-fantasy/#magic-arena-stats) | Aug 2025 | 149 | Blue | Quick Draft | 71 | Dia4 | Dia3 | 482 | 33,500 | 27,125 |
 | [Tarkir Dragonstorm](/2025/06/mtg-dragonstorm/#magic-arena-stats) | Jun 2025 | 121 | Blue | Quick Draft | 71 | Plat2 | Plat1 | 384 | 40,750 | 30,600 |
 | [Aetherdrift](/2025/04/mtg-aetherdrift/#magic-arena-stats) | Apr 2025 | 168 | White | Quick Draft | 71 | Plat1 | Plat2 | 306 | 35,750 | 28,950 |
 | [Foundations](/2025/02/mtg-foundations/#magic-arena-stats) | Feb 2025 | 30 | Red | Quick Draft | 79 | Plat4 | Plat4 | 195 | 38,250 | 24,250 |

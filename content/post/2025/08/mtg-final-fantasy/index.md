@@ -104,7 +104,11 @@ toc: true
 
 ### Magic Arena Stats
 
-To be added here when they get around to emailing me.
+Received my stats email literally the day after this post was published:
+
+{{< photos arenastats >}}
+
+The most surprising part for me here is that my Boosters Opened and Games Played stats, while higher than they are for the average set, do not feel as outrageous as the sheer number of drafts I did.
 
 ### Streaming videos
 
