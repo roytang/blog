@@ -1,20 +1,17 @@
 ---
 title: "Feeds"
-date: 2020-07-14T04:39:30+08:00
+date: 2020-08-17
 aliases:
 - /feeds
 ---
 
-Probably the most useful ones:
+You can subscribe to the site's content via feeds. if you're not familiar with feeds, read: [About Feeds](https://aboutfeeds.com/).
 
-| What | RSS | JSON | HFEED |
+The site's feeds have been updated in Aug 2025. Only the following feeds will remain active and accessible to the public:
+
+| What | RSS | JSON | 
 |---|---|---|---|
-| Everything | [RSS](/index.xml) | [JSON](/feed.json) | [HFEED](/hfeed.html) |
 | Blog | [RSS](/blog/index.xml) | [JSON](/blog/feed.json) | |
-| Notes | [RSS](/notes/index.xml) | [JSON](/notes/feed.json) | |
-| Photos | [RSS](/photos/index.xml) | [JSON](/photos/feed.json) | |
 | Links | [RSS](/links/index.xml) | [JSON](/links/feed.json) | |
 
-Generally, almost every list on the site has an RSS feed generated. For example: for tags, go to `/tags/<tagname>/index.xml`.
-
-There might also be some secret feeds somewhere that I use for mysterious purposes, but then I can't go about announcing those can I now?
+All other older feeds will be deprecated.
