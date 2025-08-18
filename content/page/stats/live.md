@@ -59,26 +59,83 @@ submenu: "stats"
         wordcount: "Word Count",
         comments: "Comments"
     }
-    function getTotals() {
-        fetch("/others/stats/totals/")
-            .then(function(response) {
-                return response.json();
-            })
-            .then(function(jsonResponse) {
-                let listEl = document.querySelector("ul#totals");
-                for (let section in jsonResponse["sections"]) {
-                    let listItem = document.createElement("li");
-                    listItem.innerText = labels[section] + ": " + jsonResponse["sections"][section];
-                    listEl.appendChild(listItem);
+    function yearlyGraph(jsonResponse, element_id, include_sections=false) {
+        let years = jsonResponse["years"];
+        let datasets = [];
+        for (let section in jsonResponse["sections"]) {
+            if (!Object.keys(backgroundColors).includes(section)) {
+                const [r, g, b] = crypto.getRandomValues(new Uint8Array(3));
+                var randomcolor = `rgba(${r}, ${g}, ${b}, 0.5)`;
+                backgroundColors[section] = randomcolor;
+            }
+        }
+        for (let section in jsonResponse["sections"]) {
+            var backgroundColor = backgroundColors[section];
+            if (include_sections) {
+                if (section in include_sections) {
+                    backgroundColor = include_sections[section];
+                } else {
+                    continue;
+                }
+            }
+            let section_data = jsonResponse["sections"][section];
+            let data = [];
+            years.forEach(function (year) {
+                if (year in section_data) {
+                    data.push(section_data[year]);
+                } else {
+                    data.push(0);
                 }
             });
-        fetch("/others/stats/mostcommented/")
+            datasets.push({
+                label: section,
+                data: data,
+                backgroundColor: [
+                    backgroundColor,
+                ],
+                borderColor: [
+                    backgroundColor,
+                ],
+                borderWidth: 1
+            });
+        }
+
+        const ctx = document.getElementById(element_id).getContext('2d');
+        const myChart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: years,
+                datasets: datasets
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+    }
+
+    function getAllData() {
+        fetch("../../../others/stats.json")
             .then(function(response) {
                 return response.json();
             })
             .then(function(jsonResponse) {
-                let listEl = document.querySelector("ol#mostCommented");
-                jsonResponse.forEach(function(post) {
+                // totals
+                var listEl = document.querySelector("ul#totals");
+                for (let section in jsonResponse["totals"]["sections"]) {
+                    if (!Object.keys(labels).includes(section)) {
+                        labels[section] = section;
+                    }
+                    let listItem = document.createElement("li");
+                    listItem.innerText = labels[section] + ": " + jsonResponse["totals"]["sections"][section];
+                    listEl.appendChild(listItem);
+                }
+                console.log(labels);
+                var listEl = document.querySelector("ol#mostCommented");
+                jsonResponse["mostcommented"].forEach(function(post) {
                     console.log(post);
                     let listItem = document.createElement("li");
                     let anchor = document.createElement("a");
@@ -87,84 +144,8 @@ submenu: "stats"
                     listItem.appendChild(anchor);
                     listEl.appendChild(listItem);
                 });
-            });
-    }
-    getTotals();
-    function yearlyGraph(url, element_id, include_sections=false) {
-        fetch(url)
-            .then(function(response) {
-                return response.json();
-            })
-            .then(function(jsonResponse) {
-
-                let years = jsonResponse["years"];
-                let datasets = [];
-                for (let section in jsonResponse["sections"]) {
-                    var backgroundColor = backgroundColors[section];
-                    if (include_sections) {
-                        if (section in include_sections) {
-                            backgroundColor = include_sections[section];
-                        } else {
-                            continue;
-                        }
-                    }
-                    let section_data = jsonResponse["sections"][section];
-                    let data = [];
-                    years.forEach(function (year) {
-                        if (year in section_data) {
-                            data.push(section_data[year]);
-                        } else {
-                            data.push(0);
-                        }
-                    });
-                    datasets.push({
-                        label: section,
-                        data: data,
-                        backgroundColor: [
-                            backgroundColor,
-                        ],
-                        borderColor: [
-                            backgroundColor,
-                        ],
-                        borderWidth: 1
-                    });
-                }
-
-                const ctx = document.getElementById(element_id).getContext('2d');
-                const myChart = new Chart(ctx, {
-                    type: 'bar',
-                    data: {
-                        labels: years,
-                        datasets: datasets
-                    },
-                    options: {
-                        scales: {
-                            y: {
-                                beginAtZero: true
-                            }
-                        }
-                    }
-                });
-
-
-            });
-    }
-    yearlyGraph("/others/stats/bysection/", "chart_posts");
-    yearlyGraph("/others/stats/wordcount/", "chart_wordcount");
-    yearlyGraph("/others/stats/syndication/", "chart_syndication", include_sections={
-        "facebook": 'rgba(14, 31, 86, 0.5)',
-        "twitter": 'rgba(85, 172, 238, 0.5)',
-        "instagram": 'rgba(216, 88, 81, 0.5)',
-        "reddit": 'rgba(255, 0, 69, 0.5)',
-        "mastodon": 'rgba(126, 175, 233, 0.5)',
-    });
-        fetch("/others/stats/commenter/")
-            .then(function(response) {
-                return response.json();
-            })
-            .then(function(jsonResponse) {
                 let listRoot = document.querySelector("ol#top_commenters");
-                jsonResponse.forEach(function(item, index) {
+                jsonResponse["commenter"].forEach(function(item, index) {
                     let li = document.createElement("li");
                     let anchor = document.createElement("a");
                     anchor.href = item["url"];
@@ -179,8 +160,18 @@ submenu: "stats"
                     li.appendChild(anchor2);
                     listRoot.appendChild(li);
                 });
+                yearlyGraph(jsonResponse["section"], "chart_posts");
+                yearlyGraph(jsonResponse["wordcount"], "chart_wordcount");
+                yearlyGraph(jsonResponse["syndication"], "chart_syndication", include_sections={
+                    "facebook": 'rgba(14, 31, 86, 0.5)',
+                    "twitter": 'rgba(85, 172, 238, 0.5)',
+                    "instagram": 'rgba(216, 88, 81, 0.5)',
+                    "reddit": 'rgba(255, 0, 69, 0.5)',
+                    "mastodon": 'rgba(126, 175, 233, 0.5)',
+                });
             });
-
+    }
+    getAllData();
 
 </script>
 
