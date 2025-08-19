@@ -4,20 +4,32 @@
             "Raw": "<span class='menu_title'>Look Around</span>"
         },
         {
+            "Name": "Blog",
+            "URL": "/blog/"
+        },
+        {
+            "Name": "Links",
+            "URL": "/links/"
+        },
+        {
             "Name": "Search",
-            "URL": "/search"
+            "URL": "/search",
+            "Auth": true
         },
         {
             "Name": "Random",
-            "URL": "/random"
+            "URL": "/random",
+            "Auth": true
         },
         {
             "Name": "On This Day",
-            "URL": "/onthisday/"
+            "URL": "/onthisday/",
+            "Auth": true
         },
         {
             "Name": "Photos",
-            "URL": "/photos/"
+            "URL": "/photos/",
+            "Auth": true
         },
         {
             "Name": "Media Diet",
@@ -34,6 +46,10 @@
         {
             "Name": "Contact",
             "URL": "/page/about/contact"
+        },
+        {
+            "Name": "About",
+            "URL": "/page/about/me/"
         }
     ],    
     "topics": [
@@ -113,41 +129,19 @@
             "rel": "me"
         },
         {
+            "Name": "Letterboxd",
+            "URL": "https://letterboxd.com/hungryroy/",
+            "rel": "me"
+        },
+        {
             "Name": "Ko-fi",
             "URL": "https://ko-fi.com/roytang",
             "rel": "me"
         },
         {
-            "Name": "",
+            "Name": "E-Mail",
             "URL": "mailto:hello@roytang.net",
-            "rel": "me",
-            "class": "hidden"
-        }
-    ],
-    "subscribe": [
-        {
-            "Name": "Everything (RSS)",
-            "URL": "/index.xml"
-        },
-        {
-            "Name": "Daily Feed (RSS)",
-            "URL": "/daily/feed/"
-        },
-        {
-            "Name": "Blog (RSS)",
-            "URL": "/blog/index.xml"
-        },
-        {
-            "Name": "Notes (RSS)",
-            "URL": "/notes/index.xml"
-        },
-        {
-            "Name": "Photos (RSS)",
-            "URL": "/photos/index.xml"
-        },
-        {
-            "Name": "Links (RSS)",
-            "URL": "/links/index.xml"
+            "rel": "me"
         }
     ],
     "webrings": [
