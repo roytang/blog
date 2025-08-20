@@ -516,3 +516,30 @@ h2, h3 {
 strong, em {
     color: var(--main-color);
 }
+
+img.shareopenly {
+    margin-right: 1em;
+}
+
+div.feedback ul {
+    list-style-type: none;
+    padding-inline-start: 1em;
+    padding-right: 1em;
+}
+
+div.feedback li {
+    margin-bottom: 0.5em;
+    padding-bottom: 0.5em;
+    margin-top: 0.5em;
+    border-bottom: 0.5px dotted var(--third-color);
+}
+
+div#comment_success {
+    width: 100%;
+    border: 1px var(--main-color) solid;
+    background-color: var(--second-container-color);
+}
+
+div#comment_success:target {
+    display: block !important;
+}
