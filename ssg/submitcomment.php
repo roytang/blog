@@ -91,10 +91,10 @@ foreach ($errors as $err) {
 	 
 	   if(!file_put_contents($filename, $encoded_data, LOCK_EX)){
 	      $testmsg = "Error storing message, please try again";
-        echo $testmsg;
+          echo $testmsg;
 	   }else{
 	      $testmsg =  "Message is stored successfully";
-        echo $testmsg;
+          header('Location: ' . $_POST['post_path'] . '#comment_success');
 	   }
   }
 endif;
