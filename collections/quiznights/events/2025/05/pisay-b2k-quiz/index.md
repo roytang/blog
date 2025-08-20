@@ -4,18 +4,20 @@ resources:
 - src: 20250524_192446.jpg
   title: ''
 - src: 20250524_194347.jpg
-  title: 'Pay to win!'
+  title: Pay to win!
 - src: 20250524_202343.jpg
-  title: 'Bacon smash burger that took over an hour and a half to be served.'
+  title: Bacon smash burger that took over an hour and a half to be served.
 - src: 20250524_211355.jpg
   title: ''
 - src: 494355919_594066250369659_5074067290278730105_n.jpg
   title: ''
 - src: 494572779_1051560613553024_2204450006025034069_n.jpg
-  title: 'Younglings - stylized "Younglin95"; an audacious team name given we were the oldest batch in attendance!'
+  title: Younglings - stylized "Younglin95"; an audacious team name given we were
+    the oldest batch in attendance!
 tags:
 - quiznight
 - pisay
+- '2025'
 title: Pisay B2K Quiz Night @ Gacha
 ---
 

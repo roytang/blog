@@ -3,20 +3,21 @@ date: 2025-07-31 15:33:02
 location: vault
 resources:
 - src: 20250731_204106.jpg
-  title: 'I misspelled this one!'
+  title: I misspelled this one!
 - src: 20250731_225101.jpg
-  title: 'Photo c/o PopQuizPH'
+  title: Photo c/o PopQuizPH
 - src: img_1_1754119352232.jpg
   title: ''
 - src: PXL_20250731_141528097.jpg
-  title: 'We added Van Gogh elements to the Scream!'
+  title: We added Van Gogh elements to the Scream!
 - src: PXL_20250731_141948077.jpg
-  title: 'We were supposed to draw a chimera, but answered with a manticore instead!'
+  title: We were supposed to draw a chimera, but answered with a manticore instead!
 - src: PXL_20250731_142344916.jpg
   title: ''
 tags:
 - quiznight
 - popquiz
+- '2025'
 title: 'POPQUIZ!: The 9th Anniversary Trivia Night'
 ---
 

@@ -1,9 +1,10 @@
 ---
-date: 2025-04-10T23:19:15+08:00
+date: 2025-04-10 15:19:15
 location: intbarextcafe
 tags:
 - quiznight
 - popquiz
+- '2025'
 title: 'Popquiz Trivia Night: Prime Time TV'
 ---
 
@@ -24,4 +25,3 @@ Rounds were:
 We thought we were dead after the failed ace in R3 (we were expecting a Drag Race question which our teammates could handle easily; we did not get that), but somehow still managed to finish in 3rd place. The first place team was so far ahead, in order for us to have won, we would have needed to get the ace question AND get a couple more points from elsewhere.
 
 [Event Page](https://www.facebook.com/events/2084875882033179)
-

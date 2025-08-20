@@ -8,6 +8,8 @@
 - topic pages
 - cleanup menu/sidebar items
 - cleanup index/home
+- reorganize collections menu
+- archive fiction and remaining quiz nights
 
 #### batch jobs
 

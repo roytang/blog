@@ -7,6 +7,7 @@ resources:
 tags:
 - quiznight
 - aboutquiz
+- '2025'
 title: 'Back to School - Electives Edition: A Quiz Night About School Electives'
 ---
 

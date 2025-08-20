@@ -1,10 +1,11 @@
 ---
-title: "Pop QUIZ! a Back-to-School themed Trivia Night"
-date: 2025-07-17T23:33:02+08:00
+date: 2025-07-17 15:33:02
+location: intbarextcafe
 tags:
 - quiznight
 - popquiz
-location: intbarextcafe
+- '2025'
+title: Pop QUIZ! a Back-to-School themed Trivia Night
 ---
 
 We attended [Pop QUIZ! a Back-to-School themed Trivia Night](https://www.facebook.com/events/1726406558237073)

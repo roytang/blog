@@ -6,6 +6,7 @@ resources:
 tags:
 - quiznight
 - aboutquiz
+- '2025'
 title: 'The Limit Does Not Exist!: A Quiz Night About Mathematics'
 ---
 

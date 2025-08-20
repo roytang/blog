@@ -30,7 +30,7 @@ To help handle the problem, I deployed some pending site UI changes that would r
 
 Wednesday was a holiday (Day of Valor), commemorating the Fall of Bataan. Yes, we celebrate our defeats over here.
 
-Thursday I [attended a quiz night with the trivia team](/2025/04/popquiz-tv/), but we did not win.
+Thursday I [attended a quiz night with the trivia team](/collections/quiznights/popquiz-tv), but we did not win.
 
 As part of our long-ongoing decluttering, I tried getting an old PS2 to work this weekend but ran into some issues with the video output. I [posted the details to reddit](https://www.reddit.com/r/ps2/comments/1jy0bfh/help_trying_to_get_an_old_ps2_to_work/), so maybe check that out if you have an idea.
 

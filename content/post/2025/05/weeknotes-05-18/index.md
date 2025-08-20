@@ -18,7 +18,7 @@ We had mid-term elections over here this past week. I [wrote a blog post about i
 
 We had a visit from a childhood family friend that I kinda grew up with. My dad kind of had a falling out with his dad but then so did he so it kind of ended up being both a nostalgia trip and an emotional dumping session that lasted way too long. Always good to reconnect with people I guess.
 
-Trivia team [attended quiz night at a new venue last Thursday and we won](/2025/05/popquiz-games/)!
+Trivia team [attended quiz night at a new venue last Thursday and we won](/collections/quiznights/popquiz-games)!
 
 On the blog: Wrote about the elections (linked above) and also [yet another very long complete marvel run post that probably only I am interested in](/2025/05/cmr-cap2/)!
 

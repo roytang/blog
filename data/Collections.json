@@ -76,5 +76,11 @@
         "label": "Quiz Nights",
         "descrip": "A log of quiz nights I have attended.",
         "feeds": false
+    },
+    {
+        "path": "fiction/",
+        "label": "Fiction",
+        "descrip": "Some works of fiction I have written. ",
+        "feeds": false
     }
 ]

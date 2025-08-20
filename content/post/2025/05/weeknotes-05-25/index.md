@@ -26,7 +26,7 @@ The earpads of [my gaming headset](/2020/05/hyperx-cloud2/) started falling apar
 
 I (think I) managed to unclog a toilet drain this week! Still observing if it has any problems.
 
-Attended [a quiz night with my HS batchmates this weekend, and we did terribly](/2025/05/pisay-b2k-quiz/)!
+Attended [a quiz night with my HS batchmates this weekend, and we did terribly](/collections/quiznights/pisay-b2k-quiz)!
 
 On the blog: Nothing extra this past week, but I got something cooking up!
 

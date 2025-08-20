@@ -1,0 +1,4 @@
+[params]
+    collection_name = "fiction"
+    collection_title = "fiction"
+    collections_root = false

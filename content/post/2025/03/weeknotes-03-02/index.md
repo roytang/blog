@@ -22,7 +22,7 @@ RIP Michelle Trachtenberg (Dawn from Buffy) and Gene Hackman.
 
 Now that we no longer have a helper in the house (at least temporarily), I am forced to partake in many household chores I haven't practiced in a while: cleaning, cooking, doing the laundry, watering the plants, taking out the garbage, etc. I acknowledge that this is yet again another type of privilege I have had in my life that I often didn't have to think about all this domestic stuff that keeps a household running.
 
-The trivia team [attended quiz night last Monday and we won](/2025/02/aboutquiz-love/)!
+The trivia team [attended quiz night last Monday and we won](/collections/quiznights/aboutquiz-love)!
 
 Other than that: the usual end-of-month errands. I managed to get started on some long overdue room cleanup as well, throwing out a bunch of papers and even preparing some bulk magic cards for disposal. There is still a lot to do, but honestly the most difficult part for me is just getting started with this sort of thing. Just need to build momentum!
 

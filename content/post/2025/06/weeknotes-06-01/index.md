@@ -20,7 +20,7 @@ Kind of a light week for me I think, though I did go out to places a couple of t
 
 Attended a wedding in the middle of the week! Well, a wedding reception/lunch. It was a civil wedding and a small guest list with no program, so it was really just lunch. Got to see some people I haven't seen in a while; it's always good to socialize and catch up with people every so often. (In moderation!)
 
-Trivia team [attended a quiz night at one of our regular haunts last Monday and CRUSHED IT](/2025/05/aboutquiz-electives/).
+Trivia team [attended a quiz night at one of our regular haunts last Monday and CRUSHED IT](/collections/quiznights/aboutquiz-electives).
 
 On the blog: Wrote [a post with retro reviews of Nintendo DS games I played back in the day](/2025/05/nds-games/)!
 

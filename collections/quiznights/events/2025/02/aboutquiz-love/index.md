@@ -7,6 +7,7 @@ resources:
 tags:
 - quiznight
 - aboutquiz
+- '2025'
 title: 'AboutQuiz All About Love: A Quiz Night About Love Languages'
 ---
 

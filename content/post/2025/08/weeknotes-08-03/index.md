@@ -16,7 +16,7 @@ It is August! Where did July go?
 
 - The usual end of month traditions: paying bills, reviewing expenses, etc etc. Boring adulting stuff.
 - Niece #5 was born this past week! We didn't get the chance to visit them at the hospital; we are hoping to see them next weekend when we hopefully have our usual early August family get-together.
-- Trivia team attended quiz nights on [Monday](/2025/07/aboutquiz-bts-stem/) and [Thursday](/2025/07/popquiz-anniv9-vault/)!
+- Trivia team attended quiz nights on [Monday](/2025/07/aboutquiz-bts-stem/) and [Thursday](/collections/quiznights/popquiz-anniv9-vault)!
 - Had the chance to wander around Greenhills a bit last Thursday. When I'm there I often spend the time looking at all the toy/collector/hobby shops in Shoppesville Plus. I am glad I never got too into toys/figurines as a hobby, as it's quite expensive, but they are nice to look at so browsing the shops every so often is fun. I am always tempted to buy Transformers though.
 - On the blog: review of [Wind and Truth](/2025/08/wind-and-truth/) finally!
 - Honestly not sure where most of the week went.

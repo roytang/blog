@@ -1,8 +1,9 @@
 ---
-date: 2025-05-15T23:48:41+08:00
+date: 2025-05-15 15:48:41
 tags:
 - quiznight
 - popquiz
+- '2025'
 title: 'Popquiz Trivia Night: Good Game'
 ---
 
@@ -29,4 +30,3 @@ Fun things:
 - struggling to remember what the name of Red Guardian's actor was and at the last second just writing "Red Guardian"
 
 [Event Page](https://www.facebook.com/events/2401077290258051)
-

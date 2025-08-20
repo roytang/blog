@@ -1,9 +1,10 @@
 ---
-title: "PopQuiz x Eastwood City Food Park: Feast of Flavor Trivia Night"
-date: 2025-06-25T23:35:24+08:00
+date: 2025-06-25 15:35:24
 tags:
 - quiznight
 - popquiz
+- '2025'
+title: 'PopQuiz x Eastwood City Food Park: Feast of Flavor Trivia Night'
 ---
 
 We attended [PopQuiz x Eastwood City Food Park: Feast of Flavor Trivia Night](https://www.facebook.com/events/1059077386368037/)!

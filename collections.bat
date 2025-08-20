@@ -12,3 +12,4 @@ hugo --contentDir collections/surveys --config collections.toml,local.toml,colle
 hugo --contentDir collections/jokes --config collections.toml,local.toml,collections/jokes/jokes.toml --destination C:/repos/collections/jokes
 hugo --contentDir collections/miiverse --config collections.toml,local.toml,collections/miiverse/miiverse.toml --destination C:/repos/collections/miiverse
 hugo --contentDir collections/quiznights --config collections.toml,local.toml,collections/quiznights/quiznights.toml --destination C:/repos/collections/quiznights
+hugo --contentDir collections/fiction --config collections.toml,local.toml,collections/fiction/fiction.toml --destination C:/repos/collections/fiction

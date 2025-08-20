@@ -22,7 +22,7 @@ Iran and Israel have entered a ceasefire. Everyone is claiming victory. Trump is
 
 ### My Week
 
-It was surprisingly a busy week for me. Some medical errands for Patient #1's routine labs. Trivia team attended [a quiz night on Wednesday](/2025/06/popquiz-feast-of-flavor/) and did poorly. Had to house sit three times this week since the parents had stuff to do. Visits from the pamangkins. Etc etc. 
+It was surprisingly a busy week for me. Some medical errands for Patient #1's routine labs. Trivia team attended [a quiz night on Wednesday](/collections/quiznights/popquiz-feast-of-flavor) and did poorly. Had to house sit three times this week since the parents had stuff to do. Visits from the pamangkins. Etc etc. 
 
 Kind of falling behind on all the stuff I want to do, but honestly, that's not new. I remain unhappy with how time and mortality and responsibility restrain me from doing everything I want to do.
 

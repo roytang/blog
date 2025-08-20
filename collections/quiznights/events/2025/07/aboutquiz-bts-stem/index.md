@@ -4,7 +4,9 @@ location: saludos
 tags:
 - quiznight
 - aboutquiz
-title: 'Back to School - STEM Edition: A Quiz Night about Science & Technology, Engineering and Mathematics'
+- '2025'
+title: 'Back to School - STEM Edition: A Quiz Night about Science & Technology, Engineering
+  and Mathematics'
 ---
 
 We attended another AboutQuiz quiz night at Saludo's! 
