@@ -1,86 +1,101 @@
 [
     {
-        "path": "sketchbook/",
-        "label": "Sketchbook",
-        "descrip": "Sketches",
-        "feeds": false
+        "groupname": "Commonplaces",
+        "groupitems": [
+            {
+                "path": "quotes/",
+                "label": "Quotes",
+                "descrip": "Quotes that I liked or found interesting.",
+                "feeds": false
+            },
+            {
+                "path": "lyrics/",
+                "label": "Lyrics",
+                "descrip": "Song lyrics that I liked or found interesting.",
+                "feeds": false
+            },
+            {
+                "path": "comics/",
+                "label": "Comics",
+                "descrip": "Comics covers, excerpts, panels, art",
+                "feeds": false
+            },
+            {
+                "path": "webcomics/",
+                "label": "Webcomics",
+                "descrip": "Web-based comic strips I have shared on social media",
+                "feeds": false
+            },
+            {
+                "path": "jokes/",
+                "label": "Jokes/Puns",
+                "descrip": "Jokes/Puns",
+                "feeds": false
+            },
+            {
+                "path": "threads/",
+                "label": "Threads",
+                "descrip": "Threads/long posts by other people saved from other places (mostly Twitter).",
+                "feeds": false
+            }
+        ]
     },
     {
-        "path": "quotes/",
-        "label": "Quotes",
-        "descrip": "Quotes that I liked or found interesting.",
-        "feeds": false
+        "groupname": "My Posts from Elsewhere",
+        "groupitems": [
+            {
+                "path": "quora/",
+                "label": "Quora",
+                "descrip": "Posts I have made to Quora",
+                "feeds": false
+            },
+            {
+                "path": "miiverse/",
+                "label": "MiiVerse",
+                "descrip": "Posts I have made to Nintendo's MiiVerse",
+                "feeds": false
+            },
+            {
+                "path": "stackexchange/",
+                "label": "Stack Exchange",
+                "descrip": "Posts I have made to the Stack Exchange network of sites",
+                "feeds": false
+            },
+            {
+                "path": "surveys/",
+                "label": "Surveys",
+                "descrip": "Surveys I ran among my friends on social media.",
+                "feeds": false
+            }
+        ]
     },
     {
-        "path": "lyrics/",
-        "label": "Lyrics",
-        "descrip": "Song lyrics that I liked or found interesting.",
-        "feeds": false
-    },
-    {
-        "path": "comics/",
-        "label": "Comics",
-        "descrip": "Comics covers, excerpts, panels, art",
-        "feeds": false
-    },
-    {
-        "path": "webcomics/",
-        "label": "Webcomics",
-        "descrip": "Web-based comic strips I have shared on social media",
-        "feeds": false
-    },
-    {
-        "path": "threads/",
-        "label": "Threads",
-        "descrip": "Threads/long posts by other people saved from other places (mostly Twitter).",
-        "feeds": false
-    },
-    {
-        "path": "quora/",
-        "label": "Quora",
-        "descrip": "Posts I have made to Quora",
-        "feeds": false
-    },
-    {
-        "path": "miiverse/",
-        "label": "MiiVerse",
-        "descrip": "Posts I have made to Nintendo's MiiVerse",
-        "feeds": false
-    },
-    {
-        "path": "stackexchange/",
-        "label": "Stack Exchange",
-        "descrip": "Posts I have made to the Stack Exchange network of sites",
-        "feeds": false
-    },
-    {
-        "path": "surveys/",
-        "label": "Surveys",
-        "descrip": "Surveys I ran among my friends on social media.",
-        "feeds": false
-    },
-    {
-        "path": "albums/",
-        "label": "Albums",
-        "descrip": "Misc Photo/Screenshot Albums",
-        "feeds": false
-    },
-    {
-        "path": "jokes/",
-        "label": "Jokes/Puns",
-        "descrip": "Jokes/Puns",
-        "feeds": false
-    },
-    {
-        "path": "quiznights/",
-        "label": "Quiz Nights",
-        "descrip": "A log of quiz nights I have attended.",
-        "feeds": false
-    },
-    {
-        "path": "fiction/",
-        "label": "Fiction",
-        "descrip": "Some works of fiction I have written. ",
-        "feeds": false
+        "groupname": "Stuff I Have Made",
+        "groupitems": [
+            {
+                "path": "fiction/",
+                "label": "Fiction",
+                "descrip": "Some works of fiction I have written. ",
+                "feeds": false
+            },
+            {
+                "path": "sketchbook/",
+                "label": "Sketchbook",
+                "descrip": "Sketches",
+                "feeds": false
+            },
+            {
+                "path": "quiznights/",
+                "label": "Quiz Nights",
+                "descrip": "A log of quiz nights I have attended.",
+                "feeds": false
+            },
+            {
+                "path": "albums/",
+                "label": "Albums",
+                "descrip": "Misc Photo/Screenshot Albums",
+                "feeds": false
+            }
+        ]
     }
 ]

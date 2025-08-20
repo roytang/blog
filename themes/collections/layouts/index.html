@@ -8,9 +8,12 @@
 
 <p>Blah blah blah... </p>
 
-<div class="collections_list entry_list">
-{{ $collections := site.Data.Collections }}
-{{ range $collections }}
+{{ $collectionGroups := site.Data.Collections }}
+{{ range $collectionGroups }}
+  <div class="group">
+    <h2>{{ .groupname }}</h2>
+    <div class="collections_list entry_list">
+    {{ range .groupitems }}
     <div class="card">
         <div class="card_wrapper">
           <div class="card_body">
@@ -19,8 +22,11 @@
           </div>
         </div>
     </div>    
+    {{ end }}
+    </div>
+  </div>
 {{ end }}
-</div>
+
 
 {{ else }}
 <div class="breadcrumb">
