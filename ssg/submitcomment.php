@@ -1,5 +1,7 @@
 <?php
 if(isset($_POST['submit'])):
+    $has_errors = false;
+    $errors = array();
     if(isset($_POST['h-captcha-response']) && !empty($_POST['h-captcha-response'])):
         // get verify response
         $data = array(
@@ -14,20 +16,56 @@ if(isset($_POST['submit'])):
         $verifyResponse = curl_exec($verify);
         $responseData = json_decode($verifyResponse);
         if($responseData->success):
-            $succMsg = 'Your contact request has been submitted successfully.';
+          $succMsg = 'Your contact request has been submitted successfully.';
         else:
-            $errMsg = 'hCaptcha verification failed. Please try again.';
+          $errMsg = 'hCaptcha verification failed. Please try again.';
+          $has_errors = true;
+          array_push($errors, $errMsg);
         endif;
     else:
         $errMsg = 'Please click on the hCaptcha button.';
+        $has_errors = true;
+        array_push($errors, $errMsg);
     endif;
 
 $email = $_POST["email"];
 if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
   $emailErr = "Invalid email format";
-  echo $emailErr;
+  $has_errors = true;
+  array_push($errors, $emailErr);
+}
+$url = $_POST["url"];
+if (!filter_var($url, FILTER_VALIDATE_URL)) {
+  $urlErr = "Invalid URL format";
+  $has_errors = true;
+  array_push($errors, $urlErr);
 }
 
+if ($has_errors) {
+  // generate the output HTML
+?>
+<html>
+    <head>
+      <title>Comment Submission</title>
+    </head>
+<body>
+  Errors were encountered when processing your comment submission:
+
+  <ul>
+<?php
+foreach ($errors as $err) {
+  echo "<li>" . $err . "</li>\n";
+}
+?>  
+  </ul>
+  <p>You can click <a href="<?php echo $_POST['post_path']; ?>#comments-form">here to go back to the comment form</a> and try again.</p>
+  <p>Why yes, this page IS super bare-bones!</p>
+</body>
+</html>
+<?php
+} else {
+
+  // no errors, process the submission
 
 	   $new_message = array(
 	      "content" => $_POST['content'],
@@ -58,22 +96,6 @@ if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
 	      $testmsg =  "Message is stored successfully";
         echo $testmsg;
 	   }
+  }
 endif;
 ?>
-<html>
-    <head>
-      <title>Using hCaptcha with PHP</title>
-       <script src="https://www.hCaptcha.com/1/api.js" async defer></script>
-    </head>
-    <body>
-    <div>
-    <h2>Contact Form</h2>
-        <?php if(!empty($errMsg)): ?><div class="errMsg"><?php echo $errMsg; ?></div><?php endif; ?>
-        <?php if(!empty($succMsg)): ?><div class="succMsg"><?php echo $succMsg; ?></div><?php endif; ?>
-    <div class="clear"> </div>
-  </div>
-
-  <?php echo @$testmsg; ?>
-  POST DUMP: <?php var_dump($_POST); ?>
-  </body>
-</html>
