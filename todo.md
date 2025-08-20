@@ -6,10 +6,11 @@
 - review dead links to notes
 - disable comment forms
 - topic pages
-- cleanup menu/sidebar items
+- cleanup menu/sidebar items DONE
 - cleanup index/home
-- reorganize collections menu
-- archive fiction and remaining quiz nights
+- reorganize collections menu DONE
+- archive fiction and remaining quiz nights DONE
+- 404 page
 
 #### batch jobs
 

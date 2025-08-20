@@ -13,43 +13,51 @@ if(isset($_POST['submit'])):
         curl_setopt($verify, CURLOPT_RETURNTRANSFER, true);
         $verifyResponse = curl_exec($verify);
         $responseData = json_decode($verifyResponse);
-    $name = !empty($_POST['name'])?$_POST['name']:'';
-    $email = !empty($_POST['email'])?$_POST['email']:'';
-    $message = !empty($_POST['message'])?$_POST['message']:'';
         if($responseData->success):
-      //contact form submission code
-      $to = 'your@email.com';
-      $subject = 'New contact form has been submitted';
-      $htmlContent = "
-        <h1>Contact request details</h1>
-        <p><b>Name: </b>".$name."</p>
-        <p><b>Email: </b>".$email."</p>
-        <p><b>Message: </b>".$message."</p>
-      ";
-      // Always set content-type when sending HTML email
-      $headers = "MIME-Version: 1.0" . "\r\n";
-      $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
-      // More headers
-      $headers .= 'From:'.$name.' <'.$email.'>' . "\r\n";
-      //send email
-      // @mail($to,$subject,$htmlContent,$headers);
-      
             $succMsg = 'Your contact request has been submitted successfully.';
-      $name = '';
-      $email = '';
-      $message = '';
         else:
             $errMsg = 'hCaptcha verification failed. Please try again.';
         endif;
     else:
         $errMsg = 'Please click on the hCaptcha button.';
     endif;
-else:
-    $errMsg = '';
-    $succMsg = '';
-  $name = '';
-  $email = '';
-  $message = '';
+
+$email = $_POST["email"];
+if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
+  $emailErr = "Invalid email format";
+  echo $emailErr;
+}
+
+
+	   $new_message = array(
+	      "content" => $_POST['content'],
+	      "name" => $_POST['name'],
+	      "url" => $_POST['url'],
+	      "source_desc" => $_POST['source_desc'],
+	      "post_path" => $_POST['post_path'],
+	      "email" => $_POST['email']
+	   );
+
+     $filename = ".messages.json";
+
+	   if(filesize($filename) == 0){
+	      $first_record = array($new_message);
+	      $data_to_save = $first_record;
+	   }else{
+	      $old_records = json_decode(file_get_contents($filename));
+	      array_push($old_records, $new_message);
+	      $data_to_save = $old_records;
+	   }
+	 
+	   $encoded_data = json_encode($data_to_save, JSON_PRETTY_PRINT);
+	 
+	   if(!file_put_contents($filename, $encoded_data, LOCK_EX)){
+	      $testmsg = "Error storing message, please try again";
+        echo $testmsg;
+	   }else{
+	      $testmsg =  "Message is stored successfully";
+        echo $testmsg;
+	   }
 endif;
 ?>
 <html>
@@ -62,16 +70,10 @@ endif;
     <h2>Contact Form</h2>
         <?php if(!empty($errMsg)): ?><div class="errMsg"><?php echo $errMsg; ?></div><?php endif; ?>
         <?php if(!empty($succMsg)): ?><div class="succMsg"><?php echo $succMsg; ?></div><?php endif; ?>
-    <div>
-      <form action="" method="POST">
-        <input type="text" class="text" value="<?php echo !empty($name)?$name:''; ?>" placeholder="Your full name" name="name" >
-                <input type="text" class="text" value="<?php echo !empty($email)?$email:''; ?>" placeholder="Email adress" name="email" >
-                <textarea type="text" placeholder="Message..." required="" name="message"><?php echo !empty($message)?$message:''; ?></textarea>
-        <div class="h-captcha" data-sitekey="4439b678-db6d-41af-b9f9-c8d8ef70e5c9"></div>
-        <input type="submit" name="submit" value="SUBMIT">
-      </form>
-    </div>      
     <div class="clear"> </div>
   </div>
+
+  <?php echo @$testmsg; ?>
+  POST DUMP: <?php var_dump($_POST); ?>
   </body>
 </html>
