@@ -22,8 +22,8 @@
             "public": true,
             "section": "blog",
             "source": "post",
-            "cache_html": true, 
-            "syndicate": true
+            "cache_html": false, 
+            "syndicate": false
         },
         {
             "path": "content/links",
