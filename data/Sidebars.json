@@ -12,6 +12,10 @@
             "URL": "/links/"
         },
         {
+            "Name": "Collections",
+            "URL": "/collections/"
+        },
+        {
             "Name": "Search",
             "URL": "/search",
             "Auth": true
