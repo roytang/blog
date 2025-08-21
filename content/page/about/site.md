@@ -8,7 +8,7 @@ submenu: "about"
 **About roytang.net**
 
 - [roytang.net](https://roytang.net) is a personal site, an [E/N site](http://sawv.org/en.html), and kind of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book)
-- I post about a random assortment of topics that interest me including [software development](/tags/software-development/), [Magic the Gathering](/tags/magic-the-gathering/), [pop culture](/tags/pop-culture), [gaming](/tags/gaming), and [tech life](tags). This site is [perpetually under renovation](/2019/08/perpetually-under-renovation/).
+- I post about a random assortment of topics that interest me including [software development](/blog/tags/software-development/), [Magic the Gathering](/blog/tags/magic-the-gathering/), [pop culture](/blog/tags/pop-culture), [gaming](/tags/gaming), and [tech life](/blog/tags/tech-life/). This site is [perpetually under renovation](/2019/08/perpetually-under-renovation/).
 - I've had a site on the internet since around 2001, in some form or another. 
 - I've had the domain roytang.net [since 2006](/2006/02/welcome-to-roytang-net/). 
 - You can view a [changelog](/tags/changelog) of this site. 

@@ -14,7 +14,7 @@ submenu: "about"
 - [programmer, engineer, scientist, critic, gamer, dreamer, and kid-at-heart](/2006/02/programmer-engineer-scientist-critic-gamer-dreamer-and-kid-at-heart/)
 - Frustrated writer and [sketch artist](/albums/sketchbook/)
 - [Magic](/tags/mtg) player on weekends
-- [Software developer](/tags/software-development/) since 2003. If you'd like to work with me, take a look at my [resume](/resume).
+- I'm a freelance [software developer](/blog/tags/software-development/), solution architect, and technical consultant, working since 2003. If you have interesting work for me, you can check out [my resume](/resume/). 
 - Topics I am generally interested in at the moment:
     - technology
     - software development
