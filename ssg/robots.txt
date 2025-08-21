@@ -1,0 +1,94 @@
+# Large chunks of these cribbed from:
+# https://tracydurnell.com/robots.txt
+# https://maya.land/robots.txt
+
+# Common Crawl
+User-agent: CCBot
+Disallow: /
+  
+# OpenAI
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+# Turn It In Plagiarism Checker
+User-Agent: TurnitinBot
+Disallow: /
+
+# Name Protect
+User-Agent: NPBot
+Disallow: /
+
+# Sly Search
+User-Agent: SlySearch
+Disallow: /
+
+# Block all crawlers from login and admin section
+# I'm not even wordpress, but sure why not lol
+User-agent: *
+Disallow: /wp-login.php
+Disallow: /wp-admin/
+Disallow: /cgi-bin/
+Disallow: /trackback/
+
+User-agent: Googlebot
+Disallow: /
+
+User-agent: AdsBot-Google
+Disallow: /
+
+User-agent: msnbot-media
+Disallow: /
+
+User-agent: Bingbot
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Twitterbot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Mastodon
+Allow: /
+
+User-agent: Lieu
+Allow: /
+
+User-agent: Wiby
+Allow: /
+
+User-agent: Applebot
+Allow: /   
+
+User-agent: PetalBot
+Disallow: / 
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: serpstatbot
+Disallow: /
+
+User-agent: *
+Crawl-delay: 2
