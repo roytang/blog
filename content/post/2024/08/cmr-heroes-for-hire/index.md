@@ -57,7 +57,7 @@ toc: true
 
 ### Previously
 
-This is the part 12 in my continuing insane effort to try to read **EVERY MARVEL COMIC EVER PUBLISHED** and write about them. You can see previous posts using the [tag "complete-marvel-run"](/tags/complete-marvel-run). The last few parts have been about the characters [Jessica Jones](/2024/06/cmr-jessica-jones/), [Luke Cage](/2024/07/cmr-luke-cage/), and [Iron Fist](/2024/07/cmr-iron-fist/), all of whom appeared on the Netflix Marvel series. This entry is about Heroes for Hire, which is our analog to the Netflix Defenders series. This mostly involves the above characters and their supporting casts as well.
+This is the part 12 in my continuing insane effort to try to read **EVERY MARVEL COMIC EVER PUBLISHED** and write about them. You can see previous posts using the [tag "complete-marvel-run"](/blog/tags/complete-marvel-run). The last few parts have been about the characters [Jessica Jones](/2024/06/cmr-jessica-jones/), [Luke Cage](/2024/07/cmr-luke-cage/), and [Iron Fist](/2024/07/cmr-iron-fist/), all of whom appeared on the Netflix Marvel series. This entry is about Heroes for Hire, which is our analog to the Netflix Defenders series. This mostly involves the above characters and their supporting casts as well.
 
 ### Comics!
 

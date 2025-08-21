@@ -35,7 +35,7 @@ I HAVE started cleaning out the extra room. Threw out a bunch of old boxes. Ther
         - **Sea of Stars** and **Baldur's Gate 3** are progressing. Actually I can feel like I can just finish BG3 already if I wanted, but there's a whole bunch of quests I still want to do!
     - Online: Still doing regular grinding in **Magic Arena** and **Marvel Snap**. I played in this weekend's LCI limited Arena Open last night, but did poorly. =/ I did manage to [stream one draft](https://www.youtube.com/watch?v=6cNfxLpmfHs) though. Might try to stream more drafts this week.
 
-- **Reading**: Not a lot of reading this week. I still need to review the *Devil's Reign* event to complete the Daredevil run, so I can write a new [complete-marvel-run](/tags/complete-marvel-run/) blog post already? Really should read some new actual books before the end of the year though! Also, my feed reader backlog has been unwieldy all week (currently at 70 items unread), possibly because I added a bunch of feeds to it over the past few weeks.
+- **Reading**: Not a lot of reading this week. I still need to review the *Devil's Reign* event to complete the Daredevil run, so I can write a new [complete-marvel-run](/blog/tags/complete-marvel-run/) blog post already? Really should read some new actual books before the end of the year though! Also, my feed reader backlog has been unwieldy all week (currently at 70 items unread), possibly because I added a bunch of feeds to it over the past few weeks.
 
 - **Watching**: Finished **Scott Pilgrim Takes Off**! Still watching **Invincible**, **Rick and Morty**, **The Simpsons**. Also started the second season of **Spy X Family**. No new movies watched this week!
 

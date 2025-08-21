@@ -17,7 +17,7 @@ tags:
 title: 'Books: All of the Marvels by Douglas Wolk'
 ---
 
-The complete title of this book is "All of the Marvels: A Journey to the Ends of the Biggest Story Ever Told". I first heard of this book [back in early 2022](/2022/01/weeknotes-01-23/#links-of-interest) and reading about it directly inspired my own [complete-marvel-run](/tags/complete-marvel-run/). (For that reason I attach that same tag to this book review.)
+The complete title of this book is "All of the Marvels: A Journey to the Ends of the Biggest Story Ever Told". I first heard of this book [back in early 2022](/2022/01/weeknotes-01-23/#links-of-interest) and reading about it directly inspired my own [complete-marvel-run](/blog/tags/complete-marvel-run/). (For that reason I attach that same tag to this book review.)
 
 First off: I enjoyed the book a lot, obviously because I am already into the source material anyway. I tore through it in a couple of weeks, which is pretty quick for me nowadays.
 

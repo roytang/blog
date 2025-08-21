@@ -33,7 +33,7 @@ Had a bit of a scare a few days ago when some image rendering artifacts (small b
     - Online: **Magic Arena**, **Eternal** and **Marvel Snap** daily grinding continue as usual, not much of note. I did write my [Phyrexia All Will Be One limited recap](/2023/04/mtgone-limited-recap/) already, in anticipation of the new set coming out about a week from now.
     - [Played an online drawing game called Gartic Phone](/2023/04/gartic-phone/) with the trivia team.
 
-- **Reading**: Still mostly just comics. I am actually quite close to finishing the first volume of Thor! I am excitedly looking forward to another [Complete Marvel Run](/tags/complete-marvel-run/) update. Should start digging into an actual book again soon.
+- **Reading**: Still mostly just comics. I am actually quite close to finishing the first volume of Thor! I am excitedly looking forward to another [Complete Marvel Run](/blog/tags/complete-marvel-run/) update. Should start digging into an actual book again soon.
 
 - **Watching**: Actually managed to watch quite a bit this past week. Season 9 of *The Blacklist* still ongoing, albeit a bit slowly. Got started with *Star Trek Picard* season 3. Watched [Wrestlemania](/2023/04/wrestlemania-39/) with some friends. Rewatched [Thor (2011)](/2023/04/movies-jan-apr-2023/#thor-2011) and new-watched [Moneyball (2011)](/2023/04/movies-jan-apr-2023/#moneyball-2011) and [Murder Mystery 2 (2023)](/2023/04/movies-jan-apr-2023/#murder-mystery-2-2023).
 

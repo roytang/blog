@@ -33,7 +33,7 @@ April is ending, it's gonna be May, hopefully bringing us nearer to an end to th
     - Single player: Just a bit of *Witcher 3* this past week. Finished Death's Door and [wrote the review](/2023/04/deaths-door/).
     - Online: **Magic Arena**, **Eternal** and **Marvel Snap** daily grinding continue as usual, although Eternal is starting to feel a bit neglected as I am playing it much less regularly than the others. [March of the Maching drafting](/tags/mtgmom) continues, though I still haven't found my legs in this format and continue to do poorly. Struggling to get into Mythic for constructed this month as well. The Snap season is close to ending as well, and I am doing much worse there - I am still below the rank where I started the month!
 
-- **Reading**: Have started reading and am a few chapters into *Tomorrow, and Tomorrow, and Tomorrow* by Gabrielle Nevin; enjoying it immensely as it feels like it was written for gaming nerds of my cohort. Still reading comics, although have pushed off the next [Complete Marvel Run](/tags/complete-marvel-run/) update for a couple of weeks now, hope to get it done this week.
+- **Reading**: Have started reading and am a few chapters into *Tomorrow, and Tomorrow, and Tomorrow* by Gabrielle Nevin; enjoying it immensely as it feels like it was written for gaming nerds of my cohort. Still reading comics, although have pushed off the next [Complete Marvel Run](/blog/tags/complete-marvel-run/) update for a couple of weeks now, hope to get it done this week.
 
 - **Watching**: Started watching *The Blacklist* S10, working my way through it slowly. Finished [the Mandalorian season 3](/2023/04/the-mandalorian-s3/)! No new movies seen this week.
 

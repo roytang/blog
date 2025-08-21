@@ -66,7 +66,7 @@ toc: true
 
 ### Previously
 
-This is part 4 in my continuing insane effort to try to read **EVERY MARVEL COMIC EVER PUBLISHED**. You can see previous posts using the [tag "complete-marvel-run"](/tags/complete-marvel-run). We are tackling the older/longer series first, and going in "MCU Order". 
+This is part 4 in my continuing insane effort to try to read **EVERY MARVEL COMIC EVER PUBLISHED**. You can see previous posts using the [tag "complete-marvel-run"](/blog/tags/complete-marvel-run). We are tackling the older/longer series first, and going in "MCU Order". 
 
 *(Note: All volume nos. are based on [the Wikipedia listings](https://en.wikipedia.org/wiki/List_of_Marvel_Comics_publications_(B%E2%80%93C)#C))*
 

@@ -164,7 +164,7 @@ toc: true
 
 ### Previously
 
-This is the part 13 in my continuing insane effort to try to read **EVERY MARVEL COMIC EVER PUBLISHED** and write about them. You can see previous posts using the [tag "complete-marvel-run"](/tags/complete-marvel-run). This entry is will cover the **Heroes Reborn** events. Covering Heroes Reborn (1996) allows me to continue with my read-through of *Iron Man/Captain America/Thor/Avengers* adventures that I already started earlier in this series.
+This is the part 13 in my continuing insane effort to try to read **EVERY MARVEL COMIC EVER PUBLISHED** and write about them. You can see previous posts using the [tag "complete-marvel-run"](/blog/tags/complete-marvel-run). This entry is will cover the **Heroes Reborn** events. Covering Heroes Reborn (1996) allows me to continue with my read-through of *Iron Man/Captain America/Thor/Avengers* adventures that I already started earlier in this series.
 
 ### Heroes Reborn (1996)
 

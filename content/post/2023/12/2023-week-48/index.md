@@ -35,7 +35,7 @@ On the blog: I wrote about [my everday carry](/2023/11/everyday-carry/).
     - Single player: I swear I am actually making progress on both **Sea of Stars** and **Baldur's Gate 3**. I may even finish one of them this year! Hopefully both!
     - Online: Still doing regular grinding in **Magic Arena** and **Marvel Snap**. The Lost Caverns of Ixalan continue to be terrible for me.
 
-- **Reading**: I have finished reading all the mainline Daredevil volumes and ended up writing [a 3,000-word entry](/2023/11/cmr-daredevil/) to the [complete-marvel-run](/tags/complete-marvel-run/) series. Really want to read another actual book or two before year end though.
+- **Reading**: I have finished reading all the mainline Daredevil volumes and ended up writing [a 3,000-word entry](/2023/11/cmr-daredevil/) to the [complete-marvel-run](/blog/tags/complete-marvel-run/) series. Really want to read another actual book or two before year end though.
 
 - **Watching**: Watched [Indiana Jones and the Dial of Destiny (2023)](/2023/12/movies-sep-dec-2023/#indiana-jones-and-the-dial-of-destiny-2023) since it was finally out on Disney+. Keeping up with a bunch of series; apparently **Invincible** isn't resuming until next year though. Wanna try to get through some more shorter series on my to-watch list so I can have more material for a reviews post.
 

@@ -4,10 +4,10 @@
 
 - set up alias redirects? DONE
 - review dead links to notes
-- comment submission
-  - add date field
-  - allow empty email and url
-  - process submitted data
+- comment submission DONE?
+  - add date field DONE
+  - allow empty email and url DONE
+  - process submitted data DONE
 - topic pages
 - cleanup menu/sidebar items DONE
 - cleanup index/home

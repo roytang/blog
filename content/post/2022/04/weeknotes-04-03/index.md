@@ -46,7 +46,7 @@ Visit the [Links page](/links/) for more links of interest.
     - Ongoing Fighting games: Still only the occasional **Street Fighter V** match, and still stuck insilver.
     - I did my second [stream of itch.io bundle games!](/2022/03/1509144566791905285/). Since I participated in Ludum Dare, I need to rate the game jam games, so I'm thinking of maybe streaming that this week instead of the itch.io ones?
 - **Watching**:
-    - I did watch one movie this week, **Death on the Nile (2022)**. Will probably write it up in a future ["watching lately"](/tags/watching-lately) post.
+    - I did watch one movie this week, **Death on the Nile (2022)**. Will probably write it up in a future ["watching lately"](/blog/tags/watching-lately) post.
     - **TV:** 
         - I started watching **Our Flag Means Death** because I saw people recommending it. About halfway through now I think. It's okay. I place it about the same as [Only Murders In The Building](/2022/12/movies-tv-2022/#only-murders-in-the-building).
         - Behind: **Legends of Tomorrow**, **Young Justice**, **Superman and Lois**, **Star Trek Picard season 2**, **NCIS**, **The Simpsons**

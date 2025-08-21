@@ -22,7 +22,7 @@ toc: true
 
 ### Previously
 
-This is the part 15 in my continuing insane effort to try to read **EVERY MARVEL COMIC EVER PUBLISHED** and write about them. You can see previous posts using the [tag "complete-marvel-run"](/tags/complete-marvel-run). It has been a while since the last post, mostly because I got derailed and distracted from my reading plans; that and I wanted to read more X-Men related stuff and I decided to maybe slow down the pace of posts in this series and maybe rethink my approach (more on that later).
+This is the part 15 in my continuing insane effort to try to read **EVERY MARVEL COMIC EVER PUBLISHED** and write about them. You can see previous posts using the [tag "complete-marvel-run"](/blog/tags/complete-marvel-run). It has been a while since the last post, mostly because I got derailed and distracted from my reading plans; that and I wanted to read more X-Men related stuff and I decided to maybe slow down the pace of posts in this series and maybe rethink my approach (more on that later).
 
 I was originally planning to start writing about the recently-ended Krakoan era of X-Men, but instead decided to delve into an older series instead. This post is all about v1 of one of the earliest X-Men spinoff books, *X-Factor*.
 

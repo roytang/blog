@@ -70,7 +70,7 @@ On the upside, I did get to do much more stuff this work compared to last week, 
 
 ### Watching lately
 
-I think I'll retire the [watching lately tag](/tags/watching-lately/) and just include my media notes here in the weeknotes. More convenient, and more fine-tuned. Let's see how it works out.
+I think I'll retire the [watching lately tag](/blog/tags/watching-lately/) and just include my media notes here in the weeknotes. More convenient, and more fine-tuned. Let's see how it works out.
 
 For this week:
 

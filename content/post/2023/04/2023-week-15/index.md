@@ -32,7 +32,7 @@ There was [this PH Travel Map thing](/2023/04/1808c8183ed5b4a91e3f469aae71db57/)
     - Online: **Magic Arena**, **Eternal** and **Marvel Snap** daily grinding continue as usual. Despite getting to infinite last season with Snap I am making no progress this season. Spent some gold on [a few Explorer Metagame challenge runs on Magic Arena](/2023/04/explorer-metagame-challenge/).
     - I have preordered *Legend of Zelda: Tears of the Kingdom*!
 
-- **Reading**: Still mostly just comics. I have finished the first volume of Thor! Will probably write the next [Complete Marvel Run](/tags/complete-marvel-run/) update later this week. Really should start reading a new book as well. Feed reader backlog: 107 items.
+- **Reading**: Still mostly just comics. I have finished the first volume of Thor! Will probably write the next [Complete Marvel Run](/blog/tags/complete-marvel-run/) update later this week. Really should start reading a new book as well. Feed reader backlog: 107 items.
 
 - **Watching**: Ongoing: *The Blacklist* S9, *Star Trek Picard* S3. Watched [Extraction (2020)](/2023/04/movies-jan-apr-2023/#extraction-2020) and [Surrogates (2009)](/2023/04/movies-jan-apr-2023/#surrogates-2009) at home via streaming. Went to the cinemas with some friends to watch the excellent [Dungeons and Dragons: Honor Among Thieves (2023)](/2023/04/movies-jan-apr-2023/#dungeons-dragons-honor-among-thieves-2023). 
 

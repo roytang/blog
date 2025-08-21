@@ -34,7 +34,7 @@ Happy to report that we have a replacement microwave now. I also got a new gamin
 
 ### Media Diet
 
-- Reading: Still very early into **Wind and Truth**; my reading pace is not as good as I had hoped and this is one of the things I am likely to finish next year. I am on track with my ["complete Marvel run"](/tags/complete-marvel-run/) reading though and will be able to do another post before EOY.
+- Reading: Still very early into **Wind and Truth**; my reading pace is not as good as I had hoped and this is one of the things I am likely to finish next year. I am on track with my ["complete Marvel run"](/blog/tags/complete-marvel-run/) reading though and will be able to do another post before EOY.
 
 - Watching: **Star Trek Lower Decks** series finale was great. All the anime are still ongoing: Dragon Ball Daima, Ranma 1/2, Dan Da Dan. Not sure if I will have time to squeeze in another TV series or maybe some movies before the year ends.
 

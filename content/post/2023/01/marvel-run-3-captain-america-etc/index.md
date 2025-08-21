@@ -73,7 +73,7 @@ toc: true
 
 ### Previously
 
-This is part 3 in my continuing insane effort to try to read **EVERY MARVEL COMIC EVER PUBLISHED**. You can see previous posts using the [tag "complete-marvel-run"](/tags/complete-marvel-run). We are tackling the older/longer series first, and going in "MCU Order". 
+This is part 3 in my continuing insane effort to try to read **EVERY MARVEL COMIC EVER PUBLISHED**. You can see previous posts using the [tag "complete-marvel-run"](/blog/tags/complete-marvel-run). We are tackling the older/longer series first, and going in "MCU Order". 
 
 The previous entries covered early **Iron Man** and **Hulk** series. This one will be focused on **Captain America** (plus some other random comics I read/finished during this period). This post will have significantly fewer screenshots than the last ones.
 

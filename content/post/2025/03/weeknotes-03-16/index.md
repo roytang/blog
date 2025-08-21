@@ -28,7 +28,7 @@ On the blog this week: Nothing except the last weeknotes. I did start some draft
 
 #### Reading
 
-- Still mostly just comics recently, lots of Spider-Man stuff, but also trying to catch up on everything else. The next [Complete Marvel Run](/tags/complete-marvel-run/) post is already drafted, just waiting for the current ASM volume to finish so I can include it. Sanderson's **Wind and Truth** still moving along very very slowly. 
+- Still mostly just comics recently, lots of Spider-Man stuff, but also trying to catch up on everything else. The next [Complete Marvel Run](/blog/tags/complete-marvel-run/) post is already drafted, just waiting for the current ASM volume to finish so I can include it. Sanderson's **Wind and Truth** still moving along very very slowly. 
 
 #### Watching
 

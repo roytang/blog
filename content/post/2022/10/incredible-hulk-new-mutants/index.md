@@ -107,7 +107,7 @@ title: 'Comics: Incredible Hulk (1962-1999), New Mutants (1983-1991) and others'
 
 ### Previously
 
-This is the second post in my continuing insane effort to try to read **EVERY MARVEL COMIC EVER PUBLISHED**. You can see previous posts using the [tag "complete-marvel-run"](/tags/complete-marvel-run). We are tackling the older/longer series first, and going in "MCU Order". 
+This is the second post in my continuing insane effort to try to read **EVERY MARVEL COMIC EVER PUBLISHED**. You can see previous posts using the [tag "complete-marvel-run"](/blog/tags/complete-marvel-run). We are tackling the older/longer series first, and going in "MCU Order". 
 
 *(These posts of course, are often just excuses to post a bunch of comic screenshots/excerpts)*
 

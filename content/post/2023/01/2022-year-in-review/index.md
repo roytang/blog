@@ -110,7 +110,7 @@ Also, here's a wordcloud for 2022:
         - [Glass Onion: A Knives Out Mystery (2022)](/2022/12/weeknotes-12-25/#glassonion)
 - **Books** read: 19, down from last year's 26
     - [The list](/lists/media/books/2022/), with 18 fiction and 1 nonfiction.
-    - This year's reads was mostly getting back up to speed with the works of some familiar writers. I read 6 [Discworld](/tags/discworld/) books, 4 Agathe Christie books, and 4 books from [Brandon Sanderson](/tags/sanderson/).
+    - This year's reads was mostly getting back up to speed with the works of some familiar writers. I read 6 [Discworld](/blog/tags/discworld/) books, 4 Agathe Christie books, and 4 books from [Brandon Sanderson](/blog/tags/sanderson/).
     - I think my favorite fiction reads of the year were [Le Guin's Lathe of Heaven](/2022/03/lathe-of-heaven-/) and [A Psalm for the Wild-Built by Becky Chambers](/2022/06/weeknotes-06-12/#a-psalm-for-the-wild-built-by-becky-chambers). My only nonfiction read of the year was [Meditations by Marcus Aurelius](/2022/02/meditations/).
     - I think I will target to read a bit more nonfiction this year.
 - **TV/Streaming**
@@ -120,7 +120,7 @@ Also, here's a wordcloud for 2022:
     - My favorite shows of the year are [She-Hulk: Attorney at Law](/2022/10/watching-lately-marvel/#she-hulk-attorney-at-law) and [Andor](/2022/12/weeknotes-12-11/#andor).
 - **Comics**
     - This year, I decided to start tracking comics read as well, separately from books. Here's [the 2022 list](/lists/media/comics/2022/).
-    - I also started an insane project in the second half of the year to attempt to read all Marvel comics! Tracking this effort via [the tag complete-marvel-run](/tags/complete-marvel-run). I have already fallen behind!
+    - I also started an insane project in the second half of the year to attempt to read all Marvel comics! Tracking this effort via [the tag complete-marvel-run](/blog/tags/complete-marvel-run). I have already fallen behind!
 - **Music**
     - Music tracks played (Spotify/LastFM): 884. (1672 last year). See [listening stats here](/page/stats/listening/). Also, [here's my 2022 Spotify Wrapped](/2022/12/spotify-wrapped/).
     - My Spotify count is very low because this year I found myself turning more to YouTube for listening to music, and I have yet to find a way to extract my listening stats from there.

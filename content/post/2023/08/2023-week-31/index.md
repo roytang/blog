@@ -38,7 +38,7 @@ Despite being a bit down in spirit, the week was not very busy and at least I wa
         - **Eternal** being played roughly once a week.
         - **Street Fighter VI**: Doing very poorly online actually. I still have so much trouble with the general flow and pacing of SF6 matches compared to SF5. Might need to watch some videos/replays/etc
 
-- **Reading**: Started reading: *Saving Time* by Jenny Odell. Decided to read through the West Coast Avengers run before writing the next [complete-marvel-run](/tags/complete-marvel-run) post, am about halfway through it already. Feed reader backlog is at a manageable 29 items.
+- **Reading**: Started reading: *Saving Time* by Jenny Odell. Decided to read through the West Coast Avengers run before writing the next [complete-marvel-run](/blog/tags/complete-marvel-run) post, am about halfway through it already. Feed reader backlog is at a manageable 29 items.
 
 - **Watching**: Nothing of significance this past week. Well, I was glad to find that there was a new season of *Futurama*, once again resurrected from the dead.
 

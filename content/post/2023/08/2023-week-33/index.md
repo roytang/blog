@@ -43,7 +43,7 @@ Trying to blog more this past week:
         - **Eternal** being played roughly once a week.
         - **Street Fighter VI**: Been a bit unmotivated to keep playing this one, as I'm not doing very well and am unsure how to improve. Kinda tempted to switch over to Strive for a while. Or maybe consider playing Modern controls lol.
 
-- **Reading**: Reading has kind of taken a backseat this past week. Still reading: *Saving Time* by Jenny Odell. I have finished the West Coast Avengers v1 run! (Or at least what was available on Marvel Unlimited.) Might try to write a [complete-marvel-run](/tags/complete-marvel-run/) post this week. Feed reader backlog is currently at a very healthy 11 items.
+- **Reading**: Reading has kind of taken a backseat this past week. Still reading: *Saving Time* by Jenny Odell. I have finished the West Coast Avengers v1 run! (Or at least what was available on Marvel Unlimited.) Might try to write a [complete-marvel-run](/blog/tags/complete-marvel-run/) post this week. Feed reader backlog is currently at a very healthy 11 items.
 
 - **Watching**: Watched [Heart of Stone](/2023/08/movies-may-aug-2023/#heart-of-stone-2023) this week, upon my mom's recommendation. Also watching a bunch of TV stuff, but nothing too important.
 

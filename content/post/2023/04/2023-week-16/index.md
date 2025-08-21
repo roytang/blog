@@ -29,7 +29,7 @@ title: 2023 Week 16
     - Single player: Took a break from *Witcher 3* this past week to focus on a shorter game: **Death's Door**, a Zelda-like that was available on PC game pass. I have just completed the game and will write the review this week.
     - Online: **Magic Arena**, **Eternal** and **Marvel Snap** daily grinding continue as usual. I've started streaming March of the Machine drafts on Arena. You can follow along via [the MTGMOM tag](/tags/mtgmom) on this site, or [the Youtube playlist](https://www.youtube.com/playlist?list=PLmU0vkKslGXisk3lBLz-qF-Ww07WkgMRO). Feed reader backlog: 29 items.
 
-- **Reading**: Still mostly just comics. Have delayed the next [Complete Marvel Run](/tags/complete-marvel-run/) update until this week, to include some newer series that are wrapping up. Also still need to read a new book!
+- **Reading**: Still mostly just comics. Have delayed the next [Complete Marvel Run](/blog/tags/complete-marvel-run/) update until this week, to include some newer series that are wrapping up. Also still need to read a new book!
 
 - **Watching**: Finished *The Blacklist* S9; will wait to write the review until after S10 finishes later this year. Finished [Star Trek Picard](/2023/04/picard-s3/). Watched [The Super Mario Bros Movie (2023)](/2023/04/movies-jan-apr-2023/#the-super-mario-bros-movie-2023) at the cinemas with some friends.
 

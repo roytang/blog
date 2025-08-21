@@ -126,7 +126,7 @@ Also, here's a wordcloud for 2023:
     - Decided to stop logging my watch history counts this year, since that has always seemed a bit silly.
 - **Comics**
     - I wrote about some comics this year: [the 2023 list](/lists/media/comics/2023/).
-    - [The Complete Marvel Run](/tags/complete-marvel-run): Currently up to 10.24% as of [the last post](/2023/11/cmr-daredevil/).
+    - [The Complete Marvel Run](/blog/tags/complete-marvel-run): Currently up to 10.24% as of [the last post](/2023/11/cmr-daredevil/).
     - I actually read a lot more comics than the above links imply, since I read more than I have time to write about. For Marvel, we will catch up eventually, I hope. For DC and others, I hope to write a bit more about them this year.
     - I must note that this year, I read the wonderful [It's Lonely st the Centre of the Earth](/2023/09/its-lonely/)
 - **Music**

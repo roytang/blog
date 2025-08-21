@@ -24,7 +24,7 @@ On the blog this week: [Shared some poems for World Poetry Day](/2025/03/world-p
 
 #### Reading
 
-- Same update as last week: Still mostly just comics recently, lots of Spider-Man stuff, but also trying to catch up on everything else. Should be ready with the next [Complete Marvel Run](/tags/complete-marvel-run/) this coming week. Sanderson's **Wind and Truth** still moving along very very slowly. 
+- Same update as last week: Still mostly just comics recently, lots of Spider-Man stuff, but also trying to catch up on everything else. Should be ready with the next [Complete Marvel Run](/blog/tags/complete-marvel-run/) this coming week. Sanderson's **Wind and Truth** still moving along very very slowly. 
 
 #### Watching
 

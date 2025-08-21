@@ -77,7 +77,7 @@ toc: true
 
 ### Previously
 
-This is part 4.1 [^1] in my continuing insane effort to try to read **EVERY MARVEL COMIC EVER PUBLISHED** and catalog the effort in blog posts. You can see previous posts using the [tag "complete-marvel-run"](/tags/complete-marvel-run). I am tackling the older/longer series first, and going in "MCU Order", but now I'm also doing these "side mission" posts [^2] to cover series/runs that I have mostly already read prior to starting this effort. The [previous main entry was about Thor v1](/2023/05/marvel-run-4-thor-etc/#dark-web-2023). 
+This is part 4.1 [^1] in my continuing insane effort to try to read **EVERY MARVEL COMIC EVER PUBLISHED** and catalog the effort in blog posts. You can see previous posts using the [tag "complete-marvel-run"](/blog/tags/complete-marvel-run). I am tackling the older/longer series first, and going in "MCU Order", but now I'm also doing these "side mission" posts [^2] to cover series/runs that I have mostly already read prior to starting this effort. The [previous main entry was about Thor v1](/2023/05/marvel-run-4-thor-etc/#dark-web-2023). 
 
 Actually, most of this entry was originally planned to be included in the Thor v1 post, but it was already far too long, so it gets to be the first "side mission" content instead.
 
@@ -99,7 +99,7 @@ Volume length: 25 issues. Part of the 2012 *Marvel Now!* relaunch, this volume i
 
 Volume length: 8 issues
 
-This short volume takes place in the wake of the *Original Sin* crossover when Thor became unworthy and thus lost access to Mjolnir. It covers the mysterious appearance of a new female wielder of Mjolnir calling herself Thor; at the end of the volume her identity is finally revealed as Thor's former lover Jane Foster, now affected by cancer. I was a big fan of the new Thor's design and used it for a [sketchdaily](/tags/sketchdaily) back in the day:
+This short volume takes place in the wake of the *Original Sin* crossover when Thor became unworthy and thus lost access to Mjolnir. It covers the mysterious appearance of a new female wielder of Mjolnir calling herself Thor; at the end of the volume her identity is finally revealed as Thor's former lover Jane Foster, now affected by cancer. I was a big fan of the new Thor's design and used it for a [sketchdaily](/collections/sketchbook/tags/sketchdaily) back in the day:
 
 {{% photo "/2016/02/BCYT1DZsoHu/" %}}
 

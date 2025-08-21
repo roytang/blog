@@ -55,7 +55,7 @@ toc: true
 
 ### Previously
 
-This is part 5 in my continuing insane effort to try to read **EVERY MARVEL COMIC EVER PUBLISHED**. You can see previous posts using the [tag "complete-marvel-run"](/tags/complete-marvel-run). We are tackling the older/longer series first, and going in "MCU Order", and this one is all about the Avengers.
+This is part 5 in my continuing insane effort to try to read **EVERY MARVEL COMIC EVER PUBLISHED**. You can see previous posts using the [tag "complete-marvel-run"](/blog/tags/complete-marvel-run). We are tackling the older/longer series first, and going in "MCU Order", and this one is all about the Avengers.
 
 *(Note: All volume nos. are based on [the Wikipedia listings](https://en.wikipedia.org/wiki/List_of_Marvel_Comics_publications_(A))*
 

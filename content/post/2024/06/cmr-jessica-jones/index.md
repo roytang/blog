@@ -61,7 +61,7 @@ toc: true
 
 ### Previously
 
-This is the part 9 in my continuing insane effort to try to read **EVERY MARVEL COMIC EVER PUBLISHED** and write about them. You can see previous posts using the [tag "complete-marvel-run"](/tags/complete-marvel-run). This one is all about the **Jessica Jones**.
+This is the part 9 in my continuing insane effort to try to read **EVERY MARVEL COMIC EVER PUBLISHED** and write about them. You can see previous posts using the [tag "complete-marvel-run"](/blog/tags/complete-marvel-run). This one is all about the **Jessica Jones**.
 
 I was originally planning to have a single post tackling Jessica, Luke Cage, and Iron Fist together, since those characters are all in Netflix shows and are mostly in each other's orbit and individually don't have a lot of issues. But the resulting post would have ended up way too long again, mostly due to multiple shorter series and one-shots. So we'll try something new and do shorter entries! 
 

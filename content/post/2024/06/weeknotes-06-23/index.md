@@ -30,7 +30,7 @@ I spent a bunch of time catching up on my feed reader backlogs lately (hence the
     - Single player: Still playing a lot of **Hades**, to the neglect of the two RPGs I started last week!
     - Online: Still doing regular grinding in **Magic Arena** and **Marvel Snap**, sometimes **Eternal**. I have done a couple of **Modern Horizons 3** draft on Arena, it is very challenging. I initially was planning to ignore the set, but then I agreed to join a paper draft in a couple of weeks and I was like "I can't just jump into that unprepared!"
   
-- **Reading**: Still just more comics, mostly Marvels. Might have enough for a new [complete-marvel-run](/tags/complete-marvel-run/) post within the next two weeks.
+- **Reading**: Still just more comics, mostly Marvels. Might have enough for a new [complete-marvel-run](/blog/tags/complete-marvel-run/) post within the next two weeks.
 
 - **Watching**: This week I watched [The Life Aquatic with Steve Zissou (2004)](https://letterboxd.com/hungryroy/film/the-life-aquatic-with-steve-zissou/). Watching random TV shows.
 

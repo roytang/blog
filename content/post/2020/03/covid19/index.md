@@ -630,6 +630,6 @@ Worldwide, there have been an additional 500k cases and 45k deaths over the past
 
 ### Sunday, May the 10th
 
-This post was mostly an experiment in making a single continuous post that would be updated periodically. At this point (well over 10,000 words in this single post), I'm ready to admit this has been an unwieldy experiment. I will still continue the covid19 updates and thoughts, but probably as separate notes and posts. You can follow succeeding entries (including one for today) via the [covid19 tag](/tags/covid19/).
+This post was mostly an experiment in making a single continuous post that would be updated periodically. At this point (well over 10,000 words in this single post), I'm ready to admit this has been an unwieldy experiment. I will still continue the covid19 updates and thoughts, but probably as separate notes and posts. You can follow succeeding entries (including one for today) via the [covid19 tag](/blog/tags/covid19/).
 
 To be continued...

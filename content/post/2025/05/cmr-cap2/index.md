@@ -157,7 +157,7 @@ toc: true
 
 ### Previously
 
-This is the part 18 in my continuing insane effort to try to read **EVERY MARVEL COMIC EVER PUBLISHED** and write about them. You can see previous posts using the [tag "complete-marvel-run"](/tags/complete-marvel-run). 
+This is the part 18 in my continuing insane effort to try to read **EVERY MARVEL COMIC EVER PUBLISHED** and write about them. You can see previous posts using the [tag "complete-marvel-run"](/blog/tags/complete-marvel-run). 
 
 The volume numbering for Captain America can be particularly confusing. As always, my preferred reference is [the list on Wikipedia](https://en.wikipedia.org/wiki/List_of_Marvel_Comics_publications_(B%E2%80%93C)#C).
 

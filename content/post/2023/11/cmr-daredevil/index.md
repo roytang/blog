@@ -69,7 +69,7 @@ toc: true
 
 ### Previously
 
-This is part 6 in my continuing insane effort to try to read **EVERY MARVEL COMIC EVER PUBLISHED**. You can see previous posts using the [tag "complete-marvel-run"](/tags/complete-marvel-run). This one is all about Daredevil.
+This is part 6 in my continuing insane effort to try to read **EVERY MARVEL COMIC EVER PUBLISHED**. You can see previous posts using the [tag "complete-marvel-run"](/blog/tags/complete-marvel-run). This one is all about Daredevil.
 
 *(Note: All volume nos. are based on [the Wikipedia listings](https://en.wikipedia.org/wiki/List_of_Marvel_Comics_publications_(A))*
 
@@ -256,7 +256,7 @@ Current total (released) according to [the reference reading order](https://cmro
 
 Progress: 10.24% (up by 2.06% from the last post)
 
-I started this [complete-marvel-run](/tags/complete-marvel-run) thing about a year and a half ago. At this rate it would take me an additional 13.5 years to catch up with everything! 
+I started this [complete-marvel-run](/blog/tags/complete-marvel-run) thing about a year and a half ago. At this rate it would take me an additional 13.5 years to catch up with everything! 
 
 Luckily, I still have scads of series I've already read that remain unlogged, though I might have to re-read some of them when the time comes, like I did for the modern Daredevil runs. I'm hoping the already-read-yet-unlogged series contributes a significant chunk to the percentage!
 

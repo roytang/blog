@@ -32,7 +32,7 @@ Still spent a lot of time catching up on things.
 
 ### Media Diet
 
-- Reading: New Sanderson book is out, started reading **Wind and Truth**, then I stopped after a couple of chapters and went to watch a YT recap of [Rhythm of War](/2020/12/rhythm-of-war/) first. Hoping to finish the book before EOY, which isn't a lot of time! Also a lot of comics as usual, especially while waiting in hospitals and clinics. Hoping to write one more ["complete Marvel run"](/tags/complete-marvel-run/) post before EOY.
+- Reading: New Sanderson book is out, started reading **Wind and Truth**, then I stopped after a couple of chapters and went to watch a YT recap of [Rhythm of War](/2020/12/rhythm-of-war/) first. Hoping to finish the book before EOY, which isn't a lot of time! Also a lot of comics as usual, especially while waiting in hospitals and clinics. Hoping to write one more ["complete Marvel run"](/blog/tags/complete-marvel-run/) post before EOY.
 
 - Watching: Finished my binge of **The Lincoln Lawyer** and also binged **The Diplomat** (2 seasons). Trying to keep up with: Star Trek Lower Decks, Dragon Ball Daima, Ranma 1/2, Dan Da Dan. There's also a bunch more TV shows I want to try to finish before EOY!
 

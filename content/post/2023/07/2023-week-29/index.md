@@ -43,7 +43,7 @@ For some reason I decided to start a new tumblr: [Grocery Logs](https://www.tumb
         - **Eternal** being played roughly once a week.
         - **Street Fighter VI**: Now that I'm done with everyone's placement matches, I'm working on finishing world tour so I can do avatar battles. Is that how it works? New DLC character Rashid is dropping tomorrow, I probably won't get him.
 
-- **Reading**: Still reading **Gideon the Ninth**. Finished the Avengers v1 run! There's a bunch of other stuff I want to read before doing a [complete-marvel-run](/tags/complete-marvel-run) blog post though. Also because I had to be waiting around in clinics and labs so much this week, I was able to binge-read the entire run of **Sakamoto Days**
+- **Reading**: Still reading **Gideon the Ninth**. Finished the Avengers v1 run! There's a bunch of other stuff I want to read before doing a [complete-marvel-run](/blog/tags/complete-marvel-run) blog post though. Also because I had to be waiting around in clinics and labs so much this week, I was able to binge-read the entire run of **Sakamoto Days**
 
 - **Watching**: No new movies this week, I think I mostly just watched **Strange New Worlds**.
 

@@ -13,7 +13,7 @@ title: 'Netflix and Amazon Prime: An abundance of content'
 type: post
 ---
 
-If you haven't figured it out yet, I watch a [lot of TV shows](/tags/watching-lately/), rarely on TV itself though. I outgrew scheduled television maybe more than a decade ago. I'm reminded of this because I was going through some old disks and found burned episodes of stuff like *Smallville*, *Heroes*, *The Simpsons*, various anime, and so on. 
+If you haven't figured it out yet, I watch a [lot of TV shows](/blog/tags/watching-lately/), rarely on TV itself though. I outgrew scheduled television maybe more than a decade ago. I'm reminded of this because I was going through some old disks and found burned episodes of stuff like *Smallville*, *Heroes*, *The Simpsons*, various anime, and so on. 
 
 Those were from the days before streaming though. These days an abundance of content is available online via the streaming services, no need to store all those episodes yourself. 
 

@@ -20,7 +20,7 @@ title: 'Watching Lately, Jan 2020: Arrow, The Good Place, The Witcher, Kim''s Co
   The Expanse'
 ---
 
-I wasn't sure if I should continue this [watching-lately](/tags/watching-lately) series since I already set up a separate page for [listing my 2020 movies watched](/lists/2020/movies). It might have been more consistent to have a list for the 2020 TV shows also? But then again, TV shows are a much different beast, since each show/season is broken into an episode and sometimes you watch them all in one go or sometimes over the span of a few months. So maybe let's keep this going for the while.
+I wasn't sure if I should continue this [watching-lately](/blog/tags/watching-lately) series since I already set up a separate page for [listing my 2020 movies watched](/lists/2020/movies). It might have been more consistent to have a list for the 2020 TV shows also? But then again, TV shows are a much different beast, since each show/season is broken into an episode and sometimes you watch them all in one go or sometimes over the span of a few months. So maybe let's keep this going for the while.
 
 So yeah, movies. From the list for January, I think the best one was Parasite. I didn't have any expectations on what this movie was about yet somehow I still feel like it subverted those expectations anyway. I only saw 15 movies in January, which is below rate if I'm targetting 200 for the year. Maybe it's one of those NYR things that peters out after a month or so. Too early to tell, and besides, that's not an insurmountable deficit. And 200 isn't a hard target either so let's just see what happens.
 

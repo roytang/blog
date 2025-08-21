@@ -43,7 +43,7 @@ toc: true
 
 ### Previously
 
-This is the part 14 in my continuing insane effort to try to read **EVERY MARVEL COMIC EVER PUBLISHED** and write about them. You can see previous posts using the [tag "complete-marvel-run"](/tags/complete-marvel-run). I covered Iron Man v1 in [the very first post two years ago](/2022/08/iron-man-v1/) and [v2 in the Heroes Reborn post](/2024/08/cmr-heroes-reborn/). This entry will focus on Iron Man stories from the late 90s up to around 2009.
+This is the part 14 in my continuing insane effort to try to read **EVERY MARVEL COMIC EVER PUBLISHED** and write about them. You can see previous posts using the [tag "complete-marvel-run"](/blog/tags/complete-marvel-run). I covered Iron Man v1 in [the very first post two years ago](/2022/08/iron-man-v1/) and [v2 in the Heroes Reborn post](/2024/08/cmr-heroes-reborn/). This entry will focus on Iron Man stories from the late 90s up to around 2009.
 
 ### Comics
 

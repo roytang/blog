@@ -56,7 +56,7 @@ tags:
 title: Watching March 2022
 ---
 
-I keep shifting between writing individual posts per thing I want to review or doing one of these ["Watching Lately"](/tags/watching-lately/) posts that consolidate several items at the same time. I guess when it's a number of "less important" films or shows it's okay to consolidate them together? But if it's something like [The Batman](/2022/03/the-batman/) or an [MCU](/tags/mcu/) film which are generally bigger fandoms for me, then individual posts are ok, since I'll usually have a lot to say? IDK, I'm just making this all up as I go along.
+I keep shifting between writing individual posts per thing I want to review or doing one of these ["Watching Lately"](/blog/tags/watching-lately/) posts that consolidate several items at the same time. I guess when it's a number of "less important" films or shows it's okay to consolidate them together? But if it's something like [The Batman](/2022/03/the-batman/) or an [MCU](/tags/mcu/) film which are generally bigger fandoms for me, then individual posts are ok, since I'll usually have a lot to say? IDK, I'm just making this all up as I go along.
 
 This one is the last two weeks worth of movies and a bit of tv.
 

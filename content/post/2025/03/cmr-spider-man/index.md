@@ -60,7 +60,7 @@ toc: true
 
 ### Previously
 
-This is the part 17 in my continuing insane effort to try to read **EVERY MARVEL COMIC EVER PUBLISHED** and write about them. You can see previous posts using the [tag "complete-marvel-run"](/tags/complete-marvel-run). 
+This is the part 17 in my continuing insane effort to try to read **EVERY MARVEL COMIC EVER PUBLISHED** and write about them. You can see previous posts using the [tag "complete-marvel-run"](/blog/tags/complete-marvel-run). 
 
 I was originally planning to do a Captain America post next, but I wanted to read some Spider-Man. I knew for a fact that I had already read all issues of *Amazing Spider-Man*, so instead I decided to go through the entire *Spectacular Spider-Man* line of comics, starting with the run from the 70s-90s, plus some other Spider-Man stuff.
 

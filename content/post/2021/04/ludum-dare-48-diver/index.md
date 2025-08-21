@@ -39,7 +39,7 @@ For sound effects, I used another free online site [JSFXR](https://sfxr.me/). Ba
 
 For background music, a friend suggested I tried [Online Sequencer](https://onlinesequencer.net/). I tried it out for a while, banging out random notes since I knew nothing about how to compose music. I looked at a few interesting ones created by other people and tried to adjust the random notes I was banging out to better follow the patterns I saw. I still don't understand, but I was able to create a couple of tracks I was fairly happy with (they sounded like music!) which I used as BGM in the game.
 
-I also used one of my [sketchdaily](/tags/sketchdaily) attempts to generate some [splash screen/cover art](https://roytang.net/2021/04/1385956018509664263/) for the game. The final game used a slightly cleaned up and modified version of that one.
+I also used one of my [sketchdaily](/collections/sketchbook/tags/sketchdaily) attempts to generate some [splash screen/cover art](https://roytang.net/2021/04/1385956018509664263/) for the game. The final game used a slightly cleaned up and modified version of that one.
 
 I also needed a Dynamic font, since using Godot's built-in fonts didn't allow me to resize text. The Compo rules allow you to use fonts you didn't make during the jam, so I just used Xolonium-Regular from one of the Godot tutorials.
 

@@ -33,7 +33,7 @@ toc: true
 
 ### Previously
 
-This is the part 16 in my continuing insane effort to try to read **EVERY MARVEL COMIC EVER PUBLISHED** and write about them. You can see previous posts using the [tag "complete-marvel-run"](/tags/complete-marvel-run). 
+This is the part 16 in my continuing insane effort to try to read **EVERY MARVEL COMIC EVER PUBLISHED** and write about them. You can see previous posts using the [tag "complete-marvel-run"](/blog/tags/complete-marvel-run). 
 
 Life has been busy, but I wanted to get in one more entry before the year ends. This one is the second entry focused on **Hulk**. The first one can be found [here](/2022/10/incredible-hulk-new-mutants/) (written over 2 years ago!). This entry focuses on Hulk stories from around 1999 to 2008.
 

@@ -110,7 +110,7 @@ toc: true
 
 ### Previously
 
-This is the part 11 in my continuing insane effort to try to read **EVERY MARVEL COMIC EVER PUBLISHED** and write about them. You can see previous posts using the [tag "complete-marvel-run"](/tags/complete-marvel-run). This one is all about **Iron Fist**.
+This is the part 11 in my continuing insane effort to try to read **EVERY MARVEL COMIC EVER PUBLISHED** and write about them. You can see previous posts using the [tag "complete-marvel-run"](/blog/tags/complete-marvel-run). This one is all about **Iron Fist**.
 
 ### Iron Fist
 

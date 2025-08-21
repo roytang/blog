@@ -104,7 +104,7 @@ Visit the [Links page](/links/) for more links of interest.
 
 ### Media Diet
 
-I've been switching between doing ["watching lately" posts](/tags/watching-lately/) to summarize my movie/TV consumption and individual posts/notes for each item. The first one felt like it took too long before I had enough for a decent-sized post and doing individual posts/notes can be awkward because sometimes I don't have a lot to say for a single item. So maybe I'll just try including my comments in the weeknotes then?
+I've been switching between doing ["watching lately" posts](/blog/tags/watching-lately/) to summarize my movie/TV consumption and individual posts/notes for each item. The first one felt like it took too long before I had enough for a decent-sized post and doing individual posts/notes can be awkward because sometimes I don't have a lot to say for a single item. So maybe I'll just try including my comments in the weeknotes then?
 
 - #### Death on the Nile (2022)
 

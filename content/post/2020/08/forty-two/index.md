@@ -22,7 +22,7 @@ It's weird celebrating your birthday in the middle of a worldwide pandemic, when
 
 ---
 
-I've actually written quite a few of these [birthday posts](/tags/birthday/) by now, though not as regularly as I'd have liked. I read through a few of them to help me decide what to write for today (didn't really help). My favorite has to be the one with [thirty eight lessons I’ve learned through the years](/2016/08/thirty-eight/).
+I've actually written quite a few of these [birthday posts](/blog/tags/birthday/) by now, though not as regularly as I'd have liked. I read through a few of them to help me decide what to write for today (didn't really help). My favorite has to be the one with [thirty eight lessons I’ve learned through the years](/2016/08/thirty-eight/).
 
 ---
 

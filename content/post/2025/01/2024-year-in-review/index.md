@@ -150,7 +150,7 @@ Also, here's a wordcloud for 2024:
         - I wrote about 25 shows this year, down from 28 last year. A lot of them were very good! Some favorites for 2024: [Shogun](/2024/04/shoguntv/), [Gravity Falls](/2024/08/movies-tv-jun-jul-2024/#gravity-falls), [Boston Legal](/2024/12/movies-tv-oct-dec-2024/#boston-legal), [Star Trek: Lower Decks](/2024/12/movies-tv-oct-dec-2024/#star-trek-lower-decks), [Ranma 1/2](/2024/12/movies-tv-oct-dec-2024/#ranma-1-2), [Dandadan](/2024/12/movies-tv-oct-dec-2024/#dandadan).
 - **Comics**
     - I wrote about some comics this year: [the 2024 list](/lists/media/comics/2024/).
-    - [The Complete Marvel Run](/tags/complete-marvel-run): Currently up to 14.54%, from 10.24% last year. Progress is slow.
+    - [The Complete Marvel Run](/blog/tags/complete-marvel-run): Currently up to 14.54%, from 10.24% last year. Progress is slow.
     - Still true: I actually read a lot more comics than the above links imply, since I read more than I have time to write about. For Marvel, we will catch up eventually, Still need to write more about DC.
     - For non-Marvel/DC comics, my favorites this year were both by Daniel Warren Johnson: [Do A Powerbomb](/2024/03/powerbomb/) from 2023 and the current Image/Skybound **Transformers** ongoing, which I have yet to write about.
 - **Music**

@@ -35,7 +35,7 @@ On the blog: nothing last week other than the weeknotes! I do have some drafts i
     - Online: Still doing regular grinding in **Magic Arena** and **Marvel Snap**, sometimes **Eternal**. Thunder Junction quick drafts were this week, though I waited for the rank resets before proceeding. Second trophy remains elusive.
 
   
-- **Reading**: Finally finished my GotG reading this week, so I will try to get the blog post together this week. And maybe reevaluate the whole [complete marvel run plan ](/tags/complete-marvel-run/) lol. An unexpected series I binge-read this week was Rumiko Takahashi's *Maison Ikkoku*, which I last read in the late 90s probably and I think I never finished because I don't recall this ending. Now I kind of want to read like all of *Urusei Yatsura*, *Ranma*, and *Inuyasha* then do a Rumiko Takahashi reviews/appreciation post. Might take a while!
+- **Reading**: Finally finished my GotG reading this week, so I will try to get the blog post together this week. And maybe reevaluate the whole [complete marvel run plan ](/blog/tags/complete-marvel-run/) lol. An unexpected series I binge-read this week was Rumiko Takahashi's *Maison Ikkoku*, which I last read in the late 90s probably and I think I never finished because I don't recall this ending. Now I kind of want to read like all of *Urusei Yatsura*, *Ranma*, and *Inuyasha* then do a Rumiko Takahashi reviews/appreciation post. Might take a while!
 
 - **Watching**: Currently around 75% through the **Fallout** TV show, it is fine. Not much else watched this week. I only watched one movie for the whole of April!
 

@@ -14,7 +14,7 @@ It's always weird for me when people do their "year in review" or "X of the year
 
 ### Essay-writing section
 
-It's probably impossible to talk about 2020 without talking about the [Covid19 pandemic](/tags/covid19) that has ravaged the world. My country is sadly still under a state of quarantine/lockdown, I believe the world's longest. I am doing relatively well during the pandemic, nobody I know personally has been infected, and I'm not exactly averse to just staying at home all the time. Compared to other people, it has for me at worst been a minor inconvenience. For that I am grateful.
+It's probably impossible to talk about 2020 without talking about the [Covid19 pandemic](/blog/tags/covid19) that has ravaged the world. My country is sadly still under a state of quarantine/lockdown, I believe the world's longest. I am doing relatively well during the pandemic, nobody I know personally has been infected, and I'm not exactly averse to just staying at home all the time. Compared to other people, it has for me at worst been a minor inconvenience. For that I am grateful.
 
 I miss being able to go out to quiz nights or visit friends or eat at restaurants or even the occasional paper Magic tournament. We haven't been visited by my the pamangkins in a while, most contact relegated to Zoom calls. I haven't been unable to do my regular walks. Other than that my life remains relatively the same compared to last year, since any work I've done has been from home for the past couple of years. 
 

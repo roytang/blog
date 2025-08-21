@@ -32,7 +32,7 @@ I didn't help a lot with this one after the initial framing. Also, my mom insist
     - Single player: Playing a bit more of *Witcher 3* this past week, kind of just passing time until *Tears of the Kingdom* comes out. I also tried starting *Pentiment*, but couldn't really get into it yet, might try again after a while.
     - Online: **Magic Arena**, **Eternal** and **Marvel Snap** daily grinding continue as usual. Still struggling with [March of the Maching drafting](/tags/mtgmom).
 
-- **Reading**: A bit more than halfway through *Tomorrow, and Tomorrow, and Tomorrow* by Gabrielle Nevin. Still reading comics, although have pushed off the next [Complete Marvel Run](/tags/complete-marvel-run/) update for a couple of weeks now, hope to get it done this week.
+- **Reading**: A bit more than halfway through *Tomorrow, and Tomorrow, and Tomorrow* by Gabrielle Nevin. Still reading comics, although have pushed off the next [Complete Marvel Run](/blog/tags/complete-marvel-run/) update for a couple of weeks now, hope to get it done this week.
 
 - **Watching**: Still watching *The Blacklist* S10, working my way through it slowly. Watched [Guardians of the Galaxy vol 3](/2023/08/movies-may-aug-2023/#guardians-of-the-galaxy-vol-3-2023)!
 
