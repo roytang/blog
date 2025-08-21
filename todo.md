@@ -4,7 +4,10 @@
 
 - set up alias redirects? DONE
 - review dead links to notes
-- disable comment forms
+- comment submission
+  - add date field
+  - allow empty email and url
+  - process submitted data
 - topic pages
 - cleanup menu/sidebar items DONE
 - cleanup index/home

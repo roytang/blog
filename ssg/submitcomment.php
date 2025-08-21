@@ -1,5 +1,5 @@
 <?php
-if(isset($_POST['submit'])):
+if (isset($_POST['submit'])) {
     $has_errors = false;
     $errors = array();
     if(isset($_POST['h-captcha-response']) && !empty($_POST['h-captcha-response'])):
@@ -28,17 +28,13 @@ if(isset($_POST['submit'])):
         array_push($errors, $errMsg);
     endif;
 
-$email = $_POST["email"];
-if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
-  $emailErr = "Invalid email format";
-  $has_errors = true;
-  array_push($errors, $emailErr);
-}
 $url = $_POST["url"];
-if (!filter_var($url, FILTER_VALIDATE_URL)) {
-  $urlErr = "Invalid URL format";
-  $has_errors = true;
-  array_push($errors, $urlErr);
+if (isset($url) && strlen($url) > 0) {
+    if (!filter_var($url, FILTER_VALIDATE_URL)) {
+    $urlErr = "Invalid URL format";
+    $has_errors = true;
+    array_push($errors, $urlErr);
+    }
 }
 
 if ($has_errors) {
@@ -58,44 +54,46 @@ foreach ($errors as $err) {
 }
 ?>  
   </ul>
-  <p>You can click <a href="<?php echo $_POST['post_path']; ?>#comments-form">here to go back to the comment form</a> and try again.</p>
+  <p>You can click "Back" to return to the comment form and try again.</p>
   <p>Why yes, this page IS super bare-bones!</p>
 </body>
 </html>
 <?php
 } else {
 
-  // no errors, process the submission
+    // no errors, process the submission
 
-	   $new_message = array(
-	      "content" => $_POST['content'],
-	      "name" => $_POST['name'],
-	      "url" => $_POST['url'],
-	      "source_desc" => $_POST['source_desc'],
-	      "post_path" => $_POST['post_path'],
-	      "email" => $_POST['email']
-	   );
+    $newDate = date("D M d, Y G:i", $timeStamp);
+    $new_message = array(
+        "content" => $_POST['content'],
+        "name" => $_POST['name'],
+        "url" => $_POST['url'],
+        "source_desc" => $_POST['source_desc'],
+        "post_path" => $_POST['post_path'],
+        "email" => $_POST['email'],
+        "date" => $newDate
+    );
 
-     $filename = ".messages.json";
+    $filename = ".comments.json";
 
-	   if(filesize($filename) == 0){
-	      $first_record = array($new_message);
-	      $data_to_save = $first_record;
-	   }else{
-	      $old_records = json_decode(file_get_contents($filename));
-	      array_push($old_records, $new_message);
-	      $data_to_save = $old_records;
-	   }
-	 
-	   $encoded_data = json_encode($data_to_save, JSON_PRETTY_PRINT);
-	 
-	   if(!file_put_contents($filename, $encoded_data, LOCK_EX)){
-	      $testmsg = "Error storing message, please try again";
-          echo $testmsg;
-	   }else{
-	      $testmsg =  "Message is stored successfully";
-          header('Location: ' . $_POST['post_path'] . '#comment_success');
-	   }
-  }
-endif;
+    if (filesize($filename) == 0) {
+        $first_record = array($new_message);
+        $data_to_save = $first_record;
+    } else {
+        $old_records = json_decode(file_get_contents($filename));
+        array_push($old_records, $new_message);
+        $data_to_save = $old_records;
+    }
+    
+    $encoded_data = json_encode($data_to_save, JSON_PRETTY_PRINT);
+    
+    if (!file_put_contents($filename, $encoded_data, LOCK_EX)) {
+        $testmsg = "Error storing message, please try again";
+        echo $testmsg;
+    } else {
+        $testmsg =  "Message is stored successfully";
+        header('Location: ' . $_POST['post_path'] . '#comment_success');
+    }
+}
+}
 ?>
