@@ -4,6 +4,9 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1153835264982183936/
+tags:
+- dreams
+- comics
 ---
 
 I dreamt I had somehow gotten a copy of House of X #1. I might be too hyped for this book! Looking forward to what Hickman is bringing us
