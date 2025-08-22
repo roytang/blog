@@ -1,9 +1,12 @@
 ---
-title: "Aug 2025 Site Updates"
-date: 2025-08-22T07:17:28+08:00
+date: 2025-08-21 23:17:28
+dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/115069545963415463
 tags:
 - changelog
-dontinlinephotos: true
+title: Aug 2025 Site Updates
 ---
 
 I expect this is one of those blog posts that is mostly of interest to me instead of the public (isn't that all of them?), but I deployed some changes to the site last night that I wanna talk about.
