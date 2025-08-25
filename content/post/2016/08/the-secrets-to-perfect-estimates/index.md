@@ -7,6 +7,8 @@ syndicated:
   url: https://roytang.tumblr.com/post/149440457605/the-secrets-to-perfect-estimates
 - type: twitter
   url: https://twitter.com/roytang/statuses/768623831711903745/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10161001674903912
 tags:
 - Software Development
 title: The Secrets to Perfect Estimates

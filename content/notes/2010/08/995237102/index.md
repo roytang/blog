@@ -8,6 +8,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/21869425176/
 - type: plurk
   url: https://plurk.com/p/73l0um
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10160940132588912
 tags:
 - answers
 - asks
