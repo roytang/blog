@@ -9,6 +9,8 @@ source: twitter
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/16190422551/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/112153902164230
 tags:
 - gaming
 - games

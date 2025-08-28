@@ -11,6 +11,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/179372618039
 - type: tumblr
   url: https://roytang.tumblr.com/post/552465073/super-street-fighter-iv
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10160935434358912
 - type: twitter
   url: https://twitter.com/roytang/statuses/15284205550/
 - type: twitter
@@ -122,6 +124,8 @@ Looks like the 99 cents for SF4 on the iPad was well-spent. It plays pretty well
 <time>[2010-04-27 11:48] </time> Purchased Super Street Fighter IV!
 
 {{% photos 552465073 %}}
+
+[Comments](#comment-275800fe-0e07-4669-b658-49db8eae82f2)
 
 ---
 
