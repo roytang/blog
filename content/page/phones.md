@@ -3,6 +3,8 @@ title: "My Mobile Phone History"
 date: 2024-06-04T20:51:00+08:00
 tags:
 - phones
+aliases:
+- /topics/phones/
 ---
 
 <style>

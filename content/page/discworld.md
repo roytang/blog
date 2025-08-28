@@ -4,6 +4,8 @@ date: 2022-03-15
 tags:
 - books 
 - discworld
+aliases:
+- /topics/discworld/
 ---
 
 Discworld series is a fantasy comedy series by Terry Pratchett.

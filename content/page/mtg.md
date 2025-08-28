@@ -6,6 +6,8 @@ tags:
 - magic the gathering
 - magicarena
 toc: true
+aliases:
+- /topics/mtg/
 ---
 
 I know, I know this page layout could use a lot of work.
