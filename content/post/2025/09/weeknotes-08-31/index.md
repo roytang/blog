@@ -19,6 +19,7 @@ Rumors spread of Trump's demise. That turned out to be wishful thinking, unfortu
 
 - My week was kind of boring and uneventful, and I spent most of it at home. I did get to focus on some backlogged tasks I've had for a while and made some real progress! These are things that only matter to me.
 - No other blog posts this past week.
+- My trivia bot has been dead for a while, so I let the domain (triviastorm.net) expire yesterday. The website content has been migrated to https://trivia.roytang.net
 
 ### Media Diet
 
