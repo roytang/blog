@@ -9,6 +9,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/22464226784/
 - type: plurk
   url: https://plurk.com/p/78slf6
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10160940306413912
 tags:
 - wallpaper
 ---
