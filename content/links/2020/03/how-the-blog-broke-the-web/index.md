@@ -13,4 +13,6 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/103788774058688951
 - type: twitter
   url: https://twitter.com/roytang/statuses/1236715852231086081/
+tags:
+- blogging
 ---

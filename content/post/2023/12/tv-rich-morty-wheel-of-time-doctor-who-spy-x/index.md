@@ -4,7 +4,7 @@ dontinlinephotos: true
 resources:
 - alt: Even You've Got Mail beings with Tom Hanks killing that cop.
   src: rm-mail.png
-  title: Rick is an export on rom-coms
+  title: Rick is an expert on rom-coms
 - alt: I'm a cool-headed spy. I must not let my emotions show.
   src: spyx.png
   title: Cool-headed spy.
@@ -46,7 +46,7 @@ Minor spoilers here and there maybe.
 
 It's season 7, so by now we should all be aware of the kind of nonsense Rick and Morty brings us, but I still found a number of the eps enjoyable. The ep that stuck in my head the most was the "Fear Hole" episode, but that just might be receny bias. The continuing saga of Evil Morty and Rick Prime is always welcome (continuity), the spaghetti episode was quite disturbing for a spaghetti enjoyer like me, I enjoyed the random Total Recall and Taken references in "Wet Kuat Amortican Summer", the Numbericons sequel was silly fun, etc
 
-I must note that in this season they replaced Justin Roiland the new VAs for Rick and Morty didn't miss, I did not feel like the voice are any different.
+I must note that in this season they replaced Justin Roiland the new VAs for Rick and Morty didn't miss, I did not feel like the voices are any different.
 
 Also I realized this is the first time I'm actually reviewing a Rick and Morty season even though I've pretty much watched the show since the start. I generally find the show to be a fun romp and enjoy the continuity-heavy eps. It feels like a more insane version of Futurama maybe? I do understand there has been some toxicity problems with the show's fandom though, mostly among people who somehow idolize Rick's more idiotic leanings (kind of like the people who idolize Homelander for some reason?!?), but the show itself is fine.
 
