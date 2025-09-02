@@ -1,7 +1,6 @@
 ---
-date: 2025-09-02 12:48:46+08:00
+date: 2025-09-02 04:48:46
 dontinlinephotos: true
-toc: true
 resources:
 - src: b99-Screenshot 2025-08-19 234042.png
   title: Captain Holt on video games
@@ -133,7 +132,7 @@ reviews:
   title: Rick and Morty S8
   year: '2025'
 - date: '2025-08-24'
-  description: 'Rewatch'
+  description: Rewatch
   hashtag: brooklyn-nine-nine-rewatch
   media: tv
   rating: 5.0
@@ -165,11 +164,14 @@ syndicated:
   url: https://letterboxd.com/hungryroy/film/superman-2025/
 - type: letterboxd
   url: https://letterboxd.com/hungryroy/film/sunshine-2007/
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/115133614973168103
 tags:
 - movies
 - tv
 - watching-lately
 title: Movies / TV - July & August 2025
+toc: true
 ---
 
 ### Movies
