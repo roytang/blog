@@ -1,7 +1,6 @@
 ---
 date: 2025-09-08T12:52:15+08:00
 dontinlinephotos: true
-syndicated:
 tags:
 - weeknotes
 title: Weeknotes 2025-09-07
