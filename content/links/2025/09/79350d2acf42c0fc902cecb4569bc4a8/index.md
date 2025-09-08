@@ -14,4 +14,4 @@ title: An ode to “via” | Multiline Comment
 
 > "“Via” is a tip of the hat, a nod of acknowledgement. It’s the original recommendation engine, an algorithm without the algorithm: “if you enjoyed this link, there’s a good chance you’ll find more to like over this way.”"
 
-(via ashur@front-end.social)
+(via [ashur@front-end.social](https://front-end.social/@ashur))
