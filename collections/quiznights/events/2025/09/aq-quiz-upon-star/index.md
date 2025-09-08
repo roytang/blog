@@ -9,7 +9,7 @@ title: 'When You Quiz Upon A Star: A Quiz Night About Disney'
 
 We attended [When You Quiz Upon A Star: A Quiz Night About Disney](https://www.facebook.com/events/1326938032108865/) at a new location, Gran Moshi Koshi at Vertis North.
 
-This one was an 8-rounder with 2 power-ups! Round breakdown:
+Round breakdown:
 
 - 🐭 Disney Channel: 6pts
 - ⭐️ Disney Stars: 9pts
