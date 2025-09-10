@@ -21,4 +21,4 @@ Round breakdown:
 
 We won! We got kind of lucky with the Pabibo round because we apparently misheard the score summaries or something. We only wagered 2 because we thought we were out of reach! If the 2nd place team had wagered 10pts and got it they would have beat us. 
 
-Photos c/o [Gran Moshi Koshi of Tokyo](https://www.facebook.com/GranMoshiKoshi/posts/651876394610830)
+Photos c/o [Gran Moshi Koshi of Tokyo](https://www.facebook.com/GranMoshiKoshi/posts/651876394610830) and [About Quiz PH](https://www.facebook.com/AboutQuizPH/posts/763643162955127)

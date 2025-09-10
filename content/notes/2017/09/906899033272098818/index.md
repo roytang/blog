@@ -6,6 +6,8 @@ syndicated:
   url: https://twitter.com/roytang/statuses/906899033272098818/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156022475968912
+tags:
+- lifeprotips
 ---
 
 Just because a risk pays off once doesn't mean it's a good idea
