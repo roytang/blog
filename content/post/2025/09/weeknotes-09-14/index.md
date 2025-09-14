@@ -1,9 +1,12 @@
 ---
+date: 2025-09-14 04:50:02
+dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/115201210337794039
 tags:
 - weeknotes
 title: Weeknotes 2025-09-14
-date: 2025-09-14T12:50:02+08:00
-dontinlinephotos: true
 toc: true
 ---
 
