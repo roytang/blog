@@ -29,7 +29,7 @@ These weeknotes are once again coming in a day late because I was busy yesterday
 #### Watching
 
 - Ongoing: **Dandadan S2**, **Sakamoto Days S2**, **Star Trek: Strange New Worlds S3**, **Superman The Animated Series**, **Peacemaker S2**, **Poker Face**, **Young Sheldon**. Lol I am watching a lot, it's a bit hard to keep up. And *High Potential S2* releases soon!
-- Movies: Watched a few this week: No new movies this week.
+- Movies: No new movies this week.
 
 #### Gaming
 
