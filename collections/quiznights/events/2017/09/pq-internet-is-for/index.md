@@ -14,3 +14,5 @@ Attendance: Me, Jaime, PPG, Brian.
 We failed the ace question in round 6 which was: `the ff cartoons have porn parodied except for Pokemon, adventure time, ppg, spongebob SquarePants`
 
 We finished 6th place/2nd from last with a mere 40pts!
+
+Photos c/o [PopQuizPH](https://www.facebook.com/media/set/?set=a.712204272311324&type=3)

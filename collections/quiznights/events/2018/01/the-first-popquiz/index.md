@@ -20,4 +20,4 @@ Round breakdwown:
 - Round 7: Chapter One - 8pts
 - Round 8: One Hit Wonders - 5pts
 
-We finished 2nd from last!
+We finished 11th place/2nd from last!
