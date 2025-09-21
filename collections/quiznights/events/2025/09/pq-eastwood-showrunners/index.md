@@ -5,7 +5,7 @@ tags:
 - quiznight
 - popquiz
 - '2025'
-title: Pop QUIZ! a Back-to-School themed Trivia Night
+title: "PopQuiz x Eastwood City Food Park: TV Showrunners Trivia Night"
 ---
 
 We attended [PopQuiz x Eastwood City Food Park: TV Showrunners Trivia Night](https://www.facebook.com/events/675736345552811) at Eastwood Food Park.
