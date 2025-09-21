@@ -1,6 +1,9 @@
 ---
-date: 2025-09-21T15:37:21+08:00
+date: 2025-09-21 07:37:21
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/115241268459587074
 tags:
 - weeknotes
 title: Weeknotes 2025-09-21
