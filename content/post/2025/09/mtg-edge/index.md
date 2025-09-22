@@ -1,5 +1,5 @@
 ---
-date: 2025-09-22T15:46:10+08:00
+date: 2025-09-22 07:46:10
 dontinlinephotos: true
 resources:
 - src: pd0823-trophy.jpg
@@ -10,6 +10,9 @@ resources:
   title: Quick Draft 08/18 Trophy (UWg)
 - src: qd0906-trophy.jpg
   title: Quick Draft 09/06 Trophy (UGbr)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/115247256641887668
 tags:
 - mtg
 - limited
