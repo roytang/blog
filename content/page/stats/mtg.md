@@ -78,7 +78,8 @@ In March 2022, I made a "limited recap" post for Kamigawa Neon Dynasty, collatin
 
 | Set | Recap Date | Events | Win | Loss | Total | Winrate |
 | --- | --- | --- | --- | --- | --- |  --- | 
-| ALL | Aug 2025  | 546 | 1774 | 1524 | 3298 | 0.5379 |
+| ALL | Sep 2025 | 574 | 1875 | 1602 | 3477 | 0.5393 |
+| [Edge of Eternities](/2025/09/mtg-edge/) | Sep 2025 |  28 | 101 | 78 | 179 | 0.5642 | 
 | [Final Fantasy](/2025/08/mtg-final-fantasy/) | Aug 2025 |  59 | 180 | 170 | 350 | 0.5143 | 
 | [Tarkir Dragonstorm](/2025/06/mtg-dragonstorm/) | Jun 2025 | 35 | 96 | 103 | 199 | 0.4824 |
 | [Aetherdrift](/2025/04/mtg-aetherdrift/) | Apr 2025 | 21 | 80 | 61 | 141 | 0.5674 |
