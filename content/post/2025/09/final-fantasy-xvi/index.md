@@ -1,5 +1,5 @@
 ---
-date: 2025-09-26T15:08:01+08:00
+date: 2025-09-26 07:08:01
 reviews:
 - description: ''
   media: games
@@ -7,11 +7,14 @@ reviews:
   - steam
   rating: 3.0
   title: Final Fantasy XVI (Steam)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/115275276021369325
 tags:
 - Gaming
 - games
 - final-fantasy
-title: 'Final Fantasy XVI'
+title: Final Fantasy XVI
 ---
 
 Since I don't have a PS5, *Final Fantasy XVI* is the first game of the franchise I played on PC (via Steam). The game came out in 2023, so this is also the first time I am playing an FF game so far from its release day since I started buying them myself. This review will have spoilers, suitably marked.
@@ -74,4 +77,3 @@ The game isn't bad per se. It just doesn't feel like the sort of game I want to 
 I'm gonna uninstall it right after I post this review, because it also takes up way too much space!
 
 ### Photo Dump
-
