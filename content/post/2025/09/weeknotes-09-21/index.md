@@ -8,6 +8,7 @@ tags:
 - weeknotes
 title: Weeknotes 2025-09-21
 toc: true
+steps: 60433
 ---
 
 ### The World
@@ -33,7 +34,7 @@ The main reason I like to include a "The World" section in these weeknotes is so
 
 #### Watching
 
-- Ongoing: , **Sakamoto Days S2**, **Superman The Animated Series**, **Peacemaker S2**, **Young Sheldon**, **Only Murders In The Building S5**.
+- Ongoing: **Sakamoto Days S2**, **Superman The Animated Series**, **Peacemaker S2**, **Young Sheldon**, **Only Murders In The Building S5**.
 - Finished: **Dandadan S2**.
 - Started: **High Potential S2** via Disney+.
 - Movies: No new movies this week still.

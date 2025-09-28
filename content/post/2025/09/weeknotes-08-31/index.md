@@ -8,6 +8,7 @@ tags:
 - weeknotes
 title: Weeknotes 2025-08-31
 toc: true
+steps: 50356
 ---
 
 Unfortunately, it is September. That means the start of Christmas season over here. Jose Mari Chan is once again on the prowl. These weeknotes coming in a day late because I was busy yesterday.

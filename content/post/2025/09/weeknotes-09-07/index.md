@@ -8,6 +8,7 @@ tags:
 - weeknotes
 title: Weeknotes 2025-09-07
 toc: true
+steps: 59157
 ---
 
 These weeknotes are once again coming in a day late because I was busy yesterday.

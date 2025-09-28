@@ -8,6 +8,7 @@ tags:
 - weeknotes
 title: Weeknotes 2025-09-14
 toc: true
+steps: 52096
 ---
 
 ### The World
