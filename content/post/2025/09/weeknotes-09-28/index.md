@@ -36,7 +36,7 @@ Locally, we were hit with a supertyphoon early in the week, one of the strongest
 #### Watching
 
 - Finished: **Young Sheldon**. The show has been a convenient background watch while playing Silksong, to the detriment of all the other shows below.
-- Ongoing: **Sakamoto Days S2**, **Superman The Animated Series**, **Peacemaker S2**, **Young Sheldon**, **Only Murders In The Building S5**, **High Potential S2**.
+- Ongoing: **Sakamoto Days S2**, **Superman The Animated Series**, **Peacemaker S2**, **Only Murders In The Building S5**, **High Potential S2**.
 - Movies: No new movies this week still.
 
 #### Gaming
