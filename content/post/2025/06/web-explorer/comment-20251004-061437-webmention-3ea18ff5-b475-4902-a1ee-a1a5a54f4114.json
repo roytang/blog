@@ -1,0 +1,30 @@
+{
+  "id": "3ea18ff5-b475-4902-a1ee-a1a5a54f4114",
+  "name": "bojidar-bg.dev",
+  "url": "https://bojidar-bg.dev/blog/2025-10-03-small-web-contact/",
+  "text": "Mentioned by https://bojidar-bg.dev/blog/2025-10-03-small-web-contact/",
+  "date": "2025-10-04 06:14:37 +0800",
+  "photo": null,
+  "source_url": "https://bojidar-bg.dev/blog/2025-10-03-small-web-contact/",
+  "source": "webmention",
+  "spam": false,
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "",
+      "photo": "",
+      "url": ""
+    },
+    "url": "https://bojidar-bg.dev/blog/2025-10-03-small-web-contact/",
+    "published": null,
+    "wm-received": "2025-10-03T22:14:37Z",
+    "wm-id": 1944524,
+    "wm-source": "https://bojidar-bg.dev/blog/2025-10-03-small-web-contact/",
+    "wm-target": "https://roytang.net/2025/06/web-explorer/",
+    "wm-protocol": "webmention",
+    "mention-of": "https://roytang.net/2025/06/web-explorer/",
+    "wm-property": "mention-of",
+    "wm-private": false
+  }
+}
