@@ -1,5 +1,5 @@
 [params]
     rootPath = "collections/"
     staticRoot = "http://localhost/repos/blog/static/"
-    mainRoot = "http://localhost:8000/"
+    mainRoot = "http://localhost/"
     jsincludes = ["https://code.jquery.com/jquery-3.7.1.min.js", "http://localhost/repos/blog/static/js/jquery.photobox.js", "http://localhost/repos/blog/static/js/exhale.js"]

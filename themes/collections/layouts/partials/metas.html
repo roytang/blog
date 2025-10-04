@@ -80,7 +80,7 @@
 <link href='{{ with .OutputFormats.Get "jsonfeed" }}{{ .RelPermalink }}{{ end }}' rel="alternate" type="application/json" title="{{ .Title }} JSON Feed" />
 <link href='{{ with .OutputFormats.Get "hfeed" }}{{ .RelPermalink }}{{ end }}' rel="feed" type="application/html" title="{{ .Title }} H-Feed" />
 {{ end }}
-<link rel="canonical" href="{{ .Permalink }}" />
+<link rel="canonical" href="{{ .Site.BaseURL }}{{ .Site.Params.rootPath }}{{ .Site.Params.collection_name }}/{{ replace .Permalink .Site.BaseURL "" }}" />
 
 <link href='{{ .Site.Params.staticRoot }}img/profile.jpg' rel="icon">
 {{ with .Site.Params.themecolor }}
