@@ -1,10 +1,13 @@
 ---
-date: 2025-10-04T14:45:17+08:00
+date: 2025-10-04 06:45:17
 reviews:
 - media: books
   rating: 4.0
   title: Artificial Condition by Wells, Martha
   year: 2018
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/115316306956640857
 tags:
 - books
 - murderbotdiaries
