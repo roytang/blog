@@ -1,11 +1,14 @@
 ---
-date: 2025-10-05T21:47:47+08:00
+date: 2025-10-05 13:47:47
 dontinlinephotos: true
+steps: 54885
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/115322698218942927
 tags:
 - weeknotes
 title: Weeknotes 2025-10-05
 toc: true
-steps: 54885
 ---
 
 It is October! Spooky!
