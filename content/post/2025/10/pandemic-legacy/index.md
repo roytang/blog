@@ -1,9 +1,12 @@
 ---
-title: "Pandemic Legacy (Season 1)"
-date: 2025-10-10T16:42:45+08:00
+date: 2025-10-10 08:42:45
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/115349495924395213
 tags:
 - gaming
 - boardgames
+title: Pandemic Legacy (Season 1)
 ---
 
 We've been hanging out with a *balikbayan* friend the last couple of weeks and he brought over his copy of *Pandemic Legacy* that he's had since before COVID, mostly because he wanted to play it and get rid of it already.
