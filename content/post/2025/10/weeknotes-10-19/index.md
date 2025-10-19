@@ -1,7 +1,10 @@
 ---
-date: 2025-10-19T15:14:04+08:00
+date: 2025-10-19 07:14:04
 dontinlinephotos: true
 steps: 61306
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/115401335028108787
 tags:
 - weeknotes
 title: Weeknotes 2025-10-19
