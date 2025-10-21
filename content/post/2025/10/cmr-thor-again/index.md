@@ -86,7 +86,7 @@ Dan Jurgens' run ended with #79. The last 6 issues of this book sees Thor facing
 
 #### Thor v3 (2007)
 
-35 issues: #1-12, #600-621, Giant-Size Finale
+36 issues: #1-12, #600-621, #620.1, Giant-Size Finale
 
 The first half of this volume (up to #603) was by Straczynski. It features Thor coming back from the nothingness he was in after he ended the Ragnarok cycle in the previous book. Notably, Thor chose to rebuild Asgard in Broxton, Oklahoma, the start of a long period with which the town would be associated with Asgard. Thor also spent some time bringing back all the Asgardians who had become trapped in mortal lives (shades of the Lost Gods storyline from JiM v3!).
 
@@ -96,136 +96,100 @@ Loki is the main antagonist of this run, revealing Baldur was one of Odin's sons
 
 I read this run back in the day and my favorite thing about it is that this was my first introduction to one of my current favorite Marvel artists: Olivier Coipel! His line work is just fantastic, which made these issues a joy to re-read. Still no idea how to pronounce his name though.
 
-#### Captain America and ... (2011)
+The "Giant-Size Finale" one-shot was a wrap-up for Straz's run.
 
-22 issues: 
+#604-614 were written by Kieron Gillen. His issues mostly involve the tie-ins to the *Siege* event and dealing with the aftermath of Straz's run. Notable introduction here would be the much-feared Disir, whom the Asgardians dare not even name, and would be involved in many more plots to come.
 
-- Captain America and Bucky #620-628
-- Captain America and Hawkeye #629-632
-- Captain America and Iron Man #633-635
-- Captain America and Namor #635.1
-- Captain America and Black Widow #636-640
+#615-621 were written by Matt Fraction, leading up to the eventual relaunch as *The Mighty Thor v1*
 
-It infuriates me to no end that this set of team-up books continues the numbering from v6, yet v7 is the one to follow the legacy numbering. I think Brubaker was involved in the first few arcs (the Bucky ones?) Starting from "... and Hawkeye", Cullen Bunn took over writing duties and there is an overarching storyline about a multiversal villain named Kashmir Vennema who formed a corporation with her multiversal variants.
+### Siege (2010)
 
-#### Captain America v7 (2011)
+The *Siege* event was primarily architected by Brian Michael Bendis and was the culmination of his era-defining Avengers runs starting all the way back from *Avengers Disassembled* and the event ends Norman Osborn's *Dark Reign* era. This event seems Osborn's HAMMER try to take down Asgard in Broxton. The inciting event involved Volstagg manipulated into the same kind of disaster that started *Civil War*.
 
-19 issues.
+Main series: 4 issues
 
-As mentioned above, the legacy numbering continues with this reboot volume, still by Brubaker and with Steve serving as Captain America once again. This volume is still okay, though the previous one is much better. I do like that Brubaker brought back Diamondback (Rachel Leighton), who is one of my favorite Captain America supporting characters (too bad she was cut out of [Brave New World](/2025/04/movies-tv-1q/#captain-america-brave-new-world-2025)!)
+The main series is drawn by Olivier Copiel, which I loved.
 
-### The Spencer Era
+One-shots and mini-series (total 12 issues):
 
-Alright, now we skip ahead a couple of years to Nick Spencer's era. The intervening years were covered by [my review of Rick Remender's run](/2023/01/marvel-run-3-captain-america-etc/#captain-america-v8-2013-2014) in a previous post. That volume ends with Captain America being re-aged and losing his Super Soldier Serum powers and deciding to turn the mantle of Captain America over to Sam Wilson.
+- Siege: The Cabal (1 issue)
+- Origins of Siege (1 issue)
+- Siege: Storming Asgard: Heroes & Villains (1 issue): Profiles book
+- Siege: Embedded (4 issues): This was a fun one where Ben Urich's Frontline got to travel with and interview Volstagg who was blamed for the Siege.
+- Siege: Captain America (1 issue)
+- Siege: Spider-Man (1 issue)
+- Siege: Loki (1 issue)
+- Siege: Young Avengers (1 issue)
+- Siege: Secret Warriors (1 issue)
 
-Overall, Spencer's era was okay, though not as good as Brubaker's I think. The highlight of this era was the introduction of an evil, Hydra-aligned version of Captain America/Steve Rogers in Secret Empire.
+*Siege* ends with Loki despite all his machinations giving up his life to give Thor a chance to defeat The Sentry/The Void, and the destruction of Asgard in Broxton. The victory here also resulted in public opinion coming back to the heroes side and the repeal of the Superhuman Registration Act from *Civil War*, leading in to the *Heroic Age* imprint.
 
-#### Captain America: Sam Wilson (2015)
+### Post-Siege
 
-24 issues
+#### The Mighty Thor v1 (2011)
 
-{{< photos 1586 >}}
+#### Journey Into Mystery v4 (2011)
 
-This is Sam's first volume as Captain America! And to say he faces a lot of challenges as a black man taking over the role is an understatement - a good part of the volume has the Red Skull (of course he is back!) stirring up public sentiment against Sam in the new role. A lot of racism and immigration issues are involved of course. This volume has the first appearance of Joaquin Torres as the Falcon, who is the victim of genetic manipulation by Karl Malus. Things come to a head after Steve Rogers is repowered (see Avengers Standoff below), and there is a public outcry that Sam "give back the shield". The volume ends with tie-ins to the Secret Empire event (see below).
+35 issues: #622-655, 626.1 
 
-#### Avengers Standoff (2016)
+*(Still following the Thor numbering, even though it's not officially part of the Thor legacy numbering. It's maddening!)*
 
-Three one-shots that aren't part of other series:
+Probably my favorite volume of this set. Written by Kieron Gillen up to #645, the series primarily features Kid Loki, trying to do right to escape from his evil past incarnation. The volume starts right in the middle of *Fear Itself* (see below), and follows Loki as he plots and schemes and wheels and deals to help his brother defeat the big bad. After the event, Loki's schemes start to unravel and he has to deal with the consequences.
 
-- Avengers Standoff: Welcome to Pleasant Hill #1
-- Avengers Standoff: Assault on Pleasant Hill Alpha #1
-- Avengers Standoff: Assault on Pleasant Hill Omega #1
+Notable introductions: 
 
-This crossover centered around Pleasant Hill, seemingly a small idyllic town in rural America, but in reality a prison for super criminals run by SHIELD. Maria Hill has used a living cosmic cube named Kobik to trap the supervillains in mundane lifestyles with no memory of their past selves. All hell breaks loose when Helmut Zemo and some other prisoners manage to regain their memory and take the town hostage. This is a relatively small crossover event that ties-in to the Avengers and Captain America: Sam Wilson books.
+- Thori, a Hel-hound sired to Garm and the Hel-Wolf.
+- Leah, a servant of Hela and eventually Loki's BFF as she helps him with his schemes. Their chemistry and interactions were great.
 
-The most important consequence in this crossover is that Kobik restores Steve Rogers to his prime age, but also secretly rewrites his history because she was manipulated by the Red Skull (see below).
+Gillen's run ends with the *Everything Burns* crossover, and the remaining ten issues of the volume are two Sif-focused story arcs. The story is about Sif becoming a Berserker, but isn't especially memorable. However I remain fond of these stories because this was the first time I encountered another one of my favorite artists: Valerio Schiti.
 
-#### Captain America: Steve Rogers (2016)
+{{% collections-embed comics 179262573784 %}}
 
-19 issues
+### Fear Itself (2011)
 
-{{< photos 1587 >}}
+*Fear Itself* was a crossover event leaning heavily on Captain America and Thor villains. It centers around Sin (the Red Skull's Daughter), releasing the Serpent, an ancient enemy of Odin and the God of Fear. The Serpent summons seven powerful hammers that land on Earth and transform seven characters into the Serpent's Worthy, who proceed to sow chaos and destruction in order to spread fear and increase the Serpent's power. Odin threatens to lay waste to Midgard to defeat the Serpent, and Thor is prophesized to give his life to defeat the Serpent.
 
-The first issue of this new volume ends with the shocking reveal that Steve Rogers is Hydra! Serving once again as Captain America in parallel to Steve Rogers (albeit using a different non-round shield), this Steve Rogers is revealed to have been raised as a Hydra agent from a young age and sent in to become Captain America as a sleeper agent. In his "timeline" (created by Kobik), the Nazis and Hydra were about to win the war when the allies rewrote reality with a cosmic cube, allegedly resulting in the 616. Now convinced he has to bring back that "superior" Hydra reality, he first works to overthrow his handler The Red Skull, before setting into motion the events of Secret Empire.
+Main series: 7 issues
 
-#### Captain America v9 (2017)
+The main series is drawn by Stuart Immonen, another one of my favorite artists.
 
-1 issue. Officially this is Captain America #25, continuing the numbering from Sam's series above.
+One-shots and mini-series (total 66 (!!) issues):
 
-#### Secret Empire (2017)
+This event had a TON of one-shots and miniseries, and I suspect it was the worst event Marvel has ever done in that regard. (More tie-ins means the whole event is harder to follow). That said, most of the minis mostly stand alone, depicting how various characters are dealing with *Fear Itself*.
 
-Main title: 10 issues
-Side titles:
+- Fear Itself: Book of the Skull (1 issue) - prologue book
+- Fear Itself: Black Widow (1 issue)
+- Fear Itself: Deadpool (3 issues)
+- Fear Itself: The Deep (4 issue)
+- Fear Itself: FF (1 issue)
+- Fear Itself: Fearsome Four (4 issues)
+- Fear Itself: Fellowship of Fear (1 issue)
+- Fear Itself: The Home Front (7 issues)
+- Fear Itself: Hulk Vs. Dracula (3 issues)
+- Fear Itself: The Monkey King (1 issue)
+- Fear Itself: Sin's Past (1 issue)
+- Fear Itself: Spider-Man (3 issues)
+- Fear Itself: Spotlight (1 issue)
+- Fear Itself: Uncanny X-Force (3 issues)
+- Fear Itself: Youth in Revolt (6 issues)
+- Fear Itself: The Worthy (1 issue)
+- Fear Itself: Wolverine (3 issues)
+- Fear Itself #7.1: Captain America (1 issue) - aftermath book
+- Fear Itself #7.2: Thor (1 issue) - aftermath book
+- Fear Itself #7.3: Iron Man (1 issue) - aftermath book
+- Battle Scars (6 issue) - aftermath book
+- Fear Itself: The Fearless (12 issues) - aftermath book by Cullen Bunn featuring Valkyrie tracking down the Serpent's hammers as they are property of Asgard, with Sin and Crossbones as antagonists. This is a lead-in to Bunn's 2013 book *Fearless Defenders* book featuring Valkyrie and other female heroes.
+- Fear Itself Sketchbook (1 issue)
 
-- Secret Empire: Brave New World #1–5
-- Secret Empire: Underground #1
-- Secret Empire: United #1
-- Secret Empire: Uprising #1
-- Secret Empire Omega
+The event itself was kind of meh. They did use it as an excuse to change the status quo for some heroes. Notably Bucky was publicly declared dead during this event and Steve took up the Captain America mantle again.
 
-I did read the main title for this event back in the day, probably not the side titles though. I did remember enjoying it, but I feel like I appreciate it all the more right now having read the build-up in the 2 Captain America series prior to the event. The entire plan of stranding the heavy hitters outside the planetary shield and the street-level heroes in New York under a darkforce dome while Hydra Cap takes over everywhere else was pretty good. If you wanna read the side stories, I guess Brave New World is the most important one.
+### Post-Aaron
 
-At the end of the event, the original Steve Rogers is brought back from Kobik's memories and he takes down Hydra Cap in a televised battle, but his reputation remains tarnished. Hydra Cap sticks around in the 616 to wreak havoc again later!
+It's funny how many years passed during Aaron's run. The man wrote like 8-9 years worth of Thor!
 
-### Post Secret Empire
+#### Thor v6 (2020)
 
-#### Captain America v10 (2017)
-
-10 issues: #695-704
-
-This short run by Mark Waid consisted of 3 short story arcs. The run was okay, starting off with Cap facing off against white supremacists, then time travel shenanigans. My favorite is the last story arc which follows the adventures of one of Steve Rogers' descendants who faces a corrupt government and the return of the Red Skull (same old same old!)
-
-#### Captain America v11 (2018)
-
-+5 issues.
-
-Already covered in [the previous post](/2023/01/marvel-run-3-captain-america-etc/#captain-america-v11-2018-2021), BUT I found out the issue count there is wrong. The run is 30 issues instead of 25 mentioned in the previous post. So I am adding +5 issues here just to correct my count.
-
-#### Captain America v12 (2022)
-
-1 issue: #0
-
-This was a one-shot where Steve and Sam team-up to stop one of Armin Zola's mad schemes. At the end of it, they agree that they can both be Captain America. (I am not sure where the second shield comes from!). This issue kicks off two parallel series, one each for Sam and Steve.
-
-#### Captain America: Symbol of Truth (2022)
-
-14 issues
-
-Symbol of Truth is written by Tochi Onyebuch and focuses on Sam as Captain America. His primary antagonist is The White Wolf, adopted brother of Black Panther. Supporting characters include Misty Knight, Joaquin Torres, and Ian Rogers (Nomad).
-
-This series and Sentinel of Liberty below conclude with the Cold War crossover in issues #12 and #13, but Sam gets an extra #14 issue to wrap things up.
-
-Presumably Sam is the "primary" Captain America, so this series gets the legacy numbering instead of the other one. #14 is LGY#749
-
-#### Captain America: Sentinel of Liberty v2 (2022)
-
-13 issues
-
-This is the second Sentinel of Liberty volume; the first one was post-Heroes Reborn by Mark Waid and I will cover that some other time (too many titles in this post already!) This one is written by Collin Kelly and Jackson Lanzing.
-
-In this volume, Steve and supporting characters Sharon Carter and Bucky Barnes investigate a shadowy cabal called The Outer Circle that have been manipulating world events throughout history. Heading into the Cold War crossover, Bucky has taken on the mantle of The Revolution, one of the Outer Circle's agents, and plans to dismantle them from the inside.
-
-#### One-Shots
-
-- Captain America Cold War Alpha
-- Captain America Cold War omega
-- Captain America Finale
-
-The Cold War crossover sees Steve and Sam team-up to fight the apparent collaboration between White Wolf and Bucky Barnes as The Revolution. Bucky installs White Wolf as ruler of Dimension Z and kidnaps Ian Rogers to bring him there, luring the Captains America to a final showdown. In the end, it was revealed that Bucky had an overly complicated plot to defeat the Outer Circle and install Ian as the ruler of Dimension Z, relying on Steve and Sam to defeat White Wolf's army. At the end of it, Sharon takes on the mantle of The Destroyer in memory of their former ally Roger Aubrey.
-
-*Finale* wraps up the Outer Circle loose ends and concludes the Century Game (kind of serving as an epilogue to *Sentinel of Liberty*, Kelly and Lanzing's equivalent to *Symbol of Truth's* #14)
-
-#### Captain America v13 (2023)
-
-1 issue: #750
-
-This a one-shot anthology issue wrapping up the 2 parallel Captain America series and the Cold War event. (Takes place before Captain America Finale)
-
-#### Captain America v14 (2023)
-
-16 issues
-
-A short volume by Straczynski focused on Steve Rogers, mostly dealing with supernatural stuff. Honestly kind of forgettable. Ends with a team-up with Spider-Man and Thor to restore the city of Broxton. Ends with LGY#766
+#### Immortal Thor v1 (2023)
 
 ### Wrapping Up
 
