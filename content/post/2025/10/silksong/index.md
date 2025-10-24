@@ -1,12 +1,13 @@
 ---
 date: 2025-10-21 05:35:53
+dontinlinephotos: true
 resources:
 - src: achievements.png
-  title: '45/52 achievements done. Spoilery descriptions redacted.'
+  title: 45/52 achievements done. Spoilery descriptions redacted.
 - src: completion_Hollow Knight_ Silksong 03_10_2025 10_04_22 pm.png
-  title: 'Initial credits roll (Act 2 finish) at 66h'
+  title: Initial credits roll (Act 2 finish) at 66h
 - src: completion_Hollow Knight_ Silksong 15_10_2025 11_28_22 am.png
-  title: 'True Ending (100% completion) at 89h'
+  title: True Ending (100% completion) at 89h
 reviews:
 - description: Absolutely brutal, but worth it.
   media: games
@@ -14,11 +15,13 @@ reviews:
   - pcgamepass
   rating: 5.0
   title: 'Hollow Knight: Silksong (PC Game Pass)'
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/115411371537807565
 tags:
 - games
 - gaming
 title: 'Hollow Knight: Silksong'
-dontinlinephotos: true
 ---
 
 It has been more than 6 years since I played through [Hollow Knight](/2019/02/hollow-knight/)! Around that time the sequel *Silksong* had just been announced, so it took over half a decade for them to get it done! I wasn't initially planning to play this immediately, but it was out on PC Game Pass so I jumped at the chance. 
