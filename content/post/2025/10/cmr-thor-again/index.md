@@ -128,6 +128,8 @@ One-shots and mini-series (total 12 issues):
 
 #### The Mighty Thor v1 (2011)
 
+This volume ends with the *Everything Burns* crossover with Journey Into Mystery (see below). At the end of it, Odin and Freyja conceived a daughter, Laussa Odinsdotter. She would later become relevant during Aaron's *War of the Realms* and the last arc of Thor v6.
+
 #### Journey Into Mystery v4 (2011)
 
 35 issues: #622-655, 626.1 
@@ -188,6 +190,14 @@ The event itself was kind of meh. They did use it as an excuse to change the sta
 It's funny how many years passed during Aaron's run. The man wrote like 8-9 years worth of Thor!
 
 #### Thor v6 (2020)
+
+35 issues
+
+This Thor volume was mostly by Donny Cates. It starts off immediately after the ending of [The War of the Realms](/2023/05/comics-aaron-thor-avengers-realms/#the-war-of-the-realms-2019), with Thor now All-Father of Asgard and primarily dealing with cosmic threats such as The Black Winter which destroyed Galactus' original universe; Galactus ended up dying before Thor defeated the Black Winter. Thor also has to deal with his former alter ego Donald Blake, a corrupted spirit of Mjolnir and crossovers with Hulk ("Banner of War") and Venom.
+
+Cates' run ends with #28. The last two arcs are written by Torunn Gronbekk (I think this is his only work I have read so far) and involve Thanos, Doom and Hela fighting over the souls of the dead and involve time-travel shenanigans and fatherhood issues. At the end of it, Odin is finally sent off to Valhalla. Who knows how long before he manages to come back?
+
+The first arc with Galactus and the Black Winter was pretty good, but the rest of the volume was kind of forgettable. Though there are some moments there that remind us that unlike MCU Thor who is mostly just a space alien, comics Thor is a straight-out god who can handle cosmic-level threats. 
 
 #### Immortal Thor v1 (2023)
 
