@@ -1,16 +1,6 @@
 ---
-draft: true
 date: 2025-10-29T16:11:48+08:00
 dontinlinephotos: true
-resources:
-- src: IMG_1584.PNG
-  title: '"Who the hell is Bucky?" -- Captain America (2004) #8'
-- src: IMG_1585.PNG
-  title: 'Death of the Dream -- Captain America (2004) #25'
-- src: IMG_1586.PNG
-  title: 'Captain America: Sam Wilson #1'
-- src: IMG_1587.PNG
-  title: '"Hail Hydra." -- Captain America: Steve Rogers #1'
 reviews:
 - hashtag: journey-into-mystery-v3-1996
   description: ''
@@ -278,3 +268,5 @@ More new issues were released during this time than I was able to write about, s
 Next I plan to read the mainline Punisher comics. There's not a lot I think - the legacy numbering doesn't get to 300. Hoping to get the reviews for this one before end of the year.
 
 To help catch up on the completion rate, I also want to start covering newer comics (that I have been reading but not finding time to write about), maybe X-Men ones. Considering reviewing the latest *From The Ashes* post-Krakoa era which ended recently, while those series are still kinda fresh in my head. Will see if I can get that one in before the end of year as well. Kind of ambitious, but why not?!?
+
+Also, this entry is once again, Way Too Long (TM), I still don't have a solution for that.
