@@ -20,12 +20,17 @@ template = """- hashtag: %s
   media: comics
   title: '%s'
   issues: 0
-  year: 0"""
+  year: %s"""
 
 tocfile = Path("d:\\temp\\toc.json")
 with tocfile.open(encoding='UTF-8') as f:
     listdata = json.loads(f.read())
     for item in listdata:
         title = item['text']
-        outtext = template % (item['href'][1:], title)
+        year = "0"
+        if title.endswith(")"):
+            lastidx = title.rindex("(")
+            year = title[lastidx+1:-1]
+            title = title[0:lastidx-1]
+        outtext = template % (item['href'][1:], title, year)
         print(outtext)
