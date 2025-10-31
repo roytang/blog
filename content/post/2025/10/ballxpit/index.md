@@ -1,5 +1,5 @@
 ---
-date: 2025-10-31T15:10:26+08:00
+date: 2025-10-31 07:10:26
 dontinlinephotos: true
 reviews:
 - description: Weird little bullethell roguelite where you bounce balls around.
@@ -7,11 +7,14 @@ reviews:
   platforms:
   - pcgamepass
   rating: 3.0
-  title: 'BALL X PIT (PC Game Pass)'
+  title: BALL X PIT (PC Game Pass)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/115468706352037672
 tags:
 - games
 - gaming
-title: 'BALL X PIT'
+title: BALL X PIT
 ---
 
 After finishing [Silksong](/2025/10/silksong/), I wanted to drive straight into a nice good chill RPG, but life had other plans:
