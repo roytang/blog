@@ -14,10 +14,11 @@ It is November! Time marches forward.
 
 Trump has had quite a few weeks. The Gaza ceasefire appears to be holding, albeit a bit shakily. Then he demolished the White House (part of it) made a trade deal with China, and threatens to start a war with Venezuela (probably for oil?!?) and now with Nigeria for some reason (do they also have oil?!?).
 
-Over here, it is Undas weekend, which meant a long holiday weekend for us. Nothing new is happening on the anti-corruption front, which is sad but also unsurprising.
+Over here, this weekend is the *Undas* long holiday weekend. Halloween isn't really a thing over here (despite some attempts), but Friday was a holiday, to accomodate the large amount of people traveling to the provinces to commune with the recently deceased. I think nothing new is happening on the anti-corruption front, which is sad but also unsurprising.
 
 ### My Week
 
+- 
 - My dad loves reading the morning paper, a habit he's had all my life. Which is why I was surprised when this past week he asked our newspaper delivery guy to reduce deliveries to three times a week instead, saying he gets a lot of his news from TV and Youtube these days. We were already one of the very few households still buying newspapers on a regular basis! It's kind of a sad indicator of the status of print journalism. 
 - Last weekend we had a staycation at a new hotel on the other side of the metro to celebrate a family event. It was fun and chaos having the *pamangkins* together and all the swimming and the food. 
 - When we got back home we found out I had apparently accidentally left the front gate unlocked overnight while we were away. Oops. Luckily nothing happened, as there are further locks inside and the neighborhood is good. I always have anxiety about leaving the house unattended and have implemented some security measures to let me monitor the house remotely, so this kind of boneheaded move is pretty annoying.
