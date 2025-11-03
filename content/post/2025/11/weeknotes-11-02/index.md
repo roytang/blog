@@ -1,7 +1,10 @@
 ---
-date: 2025-11-02T13:00:01+08:00
+date: 2025-11-02 05:00:01
 dontinlinephotos: true
 steps: 61142
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/115480521856308568
 tags:
 - weeknotes
 title: Weeknotes 2025-11-02 Surprise Steam Deck
