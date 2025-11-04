@@ -17,10 +17,9 @@ outlist;
 
 template = """- hashtag: %s
   description: ''
-  media: comics
-  title: '%s'
-  issues: 0
-  year: %s"""
+  media: tv
+  rating: 0.0
+  title: '%s'"""
 
 tocfile = Path("d:\\temp\\toc.json")
 with tocfile.open(encoding='UTF-8') as f:
@@ -32,5 +31,5 @@ with tocfile.open(encoding='UTF-8') as f:
             lastidx = title.rindex("(")
             year = title[lastidx+1:-1]
             title = title[0:lastidx-1]
-        outtext = template % (item['href'][1:], title, year)
+        outtext = template % (item['href'][1:], title)
         print(outtext)
