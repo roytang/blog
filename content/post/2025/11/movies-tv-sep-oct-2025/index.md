@@ -117,11 +117,14 @@ syndicated:
 tags:
 - movies
 - tv
+- watching-lately
 title: Movies / TV - Sep & Oct 2025
 toc: true
 ---
 
 ### Movies
+
+Not a lot of movies during this period, though I still have soooo many on my "want to watch" list.
 
 #### Sinners (2025)
 
