@@ -1,5 +1,5 @@
 ---
-date: 2025-11-04 13:30:19+08:00
+date: 2025-11-04 05:30:19
 dontinlinephotos: true
 resources:
 - src: the-matrix-resurrections-2021.jpg
@@ -48,60 +48,60 @@ reviews:
   rating: 4.0
   title: Sinners
   year: '2025'
-- hashtag: poker-face
+- date: '2025-09-14'
   description: ''
+  hashtag: poker-face
   media: tv
   rating: 4.5
-  date: '2025-09-14'
-  title: 'Poker Face'
-- hashtag: star-trek-strange-new-worlds-s3
+  title: Poker Face
+- date: '2025-09-14'
   description: ''
+  hashtag: star-trek-strange-new-worlds-s3
   media: tv
   rating: 3.0
-  date: '2025-09-14'
   title: 'Star Trek: Strange New Worlds S3'
-- hashtag: dandadan-s2
+- date: '2025-09-21'
   description: ''
+  hashtag: dandadan-s2
   media: tv
   rating: 4.0
-  date: '2025-09-21'
-  title: 'Dandadan S2'
-- hashtag: young-sheldon
+  title: Dandadan S2
+- date: '2025-09-28'
   description: ''
+  hashtag: young-sheldon
   media: tv
   rating: 4.0
-  date: '2025-09-28'
-  title: 'Young Sheldon'
-- hashtag: peacemaker-s2
+  title: Young Sheldon
+- date: '2025-10-26'
   description: ''
+  hashtag: peacemaker-s2
   media: tv
   rating: 4.0
-  date: '2025-10-26'
-  title: 'Peacemaker 12'
-- hashtag: sakamoto-days-s2
+  title: Peacemaker 12
+- date: '2025-10-05'
   description: ''
+  hashtag: sakamoto-days-s2
   media: tv
   rating: 4.0
-  date: '2025-10-05'
-  title: 'Sakamoto Days S2'
-- hashtag: eyes-of-wakanda
+  title: Sakamoto Days S2
+- date: '2025-10-19'
   description: ''
+  hashtag: eyes-of-wakanda
   media: tv
   rating: 4.0
-  date: '2025-10-19'
-  title: 'Eyes of Wakanda'
-- hashtag: marvel-zombies
+  title: Eyes of Wakanda
+- date: '2025-10-26'
   description: ''
+  hashtag: marvel-zombies
   media: tv
   rating: 3.0
-  date: '2025-10-26'
-  title: 'Marvel Zombies'
-- hashtag: only-murders-in-the-building-s5
+  title: Marvel Zombies
+- date: '2025-11-02'
   description: ''
+  hashtag: only-murders-in-the-building-s5
   media: tv
   rating: 3.0
-  date: '2025-11-02'
-  title: 'Only Murders in the Building S5'
+  title: Only Murders in the Building S5
 source: letterboxd
 syndicated:
 - type: letterboxd
@@ -114,6 +114,8 @@ syndicated:
   url: https://letterboxd.com/hungryroy/film/karate-kid-legends/
 - type: letterboxd
   url: https://letterboxd.com/hungryroy/film/sinners-2025/
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/115494983560136256
 tags:
 - movies
 - tv
