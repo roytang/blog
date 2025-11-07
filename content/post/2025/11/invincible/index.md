@@ -1,13 +1,16 @@
 ---
-title: "Comics: Invincible"
-date: 2025-11-07T14:37:25+08:00
-tags:
-- comicbooks
+date: 2025-11-07 06:37:25
 reviews:
-- description: 'The Best Superhero Comics In The Universe (allegedly)'
+- description: The Best Superhero Comics In The Universe (allegedly)
   media: comics
   rating: 5.0
   title: Invincible
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/115510973874118530
+tags:
+- comicbooks
+title: 'Comics: Invincible'
 ---
 
 *Invincible* was an Image-published superhero comic created and written by Robert Kirkman. It ran from 2003 to 2018 with 144 issues. I was reading this as it came out back in the day but I think my interest waned a bit around halfway through the series and I stopped following it. After watching [the third season of the animated Prime Video adaptation](/2025/04/movies-tv-1q/#invincible-s3) earlier this year, I recently binge-read the entire second half of the series (and then some), so I thought I'd write about it!
