@@ -1,0 +1,34 @@
+{
+  "id": "d4dff225-0c71-4e43-87ea-09fbe495ee1d",
+  "name": "Dominik Schwind",
+  "url": "https://dominikschwind.com/",
+  "text": "Bookmarked by https://dominikschwind.com/link/you-don-t-need-an-outro\n\n> This is genius.",
+  "date": "2025-11-07 17:10:06 +0800",
+  "photo": "https://avatars.webmention.io/dominikschwind.com/0f61dbc16078dfde6f5a0f4d0c9bc3d7ca76df14e7d9c12f290309a307bbdf4a.jpg",
+  "source_url": "https://dominikschwind.com/link/you-don-t-need-an-outro",
+  "source": "webmention",
+  "spam": false,
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Dominik Schwind",
+      "photo": "https://avatars.webmention.io/dominikschwind.com/0f61dbc16078dfde6f5a0f4d0c9bc3d7ca76df14e7d9c12f290309a307bbdf4a.jpg",
+      "url": "https://dominikschwind.com/"
+    },
+    "url": "https://dominikschwind.com/link/you-don-t-need-an-outro",
+    "published": "2025-11-07T09:10:06+00:00",
+    "wm-received": "2025-11-07T10:00:06Z",
+    "wm-id": 1952654,
+    "wm-source": "https://dominikschwind.com/link/you-don-t-need-an-outro",
+    "wm-target": "https://roytang.net/2025/11/outro/",
+    "wm-protocol": "webmention",
+    "content": {
+      "html": "<p>This is genius.</p>",
+      "text": "This is genius."
+    },
+    "bookmark-of": "https://roytang.net/2025/11/outro/",
+    "wm-property": "bookmark-of",
+    "wm-private": false
+  }
+}
