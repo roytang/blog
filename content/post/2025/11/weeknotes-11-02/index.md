@@ -21,7 +21,6 @@ Over here, this weekend is the *Undas* long holiday weekend. Halloween isn't rea
 
 ### My Week
 
-- 
 - My dad loves reading the morning paper, a habit he's had all my life. Which is why I was surprised when this past week he asked our newspaper delivery guy to reduce deliveries to three times a week instead, saying he gets a lot of his news from TV and Youtube these days. We were already one of the very few households still buying newspapers on a regular basis! It's kind of a sad indicator of the status of print journalism. 
 - Last weekend we had a staycation at a new hotel on the other side of the metro to celebrate a family event. It was fun and chaos having the *pamangkins* together and all the swimming and the food. 
 - When we got back home we found out I had apparently accidentally left the front gate unlocked overnight while we were away. Oops. Luckily nothing happened, as there are further locks inside and the neighborhood is good. I always have anxiety about leaving the house unattended and have implemented some security measures to let me monitor the house remotely, so this kind of boneheaded move is pretty annoying.
@@ -73,7 +72,7 @@ Google Fit tells me I walked 61,142 steps over the past week (Sunday to Saturday
 ### Site Updates
 
 - 0 new entries on [the link blog](/links/) (Boo!)
-- 3 new entries under [the comics collection](https://roytang.net/collections/comics/), mostly to support the new
+- 3 new entries under [the comics collection](https://roytang.net/collections/comics/), mostly to support the new blog post.
 
 ### Looking Forward
 
