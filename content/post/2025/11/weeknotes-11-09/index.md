@@ -1,7 +1,10 @@
 ---
-date: 2025-11-09T19:56:32+08:00
+date: 2025-11-09 11:56:32
 dontinlinephotos: true
 steps: 64554
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/115521678001783221
 tags:
 - weeknotes
 title: Weeknotes 2025-11-09 Typhoon Uwan
