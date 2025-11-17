@@ -1,6 +1,5 @@
 ---
 date: 2023-12-28 15:25:21+00:00
-dontinlinephotos: true
 source: reddit
 syndicated:
 - type: reddit

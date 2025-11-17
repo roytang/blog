@@ -1,6 +1,5 @@
 ---
 date: 2025-09-04 16:12:12+00:00
-dontinlinephotos: true
 source: reddit
 syndicated:
 - type: reddit
