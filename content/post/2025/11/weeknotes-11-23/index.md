@@ -21,6 +21,7 @@ The US has put forward a proposed Ukraine peace plan that is apparently tantamou
 - Had a very busy and exhusting week, mostly due to hospital errands; both routine tests for Patient #1 and having to accompany a relative to the ER.
     - During one of her testing days when we had to go to hospital, Patient #1 woke up with a mysterious pain in her leg that kept her from walking. I ended up borrowing a wheelchair from our nearby relatives so that we can bring it with us. I learned that pushing a wheelchaired person around for a few hours is no easy task!
     - We're not at the hospital nearly as often as we were in 2024, so I kind of am no longer used to how long these tasks take. Whenever we go to hospital for tests or procedures or consultations or whatnot, these things always take a bit longer than I expect, no matter how pessimistic I am!
+- On top of that, our part-time helper had to take a couple of weeks off, so I needed to help with more household chores than usual.
 - We're always complaining that we never get to avail of the QC local government giveaways, but this past weekend we were able to claim their Christmas giveaway! (One per household.)
     {{% photos 20251123 %}}
 - Trivia team skipped out on the planned quiz night attendance.
