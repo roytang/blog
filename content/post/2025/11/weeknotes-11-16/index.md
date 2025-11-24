@@ -54,7 +54,7 @@ Google Fit tells me I walked 60,716 steps over the past week (Sunday to Saturday
 ### Site Updates
 
 - 4 new entries on [the link blog](/links/) (Boo!)
-- 1 new entries under [the albums collection](/collections/albums/)
+- 1 new entry under [the albums collection](/collections/albums/)
     - The new entry is [a gallery of my desktop wallpapers on rotation](/collections/albums/wallpapers/).
 - 1 new entry under [the quiz nights log](/collections/quiznights/) (linked above)
 
