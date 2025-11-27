@@ -92,7 +92,7 @@ New set *Spider-Man* / *Through The Omenpaths 1* drops this week on Arena, so he
 
 ### Magic Arena Stats
 
-Will update this section once I get the stats email.
+{{% photos arenastats %}}
 
 ### Streaming videos
 

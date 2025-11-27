@@ -78,7 +78,8 @@ In March 2022, I made a "limited recap" post for Kamigawa Neon Dynasty, collatin
 
 | Set | Recap Date | Events | Win | Loss | Total | Winrate |
 | --- | --- | --- | --- | --- | --- |  --- | 
-| ALL | Sep 2025 | 574 | 1875 | 1602 | 3477 | 0.5393 |
+| ALL | Nov 2025 | 603 | 1957 | 1679 | 3636 | 0.5382 |
+| [Spider-Man / Through the Omenpaths](/2025/11/mtg-spiderman-om1/) | Nov 2025 | 29 | 82 | 77 | 159 | 0.5157 |
 | [Edge of Eternities](/2025/09/mtg-edge/) | Sep 2025 |  28 | 101 | 78 | 179 | 0.5642 | 
 | [Final Fantasy](/2025/08/mtg-final-fantasy/) | Aug 2025 |  59 | 180 | 170 | 350 | 0.5143 | 
 | [Tarkir Dragonstorm](/2025/06/mtg-dragonstorm/) | Jun 2025 | 35 | 96 | 103 | 199 | 0.4824 |
@@ -117,6 +118,7 @@ These are compiled from the stats emails Arena sends out per set ([mtgarenastats
 
 | Set | Date | Boosters Opened | Fave Color | Fave Format | Mastery Level | Const. Rank | Limited Rank | Games | Quest Gold | Wins Gold |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
+| [Edge of Eternities](/2025/09/mtg-edge/#magic-arena-stats) | Sep 2025 | 115 | Blue | Quick Draft | 92 | Mythic | Dia4 | 603 | 36,000 | 33,125 |
 | [Final Fantasy](/2025/08/mtg-final-fantasy/#magic-arena-stats) | Aug 2025 | 149 | Blue | Quick Draft | 71 | Dia4 | Dia3 | 482 | 33,500 | 27,125 |
 | [Tarkir Dragonstorm](/2025/06/mtg-dragonstorm/#magic-arena-stats) | Jun 2025 | 121 | Blue | Quick Draft | 71 | Plat2 | Plat1 | 384 | 40,750 | 30,600 |
 | [Aetherdrift](/2025/04/mtg-aetherdrift/#magic-arena-stats) | Apr 2025 | 168 | White | Quick Draft | 71 | Plat1 | Plat2 | 306 | 35,750 | 28,950 |
