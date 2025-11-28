@@ -17,6 +17,8 @@ tags:
 - gaming
 - backpost
 - games
+- persona
+- megamitensei
 title: Persona 4 Golden
 ---
 

@@ -1,8 +1,8 @@
 ---
 author: roy
-dontinlinephotos: true
 categories: []
 date: 2017-06-10 01:30:38
+dontinlinephotos: true
 resources:
 - src: p5.png
   title: null
@@ -45,6 +45,8 @@ tags:
 - Review
 - Gaming
 - games
+- persona
+- megamitensei
 title: 'Review: Persona 5 (You Never Saw It Coming)'
 type: post
 url: /2017/06/review-persona-5-you-never-saw-it-coming/

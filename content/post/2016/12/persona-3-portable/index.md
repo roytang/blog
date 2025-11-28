@@ -20,6 +20,8 @@ tags:
 - gaming
 - backpost
 - games
+- persona
+- megamitensei
 title: Persona 3 Portable
 ---
 

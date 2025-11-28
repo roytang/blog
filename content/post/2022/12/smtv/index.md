@@ -45,6 +45,7 @@ syndicated:
 tags:
 - games
 - gaming
+- megamitensei
 title: 'Games: Shin Megami Tensei V'
 ---
 
