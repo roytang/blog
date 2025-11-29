@@ -1,19 +1,22 @@
 ---
-title: "Metaphor: ReFantazio"
-date: 2025-11-28T14:52:35+08:00
+date: 2025-11-28 06:52:35
+dontinlinephotos: true
 reviews:
-- description: ""
+- description: ''
   media: games
   platforms:
   - pcgamepass
   rating: 4.5
   title: 'Metaphor: ReFantazio (PC Game Pass)'
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/115630644446806179
 tags:
 - games
 - gaming
 - persona
 - megamitensei
-dontinlinephotos: true
+title: 'Metaphor: ReFantazio'
 ---
 
 *Metaphor: ReFantazio* is kind of a weird illegitimate child in the *Megami Tensei* bloodline. While it shares a lot of DNA with the series such as the Press Turn combat system of the main series and the calendar/time management and "social links" of the *Persona* subseries, it lacks the traditional demon-collecting mechanic that is so fundamental to the Megami Tensei series of games.
