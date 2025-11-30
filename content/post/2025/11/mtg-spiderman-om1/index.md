@@ -89,7 +89,7 @@ I believe I still got to Mythic rank in constructed in October, mostly due to pl
 
 ### Magic Arena Stats
 
-Will update this section once I get the stats email.
+{{% photos arenastats %}}
 
 ### Streaming videos
 

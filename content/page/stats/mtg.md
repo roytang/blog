@@ -118,6 +118,7 @@ These are compiled from the stats emails Arena sends out per set ([mtgarenastats
 
 | Set | Date | Boosters Opened | Fave Color | Fave Format | Mastery Level | Const. Rank | Limited Rank | Games | Quest Gold | Wins Gold |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
+| [Through the Omenpaths](/2025/11/mtg-spiderman-om1/#magic-arena-stats) | Nov 2025 | 105 | Red | Quick Draft | 71 | Mythic | Dia3 | 331 | 36,500 | 30,500 |
 | [Edge of Eternities](/2025/09/mtg-edge/#magic-arena-stats) | Sep 2025 | 115 | Blue | Quick Draft | 92 | Mythic | Dia4 | 603 | 36,000 | 33,125 |
 | [Final Fantasy](/2025/08/mtg-final-fantasy/#magic-arena-stats) | Aug 2025 | 149 | Blue | Quick Draft | 71 | Dia4 | Dia3 | 482 | 33,500 | 27,125 |
 | [Tarkir Dragonstorm](/2025/06/mtg-dragonstorm/#magic-arena-stats) | Jun 2025 | 121 | Blue | Quick Draft | 71 | Plat2 | Plat1 | 384 | 40,750 | 30,600 |
