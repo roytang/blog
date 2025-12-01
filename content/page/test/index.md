@@ -153,6 +153,10 @@ Test 3 [^3]
 
 {{% photos test4 %}}
 
+#### Resource Links
+
+{{% resource-link src="dummyfile.txt" %}}
+
 ### Webmention Tests
 
 Used to test with webmention.rocks
