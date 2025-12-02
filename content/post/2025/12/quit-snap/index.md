@@ -1,7 +1,6 @@
 ---
 date: 2025-12-02 02:06:40
 dontinlinephotos: true
-draft: true
 resources:
 - src: 202404recap.png
   title: 'My April 2024 (Thunderbolts) Season Recap'
