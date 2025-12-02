@@ -1,0 +1,69 @@
+import json
+import os
+import csv
+
+# Get path of local JSON
+path = os.path.expanduser('~/AppData/Locallow/Second Dinner/SNAP/Standalone/States/nvprod/CollectionState.json')
+
+# Open local JSON and parse
+all_cards = {}
+with open(path, encoding="utf-8-sig") as json_file:
+    data = json.load(json_file)
+
+    # Get variant count
+    for card in data['ServerState']['Cards']:
+        card_name = card['CardDefId']
+        if card_name not in all_cards:
+            all_cards[card_name] = {}
+            all_cards[card_name]['variants'] = []
+            all_cards[card_name]['mastery_level'] = 0
+        if 'ArtVariantDefId' in card: 
+            if card['ArtVariantDefId'] not in all_cards[card_name]['variants']:
+                all_cards[card_name]['variants'].append(card['ArtVariantDefId'])
+
+    # Get booster count
+    for card in data['ServerState']['CardDefStats']['Stats']:
+        card_name = card
+
+        if 'Boosters' not in data['ServerState']['CardDefStats']['Stats'][card]:
+            if 'BoostersLifetime' not in data['ServerState']['CardDefStats']['Stats'][card]:
+                continue # Either don't own card, or is non-collectible card
+            else:
+                current_boosters = 0 # Own the card, but have 0 current boosters
+        else:
+            current_boosters = data['ServerState']['CardDefStats']['Stats'][card]['Boosters']
+
+        lifetime_boosters = data['ServerState']['CardDefStats']['Stats'][card]['BoostersLifetime']
+        if 'InfinitySplitCount' in data['ServerState']['CardDefStats']['Stats'][card]:
+            infinity_splits = data['ServerState']['CardDefStats']['Stats'][card]['InfinitySplitCount']
+        else:
+            infinity_splits = 0
+
+        if card_name not in all_cards:
+            all_cards[card_name] = { "variants": [], 'mastery_level': 0 }
+        all_cards[card_name]['current_boosters'] = current_boosters
+        all_cards[card_name]['lifetime_boosters'] = lifetime_boosters
+        all_cards[card_name]['infinity_splits'] = infinity_splits
+
+# Get mastery stats as well
+path2 = os.path.expanduser('~/AppData/Locallow/Second Dinner/SNAP/Standalone/States/nvprod/CharacterMasteryState.json')
+
+# Open local JSON and parse
+with open(path2, encoding="utf-8-sig") as json_file:
+    data = json.load(json_file)
+
+    charmasterydata = data["ServerState"]["CharacterMasteryProgress"]["CharacterProgressData"]
+    for key in charmasterydata:
+        if key.startswith("$"):
+            continue
+        all_cards[key]['mastery_level'] = charmasterydata[key]["LastClaimedLevel"]
+
+# Write to local file
+with open('marvel_snap_booster_count.csv', 'w', newline='') as csv_file:
+    csv_writer = csv.writer(csv_file)
+    csv_writer.writerow(["Card", "Boosters", "Lifetime Boosters", "Total Variants", "Infinity Splits", "Mastery Level"])
+    for card in all_cards:
+        if 'current_boosters' in all_cards[card]: 
+            csv_writer.writerow([card, all_cards[card]['current_boosters'], all_cards[card]['lifetime_boosters'], len(all_cards[card]['variants']), all_cards[card]['infinity_splits'], all_cards[card]['mastery_level']])
+        else:
+            csv_writer.writerow([card, 0, 0, len(all_cards[card]['variants']), 0, all_cards[card]['mastery_level']]) # Own the card, but never gained a booster before
