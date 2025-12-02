@@ -3,13 +3,13 @@ date: 2025-12-02 02:06:40
 dontinlinephotos: true
 resources:
 - src: 202404recap.png
-  title: 'My April 2024 (Thunderbolts) Season Recap'
+  title: My April 2024 (Thunderbolts) Season Recap
 - src: 202411recap.jpg
-  title: 'My November 2024 (War of the Nine Realms) Season Recap'
+  title: My November 2024 (War of the Nine Realms) Season Recap
 - src: 2024annualrecap.jpg
-  title: 'My 2024 Annual Recap'
+  title: My 2024 Annual Recap
 - src: 202501recap.jpg
-  title: 'My January 2025 (Dark Avengers) Season Recap'
+  title: My January 2025 (Dark Avengers) Season Recap
 - src: deckbullseye.png
   title: ''
 - src: deckbullseye.txt
@@ -33,9 +33,12 @@ resources:
 - src: marvel_snap_booster_count.csv
   title: ''
 - src: snap-mastery-recap.png
-  title: 'My Mastery Recap'
+  title: My Mastery Recap
 - src: snapstats.py
   title: ''
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/115648889329840275
 tags:
 - games
 - gaming
