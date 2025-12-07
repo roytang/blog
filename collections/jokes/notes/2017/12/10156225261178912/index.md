@@ -1,6 +1,5 @@
 ---
 date: 2017-11-30 16:09:00
-dontinlinephotos: true
 repost_source:
   name: Dario Ceblano
   type: facebook
@@ -16,5 +15,3 @@ tags:
 ---
 
 at dahil disyembre na  :3    magegets nyo rin yan, sana  :) )
-
-{{% photos 10156225261178912%}}
