@@ -9,7 +9,6 @@ tags:
 - backpost
 - marcosnotahero
 - neverforget
-- dontinlinephotos
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155100635228912
