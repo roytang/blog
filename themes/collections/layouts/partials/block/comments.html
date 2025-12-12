@@ -36,5 +36,12 @@
 </div>
 {{ end }}
 {{ end }}
+{{ with .Resources.Match "repost-*.json" }}
+<span role="img" aria-label="repost">&#x1F501;</span>
+{{ range sort . "Name" "asc" }}
+{{ $data := . | transform.Unmarshal }}
+<a href="{{ $data.source_url }}">{{ $data.name }}</a>
+{{ end }}
+{{ end }}
 
 {{ end }}
