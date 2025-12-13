@@ -25,7 +25,7 @@ reviews:
   hashtag: the-murder-of-roger-ackroyd-by-agatha-christie
   media: books
   rating: 4.0
-  title: The Murder of Robert Ackroyd by Agatha Christie
+  title: The Murder of Roger Ackroyd by Agatha Christie
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/108147817766592289

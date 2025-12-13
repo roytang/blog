@@ -47,6 +47,7 @@ tags:
 - games
 - persona
 - megamitensei
+- ps4
 title: 'Review: Persona 5 (You Never Saw It Coming)'
 type: post
 url: /2017/06/review-persona-5-you-never-saw-it-coming/

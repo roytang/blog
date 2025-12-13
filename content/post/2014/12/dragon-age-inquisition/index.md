@@ -11,9 +11,9 @@ resources:
 - src: 10620342_10153371730793912_3764470771601328430_o_10153371730793912.jpg
   title: ''
 - src: 20141118_204620.jpg
-  title: ''
   tags:
   - pickups
+  title: ''
 reviews:
 - date: 2014-12-26
   media: games
@@ -54,6 +54,7 @@ tags:
 - backpost
 - PS4Share
 - dragonage
+- ps4
 title: Dragon Age Inquisition
 ---
 
