@@ -34,7 +34,7 @@ It is December!
 
 - Finished: **Superman The Animated Series**
 - Started: **Justice League**. There was supposed to be a 1-season "New Batman Adventures" series in the same continuity as Batman TAS, but it's not on streaming for some reason, so I started the Justice League series first while I try to find a copy of TNBA.
-- Ongoing: , **High Potential S2** (currently on midseason break), **Ranma 1/2 S2**.
+- Ongoing: **High Potential S2** (currently on midseason break), **Ranma 1/2 S2**.
 - Movies: No new movies watched this week.
 
 #### Gaming
