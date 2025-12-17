@@ -1,10 +1,13 @@
 ---
-date: 2025-12-16T19:03:21+08:00
+date: 2025-12-16 11:03:21
 reviews:
 - media: books
   rating: 4.0
   title: Rogue Protocol by Wells, Martha
   year: 2018
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/115732666512492575
 tags:
 - books
 - murderbotdiaries
