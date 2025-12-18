@@ -1,16 +1,19 @@
 ---
-title: "Children of Morta"
-date: 2025-12-17T23:21:08+08:00
+date: 2025-12-17 15:21:08
 reviews:
 - description: ''
   media: games
   platforms:
   - steam
   rating: 3.5
-  title: 'Children of Morta (PC Game Pass)'
+  title: Children of Morta (PC Game Pass)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/115739336087621030
 tags:
 - games
 - gaming
+title: Children of Morta
 ---
 
 A friend introduced me to *Children of Morta* a while back and I got it on sale and it sat in my backlog for a few years. When I got a Steam Deck a couple of months ago, I planned to use it to clear out some smaller games from my backlog and this game seemed like a good candidate!
