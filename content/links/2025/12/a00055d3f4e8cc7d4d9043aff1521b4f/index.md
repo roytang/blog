@@ -14,6 +14,9 @@ tags:
 - '29'
 - '40'
 - '52'
+- '2025'
+- tomwhitwell
+- 52things
 title: 52 things I learned in 2025
 ---
 

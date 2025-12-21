@@ -10,6 +10,10 @@ source: web
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111550684537089990
+tags:
+- 52things
+- tomwhitwell
+- '2023'
 title: 52 things I learned in 2023. This year I worked on fascinating… | by Tom Whitwell
   | Magnetic Notes | Dec, 2023 | Medium
 ---

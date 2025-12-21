@@ -13,5 +13,9 @@ syndicated:
   url: https://mastodon.technology/users/roytang/statuses/105456954313851239
 - type: twitter
   url: https://twitter.com/roytang/statuses/1343479388357083136/
+tags:
+- tomwhitwell
+- '2020'
+- 52things
 title: 52 things I learned in 2020
 ---
