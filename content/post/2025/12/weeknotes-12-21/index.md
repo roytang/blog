@@ -1,7 +1,10 @@
 ---
-date: 2025-12-22T08:34:56+08:00
+date: 2025-12-22 00:34:56
 dontinlinephotos: true
 steps: 65639
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/115763441991356002
 tags:
 - weeknotes
 title: Weeknotes 2025-12-21
@@ -57,4 +60,4 @@ Google Fit tells me I walked 65,639 steps over the past week (Sunday to Saturday
 
 ### Looking Forward
 
-It's Christmas this coming week! Will probably be the busiest week of the year for us, I count at least 3 family get-togethers to attend (different subgroups and branches), plus lots of prep and such. 
+It's Christmas this coming week! Will probably be the busiest week of the year for us, I count at least 3 family get-togethers to attend (different subgroups and branches), plus lots of prep and such.
