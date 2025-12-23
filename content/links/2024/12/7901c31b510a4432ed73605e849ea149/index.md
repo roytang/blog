@@ -11,6 +11,8 @@ syndicated:
   url: https://indieweb.social/users/roytang/statuses/113696236381545951
 tags:
 - movies
+- sleepyskunk
+- '2024'
 title: 2024 Movie Trailer Mashup
 ---
 

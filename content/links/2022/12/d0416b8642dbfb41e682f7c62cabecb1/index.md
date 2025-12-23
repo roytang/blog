@@ -13,6 +13,8 @@ syndicated:
   url: https://twitter.com/roytang/status/1608548503730688000/
 tags:
 - movies
+- sleepyskunk
+- '2022'
 title: 2022 Movie Trailer Mashup - Sleepy Skunk
 ---
 

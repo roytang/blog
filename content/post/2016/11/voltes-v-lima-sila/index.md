@@ -1,12 +1,14 @@
 ---
-date: 2016-11-25 19:47:00+08:00
+date: 2016-11-25 11:47:00
 source: facebook
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10155119668548912
 - type: twitter
   url: https://twitter.com/roytang/statuses/802116568469491712/
-tags: []
+tags:
+- formernote
+title: Voltes V Lima Sila
 ---
 
 It amuses me no end to have the Voltes V theme song be played at the anti-Marcos rallies today, but I couldn't help but sing along with the following lyrics:  

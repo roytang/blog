@@ -27,3 +27,4 @@ Aba, ano sya, siniswerte! Di ba parang ang kapal ng mukha. Nung pinagsabihan mo,
 ---
 
 Moral of this story is left as homework for the readers
+
