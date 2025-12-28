@@ -13,6 +13,7 @@ These are the last weeknotes of the year! I hope the holidays have been good for
 ### My Week
 
 - The week went by quickly and was very busy, pretty much as expected. Four out of the seven days had extended family get-togethers and in between we had to deal with visits to some other friends and relatives and even a surprise visit from a cousin we didn't know would be back in the country for Christmas. It's always fun getting back together with family (and also kinda chaotic etc etc). There has been so much food and leftovers etc.
+- I have a new hard drive! Well, not new new, it's secondhand; my brother gave it to me after he sold off his desktop. I installed it on desktop Friday morning and I'm just glad I was still able to figure this sort of thing out!
 - On the blog: No extra blog posts this week.
 
 ### Media Diet
