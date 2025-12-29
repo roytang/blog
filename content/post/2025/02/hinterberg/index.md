@@ -24,6 +24,7 @@ syndicated:
   url: https://indieweb.social/users/roytang/statuses/114063782765841961
 tags:
 - gaming
+- games
 title: Dungeons of Hinterberg
 ---
 
