@@ -16,7 +16,7 @@ resources:
 - src: stats.png
   title: Stats from the XBox app
 reviews:
-- media: gaming
+- media: games
   rating: 4.0
   title: Dungeons of Hinterberg (PC Game Pass)
 syndicated:
