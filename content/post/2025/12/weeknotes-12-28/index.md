@@ -38,7 +38,7 @@ These are the last weeknotes of the year! I hope the holidays have been good for
 - Regular ongoing live-service games: 
     - **Magic Arena**: Completed all the winter achievements! Now twiddling my thumbs waiting for ATLA quick draft to come back.
     - **Eternal Card Game**: Finished all the Steam achievements!
-    - **Street Fighter 6**. Playing on and off.
+    - **Street Fighter 6**: Playing on and off.
 - Single-player games: 
     - Ongoing: **Witcher 3: Blood and Wine**. Not a lot of progress this week.
     - Ongoing: **Megaman Legacy Collection** - Finished Megaman 5 this past week and am already in the final stages of Megaman 6!

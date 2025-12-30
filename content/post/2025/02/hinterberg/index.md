@@ -44,7 +44,7 @@ I think I could have finished the game by completing all the dungeons around day
 
 Completion stats:
 
-- Playtime: 25.9; HLTB says completion runs take around 24h, so I didn't waste **too* much time.
+- Playtime: 25.9; HLTB says completion runs take around 24h, so I didn't waste *too* much time.
 - Finished at Day 62.
 - Achievements: 1275/1275. 
 - Played from Feb 14 to Feb 25.

@@ -6,7 +6,7 @@ reviews:
   platforms:
   - steam
   rating: 3.5
-  title: Children of Morta (PC Game Pass)
+  title: Children of Morta (Steam)
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/115739336087621030
