@@ -11,6 +11,9 @@ reviews:
 - media: games
   rating: 4.0
   title: Marvel Cosmic Invasion (PC Game Pass)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/115811267734715194
 tags:
 - games
 title: Marvel Cosmic Invasion
