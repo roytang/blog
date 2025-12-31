@@ -2,15 +2,20 @@
 date: 2025-12-30 14:20:10
 resources:
 - src: MARVEL Cosmic Invasion 30_12_2025 2_57_18 pm.png
-  title: 'The full roster of playable heroes'
+  title: The full roster of playable heroes
 - src: MARVEL Cosmic Invasion 30_12_2025 3_10_06 pm.png
-  title: 'The stage backgrounds have a lot of cameo references to Marvel stuff.'
+  title: The stage backgrounds have a lot of cameo references to Marvel stuff.
 - src: stats.png
-  title: 'Completion stats in the XBox app'
+  title: Completion stats in the XBox app
 reviews:
 - media: games
   rating: 4.0
   title: Marvel Cosmic Invasion (PC Game Pass)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/115811267734715194
+tags:
+- games
 title: Marvel Cosmic Invasion
 ---
 
