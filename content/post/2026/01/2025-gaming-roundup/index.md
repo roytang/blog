@@ -1,11 +1,14 @@
 ---
-title: "My 2025 Gaming Roundup"
-date: 2026-01-01T22:33:35+08:00
+date: 2026-01-01 14:33:35
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/115820651653140590
 tags:
 - gaming
 - '2025'
 - yearnotes
+title: My 2025 Gaming Roundup
 toc: true
 ---
 
