@@ -1,5 +1,5 @@
 ---
-date: 2025-12-31 13:09:27+08:00
+date: 2025-12-31 05:09:27
 dontinlinephotos: true
 resources:
 - src: one-battle-after-another-2025.jpg
@@ -150,6 +150,8 @@ syndicated:
   url: https://letterboxd.com/hungryroy/film/blade-ii/
 - type: letterboxd
   url: https://letterboxd.com/hungryroy/film/blade/
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/115814692555157334
 tags:
 - movies
 - tv
