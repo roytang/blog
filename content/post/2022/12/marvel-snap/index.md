@@ -17,6 +17,7 @@ syndicated:
 tags:
 - games
 - gaming
+- marvel-snap
 title: 'Games: Marvel Snap'
 ---
 

@@ -43,6 +43,7 @@ tags:
 - games
 - gaming
 - marvelsnap
+- marvel-snap
 title: I Quit Marvel Snap
 toc: true
 ---

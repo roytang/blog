@@ -18,6 +18,7 @@ tags:
 - ccgs
 - Gaming
 - games
+- eternalcardgame
 title: 'Review: Eternal or "Eternal primer for MTG players"'
 type: post
 ---
