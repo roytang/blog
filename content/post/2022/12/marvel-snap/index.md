@@ -18,6 +18,7 @@ tags:
 - games
 - gaming
 - marvel-snap
+- marvelsnap
 title: 'Games: Marvel Snap'
 ---
 

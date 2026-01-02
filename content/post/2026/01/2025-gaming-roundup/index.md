@@ -117,7 +117,7 @@ I did not spend any significant amount of time on the Switch this year; my nephe
         - [Edge of Eternities](/2025/09/mtg-edge/)
         - [Spider-Man / Through the Omenpaths](/2025/11/mtg-spiderman-om1/)
     - Overall a fantastic year for MTG on Arena. Final Fantasy was a fantastic set and I played so so so many drafts. Aetherdrift and EOE werea great limited environment and I did well there. Tarkir was fun though my win rate was horrendous. Spider-Man/Omenpaths are a low point, but hopefully one they can recover from.
-- [Marvel Snap](/tags/marvel-snap): I have quit the game.    
+- [Marvel Snap](/tags/marvelsnap): I have quit the game.    
 - [Eternal](/tags/eternalcardgame): Spent a bunch of time towards the end of year to complete all the Steam achievements and all the weekly Chapters! At first I was thinking that once I accomplished that goal I would quit the game and uninstall and such, but I think I'll keep playing it a while longer (no promises as to the frequency).
 
 #### Twitch
