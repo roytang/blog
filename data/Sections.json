@@ -43,7 +43,8 @@
     "notes": {
         "label": "Notes",
         "cache_feed": true,
-        "descrip": "A <a href='https://kottke.org/05/10/tumblelogs'>tumblelog</a> of sorts. Microblog-like status updates, short notes, logs of things I've found. Kind of ephemeral. Posts in this section may be moved or deleted without notice."
+        "descrip": "A <a href='https://kottke.org/05/10/tumblelogs'>tumblelog</a> of sorts. Microblog-like status updates, short notes, logs of things I've found. Kind of ephemeral. Posts in this section may be moved or deleted without notice.",
+        "generator_options": ["feeds", "tags_lists", "single_posts", "year_lists", "index"]
     },
     "convos": {
         "label": "Convos",
