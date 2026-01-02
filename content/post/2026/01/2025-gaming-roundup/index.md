@@ -80,16 +80,16 @@ PC Game Pass was very good to me this year, letting me play a number of new rele
 
 - Total playtime for 2025: 468.08h, more than double from last year!
 - Games "finished": 10
-    - [Indiana Jones and the Great Circle (PC Game Pass)](/2025/01/indiana-jones-great-circle/)
-    - [Citizen Sleeper 2: Starward Vector (PC Game Pass)](/2025/02/citizen-sleeper-2/)
-    - [Dungeons of Hinterberg (PC Game Pass)](/2025/02/hinterberg/)
-    - [Avowed (PC Game Pass)](/2025/04/avowed/)
-    - [Clair Obscur: Expedition 33 (PC Game Pass)](/2025/06/clair-obscur-expedition-33/)
-    - [Blue Prince (PC Game Pass)](/2025/07/blue-prince/)
-    - [Hollow Knight: Silksong (PC Game Pass)](/2025/10/silksong/)
-    - [BALL X PIT (PC Game Pass)](/2025/10/ballxpit/)
-    - [Metaphor: ReFantazio (PC Game Pass)](/2025/11/metaphor/)
-    - [Marvel Cosmic Invasion (PC Game Pass)](/2025/12/cosmic-invasion/)
+    - [Indiana Jones and the Great Circle](/2025/01/indiana-jones-great-circle/)
+    - [Citizen Sleeper 2: Starward Vector](/2025/02/citizen-sleeper-2/)
+    - [Dungeons of Hinterberg](/2025/02/hinterberg/)
+    - [Avowed](/2025/04/avowed/)
+    - [Clair Obscur: Expedition 33](/2025/06/clair-obscur-expedition-33/)
+    - [Blue Prince](/2025/07/blue-prince/)
+    - [Hollow Knight: Silksong](/2025/10/silksong/)
+    - [BALL X PIT](/2025/10/ballxpit/)
+    - [Metaphor: ReFantazio](/2025/11/metaphor/)
+    - [Marvel Cosmic Invasion](/2025/12/cosmic-invasion/)
 
 XBox did not give me a year in review this year! However, TrueAchievements did:
 
@@ -129,7 +129,7 @@ I did not spend any significant amount of time on the Switch this year; my nephe
 
 Here are my Twitch recap stats, both as a viewer and as a streamer:
 
-{{< photos 113687708384791424 >}}
+{{< photos twitch >}}
 
 ### Games I Did Not Play
 
