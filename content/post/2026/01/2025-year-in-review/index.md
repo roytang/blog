@@ -1,10 +1,13 @@
 ---
-title: "2025 Year in Review"
-date: 2026-01-03T14:11:58+08:00
+date: 2026-01-03 06:11:58
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/115830502863306075
 tags:
 - yearnotes
 - '2025'
+title: 2025 Year in Review
 toc: true
 ---
 
