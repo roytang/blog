@@ -6,7 +6,6 @@ tags:
 - yearnotes
 - '2025'
 toc: true
-draft: true
 ---
 
 This is a personal year in review. You can check the [yearnotes tag](/tags/yearnotes) for previous years-in-review. Last year's review is [here](/2025/01/2024-year-in-review/).
