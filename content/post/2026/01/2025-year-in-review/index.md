@@ -13,7 +13,7 @@ toc: true
 
 This is a personal year in review. You can check the [yearnotes tag](/tags/yearnotes) for previous years-in-review. The previous year-in-review is [here](/2025/01/2024-year-in-review/).
 
-### The World in 2025. 2025
+### The World in 2025
 
 - Donald Trump's first year in his second term as US president was marked by on-and-off tariff wars, aggressive (and sometimes illegal) anti-immigrant activties, a lot of rambling speeches, threats to annex Greenland, attacks on Iran and Venezuela, upending geopolitics, an extended government shutdown, Epstein files coverups, etc. On the upside, he did somehow manage to negotiate a ceasefire in Gaza. The Russian invasion of Ukraine continues unabated despite his best efforts though.
 - Musk's bromance with Trump led to him leading government cuts through his "DOGE" department, though they later had a rift and he had to go.
