@@ -8,11 +8,11 @@ tags:
 toc: true
 ---
 
-This is a personal year in review. You can check the [yearnotes tag](/tags/yearnotes) for previous years-in-review. Last year's review is [here](/2025/01/2024-year-in-review/).
+This is a personal year in review. You can check the [yearnotes tag](/tags/yearnotes) for previous years-in-review. The previous year-in-review is [here](/2025/01/2024-year-in-review/).
 
 ### The World in 2025. 2025
 
-- Donald Trump's first term as US president was marked by on-and-off tariff wars, aggressive (and sometimes illegal) anti-immigrant activties, a lot of rambling speeches, threats to annex Greenland, attacks on Iran and Venezuela, upending geopolitics, an extended government shutdown, Epstein files coverups, etc. On the upside, he did somehow manage to negotiate a ceasefire in Gaza. The Russian invasion of Ukraine continues unabated despite his best efforts though.
+- Donald Trump's first year in his second term as US president was marked by on-and-off tariff wars, aggressive (and sometimes illegal) anti-immigrant activties, a lot of rambling speeches, threats to annex Greenland, attacks on Iran and Venezuela, upending geopolitics, an extended government shutdown, Epstein files coverups, etc. On the upside, he did somehow manage to negotiate a ceasefire in Gaza. The Russian invasion of Ukraine continues unabated despite his best efforts though.
 - Musk's bromance with Trump led to him leading government cuts through his "DOGE" department, though they later had a rift and he had to go.
 - Paramount has cancelled Colbert's Late Show and Kimmel was briefly suspended from ABC.
 - NYC elected their first Muslim mayor!
@@ -26,7 +26,7 @@ This is a personal year in review. You can check the [yearnotes tag](/tags/yearn
 
 ### My 2025
 
-The first couple of months of the year were very stressful for me. The rest of it was a lot more chill, with spikes of worry and anxiety here and there, but nothing too major. 
+The first couple of months of the year were very stressful for me. The rest of it was a lot more chill, with spikes of worry and anxiety here and there, but nothing too major. Still, after the stresses of 2024 I feel like I kind of dissociated from the world a bit through the rest of the year, keeping my head down and just worrying about my day to day things.
 
 #### Medical
 
@@ -40,7 +40,7 @@ Late in the year, I underwent some tests to figure out some weird symptoms that 
 
 #### Household
 
-With the loss of Patient #3, there are now only 3 of us in the household, which means it is primarily me supporting the 2 seniors. While we were eventually able to find a helper to come in a couple of days a week to help with chores, I have found myself needing to step up more with a lot of household work: dishes, laundry, unclogging the toilet, and I've kind of taking up cooking! Nothing too serious, as I still have physical weaknesses making it difficult to cook more complex dishes. Mostly breakfast stuff: frying meats, scrambled eggs, fried rice, that sort of thing. And I have been experimenting with different kinds of simple pasta dishes, because I love pasta. My Youtube algorithm now likes recommending the occasional cooking video. 
+With the loss of Patient #3, there are now only 3 of us in the household, which means it is primarily me supporting the 2 seniors. While we were eventually able to find a helper to come in a couple of days a week to help with chores, I have found myself needing to step up more with a lot of household work: dishes, laundry, unclogging the toilet, and I've kind of taking up cooking! Nothing too serious, as I still have physical weaknesses making it difficult to cook more complex dishes. I mostly only do breakfast stuff: frying meats, scrambled eggs, fried rice, that sort of thing. And I have been experimenting with different kinds of simple pasta dishes, because I love pasta. My Youtube algorithm now likes recommending the occasional cooking video. 
 
 This past NYE, I cooked spaghetti aglio olio for our media noche (they say it was good!):
 
@@ -220,6 +220,9 @@ I did my gaming writeup separately and ahead of time this year: [My 2025 Gaming 
     - Pizza Hut (45 meals, P6,418.60)
     - Jollibee (42 meals, P5,911.00)
     - Yellow Cab (8 meals, P2,221.00)
+- I have taken a bunch of pictures of some of my meals from 2025 and compiled them into [an album](/collections/albums/2025-meals/):
+
+    {{% collections-embed albums 2025-meals %}}
 
 #### Others
 
