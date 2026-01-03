@@ -11,7 +11,7 @@ import json
 
 thisyear = datetime.now().strftime("%Y")
 print(thisyear)
-thisyear = "2025"
+thisyear = "2026"
 root = Path(__file__).parent.absolute()
 
 def gen_chart(xaxis, yaxis, filename, title="", extra_data=[]):

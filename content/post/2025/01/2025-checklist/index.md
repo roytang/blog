@@ -137,16 +137,16 @@ I won't be watching all of these in the cinema (ticket prices are high yo!) and 
 | <!-- -->    | <!-- -->    | <!-- --> |
 |-------------|-------------|----------|
 | Jan24 | Star Trek: Section 31 | |
-| Feb14 | Captain America: Brave New World | |
-| Mar07 | Mickey 17 | by Bong Joon-ho |
-| May02 | Thunderbolts* | |
+| Feb14 | [Captain America: Brave New World](/2025/04/movies-tv-1q/#captain-america-brave-new-world-2025) | |
+| Mar07 | [Mickey 17](/2025/07/movies-tv-may-jun-2025/#mickey-17-2025) | by Bong Joon-ho |
+| May02 | [Thunderbolts*](/2025/05/movies-tv-april-2025/#thunderbolts-2025) | |
 | May23 | Mission Impossible - The Final Reckoning | |
-| May30 | Karate Kid: Legends | |
+| May30 | [Karate Kid: Legends](/2025/11/movies-tv-sep-oct-2025/#karate-kid-legends-2025) | |
 | Jun06 | Ballerina | Carried over from 2024 |
 | Jul02 | Jurassic World Rebirth | |
-| Jul11 | Superman | |
-| Jul25 | The Fantastic Four: First Steps | |
-| TBA | Wake Up Dead Man: A Knives Out Mystery  | |
+| Jul11 | [Superman](/2025/09/movies-tv-jul-aug-2025/#superman-2025) | |
+| Jul25 | [The Fantastic Four: First Steps](/2025/09/movies-tv-jul-aug-2025/#the-fantastic-four-first-steps-2025) | |
+| TBA | [Wake Up Dead Man: A Knives Out Mystery](/2025/12/movies-tv-nov-dec-2025/#wake-up-dead-man-2025)  | |
 
 I am hoping to watch more movies this coming year though!
 

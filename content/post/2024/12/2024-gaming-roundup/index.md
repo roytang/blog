@@ -14,6 +14,8 @@ syndicated:
   url: https://indieweb.social/users/roytang/statuses/113739375801150162
 tags:
 - gaming
+- yearnotes
+- '2024'
 title: My 2024 Gaming Roundup
 toc: true
 ---

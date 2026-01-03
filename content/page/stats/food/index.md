@@ -3,7 +3,7 @@ title: "Stats :: Food"
 submenu: "stats"
 ---
 
-### Total overall fast food spend and meal counts (2017-2024)
+### Total overall fast food spend and meal counts (2017-onwards)
 
 <table id="overallstats">
 <tr>

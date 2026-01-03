@@ -131,9 +131,9 @@ Also, here's a wordcloud for 2024:
 #### Media consumption
 
 - **Movies**. (New) movies watched: 52, slightly up from 50 last year.
-    - [The list.](/lists/media/movies/2024/)
+    - [The list.](/lists/media/movies/#2024)
     - Watched 2 movies in the cinema this year, down from 8 last year. Those 2 were [Dune: Part Two](/2024/04/movies-tv-feb-mar-2024/#dune-part-two-2024) and [Deadpool and Wolverine](/2024/08/movies-tv-jun-jul-2024/#deadpool-wolverine-2024).
-    - I managed to watch all but 4 of [the films on my 2023 checklist](/2023/01/2023-checklist/#movies) this year, though not all of them in the cinema. Two were delayed to 2024.
+    - I managed to watch a bit more than half of [the films on my 2024 checklist](/2024/01/2024-checklist/#movies).
     - My favorite films I watched this year: 
         - [The First Slam Dunk](/2024/06/slam-dunk/#the-first-slam-dunk-2022)
         - [Godzilla Minus One](/2024/08/movies-tv-jun-jul-2024/#godzilla-minus-one-2023)
@@ -142,14 +142,14 @@ Also, here's a wordcloud for 2024:
         - [The Fall Guy](/2024/10/movies-tv-aug-sep-2024/#the-fall-guy-2024)
     - All my reviews are also still on [my Letterboxd account](https://letterboxd.com/hungryroy/films/diary/)! 
 - **Books** read: 8, same as last year
-    - [The list](/lists/media/books/2024/), with 6 fiction and 2 nonfiction. (Same breakdown as last year!)
+    - [The list](/lists/media/books/#2024), with 6 fiction and 2 nonfiction. (Same breakdown as last year!)
     - I picked up Brandon Sanderson's **Wind and Truth** late in the year, but have not made much progress into it.
     - I wish I had the time/energy/inclination to read more books.
 - **TV/Streaming**
-    - [Here's the list](/lists/media/tv/2024/) of all the TV shows I've written about this year.
+    - [Here's the list](/lists/media/tv/#2024) of all the TV shows I've written about this year.
         - I wrote about 25 shows this year, down from 28 last year. A lot of them were very good! Some favorites for 2024: [Shogun](/2024/04/shoguntv/), [Gravity Falls](/2024/08/movies-tv-jun-jul-2024/#gravity-falls), [Boston Legal](/2024/12/movies-tv-oct-dec-2024/#boston-legal), [Star Trek: Lower Decks](/2024/12/movies-tv-oct-dec-2024/#star-trek-lower-decks), [Ranma 1/2](/2024/12/movies-tv-oct-dec-2024/#ranma-1-2), [Dandadan](/2024/12/movies-tv-oct-dec-2024/#dandadan).
 - **Comics**
-    - I wrote about some comics this year: [the 2024 list](/lists/media/comics/2024/).
+    - I wrote about some comics this year: [the 2024 list](/lists/media/comics/#2024).
     - [The Complete Marvel Run](/blog/tags/complete-marvel-run): Currently up to 14.54%, from 10.24% last year. Progress is slow.
     - Still true: I actually read a lot more comics than the above links imply, since I read more than I have time to write about. For Marvel, we will catch up eventually, Still need to write more about DC.
     - For non-Marvel/DC comics, my favorites this year were both by Daniel Warren Johnson: [Do A Powerbomb](/2024/03/powerbomb/) from 2023 and the current Image/Skybound **Transformers** ongoing, which I have yet to write about.
