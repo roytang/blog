@@ -77,7 +77,7 @@ reviews:
   hashtag: peacemaker-s2
   media: tv
   rating: 4.0
-  title: Peacemaker 12
+  title: Peacemaker S2
 - date: '2025-10-05'
   description: ''
   hashtag: sakamoto-days-s2

@@ -105,21 +105,21 @@ Some entries carried over from 2024.
 
 | <!-- -->    | <!-- -->    | <!-- -->    |
 |-------------|-------------|-------------|
-| 2024 | Penguin | MAX |
-| 2024 | What If? S3 | Disney+ |
-| Jan11 | Sakamoto Days | Netflix |
-| Jan29 | Your Friendly Neighborhood Spider-Man | Disney+ |
-| Feb06 | Invincible S3 | Prime Video |
-| Mar04 | Daredevil: Born Again | Disney+ |
-| Apr22 | Andor S2 | Disney+ |
-| Jun24 | Ironheart | Disney+ |
-| Aug | Peacemaker S2 | Max |
-| Aug06 | Eyes of Wakanda | Disney+ |
-| Oct03 | Marvel Zombies | Disney+ |
+| 2024 | [Penguin](/2025/04/movies-tv-1q/#penguin) | MAX |
+| 2024 | [What If? S3](/2025/04/movies-tv-1q/#what-if-s3) | Disney+ |
+| Jan11 | [Sakamoto Days](/2025/04/movies-tv-1q/#sakamoto-days-s1-part-1) | Netflix |
+| Jan29 | [Your Friendly Neighborhood Spider-Man](/2025/04/movies-tv-1q/#friendly-neighborhood-spider-man) | Disney+ |
+| Feb06 | [Invincible S3](/2025/04/movies-tv-1q/#invincible-s3) | Prime Video |
+| Mar04 | [Daredevil: Born Again](/2025/05/movies-tv-april-2025/#daredevil-born-again-s1) | Disney+ |
+| Apr22 | [Andor S2](/2025/07/movies-tv-may-jun-2025/#andor-s2) | Disney+ |
+| Jun24 | [Ironheart](/2025/09/movies-tv-jul-aug-2025/#iron-heart) | Disney+ |
+| Aug | [Peacemaker S2](/2025/11/movies-tv-sep-oct-2025/#peacemaker-s2) | Max |
+| Aug06 | [Eyes of Wakanda](/2025/11/movies-tv-sep-oct-2025/#eyes-of-wakanda) | Disney+ |
+| Oct03 | [Marvel Zombies](/2025/11/movies-tv-sep-oct-2025/#marvel-zombies) | Disney+ |
 | Dec | Wonder Man | Disney+ |
-| TBA | Ranma 1/2 S2 | Netflix |
-| TBA | Dandadan S2 | Netflix |
-| TBA | Star Trek: Strange New Worlds S3 | |
+| TBA | [Ranma 1/2 S2](/2025/12/movies-tv-nov-dec-2025/#ranma-1-2-s2) | Netflix |
+| TBA | [Dandadan S2](/2025/11/movies-tv-sep-oct-2025/#dandadan-s2) | Netflix |
+| TBA | [Star Trek: Strange New Worlds S3](/2025/11/movies-tv-sep-oct-2025/#star-trek-strange-new-worlds-s3) | |
 
 Shows I already started and hope to finish:
 
