@@ -3,10 +3,13 @@ date: 2026-01-04 06:15:50
 dontinlinephotos: true
 resources:
 - src: 20260101_000517.jpg
-  title: 'NY midnight fireworks in our neighborhood'
+  title: NY midnight fireworks in our neighborhood
 - src: 20260101_000518.jpg
-  title: 'NY midnight fireworks in our neighborhood'
+  title: NY midnight fireworks in our neighborhood
 steps: 35433
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/115840456095313909
 tags:
 - weeknotes
 title: Weeknotes 2026-01-04
