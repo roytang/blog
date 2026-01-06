@@ -1,5 +1,8 @@
 ---
-date: 2026-01-05T21:50:57+08:00
+date: 2026-01-05 13:50:57
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/115844861655669815
 tags:
 - new-years-checklist
 title: My 2026 Checklist
