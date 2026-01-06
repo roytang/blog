@@ -18,6 +18,8 @@ For my full run, I start with GutsMan first, followed by CutMan, ElecMan, IceMan
 
 Next are the Wily base sections. The most difficult single boss in the game is the one from the first Wily base section: the Cyclops/Yellow Devil. I recorded [my last few attempts against this boss](https://www.youtube.com/watch?v=MiWhBlrGiK8), but I must have had around 30-40 attempts even before this video. You can see the savescumming in this video!
 
+{{% youtube MiWhBlrGiK8 %}}
+
 The most difficult sequence in the game however is the succession of four robot masters you have to fight right before Wily. They come in the order Bomb Man - Ice Man - Fire Man - Guts Man. Since this is Megaman 1, there are no health refills in-between, otherwise it would be much more manageable. It takes me a while, and a lot of savescumming, but I finally manage to push through just barely, then proceed to die once I get to Wily. I only had like 1/7th HP left at that point, so there was no point savescumming. Luckily, the game lets me start over right outside the Wily door. I remember that I have to use Fire and Elec weapons. It takes me two tries to beat the final boss. Woo!
 
 Intermission: After finishing Megaman 1, I try some of the challenges. Some of them are manageable, some will take a lot of practice to earn gold medals. We'll see if I bother with trophy completion for this game.
