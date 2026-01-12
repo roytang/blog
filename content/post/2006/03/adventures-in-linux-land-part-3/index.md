@@ -4,6 +4,7 @@ categories: []
 date: 2006-03-09 09:02:26
 tags:
 - Tech Life
+- linux
 title: Adventures in Linux-land, part 3
 type: post
 url: /2006/03/adventures-in-linux-land-part-3/

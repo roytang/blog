@@ -4,6 +4,7 @@ categories: []
 date: 2006-06-19 16:52:22
 tags:
 - Tech Life
+- linux
 title: Quicktime plugin doesn't support linux?
 type: post
 url: /2006/06/quicktime-plugin-doesn39t-support-linux/
