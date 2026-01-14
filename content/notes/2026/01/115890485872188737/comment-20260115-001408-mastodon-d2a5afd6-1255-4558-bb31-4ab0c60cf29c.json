@@ -1,0 +1,11 @@
+{
+  "id": "d2a5afd6-1255-4558-bb31-4ab0c60cf29c",
+  "name": "datenteiler",
+  "url": "https://fosstodon.org/@datenteiler",
+  "text": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@roytang\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>roytang</span></a></span> Fingers crossed that it stays that way this time. \ud83e\udd1e\ud83d\ude09</p><p>Personally I'm not a fan of dual boot. Either a Windows update breaks it, or you end up only booting Windows. I prefer to have Linux completely on a SSD and Windows in a VM like VirtualBox or KVM/QEMU. That works quite well for me for the few times I need Windows.</p>",
+  "date": "2026-01-15 00:14:08 +0800",
+  "photo": "https://cdn.masto.host/indiewebsocial/cache/accounts/avatars/000/039/987/original/9259da33ecd1ac5c.png",
+  "source_url": "https://fosstodon.org/users/datenteiler/statuses/115894337458988396",
+  "source": "mastodon",
+  "spam": false
+}
