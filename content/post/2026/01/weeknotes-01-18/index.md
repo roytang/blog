@@ -1,7 +1,10 @@
 ---
-date: 2026-01-18T14:49:08+08:00
+date: 2026-01-18 06:49:08
 dontinlinephotos: true
 steps: 60372
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/115915941380695699
 tags:
 - weeknotes
 title: Weeknotes 2026-01-18
