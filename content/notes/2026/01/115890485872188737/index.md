@@ -16,9 +16,9 @@ tags:
 - linux
 ---
 
-<p>Today feels like a good day to try to install <a href="https://indieweb.social/tags/linux" class="mention hashtag" rel="tag">#<span>linux</span></a> dual boot and potentially screw up my windows partition</p>
+Today feels like a good day to try to install [#linux](https://indieweb.social/tags/linux) dual boot and potentially screw up my windows partition
 
-<time id="115890867619414992">[09:31]</time> <p><a href="https://indieweb.social/tags/linux" class="mention hashtag" rel="tag">#<span>linux</span></a> installation success! Windows still seems to be working properly as well. Now for the hard/fun part: setting up and logging in to all my stuff again</p>
+<time id="115890867619414992">[09:31]</time> [#linux](https://indieweb.social/tags/linux) installation success! Windows still seems to be working properly as well. Now for the hard/fun part: setting up and logging in to all my stuff again
 
 {{< photos 115890867619414992 >}}
 
