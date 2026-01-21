@@ -1,10 +1,13 @@
 ---
-title: "Return to Linux"
-date: 2026-01-21T14:06:18+08:00
+date: 2026-01-21 06:06:18
 dontinlinephotos: true
+resources:
+- src: Screenshot from 2026-01-21 15-41-21.png
+  title: 'Screenshot of VSCodium running in Linux Mint'
 tags:
 - tech-life
 - linux
+title: Return to Linux
 ---
 
 [Last week](https://indieweb.social/@roytang/115890485872188737) I set up Linux Mint + Windows dual boot on my computer! I am writing this post from the comfort of my desktop running Linux Mint (dual boot with Windows)!
