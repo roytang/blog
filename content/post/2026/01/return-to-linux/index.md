@@ -3,7 +3,10 @@ date: 2026-01-21 06:06:18
 dontinlinephotos: true
 resources:
 - src: Screenshot from 2026-01-21 15-41-21.png
-  title: 'Screenshot of VSCodium running in Linux Mint'
+  title: Screenshot of VSCodium running in Linux Mint
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/115932076848295453
 tags:
 - tech-life
 - linux
