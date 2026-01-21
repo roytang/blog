@@ -8,6 +8,7 @@ syndicated:
   url: https://roywantsmeat.blogspot.com/2005/07/linux-is-shareware.html
 tags:
 - Tech Life
+- linux
 title: Linux is shareware?
 type: post
 url: /2005/07/linux-is-shareware/
