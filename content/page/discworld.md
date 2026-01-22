@@ -5,7 +5,7 @@ tags:
 - books 
 - discworld
 aliases:
-- /topics/discworld/
+- /page/discworld/
 ---
 
 Discworld series is a fantasy comedy series by Terry Pratchett.
@@ -33,7 +33,7 @@ Current read count: 21/41 (as of Apr 6, 2024)
 | 13 | Small Gods  | 1992 | Omnia  | Y | [2023](/2023/12/small-gods/) |
 | 14 | Lords and Ladies  | 1992 | Witches  | Y | [2006](/2006/05/pop-culture-consumer-whore/) |
 | 15 | Men at Arms  | 1993 | City Watch  | Y | [2021](/2021/04/discworld-city-watch/) |
-| 16 | Soul Music  | 1994 | Death  | | |
+| 16 | Soul Music  | 1994 | Death  | Y | [2026](/2026/01/soul-music/) |
 | 17 | Interesting Times  | 1994 | Rincewind | Y | [2024](/2024/04/interesting-times/) |
 | 18 | Maskerade  | 1995 | Witches  | Y | [2022](/2022/09/maskerade/) |
 | 19 | Feet of Clay  | 1996 | City Watch  | Y | [2022](/2022/05/weeknotes-05-01/) |

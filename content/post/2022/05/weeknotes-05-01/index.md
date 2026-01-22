@@ -87,7 +87,7 @@ Visit the [Links page](/links/) for more links of interest.
 
 - #### Feet of Clay by Terry Pratchett
 
-    - This is [Discworld](/topics/discworld/) book 19, from the City Watch sub-series. The City Watch is turning out to be my favorite of the various Discworld subseries (though I admit I haven't really explored some of the other subseries that much). This one is more of a detective/mystery story than anything else, with Vimes and his ever-expanding and still bumbling City Watch trying to solve a series of murders in Ankh-Morpokh and also the poisoning of the city's leader. It's a reasonably good read, Pratchett is as always entertaining with his parodies. 
+    - This is [Discworld](/page/discworld/) book 19, from the City Watch sub-series. The City Watch is turning out to be my favorite of the various Discworld subseries (though I admit I haven't really explored some of the other subseries that much). This one is more of a detective/mystery story than anything else, with Vimes and his ever-expanding and still bumbling City Watch trying to solve a series of murders in Ankh-Morpokh and also the poisoning of the city's leader. It's a reasonably good read, Pratchett is as always entertaining with his parodies. 
 
 - #### Russian Doll season 1
 
@@ -98,7 +98,7 @@ Visit the [Links page](/links/) for more links of interest.
     - Behind: **Legends of Tomorrow**, **The Simpsons**
     - Yet to start: **Cobra Kai season 4**, 
 
-- **Currently Reading**: Started **Jingo by Terry Pratchett** (a [Discworld](/topics/discworld/) book). This one is an actual paper book again. These always take me more time to read.
+- **Currently Reading**: Started **Jingo by Terry Pratchett** (a [Discworld](/page/discworld/) book). This one is an actual paper book again. These always take me more time to read.
 
 
 ### This coming week:

@@ -66,7 +66,7 @@ Didn't watch any new movies or finish any books/tv seasons this week, though I d
     - Behind: **Legends of Tomorrow**, **The Simpsons**
     - Yet to start: **Cobra Kai season 4**, 
 
-- **Currently Reading**: Around halfway through **Feet of Clay by Terry Pratchett** (a [Discworld](/topics/discworld/) book).
+- **Currently Reading**: Around halfway through **Feet of Clay by Terry Pratchett** (a [Discworld](/page/discworld/) book).
 
 
 ### This coming week:

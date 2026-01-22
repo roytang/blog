@@ -27,4 +27,4 @@ I had a physical copy of this book and started it maybe 2 or 3 years ago and put
 
 The book follows erstwhile wizard Rincewind as he travels across The Last Continent, which is the Discworld's version of Australia. I'm not super familiar with Australia so a lot of the references went over my head it seems; that probably explains why I lost interest in the book around a fourth of the way through. It's still interesting, as Pratchett is up to his usual absurdist humor and biting satire (see the quote above), but it certainly isn't the best Discworld book I've read.
 
-I've also decided to create [a topic index page for Discworld](/topics/discworld/), so I can track my progress for series completion. Hm, what if I target to read them all this year? Lol.
+I've also decided to create [a topic index page for Discworld](/page/discworld/), so I can track my progress for series completion. Hm, what if I target to read them all this year? Lol.

@@ -21,4 +21,4 @@ My favorite thing about this book is Rincewind's reunion with Twoflower - a char
 
 This was pretty good as far as Rincewind books go, even though Rincewind himself is often the least interesting character in the books as he has a one-track mind of just running away from everything but getting into hijinx anyway.
 
-This brings us to [21/41 Discworld](/topics/discworld/) books read! Halfway through!
+This brings us to [21/41 Discworld](/page/discworld/) books read! Halfway through!

@@ -26,4 +26,4 @@ A couple of quotes I highlighted:
 
 > Bishops move diagonally. That’s why they often turn up where the kings don’t expect them to be. 
 
-This brings us to [19/41 Discworld](/topics/discworld/) books read! It's also the 4th Discworld book I read this year, so at that rate I will be done in 6 more years!
+This brings us to [19/41 Discworld](/page/discworld/) books read! It's also the 4th Discworld book I read this year, so at that rate I will be done in 6 more years!

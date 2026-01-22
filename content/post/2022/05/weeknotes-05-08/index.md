@@ -96,7 +96,7 @@ Watched some MCU stuff this week that I felt could use their own post instead of
 
 - #### Jingo by Terry Pratchett
 
-    - This is [Discworld](/topics/discworld/) book 21, from the City Watch sub-series. I had a hard copy of this one! This one is about Ankh-Morpokh at war! The war is with the neighboring kingdom of Klatch, which seems to be a parody of Arabian (?) society. Reasonably good, and Pratchett continues to tease us with Carrot's charisma, I wonder if he ever pulls the trigger on that. No new watchmen join this time around, but Vimes continues to fail upwards spectacularly. Vetenari kind of acts like a McGuffin at the end, but that's fine. Overall probably a bit better than Feet of Clay. I do think I've had my fill of Discworld for a while though, I think that's already the 5th book this year? I have some other novels to read, so maybe I'll come back to the Disc later this year.
+    - This is [Discworld](/page/discworld/) book 21, from the City Watch sub-series. I had a hard copy of this one! This one is about Ankh-Morpokh at war! The war is with the neighboring kingdom of Klatch, which seems to be a parody of Arabian (?) society. Reasonably good, and Pratchett continues to tease us with Carrot's charisma, I wonder if he ever pulls the trigger on that. No new watchmen join this time around, but Vimes continues to fail upwards spectacularly. Vetenari kind of acts like a McGuffin at the end, but that's fine. Overall probably a bit better than Feet of Clay. I do think I've had my fill of Discworld for a while though, I think that's already the 5th book this year? I have some other novels to read, so maybe I'll come back to the Disc later this year.
 
 {{< photos jingo >}}
 
