@@ -1,9 +1,12 @@
 ---
-date: 2026-01-22T22:11:54+08:00
+date: 2026-01-22 14:11:54
 reviews:
 - description: 'Discworld #16'
   media: books
   title: Soul Music by Terry Pratchett
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/115941412693876924
 tags:
 - books
 - discworld
