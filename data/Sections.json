@@ -59,6 +59,7 @@
     "likes": {
         "label": "Likes",
         "descrip": "Likes/favorites.",
+        "page_count": 300,
         "exclude_feed": true
     },
     "fiction": {
