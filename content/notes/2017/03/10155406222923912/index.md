@@ -37,3 +37,4 @@ We are even told that drugs are becoming resurgent because tokhang was suspended
 Anlakas magcall for unity tapos critics are either given meaningless patronizing statements or outright dismissed or even bullied. If you want unity, maybe take other people's concerns into account and not just your own.
 
 Last drug war rant since Lent na. After Easter na ulit (or hopefully di na kelangan at that time?)
+
