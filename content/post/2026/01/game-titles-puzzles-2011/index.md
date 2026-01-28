@@ -3,11 +3,14 @@ date: 2026-01-27 15:37:37
 dontinlinephotos: true
 resources:
 - src: puzzle1.jpeg
-  title: 'Puzzle 1'
+  title: Puzzle 1
 - src: puzzle2.png
-  title: 'Puzzle 2'
+  title: Puzzle 2
 - src: puzzle3.jpeg
-  title: 'Puzzle 3'
+  title: Puzzle 3
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/115970696239926319
 tags:
 - gaming
 - puzzles
