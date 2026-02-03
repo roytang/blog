@@ -2,17 +2,18 @@
 author: roy
 categories: []
 date: 2008-02-03 07:45:28
-tags:
-- Tech Life
-title: Trying out KDE4
-type: post
-url: /2008/02/trying-out-kde4/
 dontinlinephotos: true
 featuredResource:
   filename: screenshot.png
 resources:
 - src: screenshot.png
   title: KDE4 Screenshot
+tags:
+- Tech Life
+- linux
+title: Trying out KDE4
+type: post
+url: /2008/02/trying-out-kde4/
 ---
 
 After finding out that KDE4 was already available for Kubuntu 7.10, the nice screenshots of the new Oxygen theme and hints of a revamped panel and widget system appealed to my inner geek envy, so I decided to install and give it a whirl.

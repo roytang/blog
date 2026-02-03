@@ -4,6 +4,7 @@ categories: []
 date: 2007-01-03 04:21:34
 tags:
 - Tech Life
+- linux
 title: Adventures in Linux Land, part 4
 type: post
 url: /2007/01/adventures-in-linux-land-part-4/
