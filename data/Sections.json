@@ -14,7 +14,7 @@
         "page_count": 50,
         "cache_feed": true,
         "descrip": "Shared links. Related: <a href='/page/links/unprocessed'>Unprocessed Links</a>",
-        "feed_url_template": "/links/{year}/#{slug}",
+        "feed_url_template": "links/{year}/#{slug}",
         "feed_url_params": ["year", "slug"],
         "compact": true,
         "generator_options": ["feeds", "tags_lists", "year_lists", "index"]
