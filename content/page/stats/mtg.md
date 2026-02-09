@@ -78,7 +78,8 @@ In March 2022, I made a "limited recap" post for Kamigawa Neon Dynasty, collatin
 
 | Set | Recap Date | Events | Win | Loss | Total | Winrate |
 | --- | --- | --- | --- | --- | --- |  --- | 
-| ALL | Nov 2025 | 603 | 1957 | 1679 | 3636 | 0.5382 |
+| ALL | Feb 2026 | 634 | 2049 | 1771 | 3820 | 0.5364 |
+| [Avatar The Last Airbender](/2026/02/mtg-atla/) | Feb 2026 |  31 | 92 | 92 | 184 | 0.5000 |
 | [Spider-Man / Through the Omenpaths](/2025/11/mtg-spiderman-om1/) | Nov 2025 | 29 | 82 | 77 | 159 | 0.5157 |
 | [Edge of Eternities](/2025/09/mtg-edge/) | Sep 2025 |  28 | 101 | 78 | 179 | 0.5642 | 
 | [Final Fantasy](/2025/08/mtg-final-fantasy/) | Aug 2025 |  59 | 180 | 170 | 350 | 0.5143 | 
@@ -118,6 +119,7 @@ These are compiled from the stats emails Arena sends out per set ([mtgarenastats
 
 | Set | Date | Boosters Opened | Fave Color | Fave Format | Mastery Level | Const. Rank | Limited Rank | Games | Quest Gold | Wins Gold |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
+| [Avatar: The Last Airbender](/2026/02/mtg-atla/#magic-arena-stats) | Feb 2026 | 108 | Blue | Quick Draft | 71 | Dia4 | Plat1 | 470 | 40,500 | 34,550 |
 | [Through the Omenpaths](/2025/11/mtg-spiderman-om1/#magic-arena-stats) | Nov 2025 | 105 | Red | Quick Draft | 71 | Mythic | Dia3 | 331 | 36,500 | 30,500 |
 | [Edge of Eternities](/2025/09/mtg-edge/#magic-arena-stats) | Sep 2025 | 115 | Blue | Quick Draft | 92 | Mythic | Dia4 | 603 | 36,000 | 33,125 |
 | [Final Fantasy](/2025/08/mtg-final-fantasy/#magic-arena-stats) | Aug 2025 | 149 | Blue | Quick Draft | 71 | Dia4 | Dia3 | 482 | 33,500 | 27,125 |
