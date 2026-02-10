@@ -1,11 +1,14 @@
 ---
-date: 2026-02-09T14:22:08+08:00
+date: 2026-02-09 06:22:08
 dontinlinephotos: true
 resources:
 - src: atla-trophy-qd20251202.jpg
   title: Quick Draft 12/02 Trophy (Ugr)
 - src: atla-arenastats.jpg
   title: My Arena Stats Email
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/116044573173615151
 tags:
 - mtg
 - limited
