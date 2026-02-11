@@ -1,18 +1,20 @@
 ---
 date: 2026-02-11 06:23:43
+dontinlinephotos: true
 reviews:
 - description: ''
   media: games
   rating: 5.0
   title: 'Witcher 3: The Wild Hunt (Steam)'
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/116052206587390353
 tags:
 - steam
 - gaming
 - games
-title: "Witcher 3: The Wild Hunt, Heart of Stone, Blood and Wine"
-dontinlinephotos: true
+title: 'Witcher 3: The Wild Hunt, Heart of Stone, Blood and Wine'
 ---
-
 
 I first bought and played through the Witcher 3 back in 2015 on the PS4. At that time I wasn't doing my schtick of wanting to write reviews for every game I played, so instead I have added [a back-dated post](/2015/07/witcher3/) to the blog to contain the content from the PS4 version (social media posts, screenshots, videos, pictures). Back then I did not have time to do completion for the game either, as I was travelling out to another country for a few months on a work trip. I never did get back to the PS4 version.
 
