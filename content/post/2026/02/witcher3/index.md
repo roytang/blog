@@ -54,7 +54,7 @@ The main quest for this area involves solving a series of murders, one that Gera
 
 ### Stats and Completion
 
-- Playtime: 122.4 hours (somehow I have less hours logged here than on the PS4 version!)
+- Playtime: 122.4 hours (somehow I have way less hours logged here than on the PS4 version!)
 - Achievements: 78/78
 
 {{% photos %}}

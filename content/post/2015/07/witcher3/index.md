@@ -61,5 +61,5 @@ This many goodies was a rarity even back in 2015, especially for a non-limited e
 
 ### Stats and Completion
 
-- Playtime: 182 hours?!?
+- Playtime: 289 hours and 47 minutes?!?
 - Trophies: 37 of 79
