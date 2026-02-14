@@ -1,5 +1,6 @@
 ---
 date: 2022-12-08 15:29:55
+dontinlinephotos: true
 reviews:
 - media: games
   rating: 5.0
@@ -15,7 +16,7 @@ syndicated:
   url: https://instagram.com/p/BB1oNI4soNi/
 - type: twitter
   url: https://twitter.com/roytang/statuses/699488069167132672/
-- type: facebook
+- type: facebookcollections/albums/albums/sfv/1_1061271400214757376_DrpktJCUcAA_U8g.jpg
   url: https://www.facebook.com/stephen.roy.tang/posts/10154377919313912:0
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10154377919318912
@@ -83,6 +84,10 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1003165575634305024/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10156679526198912
+- type: twitter
+  url: https://twitter.com/roytang/statuses/1018029055994617856/
+- type: facebook
+  url: https://www.facebook.com/stephen.roy.tang/posts/10156772471123912
 tags:
 - gaming
 - streetfighterv
@@ -185,7 +190,7 @@ Now that I've written this blog post, I plan to uninstall the game! I had a lot 
 
 <time id="10154341976808912">[2016-01-29 16:50] </time> [Alvin Tang](https://www.facebook.com/1115861317) SF5 beta is up. 3-1 na ako online yay! Lol
 
-{{% photos 12474107_10154341976628912_9171728717697364815_o_10154341976628912 %}}
+{{% collections-embed albums sfv 12474107_10154341976628912_9171728717697364815_o_10154341976628912 %}}
 
 [Comments](#comment-dc90869d-c4db-46c6-8640-1b01462179a4)
 
@@ -223,7 +228,7 @@ Now that I've written this blog post, I plan to uninstall the game! I had a lot 
 
 <time id="926116653888180224">[2017-11-02 23:59] </time> Almost season 3 and #SFV still has terrible hair
 
-{{% photos 1_926116653888180224_DNo6JrRUIAIasWl %}}
+{{% collections-embed albums sfv 1_926116653888180224_DNo6JrRUIAIasWl %}}
 
 ---
 
@@ -233,7 +238,7 @@ Now that I've written this blog post, I plan to uninstall the game! I had a lot 
 
 <time id="930049251781910530">[2017-11-13 20:26] </time> I may be a scrubby #SFV Bronze, but at least I'm ready for season 3
 
-{{% photos 1_930049251781910530_DOgyxpcUIAApygV %}}
+{{% collections-embed albums sfv 1_930049251781910530_DOgyxpcUIAApygV %}}
 
 ---
 
@@ -244,6 +249,14 @@ Now that I've written this blog post, I plan to uninstall the game! I had a lot 
 ---
 
 <time id="1003165575634305024">[2018-06-03 14:44] </time> I don't mean to brag, but I happen to be in the top 100,000 Street Fighter V players (in Asia)
+
+---
+
+<time id="1018029055994617856">[2018-07-14 15:06]</time> I realized that the amount I won from Paydro yesterday was just enough to cover the cost of Cody's nostalgia costume in SFV, so it's back to prison garb for the mayor of Metro City lol
+
+{{% collections-embed albums sfv 1_1018029055994617856_DiDD18VUcAMxDBA.jpg %}}
+
+[Comments](#comment-226fcc79-74de-4ca9-abd8-b6a68bb2d552)
 
 ---
 
@@ -277,6 +290,8 @@ Now that I've written this blog post, I plan to uninstall the game! I had a lot 
 
 <time id="1374367400276025345">[2021-03-23 22:28] </time> After five years of languishing in the bronze ranks of Street Fighter V, I somehow managed to break through to silver!! #gaming
 
+{{< photos 1374367400276025345 >}}
+
 ---
 
 <time id="1393188144049098752">[2021-05-14 20:55] </time> #StreetFighterV: Why does the higher ranked guy get 2.5x more league points than I lose? Seems like his win points should be downscaled for beating a lower ranked guy.
@@ -285,7 +300,7 @@ Now that I've written this blog post, I plan to uninstall the game! I had a lot 
 
 <time id="1437762927289720837">[2021-09-14 20:59] </time> Took me another six months to climb back into silver league with Birdie in #streetfighterv! Hopefully I can keep rising up! #gaming 
 
-{{< photos 1437762927289720837 >}}
+{{< collections-embed albums sfv 1437762927289720837 >}}
 
 ---
 
@@ -297,13 +312,13 @@ Now that I've written this blog post, I plan to uninstall the game! I had a lot 
 
 (Zangief beat me even though I was sorta wearing Ukranian colors) 
 
-{{< photos 1501892239617785859 >}}
+{{< collections-embed albums sfv 1501892239617785859 >}}
 
 ---
 
 <time id="1524382403296333824">[2022-05-11 21:34] </time> Around 14 months after I first broke through to Silver rank in #StreetFighterV I managed to hit Super Silver for the first time! At this rate, it'll be two years into SF6 before I hit Gold in SFV lol #gaming 
 
-{{< photos 1524382403296333824 >}}
+{{< collections-embed albums sfv 1524382403296333824 >}}
 
 ---
 
@@ -321,7 +336,7 @@ Super Silver -&gt; Ultra Silver: 5 months
 
 Here's hoping we get to Gold before SF6 comes out! 
 
-{{< photos 1582700303526531073 >}}
+{{< collections-embed albums sfv 1582700303526531073 >}}
 
 ---
 
@@ -358,4 +373,23 @@ Now I'm ready to move on to SF6 next year!
 {{< photos 1591033088699961344 >}}
 
 ---
+
+#### 2026
+
+Updating this post in 2026 to note some stuff:
+
+- I moved most of the screenshots into [a screenshots album in the collections section](/collections/albums/sfv/)
+- I never did unlock all the characters in this game. From the screenshot below, I have not unlocked:
+  - Season 3: Falke, G
+  - Season 4: Gill, Kage, Lucia, Poison, Seth
+  - Season 5: Rose, Dan, Oro
+  - I kind of wish I had access to these characters to putz around with now long after SF5's heyday, but I'm not sure I wanna pay for those DLCs. In theory I could unlock each character individually using Fight Money (which is how I have some of them already unlocked), but I only have a bit less than 50k FM right now, and each one of those characters costs 100k FM to unlock. Maybe at some point in the future Capcom will make it cheaper to unlock them!
+  - That being said, I do think the Fight Money system from SF5 is a bit better than the system in SF6 where my only option to access DLC characters is really just paying for the season pass. It looks like for SF5 (Steam) I paid for season passes 1 and 2 then just selectively unlocked characters from seasons 3-5 using FM.
+- My favorte costume in this game (shown in the screenshots below), is a crossover costume for Cammy from the main character Fiona from the PS2 Capcom game [Haunting Ground](https://en.wikipedia.org/wiki/Haunting_Ground). And of course Cody's prisoner costume, the one costume in the game I paid for.
+
+{{< collections-embed albums sfv 2026 >}}
+
+### Screenshot Album
+
+{{< collections-embed albums sfv >}}
 
