@@ -380,11 +380,11 @@ Updating this post in 2026 to note some stuff:
 
 - I moved most of the screenshots into [a screenshots album in the collections section](/collections/albums/sfv/)
 - I never did unlock all the characters in this game. From the screenshot below, I have not unlocked:
-  - Season 3: Falke, G
-  - Season 4: Gill, Kage, Lucia, Poison, Seth
-  - Season 5: Rose, Dan, Oro
-  - I kind of wish I had access to these characters to putz around with now long after SF5's heyday, but I'm not sure I wanna pay for those DLCs. In theory I could unlock each character individually using Fight Money (which is how I have some of them already unlocked), but I only have a bit less than 50k FM right now, and each one of those characters costs 100k FM to unlock. Maybe at some point in the future Capcom will make it cheaper to unlock them!
-  - That being said, I do think the Fight Money system from SF5 is a bit better than the system in SF6 where my only option to access DLC characters is really just paying for the season pass. It looks like for SF5 (Steam) I paid for season passes 1 and 2 then just selectively unlocked characters from seasons 3-5 using FM.
+    - Season 3: Falke, G
+    - Season 4: Gill, Kage, Lucia, Poison, Seth
+    - Season 5: Rose, Dan, Oro
+    - I kind of wish I had access to these characters to putz around with now long after SF5's heyday, but I'm not sure I wanna pay for those DLCs. In theory I could unlock each character individually using Fight Money (which is how I have some of them already unlocked), but I only have a bit less than 50k FM right now, and each one of those characters costs 100k FM to unlock. Maybe at some point in the future Capcom will make it cheaper to unlock them!
+    - That being said, I do think the Fight Money system from SF5 is a bit better than the system in SF6 where my only option to access DLC characters is really just paying for the season pass. It looks like for SF5 (Steam) I paid for season passes 1 and 2 then just selectively unlocked characters from seasons 3-5 using FM.
 - My favorte costume in this game (shown in the screenshots below), is a crossover costume for Cammy from the main character Fiona from the PS2 Capcom game [Haunting Ground](https://en.wikipedia.org/wiki/Haunting_Ground). And of course Cody's prisoner costume, the one costume in the game I paid for.
 
 {{< collections-embed albums sfv 2026 >}}
