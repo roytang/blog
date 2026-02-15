@@ -7,7 +7,7 @@ syndicated:
   url: https://indieweb.social/users/roytang/statuses/116075030005240055
 tags:
 - weeknotes
-title: Weeknotes 2026-02-08
+title: Weeknotes 2026-02-15
 toc: true
 ---
 
