@@ -4,7 +4,7 @@ albums:
 - instagram
 date: 2019-08-21 16:48:16
 geo: ''
-location: ''
+
 source: instagram
 syndicated:
 - type: instagram

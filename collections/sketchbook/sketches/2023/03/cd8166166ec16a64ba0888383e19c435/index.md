@@ -2,8 +2,8 @@
 albums:
 - sketchbook
 date: 2023-03-29 06:59:37.787796
-location: 5bc1c92d356b490039205a7e
-locations:
+x-location: 5bc1c92d356b490039205a7e
+x-locations:
 - 5bc1c92d356b490039205a7e
 source: form
 syndicated:

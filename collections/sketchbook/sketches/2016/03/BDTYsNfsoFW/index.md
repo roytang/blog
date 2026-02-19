@@ -1,7 +1,7 @@
 ---
 album: sketchbook
 date: 2016-03-23 16:51:45
-location: ''
+
 source: instagram
 syndicated:
 - type: instagram

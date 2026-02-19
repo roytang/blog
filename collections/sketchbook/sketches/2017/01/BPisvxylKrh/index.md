@@ -3,7 +3,7 @@ albums:
 - sketchbook
 - instagram
 date: 2017-01-21 21:52:20
-location: ''
+
 source: instagram
 syndicated:
 - type: instagram

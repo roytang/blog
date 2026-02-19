@@ -3,7 +3,7 @@ albums:
 - sketchbook
 - instagram
 date: 2016-02-12 15:37:30
-location: ''
+
 reviews:
 - description: ''
   media: books
