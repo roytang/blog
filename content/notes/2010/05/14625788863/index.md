@@ -8,6 +8,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/102311699817044
 tags:
 - gaming
+- dragonage
 ---
 
 Started playing Dragon Age: Origins again. Maybe I'll actually finish it this time.
