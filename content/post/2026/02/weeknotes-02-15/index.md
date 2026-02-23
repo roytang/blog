@@ -13,7 +13,7 @@ toc: true
 
 ### The World
 
-- Winter olypmics!
+- Winter olympics!
 - USPol: Trump being dumb yada yada. THE DOW IS OVER 50,000!
 - Locally: Duterte ICC case advances, BongGo and Bato implicated, Senator Padilla being an idiot, etc.
 
