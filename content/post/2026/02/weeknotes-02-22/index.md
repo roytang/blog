@@ -13,7 +13,7 @@ This entry coming in late because I had a busy weekend!
 ### The World
 
 - USPol: The US supreme court has rejected Trump's reciprocal tariffs! He was so mad!
-- PHPol: Sara Duterte announces her candidacy for 2027, way too early, kicking speculation/discussion of opposition slates into gear.
+- PHPol: Sara Duterte announces her candidacy for 2028, way too early, kicking speculation/discussion of opposition slates into gear.
 
 ### My Week
 
