@@ -1,12 +1,11 @@
 ---
-date: 2026-03-02 20:23:56+08:00
+date: 2026-03-02 12:23:56
 dontinlinephotos: true
-toc: true
 resources:
 - src: one-piece-film-strong-world-2009.jpg
   title: 'One Piece Film: Strong World (2009)'
 - src: fringe-denethor.png
-  title: "It's Denethor!"
+  title: It's Denethor!
 reviews:
 - date: '2026-02-09'
   description: ''
@@ -20,45 +19,48 @@ reviews:
   hashtag: the-good-doctor
   media: tv
   rating: 3.5
-  title: 'The Good Doctor'
-  year: '2017-2024'
+  title: The Good Doctor
+  year: 2017-2024
 - date: '2026-01-30'
   description: ''
   hashtag: fringe
   media: tv
   rating: 4.5
-  title: 'Fringe'
-  year: '2008-2013'
+  title: Fringe
+  year: 2008-2013
 - date: '2026-02-03'
   description: ''
   hashtag: agatha-christie-s-seven-dials
   media: tv
   rating: 4.5
-  title: "Agatha Christie's Seven Dials"
+  title: Agatha Christie's Seven Dials
   year: '2026'
 - date: '2026-02-03'
-  description: 'seasons 1-4'
+  description: seasons 1-4
   hashtag: the-lincoln-lawyer
   media: tv
   rating: 4.0
-  title: "The Lincoln Lawyer"
+  title: The Lincoln Lawyer
   year: '2026'
 - date: '2026-02-05'
   description: ''
   hashtag: royal-rumble
   media: tv
   rating: 4.0
-  title: "Royal Rumble"
-  year: '1988, 1989'
+  title: Royal Rumble
+  year: 1988, 1989
 source: letterboxd
 syndicated:
 - type: letterboxd
   url: https://letterboxd.com/hungryroy/film/one-piece-film-strong-world/
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/116162299546192783
 tags:
 - movies
 - tv
 - watching-lately
 title: Movies / TV - Jan & Feb 2026
+toc: true
 ---
 
 ### Movies
