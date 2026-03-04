@@ -3,7 +3,10 @@ date: 2026-03-04 06:02:52
 dontinlinephotos: true
 resources:
 - src: paypal-received.png
-  title: 'Paypal screenshot showing the money received transaction'
+  title: Paypal screenshot showing the money received transaction
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/116170133623789832
 tags:
 - paypal
 - tech-life
