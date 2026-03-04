@@ -7,7 +7,7 @@ resources:
 tags:
 - paypal
 - tech-life
-title: Paypal can charge you a 'Dispute Fee` even if you did nothing in a transaction
+title: Paypal can charge you a 'Dispute Fee' even if you did nothing in a transaction
 ---
 
 On the 15th of January I got the following email from a stranger:
