@@ -18,7 +18,7 @@ It is a new month! Time marches forward.
 - Israel and the US (via the "president of peace") have started a new conflict with Iran. Ayatollah Khomenei has reportedly been killed. TIL that his reign as supreme leader of Iran started in 1979, it was only slightly younger than I am!
     {{% note "2026/02/116150918960055536/" %}}
 - USPol: The US blacklists Anthropic from government contracts after they refuse to allow the USGov to use their software for things like mass surveillance and automated weaponry. I am not a fan of all this GenAI nonsense, but props to Anthropic for this!
-- PHPol: Initial hearings for Duterte's trail at the Hague dominated local headlines. I try not to pay attention and just hope that justice will take its course.
+- PHPol: Initial hearings for Duterte's trial at the Hague dominated local headlines. I try not to pay attention and just hope that justice will take its course.
 
 
 ### My Week
