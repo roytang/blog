@@ -10,7 +10,7 @@ reviews:
   media: games
   platforms:
   - ps4
-  rating: 0.0
+  rating: 5.0
   title: Marvel's Spider-Man (PS4)
 syndicated:
 - type: twitter
