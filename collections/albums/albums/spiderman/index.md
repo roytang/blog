@@ -6,7 +6,7 @@ tags:
 - ps4
 related_posts:
 - text: Game Review
-  url: /2018/11/spiderman-ps4/
+  url: 2018/11/spiderman-ps4/
 resources:
 - src: 0035_costume.jpg
   title: "My favorite costume!"
