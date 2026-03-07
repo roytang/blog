@@ -1,7 +1,6 @@
 ---
-date: 2026-03-07T00:26:35+08:00
+date: 2026-03-06 16:26:35
 dontinlinephotos: true
-toc: true
 reviews:
 - description: ''
   media: games
@@ -9,6 +8,9 @@ reviews:
   - ps5
   rating: 4.5
   title: Marvel's Spider-Man 2 (PS5)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/116187922553336873
 tags:
 - ps5
 - comics
@@ -16,6 +18,7 @@ tags:
 - gaming
 - games
 title: 'Game Review: Marvel''s Spider-Man 2 for PS5'
+toc: true
 ---
 
 Previously: [Marvel's Spider-Man (PS4)](/2018/11/spiderman-ps4/), [Marvel's Spider-Man: Miles Morales (Steam)](/2025/04/miles-morales/)
