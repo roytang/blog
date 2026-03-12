@@ -12,6 +12,8 @@ syndicated:
 tags:
 - games
 - lanoire
+- ps3
+- gaming
 ---
 
 I finished LA Noire but I think I got the bad ending. Wait, there was only one ending?

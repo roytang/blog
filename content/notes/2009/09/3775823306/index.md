@@ -14,6 +14,7 @@ syndicated:
 tags:
 - gaming
 - games
+- ps3
 ---
 
 finished Batman Arkham Asylum!

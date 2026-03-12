@@ -17,6 +17,7 @@ tags:
 - gaming
 - games
 - formernote
+- ps3
 title: The Last of Us (PS3)
 ---
 

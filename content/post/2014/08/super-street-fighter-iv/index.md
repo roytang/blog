@@ -1,6 +1,7 @@
 ---
 backpost_date: 2024-01-18 15:47:13
 date: 2014-08-31
+dontinlinephotos: true
 reviews:
 - media: games
   title: Super Street Fighter IV (PS3)
@@ -71,8 +72,8 @@ tags:
 - gaming
 - backpost
 - games
+- ps3
 title: Super Street Fighter IV Recap
-dontinlinephotos: true
 ---
 
 ### Can You Have Too Much Street Fighter IV?

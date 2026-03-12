@@ -12,6 +12,7 @@ syndicated:
 tags:
 - gaming
 - games
+- ps3
 ---
 
 Finished Uncharted!

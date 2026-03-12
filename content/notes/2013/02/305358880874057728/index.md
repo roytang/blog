@@ -14,6 +14,7 @@ syndicated:
 tags:
 - gaming
 - games
+- ps3
 ---
 
 That borderlands 2 final boss was intense and chaotic

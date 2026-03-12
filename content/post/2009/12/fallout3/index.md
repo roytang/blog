@@ -1,11 +1,14 @@
 ---
-title: "Fallout3"
-backpost_date: 2024-01-13T21:57:29+08:00
+backpost_date: 2024-01-13 13:57:29
 date: 2009-12-29
-tags:
-- gaming
-- games
-- backpost
+reviews:
+- description: ''
+  media: games
+  platforms:
+  - steam
+  - ps3
+  rating: 0.0
+  title: Fallout 3 (PS3)
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1006834856/
@@ -19,14 +22,12 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/223314792038
 - type: twitter
   url: https://twitter.com/roytang/statuses/980600308/
-reviews:
-- description: ''
-  media: games
-  rating: 0.0
-  title: Fallout 3 (PS3)
-  platforms:
-  - steam
-  - ps3
+tags:
+- gaming
+- games
+- backpost
+- ps3
+title: Fallout3
 ---
 
 I played Fallout 3 on PC first (non-Steam!) then on PS3 using the GOTY version.

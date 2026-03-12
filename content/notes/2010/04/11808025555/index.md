@@ -13,6 +13,8 @@ tags:
 - games
 - ff13
 - final-fantasy
+- ps3
+- gaming
 ---
 
 finally finished final fantasy xiii

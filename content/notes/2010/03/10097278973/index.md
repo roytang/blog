@@ -13,6 +13,8 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/375634658803
 tags:
 - games
+- ps3
+- gaming
 ---
 
 Managed to finish Star Ocean: Last Hope in time. FFXIII on Tuesday!

@@ -15,6 +15,7 @@ tags:
 - gaming
 - games
 - xkcd
+- ps3
 ---
 
 I just finished Borderlands today. Borderlands ONE.

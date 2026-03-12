@@ -14,6 +14,7 @@ syndicated:
 tags:
 - gaming
 - games
+- ps3
 ---
 
 Just finished Mass Effect 3...I understand the hullabaloo about the ending now; wth was that?

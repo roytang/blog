@@ -17,6 +17,7 @@ syndicated:
   url: https://twitter.com/roytang/status/1466105806798032905/
 tags:
 - covid19
+- formernote
 title: Booster Got!
 ---
 

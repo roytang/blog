@@ -13,6 +13,8 @@ syndicated:
   url: https://plurk.com/p/9nwsri
 tags:
 - games
+- ps3
+- gaming
 ---
 
 Finally finished Infamous! Now for the other 200 games on my backlog.
