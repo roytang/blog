@@ -7,6 +7,8 @@ syndicated:
   url: https://roywantsmeat.blogspot.com/2005/02/some-thoughts-on-piracy.html
 tags:
 - Gaming
+- ps2
+- piracy
 title: Some thoughts on piracy
 type: post
 url: /2005/02/some-thoughts-on-piracy/

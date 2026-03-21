@@ -13,6 +13,7 @@ syndicated:
 tags:
 - Gaming
 - games
+- ps2
 title: 'Games: Star Ocean -- Till the End of Time'
 type: post
 url: /2005/01/games-star-ocean-till-the-end-of-time/

@@ -4,6 +4,7 @@ date: 2006-04-13 06:50:08
 tags:
 - Gaming
 - suikoden
+- ps2
 title: 'Contrast: Suikoden V vs Baldur''s Gate 2'
 type: post
 url: /2006/04/contrast-suikoden-v-vs-baldurs-gate-2/

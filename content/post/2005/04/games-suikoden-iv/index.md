@@ -12,6 +12,7 @@ tags:
 - Gaming
 - games
 - suikoden
+- ps2
 title: 'Games: Suikoden IV'
 type: post
 url: /2005/04/games-suikoden-iv/

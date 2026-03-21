@@ -14,6 +14,7 @@ tags:
 - Gaming
 - games
 - final-fantasy
+- ps2
 title: 'Final Fantasy X-2: First Impressions'
 type: post
 url: /2003/11/final-fantasy-x-2-first-impressions/

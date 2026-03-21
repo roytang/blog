@@ -13,6 +13,7 @@ syndicated:
 tags:
 - Gaming
 - games
+- ps2
 title: 'Games: Timesplitters III'
 type: post
 url: /2005/04/games-timesplitters-iii/

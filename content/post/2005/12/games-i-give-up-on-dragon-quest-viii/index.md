@@ -7,6 +7,7 @@ syndicated:
   url: https://roywantsmeat.blogspot.com/2005/12/games-i-give-up-on-dragon-quest-viii.html
 tags:
 - Gaming
+- ps2
 title: Games -- I Give Up On Dragon Quest VIII
 type: post
 url: /2005/12/games-i-give-up-on-dragon-quest-viii/

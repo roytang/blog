@@ -11,6 +11,7 @@ syndicated:
 tags:
 - Gaming
 - games
+- ps2
 title: 'Games: Naruto: Narutimate Hero'
 type: post
 url: /2004/06/games-naruto-narutimate-hero/

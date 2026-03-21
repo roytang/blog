@@ -8,6 +8,7 @@ tags:
 - Gaming
 - games
 - suikoden
+- ps2
 title: Suikoden V -- Review
 type: post
 url: /2006/05/suikoden-v-review/

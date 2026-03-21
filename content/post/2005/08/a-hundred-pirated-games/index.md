@@ -7,6 +7,8 @@ syndicated:
   url: https://roywantsmeat.blogspot.com/2005/08/hundred-pirated-games.html
 tags:
 - Gaming
+- ps2
+- piracy
 title: A hundred pirated games
 type: post
 url: /2005/08/a-hundred-pirated-games/

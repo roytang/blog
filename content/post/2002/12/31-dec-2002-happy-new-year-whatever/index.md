@@ -4,6 +4,7 @@ categories: []
 date: 2002-12-31 01:30:59
 tags:
 - Legacy Blog Posts
+- ps2
 title: '31 Dec 2002: Happy New Yearwhatever'
 type: post
 url: /2002/12/31-dec-2002-happy-new-year-whatever/
