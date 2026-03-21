@@ -1,9 +1,12 @@
 ---
-title: "A Look Back at the PlayStation 2"
-date: 2026-03-21T19:49:06+08:00
+date: 2026-03-21 11:49:06
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/116268179753389944
 tags:
 - gaming
 - ps2
+title: A Look Back at the PlayStation 2
 ---
 
 Last weekend we were cleaning out some boxes from the house because of some renovations, and my dad found a big box marked "PS2". I was excited to open it, and it and inside (as expected) was a whole bunch of (pirated) PlayStation 2 games:
@@ -40,4 +43,4 @@ Notes:
     - Dark Cloud II: I remember playing through a bit of this and being really impressed and liking it, but I believe I never finished it. Looks like it can be played on PS4 via a digital re-release though, which tempts me a bit lol.
     - Rogue Galaxy, Ys 6: I have zero recollection of these! Kind of wanna play these now though.
 - Overall I look back on this era fondly, though this review made me realize I hadn't played the system as much as I thought.
-- The boxes of games are still here, I kind of wanna go through the cases and disks just to double-check that there aren't any extra things of interest that snuck in there. Or maybe I'll just decide to dispose of them straight up. I am a bit tempted to keep the colorful game covers though, some have great art and I can't print those easily. 
+- The boxes of games are still here, I kind of wanna go through the cases and disks just to double-check that there aren't any extra things of interest that snuck in there. Or maybe I'll just decide to dispose of them straight up. I am a bit tempted to keep the colorful game covers though, some have great art and I can't print those easily.
