@@ -1,6 +1,8 @@
 ---
 date: 2023-07-06 15:48:26
 location: vault
+locations:
+- vault
 resources:
 - src: 20230706_201358.jpg
   title: Pork Skewers Set Meal

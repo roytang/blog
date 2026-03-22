@@ -1,6 +1,8 @@
 ---
 date: 2024-11-06 15:06:08
 location: vault
+locations:
+- vault
 tags:
 - quiznight
 - popquiz

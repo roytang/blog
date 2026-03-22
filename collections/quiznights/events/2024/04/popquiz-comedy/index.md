@@ -1,6 +1,8 @@
 ---
 date: 2024-04-18 23:18:10
 location: vault
+locations:
+- vault
 resources:
 - src: 440107252_1352401258910115_2373490578197214885_n.jpg
   title: Photo c/o PopQuiz

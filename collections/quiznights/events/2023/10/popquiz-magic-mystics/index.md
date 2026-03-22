@@ -1,6 +1,8 @@
 ---
 date: 2023-10-12 15:28:05
 location: vault
+locations:
+- vault
 resources:
 - src: 20231012_202330.jpg
   title: ''

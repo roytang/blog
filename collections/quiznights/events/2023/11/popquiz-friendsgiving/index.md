@@ -2,6 +2,12 @@
 title: "Popquiz Friendsgiving"
 date: 2023-11-16T23:09:21+08:00
 location: vault
+locations:
+- vault
+tags:
+- quiznight
+- popquiz
+- '2023'
 ---
 
 We played a Friendsgiving-themed PopQuiz.
