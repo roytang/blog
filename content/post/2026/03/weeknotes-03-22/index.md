@@ -8,8 +8,6 @@ title: Weeknotes 2026-03-22
 toc: true
 ---
 
-This week's entry coming in just a little bit late because I was busy yesterday.
-
 ### The World
 
 - The Iran conflict enters its fourth week! Trump calls allies cowards for not helping open the Strait of Hormuz. Gas prices are terrible. Trump has given a 48-hour ultimatum to open the strait, let's see what happens when Iran doesn't do it.
