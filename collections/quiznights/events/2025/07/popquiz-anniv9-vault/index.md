@@ -1,6 +1,8 @@
 ---
 date: 2025-07-31 15:33:02
 location: vault
+locations:
+- vault
 resources:
 - src: 20250731_204106.jpg
   title: I misspelled this one!
