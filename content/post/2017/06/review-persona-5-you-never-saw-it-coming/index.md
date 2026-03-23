@@ -22,6 +22,7 @@ resources:
 reviews:
 - media: games
   title: Persona 5
+  platform: ps4
 syndicated:
 - type: tumblr
   url: https://roytang.tumblr.com/post/161640913350/review-persona-5-you-never-saw-it-coming

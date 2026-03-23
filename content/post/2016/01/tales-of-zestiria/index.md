@@ -4,7 +4,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: Tales of Zestiria (Steam)
+  title: Tales of Zestiria
+  platform: steam
 source: twitter
 syndicated:
 - type: twitter

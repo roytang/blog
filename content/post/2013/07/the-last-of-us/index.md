@@ -3,6 +3,7 @@ date: 2013-07-07 01:44:09
 reviews:
 - media: games
   title: The Last of Us
+  platform: ps3
 source: twitter
 syndicated:
 - type: twitter

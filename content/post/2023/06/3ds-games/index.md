@@ -6,37 +6,44 @@ reviews:
   description: 3DS retro review
   hashtag: the-legend-of-zelda-ocarina-of-time-3d
   media: games
-  title: 'The Legend of Zelda: Ocarina of Time 3D (3DS)'
+  platform: 3ds
+  title: 'The Legend of Zelda: Ocarina of Time 3D'
 - date: 2012-12-31
   description: 3DS retro review
   hashtag: super-mario-3d-land
   media: games
-  title: Super Mario 3D Land (3DS)
+  platform: 3ds
+  title: Super Mario 3D Land
 - date: 2014-01-31
   description: 3DS retro review
   hashtag: tales-of-the-abyss
   media: games
-  title: Tales of the Abyss (3DS)
+  platform: 3ds
+  title: Tales of the Abyss
 - date: 2012-12-31
   description: 3DS retro review
   hashtag: super-street-fighter-iv-3d-edition
   media: games
-  title: Super Street Fighter IV 3D Edition (3DS)
+  platform: 3ds
+  title: Super Street Fighter IV 3D Edition
 - date: 2012-09-15
   description: 3DS retro review
   hashtag: new-super-mario-bros-2
   media: games
-  title: New Super Mario Bros 2 (3DS)
+  platform: 3ds
+  title: New Super Mario Bros 2
 - date: 2014-01-19
   description: 3DS retro review
   hashtag: shin-megami-tensei-iv
   media: games
-  title: Shin Megami Tensei IV (3DS)
+  platform: 3ds
+  title: Shin Megami Tensei IV
 - date: 2013-11-24
   description: 3DS retro review
   hashtag: the-legend-of-zelda-a-link-between-worlds
   media: games
-  title: 'The Legend of Zelda: A Link Between Worlds (3DS)'
+  platform: 3ds
+  title: 'The Legend of Zelda: A Link Between Worlds'
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/110537372273165897

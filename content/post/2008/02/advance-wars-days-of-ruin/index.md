@@ -6,7 +6,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: 'Advance Wars: Days of Ruin (NDS)'
+  title: 'Advance Wars: Days of Ruin'
+  platform: nds
 tags:
 - Gaming
 - games

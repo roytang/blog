@@ -4,7 +4,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: Tales of Symphonia (Steam)
+  title: Tales of Symphonia
+  platform: steam
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/107455117349910189

@@ -2,7 +2,8 @@
 date: 2020-12-13
 reviews:
 - media: games
-  title: 'Batman: Arkham Origins (Steam)'
+  title: 'Batman: Arkham Origins'
+  platform: steam
 slug: weeknotes-2020-12-13
 syndicated:
 - type: mastodon

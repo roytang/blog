@@ -5,6 +5,7 @@ reviews:
   media: games
   rating: 5.0
   title: Disco Elysium
+  platform: steam
 source: twitter
 syndicated:
 - type: twitter

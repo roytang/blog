@@ -4,7 +4,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: 'Star Ocean: The Last Hope (PS3)'
+  title: 'Star Ocean: The Last Hope'
+  platform: ps3
 source: twitter
 syndicated:
 - type: twitter

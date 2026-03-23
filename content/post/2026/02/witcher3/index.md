@@ -5,7 +5,8 @@ reviews:
 - description: ''
   media: games
   rating: 5.0
-  title: 'Witcher 3: The Wild Hunt (Steam)'
+  title: 'Witcher 3: The Wild Hunt GOTY Edition'
+  platform: steam
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/116052206587390353

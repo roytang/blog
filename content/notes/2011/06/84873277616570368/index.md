@@ -4,7 +4,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: L.A. Noire (PS3)
+  title: L.A. Noire
+  platform: ps3
 source: twitter
 syndicated:
 - type: twitter

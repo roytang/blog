@@ -8,6 +8,7 @@ reviews:
   media: games
   rating: 0.0
   title: 'Ni No Kuni: Wrath of the White Witch'
+  platform: ps3
 syndicated:
 - type: tumblr
   url: https://roytang.tumblr.com/post/178996306410/late-game-review-ni-no-kuni-wrath-of-the-white

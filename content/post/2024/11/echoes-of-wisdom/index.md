@@ -3,10 +3,9 @@ date: 2024-11-12 10:38:46
 reviews:
 - description: ''
   media: games
-  platforms:
-  - switch
+  platform: switch
   rating: 4.0
-  title: 'The Legend of Zelda: Echoes of Wisdom (Switch)'
+  title: 'The Legend of Zelda: Echoes of Wisdom'
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/113469643210839139

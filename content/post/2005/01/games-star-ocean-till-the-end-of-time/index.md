@@ -5,7 +5,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: 'Star Ocean: Till the End of Time (PS2)'
+  title: 'Star Ocean: Till the End of Time'
+  platform: ps2
 source: roywantsmeat
 syndicated:
 - type: blogger

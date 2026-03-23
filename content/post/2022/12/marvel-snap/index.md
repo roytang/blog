@@ -9,6 +9,10 @@ resources:
 reviews:
 - media: games
   title: Marvel Snap
+  platform: steam
+- media: games
+  title: Marvel Snap
+  platform: mobile
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/109604869623816341

@@ -5,7 +5,8 @@ reviews:
     stuffed.
   media: games
   rating: 3.5
-  title: 'Bloodstained: Ritual of the Night (Steam)'
+  title: 'Bloodstained: Ritual of the Night'
+  platform: steam
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/108533398342091037

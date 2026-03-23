@@ -6,6 +6,7 @@ reviews:
   media: games
   rating: 4
   title: Blood Rage
+  platform: steam
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/105858422268425361

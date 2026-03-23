@@ -4,7 +4,8 @@ albums:
 date: 2014-02-10
 reviews:
 - media: games
-  title: Virtue's Last Reward (PS Vita)
+  title: Virtue's Last Reward
+  platform: psvita
 tags:
 - gaming
 - psvita

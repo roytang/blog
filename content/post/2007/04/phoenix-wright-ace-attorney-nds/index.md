@@ -5,7 +5,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: 'Phoenix Wright: Ace Attorney (NDS)'
+  title: 'Phoenix Wright: Ace Attorney'
+  platform: nds
 tags:
 - Gaming
 - games

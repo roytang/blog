@@ -4,7 +4,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: Mass Effect 3 (PS3)
+  title: Mass Effect 3
+  platform: ps3
 source: twitter
 syndicated:
 - type: twitter

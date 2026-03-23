@@ -4,7 +4,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: Stardew Valley (Steam)
+  title: Stardew Valley
+  platform: steam
 source: twitter
 syndicated:
 - type: twitter

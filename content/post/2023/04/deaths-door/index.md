@@ -4,7 +4,8 @@ reviews:
 - description: ''
   media: games
   rating: 4.0
-  title: Death's Door (PC Game Pass)
+  title: Death's Door
+  platform: pcgamepass
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/110257255947918994

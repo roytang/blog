@@ -2,7 +2,8 @@
 date: 2022-08-25 15:20:45
 reviews:
 - media: games
-  title: 'Witcher 2: Assassin of Kings (Steam)'
+  title: 'Witcher 2: Assassin of Kings'
+  platform: steam
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/108884434106232713

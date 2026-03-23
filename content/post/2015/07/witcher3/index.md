@@ -5,7 +5,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: 'Witcher 3: The Wild Hunt (PS4)'
+  title: 'Witcher 3: The Wild Hunt'
+  platform: ps4
 syndicated:
 - type: youtube
   url: https://www.youtube.com/watch?v=a6lSfCHGc7E

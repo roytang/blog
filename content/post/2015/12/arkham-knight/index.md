@@ -11,7 +11,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: 'Batman: Arkham Knight (PS4)'
+  title: 'Batman: Arkham Knight'
+  platform: ps4
 source: facebook
 syndicated:
 - type: facebook

@@ -6,7 +6,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: Persona 3 Portable (PS Vita)
+  title: Persona 3 Portable
+  platform: psvita
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153555948233912:0

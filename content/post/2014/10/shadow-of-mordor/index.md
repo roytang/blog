@@ -18,9 +18,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: 'Middle Earth: Shadow of Mordor (PS4)'
-  platforms:
-  - ps4
+  title: 'Middle Earth: Shadow of Mordor PS4'
+  platform: ps4
 tags:
 - gaming
 - shadowofmordor

@@ -4,7 +4,8 @@ reviews:
 - description: Super weird and not what I expected.
   media: games
   rating: 4.0
-  title: Paradise Killer (PC Game Pass)
+  title: Paradise Killer
+  platform: pcgamepass
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/109314547747789600

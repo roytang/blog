@@ -4,7 +4,8 @@ reviews:
 - description: An excellent FFT successor
   media: games
   rating: 4.0
-  title: Triangle Strategy (Switch)
+  title: Triangle Strategy
+  platform: steam
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/108572093689342658

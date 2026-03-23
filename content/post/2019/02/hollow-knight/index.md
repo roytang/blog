@@ -7,7 +7,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: Hollow Knight (Steam)
+  title: Hollow Knight
+  platform: steam
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1096650858681565184/

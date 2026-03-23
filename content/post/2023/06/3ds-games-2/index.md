@@ -6,27 +6,32 @@ reviews:
   description: 3DS retro review
   hashtag: bravely-default
   media: games
-  title: Bravely Default (3DS)
+  platform: 3ds
+  title: Bravely Default
 - date: 2015-12-04
   description: 3DS retro review
   hashtag: super-smash-brothers-for-3ds
   media: games
-  title: Super Smash Brothers for 3DS (3DS)
+  platform: 3ds
+  title: Super Smash Brothers for 3DS
 - date: 2017-03-26
   description: 3DS retro review
   hashtag: the-legend-of-zelda-majoras-mask-3d
   media: games
-  title: 'The Legend of Zelda: Majora''s Mask 3D (3DS)'
+  platform: 3ds
+  title: 'The Legend of Zelda: Majora''s Mask 3D'
 - date: 2015-01-26
   description: 3DS retro review
   hashtag: fire-emblem-awakening
   media: games
-  title: Fire Emblem Awakening (3DS)
+  platform: 3ds
+  title: Fire Emblem Awakening
 - date: 2017-04-18
   description: 3DS retro review
   hashtag: persona-q-shadow-of-the-labyrinth
   media: games
-  title: 'Persona Q: Shadow of the Labyrinth (3DS)'
+  platform: 3ds
+  title: 'Persona Q: Shadow of the Labyrinth'
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/110569637187545041

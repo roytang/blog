@@ -3,6 +3,7 @@ date: 2010-04-08 05:15:36
 reviews:
 - media: games
   title: Final Fantasy XIII
+  platform: ps3
 source: twitter
 syndicated:
 - type: twitter

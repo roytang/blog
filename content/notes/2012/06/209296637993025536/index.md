@@ -4,7 +4,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: Binding of Isaac (PS4)
+  title: Binding of Isaac
+  platform: ps4
 source: twitter
 syndicated:
 - type: twitter

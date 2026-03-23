@@ -4,7 +4,8 @@ date: 2014-08-31
 dontinlinephotos: true
 reviews:
 - media: games
-  title: Super Street Fighter IV (PS3)
+  title: Super Street Fighter IV
+  platform: ps3
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/6008325466/

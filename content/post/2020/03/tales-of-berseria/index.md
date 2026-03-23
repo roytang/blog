@@ -9,7 +9,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: Tales of Berseria (Steam)
+  title: Tales of Berseria
+  platform: steam
 slug: tales-of-berseria
 syndicated:
 - type: twitter

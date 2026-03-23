@@ -7,7 +7,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: Slay the Spire (Steam)
+  title: Slay the Spire
+  platform: steam
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1091578222427422721/

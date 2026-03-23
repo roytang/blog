@@ -7,6 +7,7 @@ reviews:
   media: games
   rating: 4
   title: Root
+  platform: steam
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/106170137464135504

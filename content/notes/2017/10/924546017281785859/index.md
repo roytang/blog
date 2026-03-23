@@ -4,7 +4,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: Kingdom Hearts 2 Final Mix (PS4)
+  title: Kingdom Hearts 2 Final Mix
+  platform: ps4
 source: twitter
 syndicated:
 - type: twitter

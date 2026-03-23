@@ -4,7 +4,8 @@ reviews:
 - description: ''
   media: games
   rating: 3.5
-  title: Return to Monkey Island (PC Game Pass)
+  title: Return to Monkey Island
+  platform: pcgamepass
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/110144517301483969

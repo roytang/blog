@@ -4,6 +4,7 @@ date: 2006-05-30 07:03:04
 reviews:
 - media: games
   title: Suikoden V
+  platform: ps2
 tags:
 - Gaming
 - games

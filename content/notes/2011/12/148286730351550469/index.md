@@ -4,7 +4,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: Bastion (Steam)
+  title: Bastion
+  platform: steam
 source: twitter
 syndicated:
 - type: twitter

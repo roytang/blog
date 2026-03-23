@@ -3,6 +3,7 @@ date: 2021-06-28 14:56:26
 reviews:
 - media: games
   title: Guilty Gear -STRIVE-
+  platform: steam
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/106489064705121226

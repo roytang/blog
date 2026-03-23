@@ -4,7 +4,8 @@ reviews:
 - description: An excellent game.
   media: games
   rating: 5.0
-  title: Metroid Dread (Switch)
+  title: Metroid Dread
+  platform: switch
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/108158581844873151

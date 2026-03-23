@@ -10,7 +10,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: Life is Strange (PS4)
+  title: Life is Strange
+  platform: ps4
 source: twitter
 syndicated:
 - type: twitter

@@ -22,7 +22,8 @@ reviews:
 - description: ''
   media: games
   rating: 4.0
-  title: Tales of Arise (PC Game Pass)
+  title: Tales of Arise
+  platform: pcgamepass
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/112219571720219736

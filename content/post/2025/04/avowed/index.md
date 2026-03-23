@@ -14,7 +14,7 @@ reviews:
 - media: games
   platform: pcgamepass
   rating: 4.0
-  title: Avowed (PC Game Pass)
+  title: Avowed
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/114297391965427056

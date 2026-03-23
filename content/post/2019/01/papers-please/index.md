@@ -7,7 +7,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: Papers Please (Steam)
+  title: Papers Please
+  platform: steam
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1084329543320645634/

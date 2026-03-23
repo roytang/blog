@@ -3,10 +3,9 @@ date: 2024-08-17 06:36:40
 reviews:
 - description: ''
   media: games
-  platforms:
-  - steam
+  platform: steam
   rating: 3.5
-  title: Afterimage (Steam)
+  title: Afterimage
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/112976079287828268

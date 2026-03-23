@@ -4,6 +4,7 @@ date: 2002-05-24 16:00:57
 reviews:
 - media: games
   title: 'Hoshigami: Ruining Blue Earth'
+  platform: psx
 source: roywantsmeat
 syndicated:
 - type: blogger

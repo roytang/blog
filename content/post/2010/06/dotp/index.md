@@ -3,7 +3,8 @@ title: "Duels of the Planeswalkers (Steam)"
 backpost_date: 2023-12-31T11:48:51+08:00
 reviews:
 - media: games
-  title: Duels of the Planeswalkers (Steam)
+  title: Duels of the Planeswalkers
+  platform: steam
 tags:
 - mtg
 - backpost

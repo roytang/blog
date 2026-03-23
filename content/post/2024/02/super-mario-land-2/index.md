@@ -7,10 +7,9 @@ resources:
   src: sml2_end.jpg
 reviews:
 - media: games
-  platforms:
-  - gameboy
+  platform: gba
   rating: 2.0
-  title: 'Super Mario Land 2: 6 Golden Coins (Game Boy)'
+  title: 'Super Mario Land 2: 6 Golden Coins'
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111877184444947679

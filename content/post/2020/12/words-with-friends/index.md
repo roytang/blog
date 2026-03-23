@@ -4,6 +4,7 @@ dontinlinephotos: true
 reviews:
 - media: games
   title: Words with Friends
+  platform: mobile
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/40798802373902336/

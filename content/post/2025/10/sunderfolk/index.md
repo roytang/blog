@@ -2,10 +2,9 @@
 date: 2025-10-15 04:56:54
 reviews:
 - media: games
-  platforms:
-  - steam
+  platform: steam
   rating: 2.5
-  title: Sunderfolk (Steam)
+  title: Sunderfolk
 tags:
 - gaming
 - games

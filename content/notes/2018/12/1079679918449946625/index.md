@@ -4,7 +4,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: Final Fantasy XII The Zodiac Age (PS4)
+  title: Final Fantasy XII The Zodiac Age
+  platform: ps4
 source: twitter
 syndicated:
 - type: twitter

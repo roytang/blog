@@ -8,7 +8,8 @@ reviews:
 - description: A worthy successor, if a bit same-y.
   media: games
   rating: 4.0
-  title: 'Marvel''s Spider-Man: Miles Morales (Steam)'
+  title: 'Marvel''s Spider-Man: Miles Morales'
+  platform: steam
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/114376709545964953

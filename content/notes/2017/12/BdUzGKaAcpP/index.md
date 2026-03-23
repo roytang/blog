@@ -21,7 +21,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: 'The Legend of Zelda: Breath of the Wild (WiiU)'
+  title: 'The Legend of Zelda: Breath of the Wild'
+  platform: wiiu
 title: 'The Legend of Zelda: Breath of the Wild'
 ---
 

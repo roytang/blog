@@ -6,6 +6,7 @@ reviews:
   media: games
   rating: 0.0
   title: Civilization IV
+  platform: pc
 source: roywantsmeat
 syndicated:
 - type: blogger

@@ -5,6 +5,7 @@ reviews:
 - media: games
   rating: 3.5
   title: 'Final Fantasy Crystal Chronicles: Ring of Fates'
+  platform: nds
 tags:
 - Gaming
 - games

@@ -9,7 +9,8 @@ reviews:
 - description: An excellent space cyberpunk narrative game
   media: games
   rating: 4.0
-  title: Citizen Sleeper (PC Game Pass)
+  title: Citizen Sleeper
+  platform: pcgamepass
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/109716718334743335

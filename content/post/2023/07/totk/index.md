@@ -4,7 +4,8 @@ reviews:
 - description: Fantastic sequel to Breath of the Wild, so much stuff to do
   media: games
   rating: 5.0
-  title: 'The Legend of Zelda: Tears of the Kingdom (Switch)'
+  title: 'The Legend of Zelda: Tears of the Kingdom'
+  platform: switch
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/110665563093292971

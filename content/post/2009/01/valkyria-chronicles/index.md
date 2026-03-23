@@ -5,7 +5,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: Valkyria Chronicles (PS3)
+  title: Valkyria Chronicles
+  platform: ps3
 tags:
 - Gaming
 - games

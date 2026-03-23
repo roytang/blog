@@ -5,6 +5,7 @@ reviews:
   media: games
   rating: 0.0
   title: 'Divinity: Original Sin II'
+  platform: steam
 source: twitter
 syndicated:
 - type: twitter

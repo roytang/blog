@@ -3,9 +3,8 @@ backpost_date: 2024-01-18 07:15:07
 date: 2015-02-06
 reviews:
 - media: games
-  platforms:
-  - vita
-  title: Persona 4 Golden (PS Vita)
+  title: Persona 4 Golden
+  platform: psvita
 syndicated:
 - type: reddit
   url: https://www.reddit.com/r/Games/comments/1fxgqg/weekly_rgames_discussion_what_have_you_been/caf62ru/

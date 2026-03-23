@@ -5,34 +5,30 @@ reviews:
   description: The first game in this series remains one of the best
   hashtag: disgaea-afternoon-of-darkness-psp
   media: games
-  platforms:
-  - psp
+  platform: psp
   rating: 4.5
-  title: 'Disgaea: Afternoon of Darkness (PSP)'
+  title: 'Disgaea: Afternoon of Darkness'
 - date: 2012-06-30
   description: More of the same, and the protag was kinda boring.
   hashtag: disgaea-2-dark-hero-days-psp
   media: games
-  platforms:
-  - psp
+  platform: psp
   rating: 4.0
-  title: 'Disgaea 2: Dark Hero Days (PSP)'
+  title: 'Disgaea 2: Dark Hero Days'
 - date: 2013-08-27
   description: Spent a lot of time in this game so I could deal millions of damage!
   hashtag: disgaea-3-absence-of-detention-ps-vita
   media: games
-  platforms:
-  - psvita
+  platform: psvita
   rating: 4.5
-  title: 'Disgaea 3: Absence of Detention (PS Vita)'
+  title: 'Disgaea 3: Absence of Detention'
 - date: 2015-08-12
   description: The lead character is a vampire!
   hashtag: disgaea-4-a-promise-revisited-ps-vita
   media: games
-  platforms:
-  - psvita
+  platform: psvita
   rating: 4.5
-  title: 'Disgaea 4: A Promise Revisited (PS Vita)'
+  title: 'Disgaea 4: A Promise Revisited'
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/114716929138243659

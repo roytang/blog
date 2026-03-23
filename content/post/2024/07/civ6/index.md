@@ -29,10 +29,9 @@ resources:
 reviews:
 - description: ''
   media: games
-  platforms:
-  - steam
+  platform: steam
   rating: 5.0
-  title: Civilization VI (Steam)
+  title: Civilization VI
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/112728350574378934

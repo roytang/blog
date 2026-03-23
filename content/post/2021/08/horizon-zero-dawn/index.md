@@ -6,9 +6,8 @@ featuredResource:
   filename: Horizon Zero Dawn_ Complete Edition_20210622125448.jpg
 reviews:
 - media: games
-  title: Horizon Zero Dawn (PS4)
-  platforms:
-  - ps4
+  title: Horizon Zero Dawn
+  platform: ps4
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/106821209456034865

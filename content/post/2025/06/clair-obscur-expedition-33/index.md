@@ -10,7 +10,7 @@ reviews:
   media: games
   platform: pcgamepass
   rating: 5.0
-  title: 'Clair Obscur: Expedition 33 (PC Game Pass)'
+  title: 'Clair Obscur: Expedition 33'
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/114659535676629294

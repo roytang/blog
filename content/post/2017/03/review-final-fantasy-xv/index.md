@@ -16,10 +16,9 @@ resources:
 reviews:
 - description: ''
   media: games
-  platforms:
-  - ps4
+  platform: ps4
   rating: 0.0
-  title: Final Fantasy XV (PS4)
+  title: Final Fantasy XV
 syndicated:
 - type: tumblr
   url: https://roytang.tumblr.com/post/158531276530/review-final-fantasy-xv

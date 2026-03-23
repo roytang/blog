@@ -4,7 +4,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: Mass Effect 2 (PC)
+  title: Mass Effect 2
+  platform: pc
 source: twitter
 syndicated:
 - type: twitter

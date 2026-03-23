@@ -5,7 +5,8 @@ reviews:
     puzzles/secrets are a bit much
   media: games
   rating: 4.5
-  title: Tunic (PC Game Pass)
+  title: Tunic
+  platform: pcgamepass
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/109552908186836130

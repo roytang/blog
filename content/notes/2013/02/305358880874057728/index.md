@@ -4,7 +4,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: Borderlands 2 (PS3)
+  title: Borderlands 2
+  platform: ps3
 source: twitter
 syndicated:
 - type: twitter

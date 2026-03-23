@@ -3,6 +3,7 @@ date: 2004-01-18 23:53:00
 reviews:
 - media: games
   title: Knights of the Old Republic
+  platform: pc
 - media: movies
   title: 'The Lord of the Rings: Return of the King (2004)'
 source: roywantsmeat

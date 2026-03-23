@@ -4,9 +4,8 @@ date: 2016-07-05 00:39:05
 dontinlinephotos: true
 reviews:
 - media: games
-  title: Fallout 4 (PS4)
-  platforms:
-  - ps4
+  title: Fallout 4
+  platform: ps4
 source: twitter
 syndicated:
 - type: facebook

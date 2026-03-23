@@ -4,7 +4,8 @@ reviews:
 - description: ''
   media: games
   rating: 4.5
-  title: Ori and the Will of the Wisps (PC Game Pass)
+  title: Ori and the Will of the Wisps
+  platform: pcgamepass
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/109886237776388384

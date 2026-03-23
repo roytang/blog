@@ -19,7 +19,8 @@ reviews:
 - description: Kind of mindlessly relaxing yet addictive, lots of achievements
   media: games
   rating: 3.5
-  title: Vampire Survivors (PC Game Pass)
+  title: Vampire Survivors
+  platform: pcgamepass
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/109637281191048272

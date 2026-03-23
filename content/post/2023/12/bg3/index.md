@@ -72,7 +72,8 @@ resources:
 reviews:
 - media: games
   rating: 5.0
-  title: Baldur's Gate 3 (Steam)
+  title: Baldur's Gate 3
+  platform: steam
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111562602808152594

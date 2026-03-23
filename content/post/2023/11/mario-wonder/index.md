@@ -4,7 +4,8 @@ reviews:
 - description: ''
   media: games
   rating: 4.5
-  title: Super Mario Bros. Wonder (Switch)
+  title: Super Mario Bros. Wonder
+  platform: switch
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111266113625904427

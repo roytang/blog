@@ -9,12 +9,9 @@ reviews:
 - date: 2013-12-31
   hashtag: the-game
   media: games
-  platforms:
-  - ps3
-  - ps4
-  - psvita
+  platform: ps4
   rating: 3.5
-  title: Spelunky (PS3/PS4/Vita)
+  title: Spelunky
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111709348540130461

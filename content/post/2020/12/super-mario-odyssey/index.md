@@ -26,7 +26,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: Super Mario Odyssey (Switch)
+  title: Super Mario Odyssey
+  platform: switch
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/105307886098255789

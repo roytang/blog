@@ -3,8 +3,7 @@ date: 2025-02-03 05:54:32
 reviews:
 - description: Fun throwback to the old game
   media: games
-  platforms:
-  - steam
+  platform: steam
   rating: 3.5
   title: Ducktales Remastered (Steam)
 syndicated:

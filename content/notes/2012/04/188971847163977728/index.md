@@ -3,6 +3,7 @@ date: 2012-04-08 12:49:33
 reviews:
 - media: games
   title: 'Planescape: Torment'
+  platform: gog
 source: twitter
 syndicated:
 - type: twitter

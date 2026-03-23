@@ -2,10 +2,11 @@
 archive_url: https://roytang.net/archive/videos/Vf1JUqYd0ZA.mp4
 date: 2016-07-07 09:31:21
 reviews:
-- description: ''
+- description: 'Unfinished'
   media: games
   rating: 0.0
-  title: Furi (PS4)
+  title: Furi
+  platform: ps4
 source: youtube
 syndicated:
 - type: youtube

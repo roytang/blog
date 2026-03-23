@@ -3,10 +3,9 @@ date: 2025-12-17 15:21:08
 reviews:
 - description: ''
   media: games
-  platforms:
-  - steam
+  platform: steam
   rating: 3.5
-  title: Children of Morta (Steam)
+  title: Children of Morta
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/115739336087621030

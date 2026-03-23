@@ -2,7 +2,8 @@
 date: 2021-12-30 07:37:54
 reviews:
 - media: games
-  title: Iris and the Giant (Steam)
+  title: Iris and the Giant
+  platform: steam
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/107534831501721642

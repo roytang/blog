@@ -9,7 +9,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: Eternal Card Game (Steam)
+  title: Eternal Card Game
+  platform: steam
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1066527632571940864/

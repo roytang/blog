@@ -2,7 +2,8 @@
 date: 2012-10-31 13:38:21
 reviews:
 - media: games
-  title: 'XCOM: Enemy Unknown (Steam)'
+  title: 'XCOM: Enemy Unknown'
+  platform: steam
 tags:
 - backpost
 - gaming

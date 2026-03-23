@@ -5,7 +5,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: 'Legend of Zelda: Phantom Hourglass (NDS)'
+  title: 'Legend of Zelda: Phantom Hourglass'
+  platform: nds
 tags:
 - Gaming
 - zelda

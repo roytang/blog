@@ -7,7 +7,8 @@ featuredResource:
 reviews:
 - media: games
   rating: 5.0
-  title: Great Ace Attorney Chronicles (Steam)
+  title: Great Ace Attorney Chronicles
+  platform: steam
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/107348363267289912

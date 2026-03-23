@@ -10,7 +10,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: X-Com 2 (Steam)
+  title: X-Com 2
+  platform: steam
 slug: xcom2
 syndicated:
 - type: twitter

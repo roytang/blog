@@ -5,7 +5,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: 'Advance Wars: Dual Strike (NDS)'
+  title: 'Advance Wars: Dual Strike'
+  platform: nds
 tags:
 - Gaming
 - games

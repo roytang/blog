@@ -9,7 +9,8 @@ resources:
   title: The start of a dungeon quest.
 reviews:
 - media: games
-  title: Gloomhaven (Steam)
+  title: Gloomhaven
+  platform: steam
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/109582862319877426

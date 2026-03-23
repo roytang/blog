@@ -4,10 +4,9 @@ dontinlinephotos: true
 reviews:
 - description: Weird little bullethell roguelite where you bounce balls around.
   media: games
-  platforms:
-  - pcgamepass
+  platform: pcgamepass
   rating: 3.0
-  title: BALL X PIT (PC Game Pass)
+  title: BALL X PIT
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/115468706352037672

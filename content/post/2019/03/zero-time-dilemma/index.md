@@ -7,7 +7,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: Zero Time Dilemma (Vita)
+  title: Zero Time Dilemma
+  platform: psvita
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1108247376584675328/

@@ -5,7 +5,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: Final Fantasy X-2 (PS2)
+  title: Final Fantasy X-2
+  platform: ps2
 source: roywantsmeat
 syndicated:
 - type: blogger

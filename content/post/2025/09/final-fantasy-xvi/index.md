@@ -3,10 +3,9 @@ date: 2025-09-26 07:08:01
 reviews:
 - description: ''
   media: games
-  platforms:
-  - steam
+  platform: steam
   rating: 3.0
-  title: Final Fantasy XVI (Steam)
+  title: Final Fantasy XVI
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/115275276021369325

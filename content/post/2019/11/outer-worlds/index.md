@@ -8,9 +8,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: The Outer worlds (PS4)
-  platforms:
-  - ps4
+  title: The Outer worlds
+  platform: ps4
 slug: outer-worlds
 dontinlinephotos: true
 syndicated:

@@ -4,6 +4,7 @@ date: 2004-06-27 08:25:06
 reviews:
 - media: games
   title: 'Games: Naruto: Narutimate Hero'
+  platform: ps3
 source: roywantsmeat
 syndicated:
 - type: blogger

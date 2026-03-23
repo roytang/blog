@@ -4,7 +4,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: Infamous (PS3)
+  title: Infamous
+  platform: ps3
 source: twitter
 syndicated:
 - type: twitter

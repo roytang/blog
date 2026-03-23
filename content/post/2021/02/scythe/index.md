@@ -6,6 +6,7 @@ reviews:
   media: games
   rating: 3
   title: 'Scythe: Digital Edition'
+  platform: steam
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/105773818921888138

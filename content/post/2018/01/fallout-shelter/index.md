@@ -18,8 +18,7 @@ dontinlinephotos: true
 reviews:
 - media: games
   title: Fallout Shelter (Steam)
-  platforms:
-  - steam
+  platform: steam
 ---
 
 Fallout Shelter was a fun little management/simulation game I played for a couple of months in Dec 2017 / Jan 2018. Steam says I almost had 35 hours of playtime.

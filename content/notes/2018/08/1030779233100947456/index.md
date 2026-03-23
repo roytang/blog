@@ -5,6 +5,7 @@ reviews:
   media: games
   rating: 0.0
   title: Orwell
+  platform: steam
 source: twitter
 syndicated:
 - type: twitter

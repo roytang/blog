@@ -4,7 +4,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: 'The Legend of Zelda: Twilight Princess HD (WiiU)'
+  title: 'The Legend of Zelda: Twilight Princess HD'
+  platform: wiiu
 source: twitter
 syndicated:
 - type: twitter

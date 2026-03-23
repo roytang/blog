@@ -7,7 +7,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: Duelyst (Steam)
+  title: Duelyst
+  platform: steam
 syndicated:
 - type: tumblr
   url: https://roytang.tumblr.com/post/157377150285/review-duelyst

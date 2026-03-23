@@ -17,7 +17,8 @@ resources:
 reviews:
 - date: 2014-12-26
   media: games
-  title: 'Dragon Age: Inquisition (PS4)'
+  title: 'Dragon Age: Inquisition'
+  platform: ps4
 syndicated:
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/10153364208578912

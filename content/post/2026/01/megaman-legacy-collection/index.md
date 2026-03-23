@@ -3,10 +3,9 @@ date: 2026-01-06 08:33:27
 reviews:
 - description: ''
   media: games
-  platforms:
-  - steam
+  platform: steam
   rating: 4.0
-  title: Megaman Legacy Collection (Steam)
+  title: Megaman Legacy Collection
 tags:
 - gaming
 - games

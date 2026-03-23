@@ -6,7 +6,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: Tales of Phantasia (SNES)
+  title: Tales of Phantasia
+  platform: snes
 source: roywantsmeat
 syndicated:
 - type: blogger

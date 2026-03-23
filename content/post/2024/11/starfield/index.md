@@ -8,7 +8,8 @@ reviews:
 - description: Enjoyable enough, but not Bethesda's best effort.
   media: games
   rating: 3.5
-  title: Starfield (PC Game Pass)
+  title: Starfield
+  platform: pcgamepass
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/113446607688144985

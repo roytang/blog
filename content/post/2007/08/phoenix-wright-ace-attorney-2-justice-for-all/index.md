@@ -5,7 +5,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: 'Phoenix Wright: Ace Attorney 2: Justice For All (NDS)'
+  title: 'Phoenix Wright: Ace Attorney 2: Justice For All'
+  platform: nds
 tags:
 - Gaming
 - games

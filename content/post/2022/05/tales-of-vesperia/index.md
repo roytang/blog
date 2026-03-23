@@ -5,7 +5,8 @@ reviews:
 - description: Vast improvement over Symphonia
   media: games
   rating: 4.0
-  title: 'Tales of Vesperia: Definitive Edition (Steam)'
+  title: 'Tales of Vesperia: Definitive Edition'
+  platform: steam
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/108310221327618116

@@ -5,7 +5,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: What Remains of Edith Finch (PS4)
+  title: What Remains of Edith Finch
+  platform: ps4
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1164691569775190016/

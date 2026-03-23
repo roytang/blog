@@ -7,7 +7,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: 'Danganronpa: Trigger Happy Havoc (PS Vita)'
+  title: 'Danganronpa: Trigger Happy Havoc'
+  platform: psvita
 source: instagram
 syndicated:
 - type: instagram

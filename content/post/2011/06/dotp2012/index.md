@@ -3,7 +3,8 @@ date: 2011-06-26
 dontinlinephotos: true
 reviews:
 - media: games
-  title: Duels of the Planeswalkers 2012 (Steam)
+  title: Duels of the Planeswalkers 2012
+  platform: steam
 source: twitter
 syndicated:
 - type: twitter

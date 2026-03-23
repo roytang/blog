@@ -18,7 +18,7 @@ reviews:
   media: games
   platform: pcgamepass
   rating: 4.5
-  title: Celeste (PC Game Pass)
+  title: Celeste
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111204108085335960

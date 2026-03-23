@@ -13,7 +13,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: 'The Elder Scrolls V: Skyrim (Steam)'
+  title: 'The Elder Scrolls V: Skyrim'
+  platform: steam
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1061487292571881472/

@@ -5,9 +5,8 @@ reviews:
 - description: ''
   media: games
   rating: 4.5
-  title: Final Fantasy VII Remake (PS4)
-  platforms:
-  - ps4
+  title: Final Fantasy VII Remake
+  platform: ps4
 slug: ff7r-review
 syndicated:
 - type: mastodon

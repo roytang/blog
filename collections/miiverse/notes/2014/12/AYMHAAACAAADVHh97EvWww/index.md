@@ -4,7 +4,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: Super Mario 3D World (WiiU)
+  platform: wiiu
+  title: Super Mario 3D World
 source: miiverse
 syndicated:
 - type: archive.org

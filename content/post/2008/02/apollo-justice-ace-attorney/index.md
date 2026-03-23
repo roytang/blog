@@ -6,7 +6,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: 'Apollo Justice: Ace Attorney (NDS)'
+  title: 'Apollo Justice: Ace Attorney'
+  platform: nds
 tags:
 - Gaming
 - games

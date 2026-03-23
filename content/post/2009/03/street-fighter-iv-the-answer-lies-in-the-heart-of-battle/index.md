@@ -5,7 +5,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: Street Fighter IV (PS3)
+  title: Street Fighter IV
+  platform: ps3
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1245187394/

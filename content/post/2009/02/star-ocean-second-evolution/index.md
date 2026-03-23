@@ -6,6 +6,7 @@ reviews:
   media: games
   rating: 0.0
   title: 'Star ocean: Second Evolution'
+  platform: psp
 tags:
 - Gaming
 - games

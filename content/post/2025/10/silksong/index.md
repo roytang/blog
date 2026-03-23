@@ -11,10 +11,9 @@ resources:
 reviews:
 - description: Absolutely brutal, but worth it.
   media: games
-  platforms:
-  - pcgamepass
+  platform: pcgamepass
   rating: 5.0
-  title: 'Hollow Knight: Silksong (PC Game Pass)'
+  title: 'Hollow Knight: Silksong'
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/115411371537807565

@@ -24,6 +24,7 @@ reviews:
   media: games
   rating: 4
   title: Knightin'
+  platform: steam
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/105784560814233561

@@ -3,7 +3,8 @@ categories: []
 date: 2005-04-13 14:40:00
 reviews:
 - media: games
-  title: Suikoden IV (PS2)
+  title: Suikoden IV
+  platform: ps2
 source: roywantsmeat
 syndicated:
 - type: blogger

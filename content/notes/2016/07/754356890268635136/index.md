@@ -4,7 +4,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: 'Cities: Skylines (Steam)'
+  title: 'Cities: Skylines'
+  platform: steam
 source: twitter
 syndicated:
 - type: twitter

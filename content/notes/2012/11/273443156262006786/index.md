@@ -5,7 +5,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: Beat Hazard (Steam)
+  title: Beat Hazard
+  platform: steam
 source: twitter
 syndicated:
 - type: twitter

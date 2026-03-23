@@ -6,7 +6,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: Day of the Tentacle Remastered (PS4)
+  title: Day of the Tentacle Remastered
+  platform: ps4
 source: facebook
 syndicated:
 - type: facebook

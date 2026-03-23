@@ -4,8 +4,7 @@ dontinlinephotos: true
 reviews:
 - description: ''
   media: games
-  platforms:
-  - ps5
+  platform: ps5
   rating: 4.5
   title: Marvel's Spider-Man 2 (PS5)
 syndicated:

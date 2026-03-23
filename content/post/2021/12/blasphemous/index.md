@@ -2,7 +2,8 @@
 date: 2021-12-28 05:23:16
 reviews:
 - media: games
-  title: Blasphemous (Steam)
+  title: Blasphemous
+  platform: steam
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/107523050932227381

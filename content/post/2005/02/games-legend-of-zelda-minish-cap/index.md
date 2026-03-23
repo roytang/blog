@@ -5,7 +5,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: 'Legend of Zelda: The Minish Cap (GBA)'
+  title: 'Legend of Zelda: The Minish Cap'
+  platform: gba
 source: roywantsmeat
 syndicated:
 - type: blogger

@@ -4,7 +4,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: 'Uncharted: Drake''s Fortune (PS3)'
+  title: 'Uncharted: Drake''s Fortune'
+  platform: ps3
 source: twitter
 syndicated:
 - type: twitter

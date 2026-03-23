@@ -4,10 +4,9 @@ dontinlinephotos: true
 reviews:
 - description: ''
   media: games
-  platforms:
-  - pcgamepass
+  platform: pcgamepass
   rating: 4.5
-  title: 'Metaphor: ReFantazio (PC Game Pass)'
+  title: 'Metaphor: ReFantazio'
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/115630644446806179

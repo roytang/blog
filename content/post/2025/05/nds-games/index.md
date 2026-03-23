@@ -5,45 +5,39 @@ reviews:
 - date: 2009-08-28
   hashtag: professor-layton-and-the-curious-village
   media: games
-  platforms:
-  - nds
+  platform: nds
   rating: 4.5
-  title: Professor Layton and the Curious Village (NDS)
+  title: Professor Layton and the Curious Village
 - date: 2006-12-08
   hashtag: new-super-mario-bros
   media: games
-  platforms:
-  - nds
+  platform: nds
   rating: 4.0
-  title: New Super Mario Bros (NDS)
+  title: New Super Mario Bros
 - date: 2006-12-12
   hashtag: castlevania-dawn-of-sorrow
   media: games
-  platforms:
-  - nds
+  platform: nds
   rating: 4.0
-  title: 'Castlevania: Dawn of Sorrow (NDS)'
+  title: 'Castlevania: Dawn of Sorrow'
 - date: 2010-07-03
   hashtag: castlevania-order-of-ecclesia
   media: games
-  platforms:
-  - nds
+  platform: nds
   rating: 4.0
-  title: 'Castlevania: Order of Ecclesia (NDS)'
+  title: 'Castlevania: Order of Ecclesia'
 - date: 2009-07-10
   hashtag: ninjatown
   media: games
-  platforms:
-  - nds
+  platform: nds
   rating: 3.0
-  title: Ninjatown (NDS)
+  title: Ninjatown
 - date: 2009-07-11
   hashtag: dragon-quest-v-hand-of-the-heavenly-bride
   media: games
-  platforms:
-  - nds
+  platform: nds
   rating: 4.0
-  title: 'Dragon Quest V: Hand of the Heavenly Bride (NDS)'
+  title: 'Dragon Quest V: Hand of the Heavenly Bride'
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/2560147227/

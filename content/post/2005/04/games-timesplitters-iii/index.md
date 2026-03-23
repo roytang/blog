@@ -5,7 +5,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: Timesplitters III (PS2)
+  title: Timesplitters III
+  platform: ps2
 source: roywantsmeat
 syndicated:
 - type: blogger

@@ -5,8 +5,7 @@ dontinlinephotos: true
 reviews:
 - description: ''
   media: games
-  platforms:
-  - steam
+  platform: steam
   rating: 0.0
   title: 'Fallout: New Vegas'
 syndicated:

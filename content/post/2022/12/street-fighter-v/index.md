@@ -4,7 +4,12 @@ dontinlinephotos: true
 reviews:
 - media: games
   rating: 5.0
-  title: Street Fighter V (PS4/Steam)
+  title: Street Fighter V
+  platform: ps4
+- media: games
+  rating: 5.0
+  title: Street Fighter V
+  platform: steam
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/109479044049709966

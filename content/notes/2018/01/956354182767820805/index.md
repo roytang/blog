@@ -4,7 +4,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: Tomb Raider (Steam)
+  title: Tomb Raider
+  platform: steam
 source: twitter
 syndicated:
 - type: twitter

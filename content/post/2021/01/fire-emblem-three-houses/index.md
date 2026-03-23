@@ -5,7 +5,7 @@ reviews:
   media: games
   rating: 0.0
   title: Fire Emblem Three Houses
-  platform: Switch
+  platform: switch
 source: twitter
 syndicated:
 - type: twitter

@@ -6,7 +6,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: Rocket League (Steam)
+  title: Rocket League
+  platform: steam
 source: facebook
 syndicated:
 - type: facebook

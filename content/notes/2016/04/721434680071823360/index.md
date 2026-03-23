@@ -4,7 +4,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: Poker Night at the Inventory (Steam)
+  title: Poker Night at the Inventory
+  platform: steam
 source: twitter
 syndicated:
 - type: twitter

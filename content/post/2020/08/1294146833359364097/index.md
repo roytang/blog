@@ -4,7 +4,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: Fall Guys (PS4)
+  title: Fall Guys
+  platform: ps4
 source: twitter
 syndicated:
 - type: twitter

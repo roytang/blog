@@ -3,7 +3,8 @@ date: 2022-01-22 05:19:42
 dontinlinephotos: true
 reviews:
 - media: games
-  title: 'Captain Toad: Treasure Tracker (Switch)'
+  title: 'Captain Toad: Treasure Tracker'
+  platform: switch
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/107664596516620356

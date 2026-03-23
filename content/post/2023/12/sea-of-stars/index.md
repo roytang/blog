@@ -33,7 +33,8 @@ resources:
 reviews:
 - media: games
   rating: 4.5
-  title: Sea of Stars (PC Game Pass)
+  title: Sea of Stars
+  platform: pcgamepass
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/111628281837014402

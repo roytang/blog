@@ -4,7 +4,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: 'Tactics Ogre: Let Us Cling Together (PSP)'
+  title: 'Tactics Ogre: Let Us Cling Together'
+  platform: psp
 source: twitter
 syndicated:
 - type: twitter

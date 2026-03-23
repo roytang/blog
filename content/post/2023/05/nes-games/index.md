@@ -6,146 +6,175 @@ reviews:
   description: Retro review from May 2023
   hashtag: 1-castlevania-famicom
   media: games
+  platform: nes
   title: Castlevania (Famicom)
 - date: 1990-01-01
   description: Retro review from May 2023
   hashtag: 2-castlevania-ii-simons-quest-famicom
   media: games
+  platform: nes
   title: 'Castlevania II: Simon''s Quest (Famicom)'''
 - date: 1990-01-01
   description: Retro review from May 2023
   hashtag: 3-castlevania-iii-kid-dracula-famicom
   media: games
+  platform: nes
   title: '"Castlevania III" / Kid Dracula (Famicom)'
 - date: 1990-01-01
   description: Retro review from May 2023
   hashtag: 4-rockman-famicom
   media: games
+  platform: nes
   title: Rockman (Famicom)
 - date: 1990-01-01
   description: Retro review from May 2023
   hashtag: 5-megaman-2-nes
   media: games
+  platform: nes
   title: Megaman 2 (NES)
 - date: 1990-01-01
   description: Retro review from May 2023
   hashtag: 6-rockman-3-famicom
   media: games
+  platform: nes
   title: Rockman 3 (Famicom)
 - date: 1990-01-01
   description: Retro review from May 2023
   hashtag: 7-double-dragon-2-famicom
   media: games
+  platform: nes
   title: Double Dragon 2 (Famicom)
 - date: 1990-01-01
   description: Retro review from May 2023
   hashtag: 8-double-dragon-3-famicom
   media: games
+  platform: nes
   title: Double Dragon 3 (Famicom)
 - date: 1990-01-01
   description: Retro review from May 2023
   hashtag: 9-mickey-mousecapade-nes
   media: games
+  platform: nes
   title: Mickey Mousecapade (NES)
 - date: 1990-01-01
   description: Retro review from May 2023
   hashtag: 10-ducktales-famicom
   media: games
+  platform: nes
   title: Ducktales (Famicom)
 - date: 1990-01-01
   description: Retro review from May 2023
   hashtag: 11-batman-famicom
   media: games
+  platform: nes
   title: Batman (Famicom)
 - date: 1990-01-01
   description: Retro review from May 2023
   hashtag: 12-super-mario-bros-nes
   media: games
+  platform: nes
   title: Super Mario Bros. (NES)
 - date: 1990-01-01
   description: Retro review from May 2023
   hashtag: 13-super-mario-bros-2-nes
   media: games
+  platform: nes
   title: Super Mario Bros. 2 (NES)
 - date: 1990-01-01
   description: Retro review from May 2023
   hashtag: 14-super-mario-bros-3-famicom
   media: games
+  platform: nes
   title: Super Mario Bros. 3 (Famicom)
 - date: 1990-01-01
   description: Retro review from May 2023
   hashtag: 15-legend-of-zelda-nes
   media: games
+  platform: nes
   title: Legend of Zelda (NES)
 - date: 1990-01-01
   description: Retro review from May 2023
   hashtag: 16-kage-2-famicom
   media: games
+  platform: nes
   title: '"Kage 2" (Famicom)'
 - date: 1990-01-01
   description: Retro review from May 2023
   hashtag: 17-contra-famicom
   media: games
+  platform: nes
   title: Contra (Famicom)
 - date: 1990-01-01
   description: Retro review from May 2023
   hashtag: 18-super-contra-famicom
   media: games
+  platform: nes
   title: Super Contra (Famicom)
 - date: 1990-01-01
   description: Retro review from May 2023
   hashtag: 19-snakes-revenge-famicom
   media: games
+  platform: nes
   title: Snake's Revenge (Famicom)
 - date: 1990-01-01
   description: Retro review from May 2023
   hashtag: 20-teenage-mutant-ninja-turtles-famicom
   media: games
+  platform: nes
   title: Teenage Mutant Ninja Turtles (Famicom)
 - date: 1990-01-01
   description: Retro review from May 2023
   hashtag: 21-teenage-mutant-ninja-turtles-2-famicom
   media: games
+  platform: nes
   title: Teenage Mutant Ninja Turtles 2 (Famicom)
 - date: 1990-01-01
   description: Retro review from May 2023
   hashtag: 22-gradius-famicom
   media: games
+  platform: nes
   title: Gradius (Famicom)
 - date: 1990-01-01
   description: Retro review from May 2023
   hashtag: 23-sky-shark-nes
   media: games
+  platform: nes
   title: Sky Shark (NES)
 - date: 1990-01-01
   description: Retro review from May 2023
   hashtag: 24-goonies-famicom
   media: games
+  platform: nes
   title: Goonies (Famicom)
 - date: 1990-01-01
   description: Retro review from May 2023
   hashtag: 25-dragon-spirit-famicom
   media: games
+  platform: nes
   title: Dragon Spirit (Famicom)
 - date: 1990-01-01
   description: Retro review from May 2023
   hashtag: 26-firebird-famicom
   media: games
+  platform: nes
   title: '"Firebird" (Famicom)'
 - date: 1990-01-01
   description: Retro review from May 2023
   hashtag: 27-chip-ndale-rescue-rangers-famicom
   media: games
+  platform: nes
   title: Chip n'Dale Rescue Rangers (Famicom)
 - date: 1990-01-01
   description: Retro review from May 2023
   hashtag: 28-breakthrough-famicom
   media: games
+  platform: nes
   title: Breakthrough (Famicom)
 - date: 1990-01-01
   description: Retro review from May 2023
   hashtag: 29-gijoe-famicom
   media: games
+  platform: nes
   title: G.I.Joe (Famicom)
 syndicated:
 - type: mastodon

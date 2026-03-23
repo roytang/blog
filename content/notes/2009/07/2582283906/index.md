@@ -5,6 +5,7 @@ reviews:
   media: games
   rating: 0.0
   title: 'Elder Scrolls IV: Oblivion'
+  platform: ps3
 source: twitter
 syndicated:
 - type: twitter

@@ -4,7 +4,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: Link's Awakening (Switch)
+  title: Link's Awakening
+  platform: switch
 source: twitter
 syndicated:
 - type: twitter

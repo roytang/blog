@@ -4,11 +4,16 @@ date: 2009-12-29
 reviews:
 - description: ''
   media: games
-  platforms:
-  - steam
-  - ps3
+  platform: pc
   rating: 0.0
-  title: Fallout 3 (PS3)
+  title: Fallout 3
+  date: 2008-12-24
+- description: ''
+  media: games
+  platform: ps3
+  rating: 0.0
+  date: 2009-12-29
+  title: Fallout 3 GOTY edition
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/1006834856/

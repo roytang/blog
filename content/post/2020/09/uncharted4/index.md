@@ -8,8 +8,7 @@ reviews:
   media: games
   rating: 0.0
   title: 'Uncharted 4: A Thief''s End'
-  platforms:
-  - ps4
+  platform: ps4
 slug: uncharted4
 syndicated:
 - type: mastodon

@@ -16,7 +16,7 @@ reviews:
 - description: A bit grindy, but worth playing if you like this sort of game
   media: games
   platform: pcgamepass
-  title: 'Middle-earth: Shadow of War (PC Game Pass)'
+  title: 'Middle-earth: Shadow of War'
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/110964129081649627

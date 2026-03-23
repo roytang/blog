@@ -6,7 +6,7 @@ reviews:
   media: games
   platform: pcgamepass
   rating: 5.0
-  title: Blue Prince (PC Game Pass)
+  title: Blue Prince
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/114902386637878256

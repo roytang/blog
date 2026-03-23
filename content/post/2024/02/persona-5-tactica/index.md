@@ -9,7 +9,8 @@ reviews:
     got a bit tedious towards the end.
   media: games
   rating: 4.0
-  title: Persona 5 Tactica (PC Game Pass)
+  title: Persona 5 Tactica
+  platform: pcgamepass
 subtitle: Men will literally escape to a cognitive metaverse to avoid therapy
 syndicated:
 - type: mastodon

@@ -4,7 +4,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: Frostpunk (Steam)
+  title: Frostpunk
+  platform: steam
 source: twitter
 syndicated:
 - type: twitter

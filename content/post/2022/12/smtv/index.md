@@ -36,7 +36,8 @@ reviews:
 - description: A challenging turn-based RPG, but the grind can get tedious.
   media: games
   rating: 4.0
-  title: Shin Megami Tensei V (Switch)
+  title: Shin Megami Tensei V
+  platform: switch
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/109597671431609130

@@ -5,7 +5,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: 'The Legend of Zelda: Wind Waker HD (WiiU)'
+  title: 'The Legend of Zelda: Wind Waker HD'
+  platform: wiiu
 source: facebook
 syndicated:
 - type: facebook

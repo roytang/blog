@@ -4,7 +4,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: Super Mario 3D All Stars (Switch)
+  title: Super Mario 3D All Stars
+  platform: switch
 slug: mario-3d-all-stars
 tags:
 - gaming

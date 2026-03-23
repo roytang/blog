@@ -6,7 +6,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: Xenoblade Chronicles X (WiiU)
+  title: Xenoblade Chronicles X
+  platform: wiiu
 syndicated:
 - type: tumblr
   url: https://roytang.tumblr.com/post/155140128410/review-xenoblade-chronicles-x

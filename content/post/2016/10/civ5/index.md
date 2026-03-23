@@ -5,9 +5,8 @@ reviews:
 - description: ''
   media: games
   rating: 5.0
-  title: Civilization V (Steam)
-  platforms:
-  - steam
+  title: Civilization V
+  platform: steam
 syndicated:
 - type: twitter
   url: https://twitter.com/roytang/statuses/21054359815/

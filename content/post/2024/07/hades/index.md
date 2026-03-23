@@ -27,10 +27,9 @@ resources:
 reviews:
 - description: ''
   media: games
-  platforms:
-  - steam
+  platform: steam
   rating: 4.5
-  title: Hades (Steam)
+  title: Hades
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/112858551480341445

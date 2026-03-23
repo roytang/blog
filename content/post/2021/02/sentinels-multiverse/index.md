@@ -7,6 +7,7 @@ reviews:
   media: games
   rating: 4
   title: Sentinels of the Multiverse
+  platform: steam
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/105734403184788317

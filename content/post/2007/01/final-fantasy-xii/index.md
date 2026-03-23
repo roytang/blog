@@ -5,7 +5,8 @@ reviews:
 - description: ''
   media: games
   rating: 0.0
-  title: Final Fantasy XII (PS2)
+  title: Final Fantasy XII
+  platform: ps2
 tags:
 - Gaming
 - games

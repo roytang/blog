@@ -5,7 +5,8 @@ reviews:
     decisions to be made.
   media: games
   rating: 4.0
-  title: 'Citizen Sleeper 2: Starward Vector (PC Game Pass)'
+  title: 'Citizen Sleeper 2: Starward Vector'
+  platform: pcgamepass
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/113989224992990727

@@ -18,7 +18,8 @@ resources:
 reviews:
 - media: games
   rating: 4.0
-  title: Dungeons of Hinterberg (PC Game Pass)
+  title: Dungeons of Hinterberg
+  platform: pcgamepass
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/114063782765841961
