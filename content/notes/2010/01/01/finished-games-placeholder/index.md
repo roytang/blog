@@ -106,11 +106,6 @@ reviews:
   platform: steam
   title: 'The Banner Saga 2'
   date: 2026-01-23
-- description: 'Placeholder review'
-  media: games
-  platform: ps3
-  title: 'Dragon Age: Origins'
-  date: 2011-04-09
 tags:
 - gaming
 - ps3

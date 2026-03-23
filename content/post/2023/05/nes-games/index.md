@@ -13,7 +13,7 @@ reviews:
   hashtag: 2-castlevania-ii-simons-quest-famicom
   media: games
   platform: nes
-  title: 'Castlevania II: Simon''s Quest'''
+  title: 'Castlevania II: Simon''s Quest'
 - date: 1990-01-01
   description: Retro review from May 2023
   hashtag: 3-castlevania-iii-kid-dracula-famicom
