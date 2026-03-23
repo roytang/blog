@@ -43,12 +43,6 @@ reviews:
   platforms:
   - ps3
   title: Tales of Xillia (ps3)
-- date: 2018-10-03
-  description: Placeholder review
-  media: games
-  platforms:
-  - ps3
-  title: 'Ni no Kuni: Wrath of the White Witch (ps3)'
 - date: 2013-02-14
   description: Placeholder review
   media: games
@@ -121,12 +115,6 @@ reviews:
   platforms:
   - steam
   title: The Stanley Parable (steam)
-- date: 2019-12-26
-  description: Placeholder review
-  media: games
-  platforms:
-  - steam
-  title: XCOM 2 (steam)
 - date: 2019-07-13
   description: Placeholder review
   media: games
