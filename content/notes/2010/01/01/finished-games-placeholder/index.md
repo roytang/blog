@@ -106,6 +106,26 @@ reviews:
   platform: steam
   title: 'The Banner Saga 2'
   date: 2026-01-23
+- description: 'Placeholder review'
+  media: games
+  platform: pc
+  title: 'Warcraft III: The Frozen Throne'
+  date: 2003-12-12
+- description: 'Placeholder review (guessed date)'
+  media: games
+  platform: gba
+  title: 'Final Fantasy Tactics Advance'
+  date: 2003-12-12
+- description: 'Placeholder review (estimated date)'
+  media: games
+  platform: nds
+  title: 'Dragon Quest Heroes: Rocket Slime'
+  date: 2008-02-01
+- description: 'Placeholder review (estimated date)'
+  media: games
+  platform: nds
+  title: 'Final Fantasy Tactics Advance'
+  date: 2008-12-12
 tags:
 - gaming
 - ps3

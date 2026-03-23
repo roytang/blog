@@ -6,7 +6,7 @@ reviews:
   media: games
   platform: ps5
   rating: 4.5
-  title: Marvel's Spider-Man 2 (PS5)
+  title: Marvel's Spider-Man 2
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/116187922553336873
