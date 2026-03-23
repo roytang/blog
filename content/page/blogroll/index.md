@@ -3,7 +3,7 @@ title: "Blogroll"
 date: 2020-02-21
 ---
 
-This is an partial list of blogs I follow, that I feel are worth sharing. [OPML File](/blogroll/opml/)
+This is an partial list of blogs I follow, that I feel are worth sharing. [OPML File](/media/static/feeds.opml)
 
 More about this list on [this post](/2020/02/thinking-in-public/), from which I quote:
 

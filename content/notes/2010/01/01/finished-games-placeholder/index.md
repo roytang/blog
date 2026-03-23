@@ -126,6 +126,11 @@ reviews:
   platform: nds
   title: 'Final Fantasy Tactics Advance'
   date: 2008-12-12
+- description: 'Placeholder review'
+  media: games
+  platform: steam
+  title: 'Neverwinter Nights 2 Platinum'
+  date: 2011-02-07
 tags:
 - gaming
 - ps3
