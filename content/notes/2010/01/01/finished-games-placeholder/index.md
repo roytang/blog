@@ -131,6 +131,30 @@ reviews:
   platform: steam
   title: 'Neverwinter Nights 2 Platinum'
   date: 2011-02-07
+- description: ''
+  media: games
+  rating: 0.0
+  title: 'Starcraft II: Heart of the Swarm'
+  platform: battlenet
+  date: 2013-03-24
+- description: ''
+  media: games
+  rating: 0.0
+  title: 'Starcraft II: Legacy of the Void'
+  platform: battlenet
+  date: 2019-03-28
+- description: ''
+  media: steam
+  rating: 0.0
+  title: 'Shadowrun: Hong Kong Extended Edition'
+  platform: steam
+  date: 2018-01-14
+- description: ''
+  media: steam
+  rating: 0.0
+  title: 'Shadowrun: Dragonfall Director''s Cut'
+  platform: steam
+  date: 2015-09-14
 tags:
 - gaming
 - ps3

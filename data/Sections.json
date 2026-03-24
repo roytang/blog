@@ -46,6 +46,11 @@
         "descrip": "A <a href='https://kottke.org/05/10/tumblelogs'>tumblelog</a> of sorts. Microblog-like status updates, short notes, logs of things I've found. Kind of ephemeral. Posts in this section may be moved or deleted without notice.",
         "generator_options": ["feeds", "tags_lists", "single_posts", "year_lists", "index"]
     },
+    "journals": {
+        "label": "journals",
+        "cache_feed": false,
+        "descrip": "Misc journal entries"
+    },
     "convos": {
         "label": "Convos",
         "page_count": 50,

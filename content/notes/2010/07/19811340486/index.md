@@ -5,7 +5,7 @@ reviews:
   media: games
   rating: 0.0
   title: 'Starcraft II: Wings of Liberty'
-  platform: pc
+  platform: battlenet
 source: twitter
 syndicated:
 - type: twitter
