@@ -37,7 +37,7 @@ Current read count: 21/41 (as of Apr 6, 2024)
 | 17 | Interesting Times  | 1994 | Rincewind | Y | [2024](/2024/04/interesting-times/) |
 | 18 | Maskerade  | 1995 | Witches  | Y | [2022](/2022/09/maskerade/) |
 | 19 | Feet of Clay  | 1996 | City Watch  | Y | [2022](/2022/05/weeknotes-05-01/) |
-| 20 | Hogfather  | 1996 | Death  | | |
+| 20 | Hogfather  | 1996 | Death  | Y | [2026](/2026/03/hogfather/) |
 | 21 | Jingo  | 1997 | City Watch  | Y | [2022](/2022/05/weeknotes-05-08/#jingo-by-terry-pratchett) |
 | 22 | The Last Continent  | 1998 | Rincewind  | Y | [2022](/2022/03/last-continent/) |
 | 23 | Carpe Jugulum  | 1998 | Witches  | | |
