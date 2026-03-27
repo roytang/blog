@@ -1,9 +1,12 @@
 ---
-date: 2026-03-27T11:20:23+08:00
+date: 2026-03-27 03:20:23
 reviews:
 - description: 'Discworld #20'
   media: books
   title: Hogfather by Terry Pratchett
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/116303687559764971
 tags:
 - books
 - discworld
