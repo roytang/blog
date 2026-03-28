@@ -27,6 +27,7 @@ This is a [uses page](https://uses.tech/).
 | NASH::Keyboard | Redragon K502 | [2023](/2023/09/2023-week-38/#some-recent-purchases) |
 | NASH::Mouse | Logitech G2 | 2021 |
 | NASH::Controller | 8Bitdo Ultimate Wireless | [2023](/2023/09/2023-week-38/#some-recent-purchases) |
+| NASH::OS | Linux Mint Cinnamon | [2026](/2026/01/return-to-linux/) |
 | NASH::OS | Windows 11 | [2022](/2022/12/pc-build-2022/) |
 | **The old desktop, GUILE** |
 | GUILE::Case | Silverstone Precision 10SST-PS10B | [2015](/2015/11/2015-pc-build/) |
@@ -44,7 +45,7 @@ This is a [uses page](https://uses.tech/).
 | Mobile Phone | Samsung A50 | Aug 2019 |
 | Printer | HP Deskjet 3635 | Apr 2016 |
 | Console | Playstation 4 | 2017 |
-| Console | Playstation 3 | 2013 |
+| Console | Playstation 3 Slim | 2013 |
 | Console | Nintendo Switch | [2020](/2020/09/nintendo-switch/) |
 | Handheld | Playstation Vita | 2013 |
 | Handheld | New 3DSXL | 2015 |
