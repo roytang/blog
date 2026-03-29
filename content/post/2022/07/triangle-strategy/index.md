@@ -5,7 +5,7 @@ reviews:
   media: games
   rating: 4.0
   title: Triangle Strategy
-  platform: steam
+  platform: switch
 syndicated:
 - type: mastodon
   url: https://mastodon.technology/users/roytang/statuses/108572093689342658
