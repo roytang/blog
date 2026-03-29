@@ -1,5 +1,5 @@
 ---
-date: 2026-03-29T15:41:59+08:00
+date: 2026-03-29T21:41:59+08:00
 dontinlinephotos: true
 steps: 65490
 tags:
@@ -8,11 +8,13 @@ title: Weeknotes 2026-03-29 Palm Sunday
 toc: true
 ---
 
-Today is Palm Sunday.
+Today is Palm Sunday. The month is ending!
 
 ### The World
 
-- Iran conflict is still ongoing. Trump claims they offered to make him Supreme Leader WTH. The world still has no idea where this is all going, and gas prices are insane at the moment. Here in the PH there have been transport strikes and the government has had to hand out subsidies to transport drivers instead of raising minimum fares.
+- Iran conflict is still ongoing. Trump claims they offered to make him Supreme Leader WTH. The world still has no idea where this is all going, and gas prices are insane at the moment. 
+- Here in the PH the president has declared a ["State of National Energy Emergency"](https://pco.gov.ph/news_releases/president-marcos-declares-state-of-national-energy-emergency-activates-uplift-as-whole-of-government-response-framework/) though I'm not clear on what exactly that implies. There have been transport strikes and the government has had to hand out subsidies to transport drivers instead of raising minimum fares.
+- In tech: [Meta and YouTube found negligent in landmark social media addiction case](https://www.theverge.com/policy/900654/meta-google-instagram-youtube-social-media-addiction-trial-kgm-jury-decision). Kind of a well-deserved moment of reckoning for big tech social media, but some worry that this kind of ruling could be used by the powers-that-be to suppress unfriendly media in lieu of section 230 protections in the US.
 
 ### My Week
 
@@ -47,6 +49,8 @@ Today is Palm Sunday.
     - Ongoing: **Pathfinder: Kingmaker** (Steam). 
     - Started: **Final Fantasy VII Rebirt** (PS5). IDK if I have enough time to finish this before I have to return the PS5!
     - Putzing around: Random fighting games (SF6, KOF14, Garou:MotW, all on Steam)
+- Other stuff: Haven't logged in to **StarCraft II** in a long while, but last week I decided to reinstall for some reason and ended up playing some Coop Missions. We were terrible but at least we still managed to finish a brutal run! I uploaded a recording to [the TeamCamotePH Youtube channel](https://www.youtube.com/@teamcamoteph):
+    {{% youtube HkE0EMyI1iM %}}
 
 ### Walking and Health and the Weather
 
@@ -70,3 +74,4 @@ More words from the NYT Spelling Bee:
 ### Looking Forward
 
 - This coming week is Holy Week, a big thing here in the PH ([I wrote about it a bit back in 2019](/2019/04/holy-week/)). I expect a chill week to come.
+- Usual end of month stuff like bills etc that capitalism demands.
