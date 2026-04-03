@@ -3,13 +3,16 @@ date: 2026-04-02 13:15:35
 dontinlinephotos: true
 resources:
 - src: 20260204-ecl-qd05-trophy.jpeg
-  title: 'Quick draft trophy deck on Feb 04 (BG Goblins)'
+  title: Quick draft trophy deck on Feb 04 (BG Goblins)
 - src: 20260208-ecl-qd13-trophy.jpeg
-  title: 'Quick draft trophy deck on Feb 08 (WB Blight Midrange)'
+  title: Quick draft trophy deck on Feb 08 (WB Blight Midrange)
 - src: 20260209-ecl-qd18-trophy.jpeg
-  title: 'Quick draft trophy deck on Feb 09 (WB Blight Midrange)'
+  title: Quick draft trophy deck on Feb 09 (WB Blight Midrange)
 - src: 20260302-ecl-qd25-trophy.jpeg
-  title: 'Quick draft trophy deck on Mar 02 (BG Goblins)'
+  title: Quick draft trophy deck on Mar 02 (BG Goblins)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/116338789361102369
 tags:
 - mtg
 - limited
