@@ -30,7 +30,7 @@ It is a new month! Yesterday was Easter Sunday. These weeknotes are a day late b
 
 - Books: Started reading **Count Zero** by William Gibson.
 - Comics: Still struggling to keep up, as per usual. 
-- Feed reader backlog: Feed reader is at 210 unread items as of this writing, starting to get away from me again!
+- Feed reader backlog: Feed reader is at 187 unread items as of this writing, a slight dip from last week!
 
 #### Watching
 
