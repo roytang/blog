@@ -1,0 +1,33 @@
+{
+  "id": "ff88841d-203e-4ae5-b950-cec0437f6e52",
+  "name": "lemmy.world",
+  "url": "https://lemmy.world/post/45319207",
+  "text": "Mentioned by https://lemmy.world/post/45319207",
+  "date": "2026-04-08 10:54:19 +0800",
+  "photo": "",
+  "source_url": "https://lemmy.world/post/45319207",
+  "source": "webmention",
+  "spam": false,
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "",
+      "photo": "",
+      "url": ""
+    },
+    "url": "https://lemmy.world/post/45319207",
+    "published": null,
+    "wm-received": "2026-04-08T02:54:19Z",
+    "wm-id": 1988893,
+    "wm-source": "https://lemmy.world/post/45319207",
+    "wm-target": "https://roytang.net/2026/04/weeknotes-04-05/",
+    "wm-protocol": "webmention",
+    "mention-of": "https://roytang.net/2026/04/weeknotes-04-05/",
+    "wm-property": "mention-of",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://lemmy.world/post/45319207"
+    }
+  }
+}
