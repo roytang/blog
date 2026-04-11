@@ -1,5 +1,6 @@
 ---
 date: 2026-04-11 14:57:43
+dontinlinephotos: true
 reviews:
 - date: 2016-10-18
   description: ''
@@ -11,11 +12,13 @@ reviews:
   media: games
   platform: steam
   title: The Banner Saga 2
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/116388732256772605
 tags:
 - gaming
 - games
 title: The Banner Saga 1 and 2
-dontinlinephotos: true
 ---
 
 The Banner Saga is a trilogy of turn-based tactical combat RPGs about a caravan of survivors trying to stay ahead of a dying world. I played through the first game back in 2016 and earlier this year I did a run of the second game. I do not yet own the 3rd game. The games aren't too long so I was originally planning to do a 2nd run of the 2nd game, but now I think that's not happening for a while, and it may be a while before I get around to buying and playing the 3rd game, so I thought I'd write about the first two games now.
