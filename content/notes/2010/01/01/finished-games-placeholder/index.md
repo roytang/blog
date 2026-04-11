@@ -98,16 +98,6 @@ reviews:
   date: 2019-12-26
 - description: 'Placeholder review'
   media: games
-  platform: steam
-  title: 'The Banner Saga'
-  date: 2019-07-13
-- description: 'Placeholder review'
-  media: games
-  platform: steam
-  title: 'The Banner Saga 2'
-  date: 2026-01-23
-- description: 'Placeholder review'
-  media: games
   platform: pc
   title: 'Warcraft III: The Frozen Throne'
   date: 2003-12-12
