@@ -45,7 +45,7 @@ It is a new month! Yesterday was Easter Sunday. These weeknotes are a day late b
     - **Magic Arena**: Still constructed grinding waiting for TMNT quick draft to return. Managed to hit mythic in March!
 - Single-player games: 
     - Ongoing: **Pathfinder: Kingmaker** (Steam). 
-    - Started: **Final Fantasy VII Rebirth** (PS5).
+    - Ongoing: **Final Fantasy VII Rebirth** (PS5).
     - Putzing around: Random fighting games (SF6, KOF14, Garou:MotW, Fighting EX Layer, BlazBlue Chronophantasma Extend, all on Steam)
 - Other stuff: 
     - A couple of days ago I re-upped my PS+ subscription for a month. The last time I had one was back in 2019, so it's been a while. My main purpose was because my PS3 was telling me I still had cloud saves available, which seems insane to me. There was no way to check them online, so I was like "Okay, I'll waste some money on a one month sub just to check" (there are some other benefits like I can also backup PS5 saves), and sure enough all my old PS3 saves are still there, including some I had thought lost forever! Lol finding old files gives me joy. I'm amazed that Sony kept them, as there have been no promises about any retention period when your sub ends. Now I kinda wanna revist some of these older RPGs, many of which I finished but never platinum'ed (and never wrote blog posts for!). Playing through them again may or may not happen, but I like having the option!

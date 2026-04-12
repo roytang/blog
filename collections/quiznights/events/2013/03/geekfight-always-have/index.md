@@ -1,5 +1,5 @@
 ---
-date: 2014-02-26
+date: 2014-03-20
 tags:
 - quiznight
 - '2013'
@@ -13,5 +13,5 @@ We attended [GeekFight! March 2013: We'll Always Have GeekFight!](https://www.fa
 
 Attendance: Me, Josiah (?), Chry (JULIA ORMOND!), Liz, PB, Jace
 
-I think this was the one where we had to walk down a dark alley to get to the venue.
+Venue: Edifice Studios, located at the GEE Building on Pasong Tamo Extension. I think this was the one where we had to walk down a dark alley to get to the venue.
 
