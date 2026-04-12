@@ -22,6 +22,7 @@ This is a [uses page](https://uses.tech/).
 | NASH::Video card | Asus RTX3050 Phoenix NonOC 8GB | [2022](/2022/12/pc-build-2022/) |
 | NASH::SSD | Kingstton 1TB NV1 NVME | [2022](/2022/12/pc-build-2022/) |
 | NASH::SSHD | Seagate Firecuda 2tb | 2019 |
+| NASH::HDD | Seagate Barracuda 2tb | 2026 |
 | NASH::Monitor | HP M27f FHD | [2024](/2025/02/weeknotes-02-09/) | 
 | NASH::Monitor | AOC 24G2SE/71 | [2022](/2022/12/pc-build-2022/) | 
 | NASH::Keyboard | Redragon K502 | [2023](/2023/09/2023-week-38/#some-recent-purchases) |
