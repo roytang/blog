@@ -22,3 +22,5 @@ Round by round recap:
 - Pabibo: Merriam-Webster words of the year - successful wager of 3.
 
 I thought we would be losing because we were only ahead by 1 pt before the Pabibo round and we only wagered 3, but the other team wagered 8 and missed! So we ended up winning the event (just barely), earning us some extra fries!
+
+[Results post](https://www.facebook.com/story.php?story_fbid=931745506144891&id=100079283517003)
