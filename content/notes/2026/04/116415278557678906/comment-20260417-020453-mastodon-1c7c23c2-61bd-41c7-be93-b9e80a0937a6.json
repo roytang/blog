@@ -1,0 +1,11 @@
+{
+  "id": "1c7c23c2-61bd-41c7-be93-b9e80a0937a6",
+  "name": "klu9",
+  "url": "https://ohai.social/@klu9",
+  "text": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@roytang\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>roytang</span></a></span> </p><p>I use FediRedirect<br><a href=\"https://addons.mozilla.org/en-US/firefox/addon/fediredirect/\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">addons.mozilla.org/en-US/firef</span><span class=\"invisible\">ox/addon/fediredirect/</span></a><br><a href=\"https://github.com/ManeraKai/fediredirect\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ManeraKai/fediredir</span><span class=\"invisible\">ect</span></a></p><p>It doesn't automatically load the post on my instance<br>1. click the link, opens on original instance<br>2. click the extension button<br>3. wait a second, then choose Redirect &gt; Mastodon</p><p>Then the post loads on my instance</p><p><a href=\"https://ohai.social/tags/Fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>Fediverse</span></a> <a href=\"https://ohai.social/tags/Mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener\" target=\"_blank\">#<span>Mastodon</span></a></p>",
+  "date": "2026-04-17 02:04:53 +0800",
+  "photo": "https://cdn.masto.host/indiewebsocial/cache/accounts/avatars/114/571/460/318/457/280/original/e5ec8f03552fb141.jpg",
+  "source_url": "https://ohai.social/users/klu9/statuses/116415705485682787",
+  "source": "mastodon",
+  "spam": false
+}
