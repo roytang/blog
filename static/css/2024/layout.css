@@ -287,6 +287,7 @@ blockquote {
 
 .entry_list > li {
     list-style: none;
+    padding-bottom: 14px;
 }
 
 ul, ol {
