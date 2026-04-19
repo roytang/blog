@@ -54,7 +54,7 @@ toc: true
 
 ### Walking and Health and the Weather
 
-For the past week (Sunday to Saturday), Google Fit tells me I walked 64,835, a good amount. The afternoons remain extremely hot, and even my evening walks can get sweaty. Probably another two months or so of this!
+For the past week (Sunday to Saturday), Google Fit tells me I walked 64,835 steps, a good amount. The afternoons remain extremely hot, and even my evening walks can get sweaty. Probably another two months or so of this!
 
 ### Word Power
 
@@ -63,7 +63,7 @@ More words from the NYT Spelling Bee:
 - ANNATTO: Orange-red condiment and food coloring derived from the seeds of the achiote tree.
 - BONITO: A type of predatory fish in the same family as mackerel and tuna. (Also a spanish word meaning "pretty").
 - FACTICITY: The state of being a fact. There are better words for this!
-- FUGU: A typeof pufferfish.
+- FUGU: A type of pufferfish.
 - GUAR: An annual legume and source of guar gum.
 - LALLYGAG: Like LOLLYGAG. I've never encountered this version outside of NYTSB.
 - RAGA: A melodic framework for improvisation in Indian classical music.
