@@ -1,0 +1,9 @@
+{{ $remoteUrl := .Get 1 }}
+{{ with .Page.Resources.Match (printf "*%s*" (string (.Get 0))) }}
+{{ range . }}
+<a href="{{ $remoteUrl }}">
+    <img src="{{ .RelPermalink }}"
+        title="{{ .Title | default .Name }}">
+</a>
+{{ end }}
+{{ end }}

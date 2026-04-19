@@ -1,0 +1,13 @@
+<div class="pxgallery image-list-single">
+{{ with .Page.Resources.Match (printf "*%s*" (string (.Get 0))) }}
+{{ range . }}
+<figure>
+<a href="{{ .RelPermalink }}">
+    <img src="{{ .RelPermalink }}"
+        title="{{ .Title | default .Name }}">
+</a>
+<figcaption>{{ .Title | default .Name | markdownify }}</figcaption>
+</figure>
+{{ end }}
+{{ end }}
+</div>
