@@ -472,8 +472,13 @@ iframe {
 }
 
 .pxgallery img, .pxgallery video, .pxgallery figcaption {
-    
+    max-width: 100%;
 }
+
+.gallery img, .gallery video, .gallery figcaption {
+    max-width: 300px;
+}
+
 
 .pxgallery figure {
     display: inline;
