@@ -1,0 +1,11 @@
+{
+  "id": "e020fd65-9600-4f50-8b6d-6e1a625f632e",
+  "name": "wgarmil",
+  "url": "https://mastodon.sdf.org/@wgarmil",
+  "text": "<p><span class=\"h-card\"><a href=\"https://indieweb.social/@roytang\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>roytang</span></a></span> Ubuntu 26.04 LTS just came out, and this is what Mint 23 will be based on.  I believe the adding of AI will start in Ubuntu 26.10 since they mention working on it over the next six months.  I think Mint will be safe for the version 23 set of releases, but will need to evaluate if switching to LMDE (based on Debian instead of Ubuntu) after that point is the better choice.</p>",
+  "date": "2026-04-28 04:00:19 +0800",
+  "photo": "https://cdn.masto.host/indiewebsocial/cache/accounts/avatars/109/560/860/112/567/380/original/ff9be6cf37fbde5f.jpg",
+  "source_url": "https://mastodon.sdf.org/users/wgarmil/statuses/116478444771628855",
+  "source": "mastodon",
+  "spam": false
+}
