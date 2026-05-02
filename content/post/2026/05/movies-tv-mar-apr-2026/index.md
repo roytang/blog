@@ -1,5 +1,5 @@
 ---
-date: 2026-05-02 21:56:27+08:00
+date: 2026-05-02 13:56:27
 dontinlinephotos: true
 resources:
 - src: the-imitation-game-2014.jpg
@@ -160,12 +160,14 @@ syndicated:
   url: https://letterboxd.com/hungryroy/film/roofman/
 - type: letterboxd
   url: https://letterboxd.com/hungryroy/film/predator-badlands/
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/116507033990650943
 tags:
 - movies
 - tv
 - watching-lately
-toc: true
 title: Movies / TV - Mar & Apr 2026
+toc: true
 ---
 
 I almost forgot that it's already been two months since the last one of these!
