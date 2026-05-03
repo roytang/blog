@@ -1,6 +1,7 @@
 ---
 date: 2025-02-24 15:26:41
-location: saludos
+locations: 
+- saludos
 resources:
 - src: 486752924_640685785250866_3429675687639982692_n.jpg
   title: Photo c/o About Quiz

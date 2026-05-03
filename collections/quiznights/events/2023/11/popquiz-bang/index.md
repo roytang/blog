@@ -1,6 +1,7 @@
 ---
 date: 2023-11-30 15:53:32
-location: intbarextcafe
+locations: 
+- intbarextcafe
 resources:
 - src: 20230518_222631.jpg
   title: Close fight! Names of other teams redacted

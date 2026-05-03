@@ -1,6 +1,7 @@
 ---
 date: 2023-03-31 08:28:42
-location: intbarextcafe
+locations: 
+- intbarextcafe
 resources:
 - src: 20230330_221508.jpg
   title: Names of other teams redacted

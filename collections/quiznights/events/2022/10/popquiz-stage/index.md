@@ -1,6 +1,7 @@
 ---
 date: 2022-10-20 15:00:00
-location: intbarextcafe
+locations: 
+- intbarextcafe
 tags:
 - quiznight
 - popquiz

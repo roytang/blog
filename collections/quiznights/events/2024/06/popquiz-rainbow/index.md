@@ -1,6 +1,7 @@
 ---
 date: 2024-06-27 15:51:36
-location: intbarextcafe
+locations: 
+- intbarextcafe
 tags:
 - quiznight
 - popquiz

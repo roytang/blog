@@ -1,6 +1,5 @@
 ---
 date: 2019-12-09 15:43:11
-location: saludos
 locations:
 - saludos
 tags:

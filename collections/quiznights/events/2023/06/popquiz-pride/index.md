@@ -1,6 +1,7 @@
 ---
 date: 2023-06-23 05:59:15
-location: intbarextcafe
+locations: 
+- intbarextcafe
 tags:
 - quiznight
 - popquiz

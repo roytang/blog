@@ -1,6 +1,7 @@
 ---
 date: 2025-07-28 15:26:41
-location: saludos
+locations: 
+- saludos
 tags:
 - quiznight
 - aboutquiz

@@ -1,6 +1,7 @@
 ---
 date: 2020-03-02 15:43:11
-location: saludos
+locations: 
+- saludos
 tags:
 - quiznight
 - aboutquiz

@@ -1,6 +1,7 @@
 ---
 date: 2022-06-30 14:30:00
-location: intbarextcafe
+locations: 
+- intbarextcafe
 syndicated:
 - type: foursquare
   url: https://www.swarmapp.com/roytang/checkin/62bd8d451b77f610b7a6129b

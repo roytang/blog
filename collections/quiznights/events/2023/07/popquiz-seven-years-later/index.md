@@ -1,6 +1,7 @@
 ---
 date: 2023-07-28 07:05:52
-location: intbarextcafe
+locations: 
+- intbarextcafe
 resources:
 - src: 20230727_193704.jpg
   title: The cards used for voting for the 7th anniversary gimmick

@@ -1,6 +1,5 @@
 ---
 date: 2025-09-18 15:33:02
-location: intbarextcafe
 tags:
 - quiznight
 - popquiz
