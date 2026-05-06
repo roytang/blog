@@ -1,8 +1,11 @@
 ---
-title: "Who Knows That You Blog"
-date: 2026-05-06T12:13:42+08:00
+date: 2026-05-06 04:13:42
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/116526866173010715
 tags:
 - blogging
+title: Who Knows That You Blog
 ---
 
 Kev Quirk wrote a post about [who knows that you blog](https://kevquirk.com/who-knows-that-you-blog) (as a response to [Forking Mad](https://forkingmad.blog/who-knows-that-you-blog/) on the same topic). Kev writes:
