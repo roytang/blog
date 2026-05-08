@@ -32,12 +32,6 @@
             "source": "links"
         },
         {
-            "path": "content/fiction",
-            "public": true,
-            "section": "fiction",
-            "source": "fiction"
-        },
-        {
             "path": "content/topics",
             "public": true,
             "section": "topics",

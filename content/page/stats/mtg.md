@@ -78,7 +78,8 @@ In March 2022, I made a "limited recap" post for Kamigawa Neon Dynasty, collatin
 
 | Set | Recap Date | Events | Win | Loss | Total | Winrate |
 | --- | --- | --- | --- | --- | --- |  --- | 
-| ALL | Apr 2026 | 666 | 2156 | 1859 | 4015 | 0.537 |
+| ALL | Apr 2026 | 684 | 2211 | 1913 | 4124 | 0.5361 |
+| [Teenage Mutant Ninja Turtles](/2026/05/mtg-tmnt/) | May 2026 | 18 | 55 | 54 | 109 | 0.5046 |
 | [Lorwyn Eclipsed](/2026/04/mtg-ecl/) | Apr 2026 | 32 | 107 | 88 | 195 | 0.5487 | 
 | [Avatar The Last Airbender](/2026/02/mtg-atla/) | Feb 2026 |  31 | 92 | 92 | 184 | 0.5000 |
 | [Spider-Man / Through the Omenpaths](/2025/11/mtg-spiderman-om1/) | Nov 2025 | 29 | 82 | 77 | 159 | 0.5157 |
