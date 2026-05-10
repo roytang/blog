@@ -42,13 +42,13 @@ Hey, it's May! Time continues to pass by quickly.
 #### Gaming
 
 - Regular ongoing live-service games: 
-    - **Magic Arena**: Looking forward to the Strixhaven set dropping this week!
+    - **Magic Arena**: Been drafting **Secrets of Strixhaven**.
 - Single-player games. Lol I told some friends that I actually have 4 different ongoing games currently, each on a different platform: 
     - Ongoing: **Pathfinder: Kingmaker** (Steam). Each session is a bit exhausting, so I really only play it once or twice a week.
     - Ongoing: **Final Fantasy VII Rebirth** (PS5). I just left Junon! I spent so much time on that Junon parade minigame!
     - Ongoing: **Final Fantasy IX** (Steam Deck). Slowly working my way through the final dungeon! At some point I have to go out and do Ozma.
     - Ongoing: **Tales of Graces F** (PS3). I think I'm in the final chapter of the main game now. I think I can get all the remaining achievements in this same run, though the 10x damage the old save already had disabled is super annoying.
-    - Putzing around: This week's random fighting game I've been playing is **Street Fighter X Tekken** on PS Vita. So it's actually 4 different platforms! It's nice having these old consoles and saves around.
+    - Putzing around: This week's random fighting game I've been playing is **Street Fighter X Tekken** on PS Vita. So it's actually FIVE different platforms! It's nice having these old consoles and saves around.
 
 ### Walking and Health and the Weather
 

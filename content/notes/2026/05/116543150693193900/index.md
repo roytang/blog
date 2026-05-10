@@ -12,8 +12,11 @@ source: mastodon
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/116543150693193900
+- type: reddit
+  url: https://www.reddit.com/r/OnePiece/comments/1t7ws45/bootleg_zoro_brick_thing/
 tags:
 - onepiece
+- reddit_submission
 ---
 
 <p>Finally finished putting together this bootleg <a href="https://indieweb.social/tags/OnePiece" class="mention hashtag" rel="tag">#<span>OnePiece</span></a> brick thing. I started this months ago with the nephews and they gave up quickly because it was so difficult to put together and the pieces were so small and often didnt fit well</p>
