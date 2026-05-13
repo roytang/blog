@@ -14,7 +14,8 @@
       "year_lists",
       "index"
     ],
-    "streaks": true
+    "streaks": true,
+    "current_streak": 293
   },
   "links": {
     "label": "Links",
@@ -33,7 +34,8 @@
       "year_lists",
       "index"
     ],
-    "streaks": true
+    "streaks": true,
+    "current_streak": 6
   },
   "page": {
     "label": "Other Pages",
