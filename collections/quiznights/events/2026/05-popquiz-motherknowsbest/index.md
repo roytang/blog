@@ -1,8 +1,8 @@
 ---
 date: 2026-05-14 15:06:08
-location: intext
+location: intbarextcafe
 locations: 
-- intext
+- intbarextcafe
 tags:
 - quiznight
 - popquiz
