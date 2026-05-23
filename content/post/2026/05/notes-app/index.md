@@ -1,8 +1,11 @@
 ---
-title: "How I Use My Notes App"
-date: 2026-05-23T12:56:41+08:00
+date: 2026-05-23 04:56:41
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/116625287581933390
 tags:
 - note-taking
+title: How I Use My Notes App
 ---
 
 Previously: [Note-taking / Todo Workflow](/2019/08/note-taking-todo-workflow/)
@@ -97,4 +100,4 @@ Before SimpleNote, I also tried [StandardNotes](https://standardnotes.com/) (I f
 
 This blog post was just going to be a short toot but quickly expanded into a rambling blog post (maybe those are the best kind!). 
 
-I think the reason we have so many different note-taking apps/platforms is because that sort of thing is a highly personal matter where each person will have their own idiosyncrasies making their own workflows unique. So I think it's nice to both write about how you use notes and also to read about how other people do them. 
+I think the reason we have so many different note-taking apps/platforms is because that sort of thing is a highly personal matter where each person will have their own idiosyncrasies making their own workflows unique. So I think it's nice to both write about how you use notes and also to read about how other people do them.
