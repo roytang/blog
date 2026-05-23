@@ -6,6 +6,7 @@ syndicated:
   url: https://twitter.com/roytang/statuses/1162154657311088646/
 tags:
 - tech life
+- note-taking
 title: Note-taking / Todo Workflow
 type: post
 ---
@@ -17,19 +18,19 @@ The main issue is that I have a smattering of todo-lists and notes scattered ove
 To tackle the problem, first I consider what are my use cases and requirements:
 
 - Say I think of something that I need to do while I'm away from my computer and want to jot it down quickly before I forget about it. It needs to be quick and easy to note something down. Such things can include:
-  - a work todo
-  - an idea I want to investigate later
-  - a blog post idea
-  - something that I need to tell somebody
-  - a project that I could work on
-  - a game or book that looks interesting
-  - something I want to read later
-  - and so on
+    - a work todo
+    - an idea I want to investigate later
+    - a blog post idea
+    - something that I need to tell somebody
+    - a project that I could work on
+    - a game or book that looks interesting
+    - something I want to read later
+    - and so on
 - I need to note something that I will need for reference at some future point(s). For these pieces of information, I need to be able to pull them up quickly as needed. Examples:
-  - a wifi password
-  - API keys
-  - the url for the production server
-  - account numbers
+    - a wifi password
+    - API keys
+    - the url for the production server
+    - account numbers
 - I need to record something on a regular basis (for example, blood pressure) and need a place to store that information for future reference
 
 On mobile, the main way I capture information now is via Google Keep since it's quick and easy. This means my Google Keep is full of many random cards with lists, some of which I can't even recall the context of later. For longer-term inputs, I will typically use either a text file stored in Dropbox or StandardNotes or Google Docs.
@@ -47,15 +48,15 @@ I mostly didn't have step 2 before. This is largely similar to the ["Getting Thi
 An additional step for me to have more well-defined "buckets" or locations, where different types of items need to be sent. Having them be well-defined makes the review step easier. For now my initial schema is:
 
 - Google Keep
-  - inbox for capturing new items, should be reviewed and cleaned regularly
-  - short reference notes can be kept here for quick access
+    - inbox for capturing new items, should be reviewed and cleaned regularly
+    - short reference notes can be kept here for quick access
 - Trello
-  - for lists, such as todo lists, ideas lists, project lists
+    - for lists, such as todo lists, ideas lists, project lists
 - StandardNotes
-  - for reference material that can be stored plaintext
+    - for reference material that can be stored plaintext
 - Google Docs
-  - for reference material that requires formatted documents or spreadsheets
-  - for document drafts that will later be published elsewhere
+    - for reference material that requires formatted documents or spreadsheets
+    - for document drafts that will later be published elsewhere
 
 Note: I have largely abandoned Evernote because of free account limitations. I also want to reduce Dropbox usage for the same reasons.
 
