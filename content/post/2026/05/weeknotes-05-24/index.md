@@ -38,8 +38,9 @@ Kind of a lazy weeknotes today. May is ending soon!
   
 #### Gaming
 
-- Regular ongoing live-service games: 
+- Multiplayer games: 
     - **Magic Arena**: **Secrets of Strixhaven** mythic limited remains out of reach, and constructed has been challenging for me lately either.
+    - Also played some fighting games online: **Street Fighter 6** and **Guilty Gear Strive**. GGS in particular had a big 2.0 update recently that changed how ranked matchmaking works so I gave that a shot. (I am still pretty bad at it.)
 - Single-player games: 
     - Ongoing: **Pathfinder: Kingmaker** (Steam). Not a lot of playtime this week.
     - Ongoing: **Final Fantasy VII Rebirth** (PS5). Just got past the Gold Saucer!
