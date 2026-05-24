@@ -14,12 +14,13 @@ Kind of a lazy weeknotes today. May is ending soon!
 
 - Local politics calmed down a bit compared to last week's clown show. I think the impeachment trial had started in the Senate, but who knows if that will go anywhere with the VP's allies in control?
 - Iran crisis still unresolved. There are negotiations underway and DJT says they are close to a breakthrough but who knows if that's actually true.
+- I remain exasperated at the world.
 
 ### My Week
 
 - Had another routine doctor visit early this week. It was generally ok, but my doctor wants me to lose even more weight. It was already very challenging to get where I am!
 - Aside from that I also had to accompany patient #1 to the hospital twice for some labs and a routine twice-a-year infusion procedure she has done. Nothing too stressful, though it takes up a lot of time.
-- On the blog: I wrote about [How I Use My Notes App](https://roytang.net/2026/05/notes-app/)
+- On the blog: I wrote about [How I Use My Notes App](/2026/05/notes-app/)
 
 ### Media Diet
 
