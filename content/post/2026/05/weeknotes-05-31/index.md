@@ -12,7 +12,6 @@ It's the last day of May!
 
 ### The World
 
-- Local politics calmed down a bit compared to last week's clown show. I think the impeachment trial had started in the Senate, but who knows if that will go anywhere with the VP's allies in control?
 - Iran crisis still unresolved. Ukraine seems to be making some headway in the war against Russia though?
 - [Pope Leo XIV has released an encyclical warning about the dangers of artifical intelligence](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
 - I remain exasperated at the world. I'm not sure if I should keep writing this here because it might never be not true!
@@ -85,4 +84,4 @@ A chill week ahead; I don't have any expeditions planned! Hopefully I can use th
 There are a few announcements I'm looking forward to though:
 
 - Early in the week we should have previews for the next MTG set, **Marvel Super Heroes**! As a Marvel fan I am cautiously looking forward to this crossover.
-- Sony has a state of play scheduled this coming week and it's rumored to be a big one!
+- **Summer Game Fest** is this week! I am not really planning to buy any new games soon, but it's always nice to see what kind of announcements pop up. Rumor has it Sony has some big announcements for their State of Play!
