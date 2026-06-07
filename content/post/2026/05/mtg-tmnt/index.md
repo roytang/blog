@@ -83,6 +83,10 @@ I HAD NO TROPHIES FOR THIS SET!!
 
 Still MIA for two sets now!
 
+Update: Stats email finally came in on 28th May.
+
+{{% photos arenastats %}}
+
 ### Streaming videos
 
 I still have not streamed any drafts since the Final Fantasy set!
