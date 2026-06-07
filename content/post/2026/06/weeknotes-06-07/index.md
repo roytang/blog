@@ -69,4 +69,5 @@ I was not able to share any links this week.
 
 - Friday is a holiday over here. (PH Independence Day)
 - I think a new season of My Adventures with Superman drops next weekend.
+- New expansion for Dune Imperium drops this week, my regular gaming group is looking forward to it!
 - I am most likely forgetting something (typical).
