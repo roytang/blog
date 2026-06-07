@@ -46,7 +46,7 @@ It's the last day of May!
     - Ongoing: **Final Fantasy VII Rebirth** (PS5). The PS5 owner took it back temporarily for reasons so I didn't get to play it a lot this week. I should be getting it back in the next few days.
     - Ongoing: **Tales of Graces F** (PS3). Only one achievement remains before Platinum, but it's a grindy one, might take another couple of weeks.
     - Started: **Mighty Gunvolt** (Steam). Started working on some smaller games in my backlog. This one isn't too hard.
-- I watched the Sony State of Play and the Summer Game Fest SGF. The Sony one wasn't of particular interest for me. The SGF showcase had the reveal of FF7 remake part 3 ("Revelation") as popularly predicted. It looks nice and I'm hoping my PC can handle it. Or maybe I could get a PS5 finally, despite the price increase?
+- I watched the Sony State of Play and the Summer Game Fest SGF. The Sony one wasn't of particular interest for me. The SGF showcase had the reveal of FF7 remake part 3 ("Revelation") as popularly predicted. It looks nice and I'm hoping my PC can handle it. Or maybe I could get a PS5 finally, despite the price increase? Also, SF6 announced their year 4 roster, and Tifa was an expected surprise, but even better is a new fighter that's from the PH!
 
 ### Walking and Health and the Weather
 
@@ -69,3 +69,4 @@ I was not able to share any links this week.
 
 - Friday is a holiday over here. (PH Independence Day)
 - I think a new season of My Adventures with Superman drops next weekend.
+- I am most likely forgetting something (typical).
