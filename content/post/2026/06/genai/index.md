@@ -1,9 +1,12 @@
 ---
-title: "On Generative AI and LLMs"
-date: 2026-06-08T09:08:33+08:00
+date: 2026-06-08 01:08:33
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/116714602967964274
 tags:
 - tech
 - genai
+title: On Generative AI and LLMs
 ---
 
 I wanted to have a post that I could point to when people ask why I don't use or like GenAI/LLMs. I had to restart this one a few times because it kept growing too long and full of links and I don't need that because many many people have already written many words about all the problems with GenAI.

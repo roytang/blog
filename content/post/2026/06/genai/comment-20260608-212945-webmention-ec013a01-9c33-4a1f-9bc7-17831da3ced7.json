@@ -1,0 +1,34 @@
+{
+  "id": "ec013a01-9c33-4a1f-9bc7-17831da3ced7",
+  "name": "Dominik Schwind",
+  "url": "https://dominikschwind.com/",
+  "text": "Bookmarked by https://dominikschwind.com/link/on-generative-ai-and-llms\n\n> Until I write my (inevitable) blog post about my views on GenAI and LLMs, I shall refer people to Roy's article",
+  "date": "2026-06-08 21:29:45 +0800",
+  "photo": "https://avatars.webmention.io/dominikschwind.com/0f61dbc16078dfde6f5a0f4d0c9bc3d7ca76df14e7d9c12f290309a307bbdf4a.jpg",
+  "source_url": "https://dominikschwind.com/link/on-generative-ai-and-llms",
+  "source": "webmention",
+  "spam": false,
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Dominik Schwind",
+      "photo": "https://avatars.webmention.io/dominikschwind.com/0f61dbc16078dfde6f5a0f4d0c9bc3d7ca76df14e7d9c12f290309a307bbdf4a.jpg",
+      "url": "https://dominikschwind.com/"
+    },
+    "url": "https://dominikschwind.com/link/on-generative-ai-and-llms",
+    "published": "2026-06-08T13:29:45+00:00",
+    "wm-received": "2026-06-08T13:33:29Z",
+    "wm-id": 2001225,
+    "wm-source": "https://dominikschwind.com/link/on-generative-ai-and-llms",
+    "wm-target": "https://roytang.net/2026/06/genai/",
+    "wm-protocol": "webmention",
+    "content": {
+      "html": "<p>Until I write my (inevitable) blog post about my views on GenAI and LLMs, I shall refer people to Roy's article</p>",
+      "text": "Until I write my (inevitable) blog post about my views on GenAI and LLMs, I shall refer people to Roy's article"
+    },
+    "bookmark-of": "https://roytang.net/2026/06/genai/",
+    "wm-property": "bookmark-of",
+    "wm-private": false
+  }
+}
