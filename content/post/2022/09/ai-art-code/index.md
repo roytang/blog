@@ -32,6 +32,7 @@ syndicated:
 tags:
 - tech-life
 - software-development
+- genai
 title: Initial Thoughts on AI-generated Art (and Code)
 ---
 
