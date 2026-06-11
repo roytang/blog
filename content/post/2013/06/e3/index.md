@@ -24,7 +24,7 @@ syndicated:
 tags:
 - e3
 - gaming
-title: E3 2016
+title: E3 2013
 ---
 
 XBox One debuting at $500, a terrible price point. PS4 coming in at $400 or less would blow them away
