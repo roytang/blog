@@ -1,8 +1,11 @@
 ---
-title: "Summer Game Fest June 2026"
-date: 2026-06-11T11:09:10+08:00
+date: 2026-06-11 03:09:10
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/116732049331409337
 tags:
 - gaming
+title: Summer Game Fest June 2026
 ---
 
 My last post felt a bit too serious, so I thought I'd write about videogames this time.
