@@ -5,6 +5,9 @@ reviews:
   platform: steam
   rating: 3.0
   title: Mighty Gunvolt
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/116742047885641366
 tags:
 - gaming
 - games
