@@ -8,12 +8,11 @@ title: Weeknotes 2026-06-07
 toc: true
 ---
 
-It's the last day of May!
-
 ### The World
 
 - PAGASA has declared the start of the rainy season! A welcome respite from the heat.
 - Iran crisis still unresolved. Negotiations have fallen apart as Israel and Lebanon are unable to come to an accord.
+- In PH news, more Senate drama. After a surprise defection, a "new majority" has formed that is unfortunately unable to elect a new Senate President, so they have an acting one instead. APC has refused to recognize their actions, claiming they had no quorum, so now we somehow have 2 competing "majority" blocks. 
 
 ### My Week
 
@@ -54,7 +53,7 @@ For the past week (Sunday to Saturday), Google Fit tells me I walked 65,346 step
 
 ### Word Power
 
-Not a lot from NYT Connections this week:
+Not a lot from NYT Spelling Bee this week:
 
 - CICHLID: a family of fish, including tilapias!
 - GAMIN: an often homeless boy who roams about the streets; an urchin. 

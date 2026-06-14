@@ -63,7 +63,7 @@ The week was very hot still (hence the tendency to escape to the malls), but the
 
 ### Word Power
 
-Some words I learned from NYT Connections this week:
+Some words I learned from NYT Spelling Bee this week:
 
 - ARCO: (music) played with a bow
 - BRAD: A thin wire nail with a small head or a slight side projection instead of a head. 
