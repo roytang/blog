@@ -1,25 +1,28 @@
 ---
-title: "Retro Review: Tales of Graces F (PS3!)"
-date: 2026-06-18T20:02:22+08:00
-toc: true
+date: 2026-06-18 12:02:22
+dontinlinephotos: true
 reviews:
-- description: ''
+- date: 2013-03-27
+  description: ''
   media: games
+  platform: ps3
   rating: 4.5
   title: Tales of Graces F
-  platform: ps3
-  date: 2013-03-27
 - description: ''
   media: games
+  platform: ps3
   rating: 4.5
   title: Tales of Graces F (Platinum)
-  platform: ps3
-dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/116779400335537640
 tags:
 - gaming
 - talesof
 - games
 - ps3
+title: 'Retro Review: Tales of Graces F (PS3!)'
+toc: true
 ---
 
 It is the year of our lord 2026 and here I am writing a review for a game I played on PS3! Quick explanation: I was tinkering around with my PS3 a couple of months ago and found that because I had re-upped my PS+, I had access to my cloud saves, and I still had saves from the early 2010s!! Nice! This led to me wanting to play through a bunch of games that I enjoyed and played through back then but never got the platinum for. During that time, I wasn't super obsessed either with writing reviews for every game I play, so re-playing through them now more than a decade later also gives me a chance to write about them! And the first one up was **Tales of Graces F**, which [I first finished back in 2013](/2013/12/2013-books-and-games/)!
