@@ -18,7 +18,7 @@ aliases:
 
 I have been working professionally as a software developer, technical lead and solution architect since 2003. I am based in the Philippines. I have a wide variety of experience with different languages, frameworks and databases, primarily Java, JavaScript and Python, though I have tried many many more and am always very open to learning new technologies. I can work well in a team setting, in a leadership role, or as a solo developer. I communicate well, I learn quickly, I enjoy facing challenging problems, and I always strive for excellence in my work. 
 
-I would love to work for a team that values reliability, performance, maintainability and correctness; one that is diverse both in its people and its values. I would be very interested in work that involves making the world a better place for everybody and not just for capitalists or their shareholders. 
+I would love to work for a team that values reliability, performance, maintainability and correctness and preferably focused on making the world a better place for everybody and not just for capitalists or their shareholders. 
 
 Yes to climate tech, science, FOSS, urbanism, health care, legacy software, ai resistance/circumvention/safety, cyber security, game dev, retrocomputing, preservation/archival, self-hosting, tools, databases.
 

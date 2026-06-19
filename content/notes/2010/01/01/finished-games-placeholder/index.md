@@ -29,11 +29,6 @@ reviews:
 - description: 'Placeholder review'
   media: games
   platform: ps3
-  title: 'Tales of Graces f'
-  date: 2013-02-16
-- description: 'Placeholder review'
-  media: games
-  platform: ps3
   title: 'Tales of Xillia'
   date: 2013-09-08
 - description: 'Placeholder review'
