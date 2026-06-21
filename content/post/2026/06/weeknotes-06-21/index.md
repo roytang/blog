@@ -60,7 +60,7 @@ From NYT Spelling Bee this week:
 
 ### Elsewhere
 
-We uploaded another new episode to the trivia tea YT channel: [The Camote Show S16E05 - Cinenerdle and how to avoid a copyright strike](https://www.youtube.com/watch?v=Oh3LmlGATBo)
+We uploaded another new episode to the trivia team YT channel: [The Camote Show S16E05 - Cinenerdle and how to avoid a copyright strike](https://www.youtube.com/watch?v=Oh3LmlGATBo)
 
 I had to lightly edit this video to avoid copyright strikes, I put in one of my sketches instead:
 
@@ -72,6 +72,6 @@ I had to lightly edit this video to avoid copyright strikes, I put in one of my 
 
 ### Looking Forward
 
-- Some medical checkups to go to, both for me and Patient#1
+- A couple of medical checkups to go to this coming week for me and Patient#1.
 - Supergirl is releasing this week! My brother and I will try to watch this weekend.
 - The new *Marvel Super Heroes* set drops on Arena this week!
