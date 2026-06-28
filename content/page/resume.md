@@ -20,9 +20,9 @@ I have been working professionally as a software developer, technical lead and s
 
 I would love to work for a team that values reliability, performance, maintainability and correctness and preferably focused on making the world a better place for everybody and not just for capitalists or their shareholders. 
 
-Yes to climate tech, science, FOSS, urbanism, health care, legacy software, ai resistance/circumvention/safety, cyber security, game dev, retrocomputing, preservation/archival, self-hosting, tools, databases.
+Yes to climate tech, science, FOSS, health care, accessibility, open standards, legacy software, GenAI resistance/circumvention/safety, cyber security, game dev, retrocomputing, preservation/archival, self-hosting, tools, databases.
 
-No to "AI", crypto, "web3", gambling, ad-tech, state surveillance, or military applications.
+No to GenAI, crypto, "web3", gambling, ad-tech, state surveillance, or military applications.
 
 ***
 
