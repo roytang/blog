@@ -1,5 +1,5 @@
 ---
-date: 2026-07-01 20:14:14+08:00
+date: 2026-07-01 12:14:14
 dontinlinephotos: true
 resources:
 - src: the-sheep-detectives-2026.jpg
@@ -125,6 +125,8 @@ syndicated:
   url: https://letterboxd.com/hungryroy/film/send-help/
 - type: letterboxd
   url: https://letterboxd.com/hungryroy/film/we-can-be-heroes-2020/
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/116846850569104444
 tags:
 - movies
 - tv
