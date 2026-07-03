@@ -1,6 +1,6 @@
 ---
 title: "The End is Nigh for Physical Gaming"
-date: 2026-07-04T08:11:47+08:00
+date: 2026-07-04T07:11:47+08:00
 tags:
 - gaming
 ---
@@ -13,7 +13,7 @@ The response has been overwhelmingly negative, across multiple sectors, and righ
 
 Most of my gaming spend on consoles is on physical games, probably around 99%. I have no problems with digital purchases per se (after all, digital has been the norm on PC forever). The main reason I dislike digital purchases on consoles (and on mobile) is the lack of backward compatibility and portability. I purchased exactly one 3DS game on the eShop during its lifetime, and that purchase is forever tied to that hardware generation. There's no way for me to play that copy on Switch or whatever. If my 3DS hardware dies, that purchase is gone forever. Physical games have the same issue of course, but because you possess a physical thing, you have the option of reselling your games. I think for me, digital games not being able to be loaned out or resold is a fair tradeoff if they last longer and I can use them across different devices and generations. 
 
-Most of my gaming spend on consoles is on physical games, probably around 99%. I have no problems with digital purchases per se. After all, digital has been the norm on PC forever, and my digital Steam library is huge. But I think the reason digital works so much better on PC rather than on console is that the PC is an open platform, and that has several consequences:
+Most of my gaming spend on consoles is on physical games, probably around 99%. The biggest advantage of physical games is of course that you can share and borrow games among friends, which helps with the high costs. I have no problems with digital purchases per se. After all, digital has been the norm on PC forever, and my digital Steam library is huge. But I think the reason digital works so much better on PC rather than on console is that the PC is an open platform, and that has several consequences:
 
 - Piracy is easier since the tools for copying and modifying files are baked into the OS. This means companies have to compete by providing a better experience than simply pirating games.
 - This also means backing up game files and saves is a lot easier. And game preservation too! 
