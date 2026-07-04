@@ -1,8 +1,11 @@
 ---
-title: "The End is Nigh for Physical Gaming"
-date: 2026-07-04T07:11:47+08:00
+date: 2026-07-03 23:11:47
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/116859765557423808
 tags:
 - gaming
+title: The End is Nigh for Physical Gaming
 ---
 
 Physical gaming collectors, enthusiasts, and preservationists got a lot of bad news over the last week or so. First, it was announced that the much anticipated GTA6, probably the biggest most anticipated gaming release of this generation, [will NOT have a disc in physical retail](https://www.ign.com/articles/grand-theft-auto-6-physical-copies-wont-include-a-disc-will-just-be-a-code-in-a-box), it will just be a code in a box. Then a couple of days ago another bombshell, this time from Sony: [physical disc production for Playstation consoles is ending in 2028](https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/)!!
