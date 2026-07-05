@@ -56,7 +56,7 @@ toc: true
 
 ### Walking and Health and the Weather
 
-For the past week (Sunday to Saturday), Google Fit tells me I walked steps: 70,345 steps! Back to back 70k weeks again, very good. The weather was a bit rainy this past week which is good for less heat, but made scheduling my walks challenging.
+For the past week (Sunday to Saturday), Google Fit tells me I walked 70,345 steps! Back to back 70k weeks again, very good. The weather was a bit rainy this past week which is good for less heat, but made scheduling my walks challenging.
 
 Someday I'll write about my ongoing weight loss journey in more detail, but this past week I hit a good milestone: I weighed in at around 108.5kg. This is signficant for me because my oldest record is from 2008, when I weighed 108.9kg, and have been heavier ever since. So that means I am now the lightest I have been in 18 years! I still have a ways to go hopefully (and it is often a struggle), but it feels good to get here.
 
