@@ -1,0 +1,38 @@
+{
+  "id": "81721fca-2c3c-47d1-ad28-ee0b416bc6eb",
+  "name": "Dominik Schwind",
+  "url": "https://dominikschwind.com/",
+  "text": "Mentioned by https://lostfocus.de/2026/07/05/2026-w27-blur/\n\n> about blog posts and especially weeknotes being personal or not: Roy read my post and decided to be less personal Which is interesting \u2013 he does also mention that he",
+  "date": "2026-07-06 02:55:55 +0800",
+  "photo": "https://avatars.webmention.io/lostfocus.de/5991d3c4d5d47cd951ef8dbb0ded753c894f802534d223e7ba0d033c14fb7152.jpg",
+  "source_url": "https://lostfocus.de/2026/07/05/2026-w27-blur/",
+  "source": "webmention",
+  "spam": false,
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Dominik Schwind",
+      "photo": "https://avatars.webmention.io/lostfocus.de/5991d3c4d5d47cd951ef8dbb0ded753c894f802534d223e7ba0d033c14fb7152.jpg",
+      "url": "https://dominikschwind.com/"
+    },
+    "url": "https://lostfocus.de/2026/07/05/2026-w27-blur/",
+    "published": "2026-07-05T18:55:55+02:00",
+    "wm-received": "2026-07-05T16:56:08Z",
+    "wm-id": 2006752,
+    "wm-source": "https://lostfocus.de/2026/07/05/2026-w27-blur/",
+    "wm-target": "https://roytang.net/2026/07/weeknotes-07-05/",
+    "wm-protocol": "webmention",
+    "name": "2026-W27: Blur",
+    "content": {
+      "html": "<p>Another data point for my thoughts about blog posts and especially weeknotes being personal or not: <a href=\"https://roytang.net/2026/07/weeknotes-07-05/\">Roy read my post and decided to be less personal</a>. Which is interesting \u2013 he does also mention that he is writing a private journal as well, which I am not. Basically what I blog and what I remember organically are all that I can recall in the future, which might explain my predilection to post <em>boring interna.</em></p>\n\n\n\n<p>Meanwhile it\u2019s been a weird week. While the <em>heat wave</em> might be over, the current weather does have actually more of an impact on my well-being than when it was really properly hot. Unless I had some proper external stimuli to kick my brain into gear I really struggled to concentrate on anything. I\u2019m trying to understand what it is. It is still very warm and rather humid, but that usually doesn\u2019t have much of an effect on me. In fact, I rather like it. (Even though probably more when I\u2019m in a tropical country, but even so.) It might just be the light: we had a thin to medium layer of clouds most of the time and the light has a very weird diffuse quality to it.</p>",
+      "text": "Another data point for my thoughts about blog posts and especially weeknotes being personal or not: Roy read my post and decided to be less personal. Which is interesting \u2013 he does also mention that he is writing a private journal as well, which I am not. Basically what I blog and what I remember organically are all that I can recall in the future, which might explain my predilection to post boring interna.\n\n\n\nMeanwhile it\u2019s been a weird week. While the heat wave might be over, the current weather does have actually more of an impact on my well-being than when it was really properly hot. Unless I had some proper external stimuli to kick my brain into gear I really struggled to concentrate on anything. I\u2019m trying to understand what it is. It is still very warm and rather humid, but that usually doesn\u2019t have much of an effect on me. In fact, I rather like it. (Even though probably more when I\u2019m in a tropical country, but even so.) It might just be the light: we had a thin to medium layer of clouds most of the time and the light has a very weird diffuse quality to it."
+    },
+    "mention-of": "https://roytang.net/2026/07/weeknotes-07-05/",
+    "wm-property": "mention-of",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://lostfocus.de/2026/07/05/2026-w27-blur/"
+    }
+  }
+}
