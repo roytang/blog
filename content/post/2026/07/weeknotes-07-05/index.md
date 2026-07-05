@@ -1,7 +1,10 @@
 ---
-date: 2026-07-05T16:12:06+08:00
+date: 2026-07-05 08:12:06
 dontinlinephotos: true
 steps: 60944
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/116867704844018710
 tags:
 - weeknotes
 title: Weeknotes 2026-07-05 Personal Writing
