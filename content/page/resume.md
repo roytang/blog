@@ -14,15 +14,17 @@ aliases:
 
 ***
 
-**As of June 2026**: I have been on work hiatus ("funemployment") for a few years, but I am ready to get back into it. I am looking for work opportunities, whether freelance, part-time, or full-time. I have a preference for remote positions with flexible schedules and am willing to adjust to different time zones.
+**As of July 2026**: I have been on work hiatus ("funemployment") for a few years, but I am ready to get back into it. 
 
-I have been working professionally as a software developer, technical lead and solution architect since 2003. I am based in the Philippines. I have a wide variety of experience with different languages, frameworks and databases, primarily Java, JavaScript and Python, though I have tried many many more and am always very open to learning new technologies. I can work well in a team setting, in a leadership role, or as a solo developer. I communicate well, I learn quickly, I enjoy facing challenging problems, and I always strive for excellence in my work. 
+I am a software developer based in the Philippines looking for work opportunities, whether freelance, part-time, or full-time. I can work remote and am willing to adjust to different time zones.
 
-I would love to work for a team that values reliability, performance, maintainability and correctness and preferably focused on making the world a better place for everybody and not just for capitalists or their shareholders. 
+I have been working professionally as a software developer, technical lead and solution architect since 2003. I have a wide variety of experience with different languages, frameworks and databases, primarily Java, JavaScript and Python, though I have tried many many more and am always very open to learning new technologies. I can work well in a team setting, in a leadership role, or as a solo developer. I communicate well, I learn quickly, I enjoy facing challenging problems, and I always strive for excellence in my work.
+
+I would love to work for a team that values reliability, performance, maintainability, craftsmanship, and correctness and preferably focused on making the world a better place for everybody and not just for capitalists or their shareholders.
 
 Yes to climate tech, science, FOSS, health care, accessibility, open standards, legacy software, GenAI resistance/circumvention/safety, cyber security, game dev, retrocomputing, preservation/archival, self-hosting, tools, databases.
 
-No to GenAI, crypto, "web3", gambling, ad-tech, state surveillance, or military applications.
+No to GenAI, crypto, gambling, ad-tech, state surveillance, or military applications.
 
 ***
 
