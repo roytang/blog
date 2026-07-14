@@ -1,6 +1,9 @@
 ---
-date: 2026-07-14T15:48:48+08:00
+date: 2026-07-14 07:48:48
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/116920624960265606
 tags:
 - mtg
 - limited
@@ -16,15 +19,6 @@ This is my set recap for the **Secrets of Strixhaven** MTG set!
 <!--more-->
 
 ### SOS Limited Summary / Notes
-
-- I am generally not a fan of this set. And not just because I have an atrocious win rate.
-- While the set mechanics and archetypes were fine, my main problem comes from the small set size and the five draft archetypes. This is only our second set of this size, and both of them ended up with very samey and repetitive draft formats where most decks ended up looking very similar. I dislike them enough that I'm considering just not playing any new small sets that come out!
-- The format was also very bomb-heavy, with a lot of games being blowouts where one side had no chance. And with the set size, you tend to lose to the same bombs a lot (I'm looking at you {{% card %}}Sally Pride, Lioness Leader{{% /card %}})
-- My win rate actually wasn't that bad while I was in Platinum, but then I got to Diamond rank and decided to try to push for Mythic, and the game just decided to punish me for my arrogance and I only won like 2 games total in Diamond and ended up finishing the season with three successive 0-3s!! 
-- After that punishing Diamond run during the first QD period and given how repetitive the limited format is, I decided to skip the second QD period completely and just save up resources for the next set, so my event count for this one is a bit lower than normal.
-- I ended the season just barely above a 50% win rate!
-- My favorite (and winningest) draft archetype turns out to be UR artifacts/robots. Unsurprising, I love those mousers! The quick draft bots also often leave this archetype open, so there were a lot of UR mirror matches as well.
-- Favorite card: maybe {{% card %}}Mouser Foundry{{% /card %}} (simple and unassuming, but fills a lot of roles) or {{% card %}}Fugitive Droid{{% /card %}} (works well with Stockman).
 
 - Strixhaven was really good to me; my Arena win rate was the highest it's been since Wilds of Eldraine way back in 2023. I had a slow start, but did well in Plat and Diamond. 
 - I did end up playing a bit less events than I usually do for a big premier set. I mostly stopped playing after the first quick draft period because my win rate was good enough that I ended the QD period in Diamond 3 and decided to try to push for mythic limited for the first time, and that meant playing the flashback quick draft format instead (Edge of Eternity, more on that below).
