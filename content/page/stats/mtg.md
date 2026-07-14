@@ -78,7 +78,8 @@ In March 2022, I made a "limited recap" post for Kamigawa Neon Dynasty, collatin
 
 | Set | Recap Date | Events | Win | Loss | Total | Winrate |
 | --- | --- | --- | --- | --- | --- |  --- | 
-| ALL | Apr 2026 | 684 | 2211 | 1913 | 4124 | 0.5361 |
+| ALL | Jul 2026  | 709 | 2299 | 1979 | 4278 | 0.5374 |
+| [Secrets of Strixhaven](/2026/07/mtg-sos/) | Jul 2026 | 25 | 88 | 66 | 154 | 0.5714 |
 | [Teenage Mutant Ninja Turtles](/2026/05/mtg-tmnt/) | May 2026 | 18 | 55 | 54 | 109 | 0.5046 |
 | [Lorwyn Eclipsed](/2026/04/mtg-ecl/) | Apr 2026 | 32 | 107 | 88 | 195 | 0.5487 | 
 | [Avatar The Last Airbender](/2026/02/mtg-atla/) | Feb 2026 |  31 | 92 | 92 | 184 | 0.5000 |
@@ -121,6 +122,7 @@ These are compiled from the stats emails Arena sends out per set ([mtgarenastats
 
 | Set | Date | Boosters Opened | Fave Color | Fave Format | Mastery Level | Const. Rank | Limited Rank | Games | Quest Gold | Wins Gold |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
+| [Secrets of Strixhaven](/2026/07/mtg-sos/#magic-arena-stats) | Jul 2026 | 122 | Black | Quick Draft | 71 | Mythic | Mythic | 440 | 39,250 | 35,250 |
 | [Teenage Mutant Ninja Turtles](/2026/05/mtg-tmnt/#magic-arena-stats) | May 2026 | 82 | Red | Historic | 71 | Mythic | Dia4 | 293 | 32,000 | 27,000 |
 | [Avatar: The Last Airbender](/2026/02/mtg-atla/#magic-arena-stats) | Feb 2026 | 108 | Blue | Quick Draft | 71 | Dia4 | Plat1 | 470 | 40,500 | 34,550 |
 | [Through the Omenpaths](/2025/11/mtg-spiderman-om1/#magic-arena-stats) | Nov 2025 | 105 | Red | Quick Draft | 71 | Mythic | Dia3 | 331 | 36,500 | 30,500 |
