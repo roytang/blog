@@ -7,7 +7,7 @@ tags:
 - magicarena
 - limitedrecap
 - mtgsetrecap
-title: 'MTG: Secrets of Strixhaven'
+title: 'MTG: Secrets of Strixhaven + Edge of Eternity Redux'
 toc: true
 ---
 

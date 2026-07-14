@@ -79,6 +79,7 @@ In March 2022, I made a "limited recap" post for Kamigawa Neon Dynasty, collatin
 | Set | Recap Date | Events | Win | Loss | Total | Winrate |
 | --- | --- | --- | --- | --- | --- |  --- | 
 | ALL | Jul 2026  | 709 | 2299 | 1979 | 4278 | 0.5374 |
+| [Edge of Eternity Redux](/2026/07/mtg-sos/#edge-of-eternity-redux) | Jul 2026 | 10 | 37 | 29 | 66 | 0.5606 |
 | [Secrets of Strixhaven](/2026/07/mtg-sos/) | Jul 2026 | 25 | 88 | 66 | 154 | 0.5714 |
 | [Teenage Mutant Ninja Turtles](/2026/05/mtg-tmnt/) | May 2026 | 18 | 55 | 54 | 109 | 0.5046 |
 | [Lorwyn Eclipsed](/2026/04/mtg-ecl/) | Apr 2026 | 32 | 107 | 88 | 195 | 0.5487 | 
