@@ -23,6 +23,7 @@ syndicated:
   url: https://www.facebook.com/stephen.roy.tang/posts/10156194517343912
 tags:
 - popquizph
+- popquiz
 - Ineedspace
 - hungrymeeples
 - quiznight
