@@ -57,6 +57,8 @@ Bought a Transformer:
         - **Wildfrost**: Same as above.
     - Ongoing (PS3):
         - **Tales of Xillia** (PS3). This one took a bit of hiatus this week because of Infamous 2, but I'll probably resume this week.
+- Others:
+    - **Marvel TOKON Fighting Souls**. A demo of this was out on Steam this weekend, I was able to try it out for an hour maybe. I played through a tutorial and the part of the single-player campaign that was available and tried a couple of online casual matches (of course losing terribly!). It seems fun and pretty easy to get into, but sadly it doesn't work in Linux due to anticheat requirement (disappointing since ArcSys' last big game Guilty Gear Strive runs fine on Linux), so I had to boot into Windows to try it out. I'm actually surprised the game is available in my region since it requires a PSN login and officially we don't have that. I don't think I'm likely to get this (the launch roster is pretty small), but I'm willing to re-visit that choice maybe after some DLC characters get added and the game goes on massive sale a few years down the line.
 
 ### Walking and Health and the Weather
 
