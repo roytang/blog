@@ -66,6 +66,7 @@ For the past week (Sunday to Saturday), Google Fit tells me I walked 70,243 step
 
 Some words I noted when catching up with NYT Spelling Bee this week (the longer words are always tougher):
 
+- CATALPA: Tree with long beanlike pods and trumpet shaped flowers.
 - DRAY: A low, heavy cart without sides.
 - MAILLOT: A woman's one-piece swimsuit.
 - PELLICLE: A thin skin or film, such as an organic membrane or liquid film. 
