@@ -1,8 +1,11 @@
 ---
-title: "Exporting a Youtube Playlist to MP3s"
-date: 2026-07-28T20:51:51+08:00
+date: 2026-07-28 12:51:51
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/117001422819971643
 tags:
 - youtube
+title: Exporting a Youtube Playlist to MP3s
 ---
 
 Writing this post mostly so I can refer to it again later if needed.
