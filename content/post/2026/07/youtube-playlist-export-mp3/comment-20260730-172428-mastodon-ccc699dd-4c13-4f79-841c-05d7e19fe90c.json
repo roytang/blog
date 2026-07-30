@@ -1,0 +1,11 @@
+{
+  "id": "ccc699dd-4c13-4f79-841c-05d7e19fe90c",
+  "name": "crul",
+  "url": "https://masto.es/@crul",
+  "text": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@roytang\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>roytang</span></a></span> Thanks to this post TIL about the 100 videos per playlist bug. I should have suspected something when several playlist I had dowloaded had exactly 100 videos...</p><p>I'll be using your script in the future!</p><p>Here it is as a one-liner:<br>   console.log([...document.querySelectorAll(\"a.ytLockupMetadataViewModelTitle\")].map(item =&gt; item.href.split(\"&amp;list\")[0]).join(\"\\n\")); </p><p>I think your version is better (more legible), but the one-liner is convenient for the bookmarklet:</p><p>    javascript:(() =&gt;  console.log([...document.querySelectorAll(\"a.ytLockupMetadataViewModelTitle\")].map(item =&gt; item.href.split(\"&amp;list\")[0]).join(\"\\n\")))();</p>",
+  "date": "2026-07-30 17:24:28 +0800",
+  "photo": "https://cdn.masto.host/indiewebsocial/cache/accounts/avatars/115/018/791/702/216/668/original/86b8eb6ad9a6fa5b.jpeg",
+  "source_url": "https://masto.es/users/crul/statuses/117008201688202300",
+  "source": "mastodon",
+  "spam": false
+}
