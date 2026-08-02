@@ -49,13 +49,13 @@ This was the rare month where I watch a movie in the cinemas for two weeks in a 
 - Multiplayer games: 
     - **Magic Arena**: Mostly just constructed. 
 - Single-player games I played this week:
-    - Ongoing (PS5): **Final Fantasy VII Rebirth** (PS5). Doing some completion stuff, mostly just the combat-related stuff for now, trying to put off the dumb minigames for as long as I can.
+    - Ongoing (PS5): **Final Fantasy VII Rebirth**. Doing some completion stuff, mostly just the combat-related stuff for now, trying to put off the dumb minigames for as long as I can.
     - Ongoing: (Steam - most played to least) 
         - **Shadow of the Tomb Raider**. 
         - **Pathfinder: Kingmaker**.
         - **King's Bounty: The Legend**.
     - Ongoing (PS3):
-        - **Tales of Xillia** (PS3).
+        - **Tales of Xillia**.
 
 ### Walking and Health and the Weather
 
