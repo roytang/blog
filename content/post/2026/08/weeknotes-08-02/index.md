@@ -43,7 +43,7 @@ This was the rare month where I watch a movie in the cinemas for two weeks in a 
 
 #### Watching
 
-- Ongoing: **NCIS** (just started S4), **ER** (now in S7), , **X-Men 97 S2**, **My Adventures With Superman S3**
+- Ongoing: **NCIS** (just started S4), **ER** (now in S7), **X-Men 97 S2**, **My Adventures With Superman S3**
 - Finished: **Rick and Morty S9**. It was a good season.
 - Movies: Watched [Mortal Kombat II (2026)](https://letterboxd.com/hungryroy/film/mortal-kombat-ii/) on HBO Max and [Spider-Man: Brand New Day (2026)](https://letterboxd.com/hungryroy/film/spider-man-brand-new-day/) in the cinema.
   
