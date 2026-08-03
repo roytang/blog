@@ -3,6 +3,8 @@ title: "Blogging Challenges"
 date: 2026-08-03T06:19:01+08:00
 tags:
 - blogging
+- blaugust
+- 100DaysToOffload
 ---
 
 Around this time I often see some people posting about the [Blaugust](https://indieweb.org/Blaugust) blogging challenge to post every day during August. I will often see those posts and think that maybe I should participate, but I very quickly decide that it's not for me.
