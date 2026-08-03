@@ -1,10 +1,13 @@
 ---
-title: "Blogging Challenges"
-date: 2026-08-03T06:19:01+08:00
+date: 2026-08-02 22:19:01
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/117028793385868653
 tags:
 - blogging
 - blaugust
 - 100DaysToOffload
+title: Blogging Challenges
 ---
 
 Around this time I often see some people posting about the [Blaugust](https://indieweb.org/Blaugust) blogging challenge to post every day during August. I will often see those posts and think that maybe I should participate, but I very quickly decide that it's not for me.
