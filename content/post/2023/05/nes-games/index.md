@@ -31,7 +31,7 @@ reviews:
   hashtag: 5-megaman-2-nes
   media: games
   platform: nes
-  title: Megaman 2 (NES)
+  title: Megaman 2
 - date: 1990-01-01
   description: Retro review from May 2023
   hashtag: 6-rockman-3-famicom
@@ -55,7 +55,7 @@ reviews:
   hashtag: 9-mickey-mousecapade-nes
   media: games
   platform: nes
-  title: Mickey Mousecapade (NES)
+  title: Mickey Mousecapade
 - date: 1990-01-01
   description: Retro review from May 2023
   hashtag: 10-ducktales-famicom
@@ -73,13 +73,13 @@ reviews:
   hashtag: 12-super-mario-bros-nes
   media: games
   platform: nes
-  title: Super Mario Bros. (NES)
+  title: Super Mario Bros.
 - date: 1990-01-01
   description: Retro review from May 2023
   hashtag: 13-super-mario-bros-2-nes
   media: games
   platform: nes
-  title: Super Mario Bros. 2 (NES)
+  title: Super Mario Bros. 2
 - date: 1990-01-01
   description: Retro review from May 2023
   hashtag: 14-super-mario-bros-3-famicom
@@ -91,7 +91,7 @@ reviews:
   hashtag: 15-legend-of-zelda-nes
   media: games
   platform: nes
-  title: Legend of Zelda (NES)
+  title: Legend of Zelda
 - date: 1990-01-01
   description: Retro review from May 2023
   hashtag: 16-kage-2-famicom
@@ -139,7 +139,7 @@ reviews:
   hashtag: 23-sky-shark-nes
   media: games
   platform: nes
-  title: Sky Shark (NES)
+  title: Sky Shark
 - date: 1990-01-01
   description: Retro review from May 2023
   hashtag: 24-goonies-famicom
@@ -176,6 +176,12 @@ reviews:
   media: games
   platform: nes
   title: G.I.Joe
+- date: 1990-01-01
+  description: Retro review from Aug 2026
+  hashtag: 30-teenage-mutant-ninja-turtles-iii-the-manhattan-project-famicom
+  media: games
+  platform: nes
+  title: "Teenage Mutant Ninja Turtles III: The Manhattan Project"
 syndicated:
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/110358472775409290
@@ -184,7 +190,7 @@ syndicated:
 tags:
 - gaming
 - games
-title: 29 NES/Famicom Games I finished as a kid
+title: 30 NES/Famicom Games I finished as a kid
 toc: true
 ---
 
@@ -197,6 +203,8 @@ Notes:
 - We had an actual NES, but since we live in SEA, most of the systems and cartridges available locally were actually for the Famicom. But we could still play Famicom cartridges via an popular adapter branded "Honeybee". I will note below where I actually finished a game on a NES cartridge or Famicom cartridge. Also, since a lot of the famicom cartridges were in Japanese, at the time we didn't know the actual name of some of the games!
 - Also at the time, we were only allowed one hour of playtime each on Fridays, Saturdays and holidays, not a lot of time. I remember being disappointed that the count for the original list was not as high as I'd hoped but actually it's surprising how many I was actually able to finish!
 - The timeline implies I was around the ages of 8 to 11 when I played through these.
+
+*(Update Aug 2025)*: Added TMNT3 as game #30. Updated title accordingly.
 
 #### 1. Castlevania (Famicom)
 
@@ -391,6 +399,14 @@ Was surprisingly hard to find info about this one, it doesn't even have a Wikipe
 ![Image source: Wikipedia](https://upload.wikimedia.org/wikipedia/en/f/f1/NES_G.I._Joe_-_A_Real_American_Hero.png)
 
 Oh wow, I had blocked out any memory of this game until I saw the screenshot above from Wikipedia. Now I remember really liking this game because there were a whole bunch of playable characters with cool names. It was one of those run-and-gun shooter types like *Contra* I believe, and there weren't too many stages.
+
+#### 30. Teenage Mutant Ninja Turtles III: The Manhattan Project (Famicom)
+
+![Image source: Wikipedia](https://upload.wikimedia.org/wikipedia/en/c/c9/TMTN3_CoverArt.jpg)
+
+*(Added Aug 2025. I originally missed this because it's listed as "SNES" in the old file.)*
+
+I had to confirm we played through this by watching some Youtube videos. It's a bit confusing because TMNT2 was also a side-scrolling beat 'em up, so they kind of blend together in my memories, but I distinctly remember this game because each of the four Turtles had their own unique special attack!
 
 #### End of Post
 
