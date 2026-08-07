@@ -53,3 +53,7 @@ body {
 .mainfooter {
     background-color: var(--side-container-color);
 }
+
+h1, h2, h3, h4 {
+    color: var(--main-color);
+}

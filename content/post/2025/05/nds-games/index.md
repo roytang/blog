@@ -152,6 +152,8 @@ I am pretty sure I finished this game via SNES emulation/fan translation sometim
 
 Dragon Quest V was kinda unique among the series in that it featured three generations of "heroes"; the party members in the screenshots above include Guy with epitaph "A Hero's Father", Parry "The Legandary Hero", and Madchen ("Daughter"). The daughter got the short end of the stick! Guy's father died early on in the story searching for the legendary hero who would turn out to be his own grandson! I think this was also the first Dragon Quest game with recruitable monsters - though in this save I seem to have recruited only normal/common monsters like a golem and a sabrecat tiger and a slime knight (TBF, I love slime knights!)
 
+*(Update Aug 2026)*: Wrote some words for the SNES version (and a comparison of my saves on both versions) [here](/2026/08/snes-games/#dragon-quest-v). Added a few additional screenshots here.
+
 [Comments](#comment-ad4c4198-4d23-4507-a462-95fcd15c9ec1)
 
 ### Professor Layton and the Curious Village

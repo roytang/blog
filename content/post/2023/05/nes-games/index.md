@@ -204,7 +204,7 @@ Notes:
 - Also at the time, we were only allowed one hour of playtime each on Fridays, Saturdays and holidays, not a lot of time. I remember being disappointed that the count for the original list was not as high as I'd hoped but actually it's surprising how many I was actually able to finish!
 - The timeline implies I was around the ages of 8 to 11 when I played through these.
 
-*(Update Aug 2025)*: Added TMNT3 as game #30. Updated title accordingly.
+*(Update Aug 2026)*: Added TMNT3 as game #30. Updated title accordingly.
 
 #### 1. Castlevania (Famicom)
 
@@ -404,7 +404,7 @@ Oh wow, I had blocked out any memory of this game until I saw the screenshot abo
 
 ![Image source: Wikipedia](https://upload.wikimedia.org/wikipedia/en/c/c9/TMTN3_CoverArt.jpg)
 
-*(Added Aug 2025. I originally missed this because it's listed as "SNES" in the old file.)*
+*(Added Aug 2026. I originally missed this because it's listed as "SNES" in the old file.)*
 
 I had to confirm we played through this by watching some Youtube videos. It's a bit confusing because TMNT2 was also a side-scrolling beat 'em up, so they kind of blend together in my memories, but I distinctly remember this game because each of the four Turtles had their own unique special attack!
 
