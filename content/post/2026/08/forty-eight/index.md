@@ -1,8 +1,11 @@
 ---
-title: "Forty-Eight"
-date: 2026-08-09T00:17:55+08:00
+date: 2026-08-08 16:17:55
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/117060835094432534
 tags:
 - birthday
+title: Forty-Eight
 ---
 
 When thinking about what to write for these posts, I often start by looking through [the past birthday posts](/blog/tags/birthday/). I wrote [the first one](/2002/08/birthday-24/) in 2002 when I was 24, literally half a lifetime ago!
