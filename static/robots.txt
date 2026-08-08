@@ -2,6 +2,9 @@
 # https://tracydurnell.com/robots.txt
 # https://maya.land/robots.txt
 
+User-agent: ShapBot # https://knownagents.com/agents/shapbot
+Disallow: /
+
 # Common Crawl
 User-agent: CCBot
 Disallow: /
