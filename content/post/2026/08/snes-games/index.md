@@ -1,6 +1,6 @@
 ---
 title: "SNES Games I finished ~30 years ago!"
-date: 2026-08-03822:02:43+08:00
+date: 2026-08-10 21:02:43+08:00
 tags:
 - gaming
 - games
@@ -27,11 +27,13 @@ Honestly, while I have fond memories of the SNES, I suspect we spent much less t
 
 I loved the NES Super Mario games, so of course I also loved Super Mario World. It felt a lot like Super Mario 3, except greatly expanded. And the game let you save, which actually made it easier to finish! I don't think I ever got to 100% completion on an actual SNES cartridge; I remember being stuck at 97% or 98% for the longest time! 
 
-I also have access to this game via the 3DS ambassador program
-
 #### The Legend of Zelda: A Link to the Past
 
 I played through LttP at a friend's house. I loved the original Legend of Zelda but skipped Zelda 2, so this was the second Zelda game I ever finished. I loved the new mechanics and abilities and I remember being amazed at the whole light and dark world transitions, and I remember reading some of the game secrets from some old gaming magazines. I didn't really need them, since I was playing at my friend's house and he had already finished it by then, he sometimes gave me tips when I got stuck.
+
+While I of course played LttP on an emulator later, I don't know if I ever completed a playthrough other than that very first one onmy friend's SNES!
+
+If I had to choose a game as the best SNES game of all time, it would be either this one, Super Mario World, or Chrono Trigger. (Covered later below.)
 
 #### Megaman X
 
@@ -44,6 +46,10 @@ This is listed in the 2002 file as "megaman x4 (SNES)", which is not a game that
 I'm not sure if we actually had a cartridge of this game at home, but I'm sure that I played this a bunch at a friend's house. My brothers and I did occasionally enjoy the arcade version, but I got really familiar with the game with the SNES version. A franchise I still enjoy playing to this very day despite being so bad at [fighting games](/2019/08/fighting-games/)!
 
 #### Dragon Ball Z Super Butoden 2 and 3
+
+These were Japanese-only Dragon Ball games, never released in the US. I suspect we had home access to the cartridge for the second one because I think we played that one a lot more and I remember it had a scene where Cell slaps Mr Satan into a mountain lol. When the SNES came out, Dragon Ball Z was airing in this country but only got up to the Saiyan Saga, so I think this game was my first exposure to many of the characters like Cell, Trunks, Buu, etc.
+
+I enjoyed this game a lot at my friend's house as well, since we loved spending hours playing fighting games. These games had a nice system where you could fly away or run away from each other and the view would become split screen. And it's DBZ, so you can throw huge kamehameha's and other fireballs at each other, and when an opponent throws one at you, you had the option of throwing one right back and it becomes a button-mashing back-and-forth fireball battle which was really fun. Because the games were entirely in Japanese, we actually didn't have any real idea of the commands for the different moves and there was a lot of guesswork involved before we managed to do the above sequence with any regularity. And it wasn't even covered in English gaming mags of the time! Good fun though.
 
 #### Teenage Mutant Ninja Turtles: Tournament Fighters
 
@@ -59,7 +65,40 @@ The later entries here are not on the old file list linked above, but I know I f
 
 #### Chrono Trigger
 
+I don't think Chrono Trigger needs any introduction. It's a JRPG classic that has been re-released many times and one of three titles on the list that can reasonably be considered the best SNES game of all time (the other two being Link to the Past and Super Mario World).
+
+Even before I played this game, I remember seeing some ads for it in comics and wanting to play it!
+
+I did manage to play Chrono Trigger on an actual cartridge, but we only borrowed it and I didn't have much time with it before I had to give it back. I definitely got to at least the future section with Robo and the prehistoric section with Ayra, but I don't think I got to Zeal? 
+
+I of course really enjoyed the experience despite my limited time with it, kickstarting a lifelong love of JRPGs. And as soon as I had access to an emulator it was one of the first games I wanted to play! And I don't have evidence of this, but I believe I played enough of this game to get all the possible endings (at least the ones that were available in the SNES version).
+
+I loved a lot of the timey-wimey time travel stuff here, like doing stuff in the past that affects the future and leaving Robo alone to replant a forest for eons! And Magus being the main villain at the start of the game and eventually becoming an ally reminds me a lot of Magneto from the X-Men.
+
+Chrono Trigger was also the first game to introduce the concept of *New Game Plus*, a feature modern gamers probably take for granted these days!
+
+I think I also played the game a bit on PSX (via the *Final Fantasy Chronicles* collection) and a bit more on the NDS. This [post](/2008/12/gaming-in-2009/) implies I almost finished the NDS run, but IDK if I ever did (I enjoyed the new animated cutscenes in the DS version though!). I suspect I have not played Chrono Trigger for over 16 years, I might be due!
+
 #### Final Fantasy VI
+
+(Also known as Final Fantasy III for the US SNES release.)
+
+Listing FF6 here first before the others because I also played this one on a cartridge first. That makes this game the second JRPG I ever played! The cartridge we had was also borrowed, but I had a bit more time with this one compared to Chrono Trigger and got much farther along. For sure I managed to get to the World of Ruin, but I don't think I actually finished the game until later with an emulator. 
+
+Once I had an emulator, I'm pretty sure I played this game to death, completing everything that could be completed. I even did the rare "minimum ending" where you beat the game with only Celes, Edgar, and Setzer!
+
+Two things make this game stand out for me:
+
+- the massive roster of 14 playable characters, still a record for the series to date.
+- Kefka remains unrivalled as the greatest JRPG villain of all time (sorry Sephiroth!)
+
+I have some saves for this on the save page, but I am as yet unable to load the specific save states for the "minimum ending". I was able to load the data from SRAM though, and that save had the complete party in the final dungeon right before the final boss! I was a bit disappointed that the party wasn't max-levelled with all the spells learned (I'm sure I had done that at least once!), but this party was still enough to just barely beat the game! 
+
+This may have been my first time rewatching this ending in more than 20 years, it's still pretty great!
+
+{{% photos ff6 %}}
+
+I am not sure if I ever did a full playthrough again within the past couple of decades. I did buy a GBA cartridge of the FF6 port for use with my NDS, but I don't think I ever got far on that version. And I'm pretty sure I tried it via *Final Fantasy Anthology* on the PSX as well, though I probably didn't get very far. I would love for this game to eventually get an FF7-style remake, but I have no idea how they'd handle the massive roster!
 
 #### Final Fantasy IV
 
@@ -67,7 +106,21 @@ The later entries here are not on the old file list linked above, but I know I f
 
 #### Breath of Fire II
 
+I would guess that I worked on this one after playing through and enjoying Breath of Fire III on the PSX. This one is a much more primitive game by comparison, mostly just a classic turn-based JRPG wrapped around the usual "mysterious boy is actually a dragon" story. Not much to say about it.
+
 #### Lufia II: Rise of the Sinistrals
+
+Probably the most "hidden gem" among the titles here, the series is no longer very well-known in the present day. The series has not had a new release since the NDS remake of this game.
+
+The game is a rather traditional JRPG with turn-based combat similar to the Dragon Quest games, with a few distinct features that make it stand out in my memory:
+
+- Inside dungeons, enemies are visible (instead of the traditional random encounters of the time) and movement is turn-based, i.e. whenever your party moves, the enemies will move also, and contact will start a combat.
+- A strong focus on puzzles in the dungeons. The culmination of this is a puzzle the game calls "the world's most difficult trick", which is a sliding blocks puzzle akin to [Klotski](https://en.wikipedia.org/wiki/Klotski).
+- The game also includes an optional 99-floor procedurally generated dungeon called the Ancient Cave. Attempting this dungeon is something like playing a roguelike: you are stripped of all levels and items and must make your way to the bottom floor to claim the dungeon's prize. Dying meant getting kicked out of the run but you can try again. You can also acquire items that can be brought into the dungeon for future runs. At the time this seemed amazing and the Ancient Cave felt like a whole game-within-a-game!
+
+It's too bad I don't have saves of this game, but I'm pretty sure I cleared the ancient cave too!
+
+I never played the NDS remake of this game, but apparently that one was an action RPG which I imagine would not have felt the same!
 
 #### Tales of Phanstasia
 
