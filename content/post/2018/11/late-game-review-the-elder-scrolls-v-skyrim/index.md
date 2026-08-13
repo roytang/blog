@@ -135,6 +135,12 @@ Attached to this post are a dump of my Steam screenshots folder. (These used to 
 
 {{% photos 2018 %}}
 
+### Update Aug 2026
+
+Skyrim was one of those rare PC games which I purchased a physical copy of (though of course it just activated on Steam). And I got it on launch, exactly 11 years before this post! I was very much tempted the collector's edition that came with the Alduin statue, but the cost held me back so I just got the regular version. I found the old case recently and thought I'd add some pictures here. It came with a physical map!
+
+{{% photos 202608 %}}
+
 ### Social Media Archive
 
 <time>[2011-11-11 22:31] </time> So... #skyrim or PTQ tomorrow? I'm leaning 70-30 in favor of dragons...
