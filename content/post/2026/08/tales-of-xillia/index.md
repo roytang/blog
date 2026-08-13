@@ -1,17 +1,21 @@
 ---
-date: 2026-08-13T18:16:49+08:00
+date: 2026-08-13 10:16:49
+dontinlinephotos: true
 reviews:
 - date: 2013-08-25
-  description: 'Milla side'
+  description: Milla side
   media: games
   platform: ps3
   rating: 5.0
   title: Tales of Xillia
-- description: 'Jude side + platinum'
+- description: Jude side + platinum
   media: games
   platform: ps3
   rating: 5.0
   title: Tales of Xillia (Platinum)
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/117088416621624716
 tags:
 - gaming
 - talesof
@@ -19,7 +23,6 @@ tags:
 - ps3
 title: 'Retro Review: Tales of Xillia (PS3!)'
 toc: true
-dontinlinephotos: true
 ---
 
 Previously: [Retro Review: Tales of Graces F (PS3!)](/2026/06/tales-of-graces-f/)
