@@ -81,7 +81,7 @@ More examples of less expansive gameplay: there's not a lot of titles (compared 
 - Jude Mathis: By contrast, I find Jude kind of meh, despite him being a co-protagonist. (Which might explain why it took me 13 years to get around to playing his side!). His character design is fine, but he kinda mostly just kind of got sucked into Milla's whirlwind and decided to throw everything away for her (which is a bit understandable, look at Milla!). I mostly controlled Jude for the 2nd playthrough, but he's kind of annoying in combat because it feels like he doesn't have a lot of range?
 - Alvin: (No last name apparently). I am not a fan of that huge scarf/tie/whatever it is and combined with the fact that he is largely portrayed as double-dealing backstabber for most of the game, he is probably my least favorite character in this one. And given that he has a gun, he should have more ranged attacks!
 - Elize Lutus: My second favorite character design in the game, Teepo notwithstanding lol. It's actually mostly because of her hair again, I feel like it's nice and colorful and animated well. Her personality isn't bad either. I didn't use her a lot in battle though, though she was often in the party as primary healer. (I seldom use the spellcasters much.)
-- Rowen J. Ilbert: 
+- Rowen J. Ilbert: He's... okay? Mandatory old man member etc. Tied for the most interesting backstory among the human party members.
 - Leia Rolando: She's kind of meh, a bit like Jude, though I like her character design a bit better. Also, she's another character who doesn't feel like she has a strong reason to be in this party! I did have her in the party often as secondary healer.
 
 ### Screenshots
