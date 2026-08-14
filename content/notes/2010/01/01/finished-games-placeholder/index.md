@@ -28,11 +28,6 @@ reviews:
   date: 2011-05-01
 - description: 'Placeholder review'
   media: games
-  platform: ps3
-  title: 'Tales of Xillia'
-  date: 2013-09-08
-- description: 'Placeholder review'
-  media: games
   platform: psvita
   title: 'Gravity Rush'
   date: 2013-02-14
