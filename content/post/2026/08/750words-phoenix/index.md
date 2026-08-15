@@ -1,10 +1,13 @@
 ---
-title: "750 Words: Hall of Phoenixes Interview"
-date: 2026-08-15T07:14:03+08:00
+date: 2026-08-14 23:14:03
+dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/117097243390906778
 tags:
 - writing
 - journalling
-dontinlinephotos: true
+title: '750 Words: Hall of Phoenixes Interview'
 ---
 
 I've written a bit about [750 Words](https://750words.com/) before, [the last time in 2019](/2019/03/750words/). It's a service I started using for private journalling in 2010 on and off and since 2020 I've been writing there on a daily basis. 
