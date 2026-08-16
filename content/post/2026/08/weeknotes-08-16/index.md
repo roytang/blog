@@ -28,7 +28,7 @@ Bought a new used Ipad from a friend, only a generation newer than the one I'm c
 #### Reading
 
 - Books: Still no new books started yet. 
-- Comics: Still a bit behind.
+- Comics: Still a bit behind. I did finish reading through *Punisher War Journal (1998)* last week which means I am at least making *some* progress to the next eventual [complete Marvel run](/tags/complete-marvel-run/) post!
 - Feed reader backlog: Feed reader is at 338 unread items as of this writing, a good amount down from the previous week, so starting to get under control probably maybe hopefully.
 
 #### Watching
