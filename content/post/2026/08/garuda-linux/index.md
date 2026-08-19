@@ -1,10 +1,13 @@
 ---
-title: "Trying Out Garuda Linux"
-date: 2026-08-19T13:15:19+08:00
+date: 2026-08-19 05:15:19
+dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/117121016512949759
 tags:
 - linux
 - tech-life
-dontinlinephotos: true
+title: Trying Out Garuda Linux
 ---
 
 Early this year, I set up Linux Mint dual boot with Windows 11, coming back to desktop Linux after so many years: [Return to Linux](/2026/01/return-to-linux/)
