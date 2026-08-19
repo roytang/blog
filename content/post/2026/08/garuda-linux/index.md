@@ -53,4 +53,4 @@ I haven't done a lot of customization yet, but here's a couple of screenshots:
 
 I did have to disable the autohiding panel, I always find that kind of thing annoying.
 
-One day was enough to get to the point that I think Garuda is safe enough to use as a daily driver, and this post being published means my local dev / writing environment is also up and running. I'll see over the next few weeks/months how this shakes out.
+One day was enough to get to the point that I think Garuda is safe enough to use as a daily driver, and this post being published means my local dev / writing environment is also up and running. I am still getting used to the color scheme and some of these icons though. I'll see over the next few weeks/months how this shakes out.
