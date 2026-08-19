@@ -11,7 +11,6 @@ tags:
 - somanybadplays
 - mtg
 - ptq
-title: PTQ at Alphaland Southgate Mall
 ---
 
 Well i actually won a couple of packs this time but still #somanybadplays, went 4-3 at today's ptq

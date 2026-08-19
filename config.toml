@@ -149,3 +149,6 @@ I post about a random assortment of topics that interest me including [software 
 
 [markup.goldmark.renderer]
     unsafe= true
+
+[security]
+  allowContent = ['.']

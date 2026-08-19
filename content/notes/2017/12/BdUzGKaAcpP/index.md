@@ -16,7 +16,6 @@ tags:
 - gaming
 - games
 - instagram
-title: ''
 reviews:
 - description: ''
   media: games

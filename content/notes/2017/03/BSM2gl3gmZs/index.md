@@ -3,7 +3,7 @@ albums:
 - instagram
 - food
 date: 2017-03-28 23:48:32
-location: ''
+
 source: instagram
 syndicated:
 - type: instagram

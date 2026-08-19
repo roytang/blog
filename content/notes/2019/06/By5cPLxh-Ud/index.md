@@ -3,7 +3,7 @@ albums:
 - instagram
 - food
 date: 2019-06-19 16:09:24
-location: ''
+
 source: instagram
 syndicated:
 - type: instagram

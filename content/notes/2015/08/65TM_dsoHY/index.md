@@ -2,7 +2,7 @@
 albums:
 - instagram
 date: 2015-08-27 17:32:23
-location: ''
+
 source: instagram
 syndicated:
 - type: instagram

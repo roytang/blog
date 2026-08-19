@@ -1,12 +1,11 @@
 ---
 categories: []
 date: 2008-02-14 08:02:49
-tags:
-- Gaming
 title: Killer-killer
 type: post
 url: /2008/02/killer-killer/
 tags:
+- Gaming
 - meatspace-games
 - favorites
 ---

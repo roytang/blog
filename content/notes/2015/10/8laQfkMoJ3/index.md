@@ -2,7 +2,7 @@
 albums:
 - instagram
 date: 2015-10-08 17:12:01
-location: ''
+
 reviews:
 - description: ''
   media: games

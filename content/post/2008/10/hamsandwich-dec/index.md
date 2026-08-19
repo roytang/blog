@@ -1,8 +1,6 @@
 ---
 categories: []
 date: 2008-10-30 06:00:39
-tags:
-- mtg
 title: HamSandwich.dec
 type: post
 url: /2008/10/hamsandwich-dec/
@@ -10,6 +8,7 @@ syndicated:
 - type: tumblr
   url: https://roytang.tumblr.com/post/57509136/clearly-chris-woltereck-was-one-of-the-best
 tags:
+- mtg
 - quotes
 ---
 

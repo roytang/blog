@@ -1,5 +1,4 @@
 ---
-title: "Grand Prix Manila"
 backpost_date: 2023-12-30T23:36:54+08:00
 tags:
 - gpmanila

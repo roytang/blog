@@ -3,7 +3,7 @@ albums:
 - instagram
 - food
 date: 2015-08-23 06:20:25
-location: ''
+
 source: instagram
 syndicated:
 - type: instagram

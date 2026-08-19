@@ -3,7 +3,7 @@ albums:
 - instagram
 categories: []
 date: 2015-09-26 09:21:37
-location: ''
+
 source: instagram
 syndicated:
 - type: instagram

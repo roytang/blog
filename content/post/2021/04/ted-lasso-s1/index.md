@@ -1,5 +1,4 @@
 ---
-date: 2021-04-14 13:55:21
 reviews:
 - media: tv
   title: Ted Lasso season 1

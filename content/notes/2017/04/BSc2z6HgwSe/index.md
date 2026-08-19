@@ -3,7 +3,7 @@ albums:
 - instagram
 - pickups
 date: 2017-04-04 04:59:01
-location: ''
+
 source: instagram
 syndicated:
 - type: instagram

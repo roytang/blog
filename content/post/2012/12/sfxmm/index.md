@@ -3,9 +3,6 @@ date: 2012-12-17
 reviews:
 - media: game
   title: Street Fighter X Mega Man
-syndicated:
-- type: twitter
-  url: https://twitter.com/roytang/statuses/280585420293685248/
 tags:
 - gaming
 - sfxmm
@@ -13,6 +10,8 @@ tags:
 - backpost
 title: Street Fighter X Mega Man
 syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/280585420293685248/
 - type: facebook
   url: https://www.facebook.com/stephen.roy.tang/posts/138800236270177
 - type: twitter

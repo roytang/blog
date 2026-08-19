@@ -1,5 +1,4 @@
 ---
-date: 2014-04-26 11:23:00
 date: 2014-04-26 11:07:10
 source: facebook
 syndicated:
