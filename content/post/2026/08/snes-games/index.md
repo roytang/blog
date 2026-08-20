@@ -1,69 +1,72 @@
 ---
-title: "SNES Games I finished ~30 years ago!"
-date: 2026-08-20 23:02:43+08:00
+date: 2026-08-20 15:02:43
+dontinlinephotos: true
+reviews:
+- date: 1996-01-01
+  description: ''
+  hashtag: super-mario-world
+  media: games
+  platform: nes
+  rating: 0.0
+  title: Super Mario World
+- date: 1996-01-01
+  description: ''
+  hashtag: the-legend-of-zelda-a-link-to-the-past
+  media: games
+  platform: nes
+  rating: 0.0
+  title: 'The Legend of Zelda: A Link to the Past'
+- date: 1996-01-01
+  description: ''
+  hashtag: megaman-x
+  media: games
+  platform: nes
+  rating: 0.0
+  title: Megaman X
+- date: 1996-01-01
+  description: ''
+  hashtag: street-fighter-ii
+  media: games
+  platform: nes
+  rating: 0.0
+  title: Street Fighter II
+- date: 1996-01-01
+  description: ''
+  hashtag: dragon-ball-z-super-butoden-2-and-3
+  media: games
+  platform: nes
+  rating: 0.0
+  title: Dragon Ball Z Super Butoden 2 and 3
+- date: 1996-01-01
+  description: ''
+  hashtag: teenage-mutant-ninja-turtles-tournament-fighters
+  media: games
+  platform: nes
+  rating: 0.0
+  title: 'Teenage Mutant Ninja Turtles: Tournament Fighters'
+- date: 1996-01-01
+  description: ''
+  hashtag: chrono-trigger
+  media: games
+  platform: nes
+  rating: 0.0
+  title: Chrono Trigger
+- date: 2002-02-27
+  description: ''
+  hashtag: final-fantasy-vi
+  media: games
+  platform: nes
+  rating: 0.0
+  title: Final Fantasy VI
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/117130446582928816
 tags:
 - gaming
 - games
 - snes
-dontinlinephotos: true
+title: SNES Games I finished ~30 years ago!
 toc: true
-reviews:
-- hashtag: super-mario-world
-  description: ''
-  media: games
-  rating: 0.0
-  platform: nes
-  title: 'Super Mario World'
-  date: 1996-01-01
-- hashtag: the-legend-of-zelda-a-link-to-the-past
-  description: ''
-  media: games
-  rating: 0.0
-  platform: nes
-  title: 'The Legend of Zelda: A Link to the Past'
-  date: 1996-01-01
-- hashtag: megaman-x
-  description: ''
-  media: games
-  rating: 0.0
-  platform: nes
-  title: 'Megaman X'
-  date: 1996-01-01
-- hashtag: street-fighter-ii
-  description: ''
-  media: games
-  rating: 0.0
-  platform: nes
-  title: 'Street Fighter II'
-  date: 1996-01-01
-- hashtag: dragon-ball-z-super-butoden-2-and-3
-  description: ''
-  media: games
-  rating: 0.0
-  platform: nes
-  title: 'Dragon Ball Z Super Butoden 2 and 3'
-  date: 1996-01-01
-- hashtag: teenage-mutant-ninja-turtles-tournament-fighters
-  description: ''
-  media: games
-  rating: 0.0
-  platform: nes
-  title: 'Teenage Mutant Ninja Turtles: Tournament Fighters'
-  date: 1996-01-01
-- hashtag: chrono-trigger
-  description: ''
-  media: games
-  rating: 0.0
-  platform: nes
-  title: 'Chrono Trigger'
-  date: 1996-01-01
-- hashtag: final-fantasy-vi
-  description: ''
-  media: games
-  rating: 0.0
-  platform: nes
-  title: 'Final Fantasy VI'
-  date: 2002-02-27
 ---
 
 Previously: [30 NES/Famicom Games I finished as a kid](/2023/05/nes-games/), [my list of completed console games from around 2002](/archives/ancient/topcities2002/works/games.txt)
