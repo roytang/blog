@@ -17,11 +17,12 @@ outlist;
 
 template = """- hashtag: %s
   description: ''
-  media: tv
+  media: games
   rating: 0.0
+  platform: nes
   title: '%s'"""
 
-tocfile = Path("d:\\temp\\toc.json")
+tocfile = Path("/mnt/d/temp/toc.json")
 with tocfile.open(encoding='UTF-8') as f:
     listdata = json.loads(f.read())
     for item in listdata:
