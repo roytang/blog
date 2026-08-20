@@ -1,0 +1,37 @@
+{
+  "id": "ed9c9917-d407-4b65-9d2d-37284407e4f6",
+  "name": "Colin Morris",
+  "url": "https://vonexplaino.com/blog/posts/reply/2026/08/20/replying-to-trying-out-garuda-linux.html",
+  "text": "<blockquote>\r\n<p>Eventually settled on Garuda Linux. I did have some free partition space available for some other reasons and so Monday morning I took the leap with little precaution. Though I did have the sense to back some stuff up before proceeding.</p>\r\n</blockquote>\r\n<p>Welcome to the Garuda Club! I chose Garuda on the advise of some friends who daily-drivered Linux and also liked gaming. I'd just got a new PC and did not want to get Windows all over it, which is a good time to move. It's been over 15 months now, and no regrets. Some things I've found so far</p>\r\n<ul><li>I can't play any of the non-Java Minecrafts because they just refuse to run in wine. Fine.</li>\r\n<li>Moving saves over was fairly easy. Steam had most of my stuff in the cloud, and others I had a spare portable hard drive I copied my user directory over to so I could replace where neccessary.</li>\r\n<li>Dragonized... yeah, super gaudy. I've got a very simple style now.</li>\r\n<li>My printers get... interesting every now and then. My old Canon is fine now, tho, printing in duplex and multi-cartridge etc. But the Fuji printer keeps getting forgotten or misdrivered so it just prints code. Bleh.</li>\r\n<li>Using Podman makes my multiple development environments breezy to use.</li>\r\n<li>I was using Macs for a while, and iTunes has no Linux equivalent. Even running it in Wine is a giant pain. Oh well.</li>\r\n</ul><p>Still, welcome, hope it all goes truly great for you.</p>",
+  "date": "2026-08-20 12:42:00 +0800",
+  "photo": "https://avatars.webmention.io/vonexplaino.com/6d0e90d7d2c533e86fd7ee8a14a76f87b200e946a10a66822ecc651048991e6a.svg",
+  "source_url": "https://vonexplaino.com/blog/posts/reply/2026/08/20/replying-to-trying-out-garuda-linux.html",
+  "source": "webmention",
+  "spam": false,
+  "source_obj": {
+    "type": "entry",
+    "author": {
+      "type": "card",
+      "name": "Colin Morris",
+      "photo": "https://avatars.webmention.io/vonexplaino.com/6d0e90d7d2c533e86fd7ee8a14a76f87b200e946a10a66822ecc651048991e6a.svg",
+      "url": ""
+    },
+    "url": "https://vonexplaino.com/blog/posts/reply/2026/08/20/replying-to-trying-out-garuda-linux.html",
+    "published": "2026-08-20T04:42:00+10:00",
+    "wm-received": "2026-08-20T04:43:34Z",
+    "wm-id": 2024741,
+    "wm-source": "https://vonexplaino.com/blog/posts/reply/2026/08/20/replying-to-trying-out-garuda-linux.html",
+    "wm-target": "https://roytang.net/2026/08/garuda-linux/",
+    "wm-protocol": "webmention",
+    "content": {
+      "html": "<blockquote>\n<p>Eventually settled on Garuda Linux. I did have some free partition space available for some other reasons and so Monday morning I took the leap with little precaution. Though I did have the sense to back some stuff up before proceeding.</p>\n</blockquote>\n<p>Welcome to the Garuda Club! I chose Garuda on the advise of some friends who daily-drivered Linux and also liked gaming. I'd just got a new PC and did not want to get Windows all over it, which is a good time to move. It's been over 15 months now, and no regrets. Some things I've found so far</p>\n<ul><li>I can't play any of the non-Java Minecrafts because they just refuse to run in wine. Fine.</li>\n<li>Moving saves over was fairly easy. Steam had most of my stuff in the cloud, and others I had a spare portable hard drive I copied my user directory over to so I could replace where neccessary.</li>\n<li>Dragonized... yeah, super gaudy. I've got a very simple style now.</li>\n<li>My printers get... interesting every now and then. My old Canon is fine now, tho, printing in duplex and multi-cartridge etc. But the Fuji printer keeps getting forgotten or misdrivered so it just prints code. Bleh.</li>\n<li>Using Podman makes my multiple development environments breezy to use.</li>\n<li>I was using Macs for a while, and iTunes has no Linux equivalent. Even running it in Wine is a giant pain. Oh well.</li>\n</ul><p>Still, welcome, hope it all goes truly great for you.</p>",
+      "text": "Eventually settled on Garuda Linux. I did have some free partition space available for some other reasons and so Monday morning I took the leap with little precaution. Though I did have the sense to back some stuff up before proceeding.\n\nWelcome to the Garuda Club! I chose Garuda on the advise of some friends who daily-drivered Linux and also liked gaming. I'd just got a new PC and did not want to get Windows all over it, which is a good time to move. It's been over 15 months now, and no regrets. Some things I've found so far\nI can't play any of the non-Java Minecrafts because they just refuse to run in wine. Fine.\nMoving saves over was fairly easy. Steam had most of my stuff in the cloud, and others I had a spare portable hard drive I copied my user directory over to so I could replace where neccessary.\nDragonized... yeah, super gaudy. I've got a very simple style now.\nMy printers get... interesting every now and then. My old Canon is fine now, tho, printing in duplex and multi-cartridge etc. But the Fuji printer keeps getting forgotten or misdrivered so it just prints code. Bleh.\nUsing Podman makes my multiple development environments breezy to use.\nI was using Macs for a while, and iTunes has no Linux equivalent. Even running it in Wine is a giant pain. Oh well.\nStill, welcome, hope it all goes truly great for you."
+    },
+    "in-reply-to": "https://roytang.net/2026/08/garuda-linux/",
+    "wm-property": "in-reply-to",
+    "wm-private": false,
+    "rels": {
+      "canonical": "https://vonexplaino.com/blog/posts/reply/2026/08/20/replying-to-trying-out-garuda-linux.html"
+    }
+  }
+}
