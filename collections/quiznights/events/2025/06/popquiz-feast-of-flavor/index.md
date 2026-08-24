@@ -5,6 +5,9 @@ tags:
 - popquiz
 - '2025'
 title: 'PopQuiz x Eastwood City Food Park: Feast of Flavor Trivia Night'
+location: eastwood
+locations: 
+- eastwood
 ---
 
 We attended [PopQuiz x Eastwood City Food Park: Feast of Flavor Trivia Night](https://www.facebook.com/events/1059077386368037/)!

@@ -5,6 +5,9 @@ tags:
 - popquiz
 - '2025'
 title: "PopQuiz x Eastwood City Food Park: TV Showrunners Trivia Night"
+location: eastwood
+locations: 
+- eastwood
 ---
 
 We attended [PopQuiz x Eastwood City Food Park: TV Showrunners Trivia Night](https://www.facebook.com/events/675736345552811) at Eastwood Food Park.
