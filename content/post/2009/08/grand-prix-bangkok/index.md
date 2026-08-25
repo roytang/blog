@@ -81,6 +81,8 @@ I spent a few days this weekend in Bangkok playing my first MTG Grand Prix on fo
 
 #### The Grand Prix
 
+{{< photos 20260825_153357 >}}
+
 The tournament format was M10 Sealed. I had [won my 3 byes earlier that month](/2009/08/gpt-bangkok-4-1st/). After scrubbing out on Day 1, I also played a Standard PTQ on Day 2, where I also scrubbed out!
 
 [Paul Villangca](https://www.facebook.com/paul.villangca) wrote:

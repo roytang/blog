@@ -21,6 +21,8 @@ type: post
 url: /2017/12/grand-prix-singapore-2017-tournament-report/
 ---
 
+{{< photos 20260825_153724 >}}
+
 I had [booked the Singapore trip][1] earlier in the year, since I almost always [attend Grand Prixs in Singapore][2] as its an easy trip and gives a good opportunity to visit friends. Unfortunately, I ended up not having time to prepare for the tournament itself. Fortunately, it was a limited event rather than constructed, so I figured maybe I could wing it and still do well. (Spoiler: I could not.)
 
 Prior to the trip, my prep for the sealed format had consisted of a single pool at my prerelease and reading a few articles online the night before the trip. I went there on Day 0/Friday to try a last chance trial, but didn't get past the first round due to a "I'm still testing" mentality that meant poor mulligans and not reading the cards and tilting and scooping before figuring out there was an alternative.
