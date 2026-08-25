@@ -1,9 +1,12 @@
 ---
-title: "On Buying A Used iPad"
-date: 2026-08-25T14:01:16+08:00
+date: 2026-08-25 06:01:16
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/117156482007180785
 tags:
 - ipad
 - tech
+title: On Buying A Used iPad
 ---
 
 A friend was helping his aunt sell a used iPad, barely used and a generation newer than my current one. My current iPad's battery has been degraded already, dropping quite a lot after a single session, so I was interested in the upgrade, especially since the price was pretty cheap. My friend tested the iPad and confirmed the battery was good which was my main concern so I was good to go with the transaction. But there's things about buying a used iPad (and any iDevice I suppose) that I wish I had known about it ahead of time, hence this post.
