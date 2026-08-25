@@ -25,3 +25,5 @@ It's not my first dance with this kind of thing: a few years ago our helper had 
 This is the first time I tried purchasing a used device myself and while I am able to use the device for my usual reading purposes (I can confirm the battery is great!), I do wish I had known ahead of time about the limitations that come with buying a "used" device, even if the price was really good. 
 
 I will probably think twice the next time, but here's a TLDR for future me (and anyone else who might be reading this): when buying a used device, make sure it's not locked!
+
+Also: If I ever sell a used device (hasn't happened yet), I should make sure to properly reset it and remove it from my account so that future owners won't have a problem!
