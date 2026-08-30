@@ -83,11 +83,6 @@ reviews:
   date: 2017-02-17
 - description: 'Placeholder review'
   media: games
-  platform: steam
-  title: 'XCOM 2'
-  date: 2019-12-26
-- description: 'Placeholder review'
-  media: games
   platform: pc
   title: 'Warcraft III: The Frozen Throne'
   date: 2003-12-12

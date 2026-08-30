@@ -10,6 +10,7 @@ reviews:
 tags:
 - Gaming
 - games
+- psp
 title: 'Star Ocean: Second Evolution'
 type: post
 url: /2009/02/star-ocean-second-evolution/
