@@ -1,7 +1,6 @@
 ---
-date: 2026-09-02 14:09:09+08:00
+date: 2026-09-02 06:09:09
 dontinlinephotos: true
-toc: true
 resources:
 - src: mission-impossible-the-final-reckoning-2025.jpg
   title: 'Mission: Impossible – The Final Reckoning (2025)'
@@ -35,7 +34,7 @@ reviews:
   title: X-Men 97 S2
   year: '2026'
 - date: '2026-08-23'
-  description: 'Reign of the Supermen'
+  description: Reign of the Supermen
   hashtag: my-adventures-with-superman-s3
   media: tv
   rating: '3.5'
@@ -122,11 +121,14 @@ syndicated:
   url: https://letterboxd.com/hungryroy/film/stargate/
 - type: letterboxd
   url: https://letterboxd.com/hungryroy/film/oppenheimer-2023/
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/117202527637238729
 tags:
 - movies
 - tv
 - watching-lately
 title: Movies / TV - July & August 2026
+toc: true
 ---
 
 Feels like I didn't watch a lot of movies the past month or so, mostly because I've been working my way through all 15 seasons of ER lol.
@@ -346,4 +348,3 @@ I'm still trying to work my way through ER (4 and a half more seasons to go!) an
 And in the next couple of months, there's a new Marvel series (Vision Quest) and Clayface and Street Fighter films coming out etc. 
 
 Who knows how much of all of these I'll be able to get through!
-
