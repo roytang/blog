@@ -173,7 +173,7 @@ Watched on 2026-07-20: ★★★★★
 
 {{% photos good-luck-have-fun-dont-die-2025 %}}
 
- I came into this not knowing what to expect, but I ended up liking it a lot. It feels like 3 or 4 Black Mirror tossed together with a through line featuring a manic Sam Rockwell and some fun cross-references across the different back stories, and ending that's either a bit dark or a bit ambiguous.
+ I came into this not knowing what to expect, but I ended up liking it a lot. It feels like 3 or 4 Black Mirror episodes tossed together with a through line featuring a manic Sam Rockwell and some fun cross-references across the different back stories, and an ending that's either a bit dark or a bit ambiguous.
 
 
 
