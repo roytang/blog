@@ -12,3 +12,5 @@ We attended and won PopQuiz 80s trivia night. In Alabang!!
 The poop-like stuffed toy is named "Buco Martin".
 
 [Event Page](https://www.facebook.com/events/307928883203621/)
+
+[Photo c/o PopQuiz](https://www.facebook.com/PopQuizPH/posts/1033520863512995)
