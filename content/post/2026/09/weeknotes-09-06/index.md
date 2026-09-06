@@ -10,8 +10,6 @@ toc: true
 
 It is September! [Officially Christmas season over here](/collections/sketchbook/1433044241735770115/).
 
-### The World
-
 ### My Week
 
 I spent most of the week at home. It was kinda lazy actually. Some very rainy days and some less rainy days. Google Fit says I walked 70,480 steps from last Sunday to yesterday, so we are back to it. I always take a small foldable umbrella when I go out walking.
