@@ -26,6 +26,8 @@ I am a software developer based in the Philippines looking for work opportunitie
 
 I have been working professionally as a software developer, technical lead and solution architect since 2003. I have a wide variety of experience with different languages, frameworks and databases, primarily Java, JavaScript and Python, though I have tried many many more and am always very open to learning new technologies. I can work well in a team setting, in a leadership role, or as a solo developer. I communicate well, I learn quickly, I enjoy facing challenging problems, and I always strive for excellence in my work.
 
+While I would be happiest writing code, I'm also able to work as team or technical lead, managing and/or mentoring developers and other ICs as needed.
+
 I would love to work for a team that values reliability, performance, maintainability, craftsmanship, and correctness and preferably focused on making the world a better place for everybody and not just for capitalists or their shareholders.
 
 Yes to climate tech, science, FOSS, health care, accessibility, open standards, legacy software, GenAI resistance/circumvention/safety, cyber security, game dev, retrocomputing, preservation/archival, self-hosting, tools, databases.
