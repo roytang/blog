@@ -1,9 +1,12 @@
 ---
-title: "Looking for iPad Reader App Recommendations"
-date: 2026-09-07T21:41:30+08:00
+date: 2026-09-07 13:41:30
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/117230088131527314
 tags:
 - ipad
 - reading
+title: Looking for iPad Reader App Recommendations
 ---
 
 I was originally going to post this on [r/ipad](https://www.reddit.com/r/ipad/), but when I tried to submit my post I got a warning that I might be violating this rule:
@@ -41,4 +44,4 @@ Apps that I have already tried and discarded:
 
 If it matters, my iPads are a bit old (I have both a 6th gen and a 7th gen one), so anything too demanding performance wise is probably not a good idea.
 
-I will continue to try other apps, but I was hoping the internet might have some good suggestions. 
+I will continue to try other apps, but I was hoping the internet might have some good suggestions.
