@@ -10,6 +10,8 @@ syndicated:
   url: https://indieweb.social/users/roytang/statuses/117270013381682166
 - type: mastodon
   url: https://indieweb.social/users/roytang/statuses/117270023704370359
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/117274634158090657
 tags:
 - genai
 - philippines
@@ -20,3 +22,5 @@ tags:
 {{< photos 117270013381682166 >}}
 
 <time id="117270023704370359">[23:09]</time> <p>If you are a human curious about the mentioned &quot;This is Metro Manila&quot; post, it is from 2019, feel free to read it: <a href="https://roytang.net/2019/10/this-is-metro-manila/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">roytang.net/2019/10/this-is-me</span><span class="invisible">tro-manila/</span></a></p><p><a href="https://indieweb.social/tags/philippines" class="mention hashtag" rel="tag">#<span>philippines</span></a></p>
+
+<time id="117274634158090657">[2026-09-15 18:41] </time> <p>Oh I guess that iLands agent thing was related to this: <a href="https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">arstechnica.com/ai/2026/09/ai-</span><span class="invisible">agents-flood-the-internet-with-slop-infused-spam/</span></a></p>
