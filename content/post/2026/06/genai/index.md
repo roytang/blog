@@ -36,4 +36,8 @@ Further reading (a backlog of other links about GenAI that I've accumulated whil
 - [Tumblr post about Timnit Gebru](https://www.tumblr.com/dreaminginthedeepsouth/817865966907228160/darren-oconnor-timnit-gebru-was-fired-from): <blockquote>Timnit Gebru was fired from Google in December 2020 for refusing to retract a research paper, and every single warning that paper made about large language models has now happened at a scale the industry spent 4 years trying to make people forget about.</blockquote>
 - [Why refusing AI is a fight for the soul](https://restofworld.org/2026/techno-negative-thomas-dekeyser-fighting-ai/)
 
+* (Sep 2026) Updating this post with some new related references:
+
+- [GoMakeThings on AI]. This primer is much more comprehensive than mine and if I ever need to explain things to people sharing this one is probably more helpful.
+
 (This post still ended up a bit longer than I'd have liked! But I'm glad it's done and I'm kind of hoping I never have to write about GenAI again.)
