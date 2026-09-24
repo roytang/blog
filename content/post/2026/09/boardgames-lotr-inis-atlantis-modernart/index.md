@@ -1,10 +1,14 @@
 ---
-title: "Boardgames: Lord of the Rings Trick-Taking Game (Fellowship and Two Towers), Wyrmspan, Guards of Atlantis II, Inis, Modern Art"
-date: 2026-09-24T10:18:50+08:00
+date: 2026-09-24 02:18:50
+dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/117326039380881505
 tags:
 - boardgames
+title: 'Boardgames: Lord of the Rings Trick-Taking Game (Fellowship and Two Towers),
+  Wyrmspan, Guards of Atlantis II, Inis, Modern Art'
 toc: true
-dontinlinephotos: true
 ---
 
 Previously: [Boardgames tag](/blog/tags/boardgames/)
