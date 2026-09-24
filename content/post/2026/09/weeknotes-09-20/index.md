@@ -1,6 +1,9 @@
 ---
-date: 2026-09-20T12:52:14+08:00
+date: 2026-09-20 04:52:14
 steps: 70320
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/117305198900551608
 tags:
 - weeknotes
 title: Weeknotes 2026-09-20
