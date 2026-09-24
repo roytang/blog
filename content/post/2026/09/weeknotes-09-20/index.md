@@ -1,5 +1,4 @@
 ---
-title: "Weeknotes 09 20"
 date: 2026-09-20T12:52:14+08:00
 steps: 70320
 tags:

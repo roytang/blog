@@ -44,7 +44,7 @@ Playtime: Around 30 hours.
 
 Favorite character: Arche.
 
-This [blog post from 2002](https/2002/04/someday-well-all-look-back-and-laugh/) says I finished Tales of Phantasia after around half a year of playing it, which is a long time for a total playtime of 30 hours!
+This [blog post from 2002](/2002/04/someday-well-all-look-back-and-laugh/) says I finished Tales of Phantasia after around half a year of playing it, which is a long time for a total playtime of 30 hours!
 
 This is the second Tales games I've played, presumably starting it after I played **Tales of Destiny** on PS1 and really enjoyed that game. Phantasia is older and the first game of the series so it's kind of rougher than Destiny, but I still enjoyed it a lot, enough to finish the game though I didn't get through all the sidequests. The story involves a Mana Tree, which feels very derivative of games like Secret of Mana, but also includes some sci-fi elements like time travel and another world, which is not unusual for a Tales game.
 
