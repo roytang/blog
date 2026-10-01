@@ -7,7 +7,7 @@ tags:
 - ps4
 related_posts:
 - text: Game Review
-  url: /2026/10/ff7rebirth/
+  url: /2020/07/ff7r-review/
 resources:
 - src: FINAL FANTASY VII REMAKE_20200720141722.jpg
   title: "Tifa when Cloud tells her to challenge Jules for the 200th time"
