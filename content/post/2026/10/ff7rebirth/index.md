@@ -11,6 +11,8 @@ tags:
 - gaming
 - games
 - ps5
+dontinlinephotos: true
+toc: true
 ---
 
 I finished the first game in this trilogy [back in 2020](/2020/07/ff7r-review/) and put off the 2nd game because I didn't have a PS5. This year a friend lent me his PS5 for a few months andthere were only 2 games I wanted to play on the system: Marvel's Spider-Man 2 ([already done](/2026/03/spiderman2-ps5/)) and *Final Fantasy VII Rebirth*. Both of these are also available on Steam, but with a PS5 I was able to borrow physical copies and essentially play them for free! Spider-Man went by quick, but Rebirth took forever. In summary, it's a beautiful open world game expanding the story of FF7 with way too much stuff to do.
@@ -22,6 +24,8 @@ Same as in *Remake*, the story is greatly expanded. The game is divided into 14 
 Red XIII becomes a playable character after we rescued him in *Remake*. Yuffie also joins the party; she was playable in the *Intergrade* version of *Remake*, but I never played that so this is my first time with her. Cait Sith also joins us at the Saucer as expected, and he's the oddest duck of the cast (unsurprising). We also meet Cid and Vincent along the way, but they are not yet playable in this game.
 
 The action-based combat remains impressive and has been iterated upon and improved after Remake. This feels like the peak Kingdom Hearts-style combat and I think it's certainly a lot better than the direction they tried going with in [FF15](/2017/03/review-final-fantasy-xv/) and [FF16](/2025/09/final-fantasy-xvi/). You still only get 3 playable characters at the time, though any nonactive members are running around in the background pretending to be helpful. Hot-swapping and combo attacks make things interesting.
+
+### Dumb Minigames
 
 My main complaint about the game is there is waaay too much stuff to do. And a good chunk of it is dumb minigames! Notably, I am very bad at things like that piano minigame (I was never able to score higher than a C on any track), and I am still not sure I am capable of beating that one chocobo racing track needed to complete a quest (but this one *might* be possible with a lot of practice). There was also this weird *mandatory* box-tossing minigame with Cait Sith that was super frustrating to get through, but I got past it eventually. (A friend complains that she stopped playing the game more than a year ago because of this minigame!)
 
