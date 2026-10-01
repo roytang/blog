@@ -1,17 +1,20 @@
 ---
-title: "Final Fantasy VII Rebirth (PS5)"
-date: 2026-10-01T09:37:41+08:00
+date: 2026-10-01 01:37:41
+dontinlinephotos: true
 reviews:
 - description: ''
   media: games
+  platform: ps5
   rating: 4.0
   title: Final Fantasy VII Rebirth
-  platform: ps5
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/117366181572228257
 tags:
 - gaming
 - games
 - ps5
-dontinlinephotos: true
+title: Final Fantasy VII Rebirth (PS5)
 toc: true
 ---
 
