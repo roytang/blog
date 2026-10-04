@@ -1,6 +1,9 @@
 ---
-date: 2026-10-04T13:08:45+08:00
+date: 2026-10-04 05:08:45
 steps: 67578
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/117381731430481782
 tags:
 - weeknotes
 title: Weeknotes 2026-10-04
