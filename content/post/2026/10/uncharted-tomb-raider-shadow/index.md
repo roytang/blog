@@ -1,50 +1,53 @@
 ---
-title: "Uncharted 2: Among Theieves, Uncharted: Drake's Fortune, Tomb Raider (2013), Shadow of the Tomb Raider"
-date: 2026-10-06T14:49:49+08:00
+date: 2026-10-06 06:49:49
+dontinlinephotos: true
+reviews:
+- date: 2010-01-10
+  description: ''
+  hashtag: uncharted-2-among-thieves-2009
+  media: games
+  platform: ps3
+  rating: 4.5
+  title: 'Uncharted 2: Among Thieves'
+  year: 2009
+- date: 2010-06-01
+  description: ''
+  hashtag: uncharted-drakes-fortune-2007
+  media: games
+  platform: ps3
+  rating: 3.5
+  title: 'Uncharted: Drake''s Fortune'
+  year: 2007
+- date: 2018-01-25
+  description: ''
+  hashtag: tomb-raider-2013
+  media: games
+  platform: steam
+  rating: 3.5
+  title: Tomb Raider
+  year: 2013
+- date: 2026-09-18
+  description: ''
+  hashtag: shadow-of-the-tomb-raider-2018
+  media: games
+  platform: steam
+  rating: 3.5
+  title: Shadow of the Tomb Raider
+  year: 2018
+syndicated:
+- type: twitter
+  url: https://twitter.com/roytang/statuses/15174232562/
+- type: twitter
+  url: https://twitter.com/roytang/statuses/956354182767820805/
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/117393060094458481
 tags:
 - gaming
 - games
 - ps3
 - steam
-reviews:
-- description: ''
-  media: games
-  platform: ps3
-  title: 'Uncharted 2: Among Thieves'
-  date: 2010-01-10
-  year: 2009
-  hashtag: uncharted-2-among-thieves-2009
-  rating: 4.5
-- description: ''
-  media: games
-  year: 2007
-  title: 'Uncharted: Drake''s Fortune'
-  hashtag: uncharted-drakes-fortune-2007
-  platform: ps3
-  rating: 3.5
-  date: 2010-06-01
-- description: ''
-  media: games
-  rating: 3.5
-  title: Tomb Raider
-  date: 2018-01-25
-  year: 2013
-  platform: steam
-  hashtag: tomb-raider-2013
-- description: ''
-  media: games
-  rating: 3.5
-  title: Shadow of the Tomb Raider
-  date: 2026-09-18
-  year: 2018
-  platform: steam
-  hashtag: shadow-of-the-tomb-raider-2018
-syndicated:
-- type: twitter
-  url: https://twitter.com/roytang/statuses/15174232562/
-- type: twitter
-  url: https://twitter.com/roytang/statuses/956354182767820805/  
-dontinlinephotos: true
+title: 'Uncharted 2: Among Theieves, Uncharted: Drake''s Fortune, Tomb Raider (2013),
+  Shadow of the Tomb Raider'
 toc: true
 ---
 
