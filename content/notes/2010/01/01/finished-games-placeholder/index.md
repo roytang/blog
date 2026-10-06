@@ -14,11 +14,6 @@ reviews:
 - description: 'Placeholder review'
   media: games
   platform: ps3
-  title: 'Uncharted 2: Among Thieves'
-  date: 2010-01-10
-- description: 'Placeholder review'
-  media: games
-  platform: ps3
   title: 'Arkham City'
   date: 2011-10-23
 - description: 'Placeholder review'
