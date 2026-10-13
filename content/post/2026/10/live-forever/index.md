@@ -1,6 +1,9 @@
 ---
-title: "Who Wants to Live Forever?"
-date: 2026-10-13T17:29:46+08:00
+date: 2026-10-13 09:29:46
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/117435502361640000
+title: Who Wants to Live Forever?
 ---
 
 I read someone's post yesterday about how they don't understand people who want to live forever. That they are glad that their life will eventually come to an end.
