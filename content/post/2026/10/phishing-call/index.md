@@ -1,6 +1,9 @@
 ---
-title: "A Phishing Call"
-date: 2026-10-17T11:45:09+08:00
+date: 2026-10-17 03:45:09
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/117455602525362382
+title: A Phishing Call
 ---
 
 I was maybe 10 minutes into a late night walk some time past 9pm when the phone rang. The guy claimed to be from $BANK's fraud department and claimed someone was trying to charge my account for around 80,000 pesos or something like that. I was immediately suspicious and turned to walk back home but stayed on the line. He could not answer many of my questions about the event that triggered the problem or which of my accounts was affected (I have multiple with this bank). He kept saying the line was choppy and hard to hear, maybe to avoid answering some of my questions? At some point he dropped the call and reconnected. He gave me his name and rank and Id#, which seemed super weird. 
