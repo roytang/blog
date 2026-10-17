@@ -1,0 +1,18 @@
+---
+title: "A Phishing Call"
+date: 2026-10-17T11:45:09+08:00
+---
+
+I was maybe 10 minutes into a late night walk some time past 9pm when the phone rang. The guy claimed to be from $BANK's fraud department and claimed someone was trying to charge my account for around 80,000 pesos or something like that. I was immediately suspicious and turned to walk back home but stayed on the line. He could not answer many of my questions about the event that triggered the problem or which of my accounts was affected (I have multiple with this bank). He kept saying the line was choppy and hard to hear, maybe to avoid answering some of my questions? At some point he dropped the call and reconnected. He gave me his name and rank and Id#, which seemed super weird. 
+
+I asked for a ticket number to reference. He said he would forward me to his operations manager who would be able to give more details. He transfered me to a different guy, who still could not give me details or a ticket number. He said there was an unauthorized login attempt by someone pretending to be me (a different story than the initial one!) and that he would forward a text to show what was being sent to another mobile number. I got the text and it was a 2FA text for resetting your password. He went on and on about how that was from a valid $BANK number that could not be spoofed.
+
+By now I had gotten back home to my desk and computer. I logged in to the $BANK website and found no problems. I told him I would be hanging up and calling the official hotline. He made a big deal about how the customer support won't be able to handle this case and they can't prioritize me and only his department can and he finally gave me a ticket number and his name and id#. I told him I would be calling the hotline and if he's for real he would just need to wait for the call to be redirected to him.
+
+I ended the call and started calling the official hotline. They tried to call me back from the same number TWICE while I was on the phone menu. I spoke to a CS agent and told them what happened. They confirmed all my accounts were fine and the credentials and ticket number I was given were not real. I also reported the phone number used to call me and confirmed it was not a valid $BANK support number. They said a cybersecurity report would be filed. Out of an abundance of caution, I also temporarily locked my accounts via the webapp.
+
+That was a stressful couple of calls. At first you feel panic because maybe some money had been lost, so it may be hard to think straight. But as long as you stay calm and ask for details you can spot any problems with their story. I'm always cautious with my banking information and know not give out any personal information and not click any links so that helps. The challenging part is staying vigilant in that moment, which could come at any time, which means constantly staying vigilant, which can be exhausting. I totally understand how some people could fall for these scams. 
+
+I also kind of understand these scammers; living is hard and you have to make money somehow. But also I wouldn't mind if they rot in hell or bad karma or something. Totally normal response to this sort of thing, probably.
+
+A friend told me maybe I should not have taken the call from an unknown number at all. I think I'm used to taking calls from unknown numbers nowadays because it's a common practice for delivery riders to call you. But then again, no delivery riders would be working past 9pm, so maybe I should have ignored the call. Not even bank loan spammers call outside of office hours!
