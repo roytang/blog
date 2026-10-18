@@ -40,7 +40,7 @@ Trivia team [attended a quiz night last Thursday](/collections/quiznights/08-pop
 
 - Books: Still no new books started yet. 
 - Comics: Still reading a bit of Uncanny X-Men, but actually behind on comic reading again this week.
-- Feed reader backlog: Feed reader is back down to 396 unread items as of this writing.
+- Feed reader backlog: Feed reader is at 396 unread items as of this writing.
 
 #### Watching
 
