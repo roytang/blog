@@ -1,69 +1,72 @@
 ---
-title: "Snes Games Part 2: Emulated Bugaloo"
-date: 2026-10-21T14:28:52+08:00
+date: 2026-10-21 06:28:52
+dontinlinephotos: true
+reviews:
+- date: 2000-01-01
+  description: ''
+  hashtag: final-fantasy-iv
+  media: games
+  platform: snes
+  rating: 0.0
+  title: Final Fantasy IV
+- date: 2000-01-01
+  description: ''
+  hashtag: final-fantasy-v
+  media: games
+  platform: snes
+  rating: 0.0
+  title: Final Fantasy V
+- date: 2000-01-01
+  description: ''
+  hashtag: breath-of-fire-ii
+  media: games
+  platform: snes
+  rating: 0.0
+  title: Breath of Fire II
+- date: 2000-01-01
+  description: ''
+  hashtag: lufia-ii-rise-of-the-sinistrals
+  media: games
+  platform: snes
+  rating: 0.0
+  title: 'Lufia II: Rise of the Sinistrals'
+- date: 2002-04-13
+  description: ''
+  hashtag: tales-of-phanstasia
+  media: games
+  platform: snes
+  rating: 0.0
+  title: Tales of Phanstasia
+- date: 2001-12-09
+  description: ''
+  hashtag: dragon-quest-v
+  media: games
+  platform: snes
+  rating: 0.0
+  title: Dragon Quest V
+- date: 2001-11-23
+  description: ''
+  hashtag: dragon-quest-vi
+  media: games
+  platform: snes
+  rating: 0.0
+  title: Dragon Quest VI
+- date: 2000-09-22
+  description: ''
+  hashtag: seiken-densetsu-iii
+  media: games
+  platform: snes
+  rating: 0.0
+  title: Seiken Densetsu III
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/117479181584316946
 tags:
 - gaming
 - games
 - snes
-dontinlinephotos: true
+title: 'Snes Games Part 2: Emulated Bugaloo'
 toc: true
-reviews:
-- hashtag: final-fantasy-iv
-  description: ''
-  media: games
-  rating: 0.0
-  platform: snes
-  date: 2000-01-01
-  title: 'Final Fantasy IV'
-- hashtag: final-fantasy-v
-  description: ''
-  media: games
-  rating: 0.0
-  platform: snes
-  date: 2000-01-01
-  title: 'Final Fantasy V'
-- hashtag: breath-of-fire-ii
-  description: ''
-  media: games
-  rating: 0.0
-  platform: snes
-  date: 2000-01-01
-  title: 'Breath of Fire II'
-- hashtag: lufia-ii-rise-of-the-sinistrals
-  description: ''
-  media: games
-  rating: 0.0
-  platform: snes
-  date: 2000-01-01
-  title: 'Lufia II: Rise of the Sinistrals'
-- hashtag: tales-of-phanstasia
-  description: ''
-  media: games
-  rating: 0.0
-  platform: snes
-  title: 'Tales of Phanstasia'
-  date: 2002-04-13
-- hashtag: dragon-quest-v
-  description: ''
-  media: games
-  rating: 0.0
-  platform: snes
-  title: 'Dragon Quest V'
-  date: 2001-12-09
-- hashtag: dragon-quest-vi
-  description: ''
-  media: games
-  rating: 0.0
-  platform: snes
-  title: 'Dragon Quest VI'
-  date: 2001-11-23
-- hashtag: seiken-densetsu-iii
-  description: ''
-  media: games
-  rating: 0.0
-  platform: snes
-  title: 'Seiken Densetsu III'
-  date: 2000-09-22
 ---
 
 The world is still sad and annoying, let's talk about classic video games instead!
