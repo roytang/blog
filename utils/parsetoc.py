@@ -19,7 +19,7 @@ template = """- hashtag: %s
   description: ''
   media: games
   rating: 0.0
-  platform: nes
+  platform: snes
   title: '%s'"""
 
 tocfile = Path("/mnt/d/temp/toc.json")
