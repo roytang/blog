@@ -9,6 +9,8 @@ syndicated:
 tags:
 - tech life
 - software development
+- server-management
+- tech
 title: 'Server Setup Notes: Ubuntu, Nginx, Django, MySQL'
 ---
 

@@ -4,6 +4,8 @@ date: 2026-10-26T17:03:49+08:00
 tags:
 - tech-life
 - cybersecurity
+- tech
+- server-management
 ---
 
 Previously: [Server Setup Notes: Ubuntu, Nginx, Django, MySQL](/2020/11/server-setup-notes/)
@@ -63,3 +65,5 @@ After all of that was done, I did not restore all the PHP functionality again ye
 ### Is running a server still worth it?
 
 Throughout all of this I was seriously considering just giving up on having and maintaining my own webserver. If we expect a flood of more GenAI-powered exploits in the future, it would be annoying trying to keep up. It is super handy for me to have certain functionality available to me over the internet, but there's nothing I can't live without. I can still have a website (purely static and hosted on Netlify or something) even without my Python webapps. But all things considered, I kind of love tinkering around with this website, and I'm not sure I'm at the point where I want to surrender that little pleasure to our GenAI dystopia, so for now we soldier on.
+
+(I must note that having the previous blog post about the server setup available was super helpful for figuring out how I set all of this up in the first place!)
