@@ -1,11 +1,14 @@
 ---
-title: "Server Patching Notes"
-date: 2026-10-26T17:03:49+08:00
+date: 2026-10-26 09:03:49
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/117507407460760692
 tags:
 - tech-life
 - cybersecurity
 - tech
 - server-management
+title: Server Patching Notes
 ---
 
 Previously: [Server Setup Notes: Ubuntu, Nginx, Django, MySQL](/2020/11/server-setup-notes/)
