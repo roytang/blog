@@ -78,7 +78,8 @@ In March 2022, I made a "limited recap" post for Kamigawa Neon Dynasty, collatin
 
 | Set | Recap Date | Events | Win | Loss | Total | Winrate |
 | --- | --- | --- | --- | --- | --- |  --- | 
-| ALL | Aug 2026 | 732 | 2376 | 2044 | 4420 | 0.5376 |
+| ALL | Aug 2026 | 744 | 2413 | 2076 | 4489 | 0.5375 |
+| [The Hobbit](/2026/10/mtg-hob/) | Oct 2026 | 12 | 37 | 32 | 69 | 0.5362 |
 | [Marvel Super Heroes](/2026/08/mtg-msh/) | Aug 2026 | 23 | 77 | 65 | 142 | 0.5423 |
 | [Edge of Eternity Redux](/2026/07/mtg-sos/#edge-of-eternity-redux) | Jul 2026 | 10 | 37 | 29 | 66 | 0.5606 |
 | [Secrets of Strixhaven](/2026/07/mtg-sos/) | Jul 2026 | 25 | 88 | 66 | 154 | 0.5714 |
