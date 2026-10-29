@@ -1,10 +1,13 @@
 ---
-date: 2026-10-29T16:07:28+08:00
+date: 2026-10-29 08:07:28
 reviews:
 - media: books
   rating: 4.0
   title: Exit Strategy by Martha Wells
   year: 2018
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/117525013016780649
 tags:
 - books
 - murderbotdiaries
