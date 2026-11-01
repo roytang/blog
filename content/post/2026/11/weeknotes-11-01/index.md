@@ -17,6 +17,8 @@ RIP Sir Patrick Stewart, a great loss to the world.
 
 The far-right seems to be losing steam in recent elections. Lula won in Brazil and Bolsonaro's son fled to the US claiming he was cheated (typical). The 12-year reign of Serbian authoritarian Vucic was ended by the student movement in their recent elections. In Israel, Netanyahu failed to win a parliamentary majority and now their government is in the air, depending on what coalitions form. (He also claims cheating of course!). US midterms are coming this week; we'll see if the trend holds. Seems likely, including the claims of cheating!
 
+The Peso broke 64 per USD sometime last week, a historic low. It was still in the 40's during PNoy's time!
+
 ### My Week
 
 Google Fit says I walked 70,304 steps from last Sunday to yesterday. I am track to beat last year's step count in mid-November!
