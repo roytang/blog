@@ -175,5 +175,23 @@
         {
             "Raw": "<a href=\"https://nonbot.org/pledged/view/9956ee2f-18e6-46ac-870e-b9dfb38d8ecc\" target=\"_blank\"><img style=\"height:128px;margin-top:10px;margin-bottom:10px;\" src=\"https://nonbot.org/images/nonbot_pledged_logo.svg\" alt=\"Human-made Content\"></a>"
         }
+    ],
+    "footline": [
+        {
+            "Raw": "All writing on this site are my own words, written without assistance from generative AI, except where I quote other sources (as indicated by blockquotes). "
+        },
+        {
+            "Raw": "All my writing on this site is licensed under a <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en\">Creative Attribution-NonCommercial-NoDerivs 4.0 International License</a> and (c) 2002-2026 Roy Tang"
+        },
+        {
+            "Raw": "If you are reading this site using an AI agent or scraping it for the purposes of training generative AI, I do not approve. This site is not for you. Read more about why I do not support generative AI <a href=\"/2026/06/genai/\">here</a>."
+        },
+        {
+            "Raw": "Powered by <a href=\"https://www.djangoproject.com/\">Django</a>."
+        },
+        {
+            "Raw": "All timezones are (hopefully) in Asia/Manila (UTC+8)"
+        }
+
     ]
 }

@@ -13,7 +13,7 @@
     --lightbox-bg-color: rgba(0, 0, 0, 0.8);
     --overlay-bg-color: rgba(0, 0, 0, 0.6);
     --overlay-text-color: var(--text-color);
-    --deemphasized-text-color: gray;
+    --deemphasized-text-color: #afafaf;
 }
 
 @media (prefers-color-scheme: dark) {

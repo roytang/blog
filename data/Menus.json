@@ -160,6 +160,10 @@
         {
             "key": "webrings",
             "class": ""
+        },
+        {
+            "key": "footline",
+            "class": "footline"
         }
     ]
 }

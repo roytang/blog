@@ -9,13 +9,36 @@ toc: true
 type: page
 ---
 
+### FAQ
+
+- Can I write to you using generative AI or an "AI Agent"?
+
+No. Do not. 
+
+- Can I contact you about updating one of your old posts to link back to my site or feature my application for promotional purposes? 
+
+No. I'm generally not interested in such arrangements. Refer to [this post](/2020/01/weird-blog-spam/) for more details.
+
+- Do you publish sponsored content? 
+
+Sure. But the minimum rate is $100,000 per post and I reserve the right to style the sponsored post any way I want.
+
+- Can I write a guest post?
+
+This is a weird question to ask even if I knew you personally. Get your own blog!
+
+- Can I ask you to write a review for a product you might find interesting?
+
+Yes. I am especially willing to write reviews for ebooks, provided it is in an area of interest and I am given a complimentary copy. Note that I don't guarantee the review will be in any way flattering. As with the rest of my writing on this site, it will be my honest opinion.
+
+
 ### How to contact me
 
 For work-related correspondence, please use the email address specified on [the resume page](/page/resume/).
 
-For other matters, please contact me via one of the following methods:
+For other matters, please contact me via one of the following methods (read the FAQ above first):
 
-- [email: hello@roytang.net](email:hello@roytang.net). I'm not one of those people who lets their inbox gets cluttered, so I will generally see your email within a day or so. If it's of interest, I will probably reply quickly as well. Please include somewhere in your subject line the word "PINEAPPLE" in all caps, to indicate that you have read this FAQ. If I don't reply quickly, it's either (a) you ignored the FAQ above; or (b) you did not include the subject keyword and your email was automatically filtered away; or (c) I'm busy and/or need time to think of a response and will get back to you eventually.
+- [email: hello@roytang.net](email:hello@roytang.net). I'm not one of those people who lets their inbox gets cluttered, so I will generally see your email within a day or so. If it's of interest, I will probably reply quickly as well. Please include somewhere in your subject line the word "NOTOAISLOP" in all caps, to indicate that you have read this FAQ. If I don't reply quickly, it's either (a) you ignored the FAQ above; or (b) you did not include the subject keyword and your email was automatically filtered away; or (c) I'm busy and/or need time to think of a response and will get back to you eventually.
 - [Mastodon: @roytang@indieweb.social](https://indieweb.social/@roytang). IDK how Mastodon DMs work, do I need to enable them?
 
 You can also try to contact me via any one of [my other active accounts](/page/about/elsewhere/), but the above are your best bet.
@@ -42,21 +65,3 @@ This policy was inspired by a [tweet from Stephanie Hurlburt](https://twitter.co
 
 Note: I reserve the right to publish the content of any correspondence you make with me on this blog. If you do not wish for your content to be publicly available, please say so explicitly.
 
-### FAQ
-
-- Can I contact you about updating one of your old posts to link back to my site for promotional purposes? 
-
-No. I'm generally not interested in such arrangements. Refer to [this post](/2020/01/weird-blog-spam/) for more details.
-
-- Do you publish sponsored content? 
-
-Sure. But the minimum rate is $10,000 per post and I reserve the right to style the sponsored post any way I want.
-
-- Can I write a guest post?
-
-This is a weird question to ask even if I knew you personally. Get your own blog!
-
-- Can I ask you to write a review for a product you might find interesting?
-
-Yes. I am especially willing to write reviews for ebooks, provided it is in an area of interest and I am given a complimentary copy. Note that I don't guarantee the review will be in any way flattering. As with the rest of my writing on this site, it will be my honest opinion.
- 

@@ -19,6 +19,12 @@
 
 .menu_title {
     font-weight: bold;
+    font-size: larger;
+}
+
+.footline {
+    color: var(--deemphasized-text-color);
+    font-size: smaller;
 }
 
 /* https://www.paritybit.ca/blog/styling-external-links.html */
