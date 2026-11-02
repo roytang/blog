@@ -1,6 +1,9 @@
 ---
-date: 2026-11-01T13:34:55+08:00
+date: 2026-11-01 05:34:55
 steps: 70304
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/117541172320175270
 tags:
 - weeknotes
 title: Weeknotes 2026-11-01 Undas Edition
