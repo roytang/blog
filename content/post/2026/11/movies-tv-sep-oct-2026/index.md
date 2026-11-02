@@ -1,7 +1,6 @@
 ---
 date: 2026-11-02 15:58:21
 dontinlinephotos: true
-toc: true
 resources:
 - src: street-fighter-2026.jpg
   title: Street Fighter (2026)
@@ -12,19 +11,19 @@ resources:
 - src: a-time-to-kill-1996.jpg
   title: A Time to Kill (1996)
 - src: zz-ershow-ewan.png
-  title: 'Ewan McGregor!'
+  title: Ewan McGregor!
 - src: zz-ershow-joshradnor.png
-  title: 'Ted Mosby!'
+  title: Ted Mosby!
 - src: zz-ershow-leasalonga.png
-  title: 'Lea Salonga!!'
+  title: Lea Salonga!!
 - src: zz-ershow-lindacardellini.png
-  title: 'Hawkeye''s wife!!'
+  title: Hawkeye's wife!!
 - src: zz-ershow-lucyliu.png
-  title: 'Lucy Liu with bad English!'
+  title: Lucy Liu with bad English!
 - src: zz-ershow-scully.png
-  title: 'Scully from B99!'
+  title: Scully from B99!
 - src: zz-strangenewworlds-joelatrugio.png
-  title: 'Detective Boyle from B99!'
+  title: Detective Boyle from B99!
 reviews:
 - date: '2026-09-29'
   description: ''
@@ -106,11 +105,14 @@ syndicated:
   url: https://letterboxd.com/hungryroy/film/the-silence-of-the-lambs/
 - type: letterboxd
   url: https://letterboxd.com/hungryroy/film/a-time-to-kill-1996/
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/117547779124543165
 tags:
 - movies
 - tv
 - watching-lately
 title: Movies / TV - September & October 2026
+toc: true
 ---
 
 ### Movies
