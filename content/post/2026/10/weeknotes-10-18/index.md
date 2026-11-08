@@ -24,7 +24,7 @@ Found out there's a free QC bus from City Hall to Araneta! That was a nice ride.
 
 Browsed some vintage shops in Cubao. I love browsing like old comics, books, toys, magazines, games, that kind of thing, and it's very rare to have shops like that around here. The only reasonably accessible places for me are in Cubao (mainly in Cubao Expo and Ali Mall) and Greenhills, which is a bit harder to get to. I never actually buy anything, but it's fun to see old stuff.
 
-Trivia team [attended a quiz night last Thursday](/collections/quiznights/08-popquiz-panget/), but we did poorly.
+Trivia team [attended a quiz night last Thursday](/collections/quiznights/10-popquiz-panget/), but we did poorly.
 
 ### On The Blog
 
