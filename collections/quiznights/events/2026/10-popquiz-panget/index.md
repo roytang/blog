@@ -7,7 +7,7 @@ tags:
 title: "PopQuiz: Ang PANGET na Trivia Night"
 ---
 
-We attended [PopQuiz: Ang PANGET na Trivia Night](https://www.facebook.com/PopQuizPH/posts/pfbid02f997duFEGbuD15STyJmisG9Rf38zuxKWyaA2orCrQACQZDN7TaTsKrnjr2BDvVmdl) at a new venue: Millas Cafe in Cubao.
+We attended [PopQuiz: Ang PANGET na Trivia Night](https://www.facebook.com/PopQuizPH/posts/2021966075286960) at a new venue: Millas Cafe in Cubao.
 
 In attendance: Me, Chry, Chery, Ian.
 
@@ -23,6 +23,7 @@ Round breakdown:
 4. Nature - 6ptx x2 + 1 for successful gamble
 5. Entertainment - this was a fun round where you had to match 10 Oscar Best Picture winners with 10 Record of the Year winners and for an extra point identify which year they were released. We got 12pts.
 6. Geography - a subject that has been our bane since the murphy's days, and each question here is worth up to 3pts! We scored a miserable 6pts lol.
+7. Hail Mary - quiz shows and hosts - 6pts
 
 We finished with 67 points, a mere 5th place among 11 teams.
 
