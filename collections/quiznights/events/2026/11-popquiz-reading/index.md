@@ -7,7 +7,7 @@ tags:
 title: "PopQuiz: Reading is Fundamental Trivia Night"
 ---
 
-We attended [PopQuiz: Ang PANGET na Trivia Night](https://www.facebook.com/PopQuizPH/posts/2042993256517575) at a new venue: Pancho Cafe in Kapitolyo.
+We attended [PopQuiz: Reading is Fundamental Trivia Night](https://www.facebook.com/PopQuizPH/posts/2042993256517575) at a new venue: Pancho Cafe in Kapitolyo.
 
 In attendance: Me, Chry, Jaime, Chery, Kim.
 
