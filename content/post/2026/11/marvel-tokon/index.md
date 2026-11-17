@@ -1,19 +1,22 @@
 ---
-title: "Marvel Tōkon: Fighting Souls (PS5)"
-date: 2026-11-17T18:02:55+08:00
-tags:
-- gaming
-- games
-- ps5
-- marvel
+date: 2026-11-17 10:02:55
+dontinlinephotos: true
 reviews:
 - description: ''
   media: games
   platform: ps5
   rating: 4.0
-  title: "Marvel Tōkon: Fighting Souls"
+  title: 'Marvel Tōkon: Fighting Souls'
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/117632714982841090
+tags:
+- gaming
+- games
+- ps5
+- marvel
+title: 'Marvel Tōkon: Fighting Souls (PS5)'
 toc: true
-dontinlinephotos: true
 ---
 
 **Marvel Tokon: Fighting Souls** is a fun little 4v4 fighter in the vein of the old Marvel vs Capcom series, but a bit different. It's developed by Arc System Works, which has a pretty good track record when it comes to this style of fighting games. I played the open beta of this a few weeks before release and it was fun (though I think the beta only let you use a few characters), but I was not inclined to actually pay money for it because:
@@ -88,4 +91,3 @@ I already said I would't buy this game, but I enjoyed it enough that I would con
 - they fix the Steam version performance AND add Linux support
 
 We'll see if that ever happens, but it feels unlikely and even then I suspect it would be AT LEAST five years out.
-
