@@ -67,3 +67,5 @@ Also [attended a quiz night last Thursday](https://roytang.net/collections/quizn
 ### Looking Forward
 
 One last full week of November to go, then the Monday after that is the usual end-of-month holiday. Once of the nieces has a birthday next weekend but I think they are travelling somewhere so we might not see them then. Oh, and in the US it will be Thanksgiving, when I try to avoid spending money during the eventual Black Friday / Cyber Monday sales.
+
+Oh, and probably attending another quiz night this week.
