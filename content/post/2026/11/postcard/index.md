@@ -1,7 +1,10 @@
 ---
-title: "A Postcard"
-date: 2026-11-24T20:03:26+08:00
+date: 2026-11-24 12:03:26
 dontinlinephotos: true
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/117671674899680110
+title: A Postcard
 ---
 
 I've never received a postcard.[^1] It's not really a thing people do over here. 
