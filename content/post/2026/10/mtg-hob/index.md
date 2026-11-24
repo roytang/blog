@@ -20,7 +20,7 @@ I knew going on that I would not be playing a lot of this set. It was the third 
 
 <!--more-->
 
-### SOS Limited Summary / Notes
+### Limited Summary / Notes
 
 - I played a mere 12 drafts for this set, which is probably less than half of the amount I play for typical sets. I only played during the first quick draft period. Coincidentally I did not play a lot of [Lord of the Rings](/2023/08/mtgltr-limited-recap/) either.
 - My win rate was about average.
@@ -38,12 +38,6 @@ Each of the factions in this set has a new or returning mechanic:
 - Amass (Goblins): Returning mechanic, this time with a goblin variant.
 - Landfall (Elves): Returning mechanic, kind of boring.
 - Ferocious (Wolves): Returning mechanic, kind of boring.
-
-### Flavor
-
-- I am a big Marvel fan of course, and I was happy with a lot of the implementations and deep cuts here. The fact that B-list super heroes like {{< card >}}Justice, Vance Astrovik{{< /card >}} and Hazmat ({{< card >}}Hero in Training{{< /card >}}) were limited format all-stars is great.
-- I had one game where Galactus was coming and I couldn't do anything about it. I lost but it felt like an amazing flavor win.
-- Favorite card design: {{< card >}}Speedball{{< /card >}}. A unique and innovative protection ability that actually fits in red and conveys Speedball's powers flavorfully.
 
 ### Arena Limited Stats
 
@@ -96,7 +90,7 @@ To follow when the stats email comes in. I am starting to suspect it is NOT comi
 
 ### Streaming videos
 
-I did not stream any stats for this set.
+I did not stream any videos for this set.
 
 ### Related Links
 
