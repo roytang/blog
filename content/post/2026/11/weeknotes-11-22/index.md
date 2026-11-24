@@ -3,8 +3,11 @@ date: 2026-11-22 05:49:52
 dontinlinephotos: true
 resources:
 - src: securityalerts.png
-  title: 'Cybersecurity peeps are so tired of this probably.'
+  title: Cybersecurity peeps are so tired of this probably.
 steps: 70381
+syndicated:
+- type: mastodon
+  url: https://indieweb.social/users/roytang/statuses/117659463657658543
 tags:
 - weeknotes
 title: Weeknotes 2026-11-22
